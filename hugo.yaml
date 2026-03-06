@@ -1,0 +1,25 @@
+baseURL: "https://rrchnm.org/"
+title: "Roy Rosenzweig Center for History and New Media"
+languageCode: "en-us"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+pagination:
+  pagerSize: 12
+
+permalinks:
+  posts: "/:slug/"
+
+taxonomies:
+  category: categories
+  tag: tags
+
+params:
+  description: "Roy Rosenzweig Center for History and New Media at George Mason University"
+
+outputs:
+  home:
+    - HTML

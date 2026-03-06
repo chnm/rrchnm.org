@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{ $allStaff := .Pages }}
+{{ $leadership     := where $allStaff "Params.level" "Leadership" }}
+{{ $seniors        := where $allStaff "Params.level" "Senior Scholars" }}
+{{ $faculty        := where $allStaff "Params.level" "Faculty & Emeritus" }}
+{{ $postdocs       := where $allStaff "Params.level" "Postdoctoral Fellows" }}
+{{ $professional   := where $allStaff "Params.level" "Professional Staff" }}
+{{ $gras           := where $allStaff "Params.level" "Graduate Research Assistants" }}
+{{ $historical     := where $allStaff "Params.level" "Historical Figure" }}
+
+{{ if $leadership }}
+<section class="staff-group">
+  <h2>Leadership</h2>
+  <div class="staff-grid">
+    {{ range $leadership }}{{ partial "staff-card.html" . }}{{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ if $seniors }}
+<section class="staff-group">
+  <h2>Senior Scholars</h2>
+  <div class="staff-grid">
+    {{ range $seniors }}{{ partial "staff-card.html" . }}{{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ if $faculty }}
+<section class="staff-group">
+  <h2>Faculty &amp; Emeritus</h2>
+  <div class="staff-grid">
+    {{ range $faculty }}{{ partial "staff-card.html" . }}{{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ if $postdocs }}
+<section class="staff-group">
+  <h2>Postdoctoral Fellows</h2>
+  <div class="staff-grid">
+    {{ range $postdocs }}{{ partial "staff-card.html" . }}{{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ if $professional }}
+<section class="staff-group">
+  <h2>Professional Staff</h2>
+  <div class="staff-grid">
+    {{ range $professional }}{{ partial "staff-card.html" . }}{{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ if $gras }}
+<section class="staff-group">
+  <h2>Graduate Research Assistants</h2>
+  <div class="staff-grid">
+    {{ range $gras }}{{ partial "staff-card.html" . }}{{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ if $historical }}
+<section class="staff-group">
+  <h2>Historical Figure</h2>
+  <div class="staff-grid">
+    {{ range $historical }}{{ partial "staff-card.html" . }}{{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}

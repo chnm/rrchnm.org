@@ -1,0 +1,16 @@
+---
+author_name: Sheila Brennan
+categories:
+- News
+date: '2015-10-13T10:05:09Z'
+draft: false
+lastmod: '2015-10-13T10:05:09Z'
+slug: building-histories-of-the-national-mall
+title: Building Histories of the National Mall
+url: /news/building-histories-of-the-national-mall/
+---
+
+We *are* pleased to announce the publication of *Building Histories of the National Mall: A Guide to Creating a Digital Public History Project* (<http://mallhistory.org/Guide>), a comprehensive guide that details each phase of creating the award-winning website, [*Histories of the National Mall*](http://mallhistory.org). The text showcases the voices of project team members, who authored specific sections that demonstrate the range and breadth of the collaboration and cooperation that produced *[mallhistory.org](http://mallhistory.org).* 
+This guide goes beyond a traditional case study by sharing the project’s [rationale](http://mallhistory.org/Guide/introduction/); the [interpretative approach](http://mallhistory.org/Guide/content-development-and-interpretative-approach/); the specifics of the [design](http://mallhistory.org/Guide/user-experience-and-design/), [development](http://mallhistory.org/Guide/content-development-and-interpretative-approach/maps/23-2/), and [outreach](http://mallhistory.org/Guide/outreach-and-publicity/)--including our [social media strategy](http://mallhistory.org/Guide/outreach-and-publicity/social-media-strategy/)--;  and the research that drove these different stages of development. For example, our decision to build for the mobile web and not a single-use, platform-specific native app was based in [research](http://chnm.gmu.edu/labs/mobile-for-museums) begun by Sharon Leon and Sheila Brennan in 2009 with funding from the Samuel H. Kress Foundation to review and experiment with mobile formats pertinent for art and cultural heritage collections. Additionally, readers will learn how the team's [user testing](http://mallhistory.org/Guide/user-experience-and-design/design-and-testing/) regiment greatly influenced the final site structure, design, and content of *Histories of the National Mall*.
+For someone eager to begin developing her own version of *Histories* using [*Omeka*](http://omeka.org), the [technical specifications and code](http://mallhistory.org/Guide/technical-infrastructure/) are available now. For organizations in the early planning stages of a project, this guide offers an open source and replicable example for history and cultural heritage professionals wanting a cost-effective solution for developing and delivering mobile content. The guide offers lessons learned and [challenges](http://mallhistory.org/Guide/challenges/) we faced throughout the project's development, and we discuss how we measured [success](http://mallhistory.org/Guide/measuring-success/) for this specific project.
+*Building Histories of the National Mall* belongs to the long tradition of knowledge sharing at RRCHNM that encourages history and humanities professionals to be active designers and builders of their own digital projects. This guide and the website, [mallhistory.org](http://mallhistory.org), were generously funded by the [National Endowment for the Humanities.](http://neh.gov)

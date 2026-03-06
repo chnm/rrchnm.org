@@ -1,0 +1,19 @@
+<div class="staff-card"
+  data-modal-name="{{ .Title }}"
+  data-modal-title="{{ .Params.job_title }}"
+  data-modal-picture="{{ .Params.picture }}">
+  <div class="staff-bio-data" hidden>{{ .Content }}</div>
+  {{ with .Params.picture }}
+  <button class="staff-card-trigger" aria-label="View {{ $.Title }} profile">
+    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+  </button>
+  {{ else }}
+  <button class="staff-card-trigger" aria-label="View {{ $.Title }} profile">
+    <div class="staff-placeholder"></div>
+  </button>
+  {{ end }}
+  <div class="staff-card-info">
+    <h3><button class="staff-card-trigger staff-card-name-btn">{{ .Title }}</button></h3>
+    {{ with .Params.job_title }}<p>{{ . }}</p>{{ end }}
+  </div>
+</div>

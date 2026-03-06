@@ -1,0 +1,34 @@
+{{ define "main" }}
+<article class="post-item">
+  <div class="card-inner">
+    {{ with .Params.featured_image }}
+    <div class="card-media">
+      <img src="{{ . }}" alt="{{ $.Title }}">
+    </div>
+    {{ end }}
+    <div class="card-content">
+      <div class="card-meta meta-top">
+        <span class="meta-date">{{ .Date.Format "January 2, 2006" }}</span>
+        {{ with .Params.categories }}
+        {{ range . }}<a class="meta-category" href="#">{{ . }}</a>{{ end }}
+        {{ end }}
+        {{ with .Params.author_name }}
+        <span class="meta-author">by {{ . }}</span>
+        {{ end }}
+      </div>
+      <div class="card-text">
+        {{ .Content }}
+      </div>
+      <div class="card-meta meta-bottom">
+        <div class="meta-left">
+          {{ with .Params.tags }}
+          <div class="meta-tags">
+            {{ range . }}<a class="meta-tag" href="#">{{ . }}</a>{{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+{{ end }}

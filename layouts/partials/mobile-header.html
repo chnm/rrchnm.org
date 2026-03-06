@@ -1,0 +1,17 @@
+<header id="site-header-mobile">
+  <div id="site-header-mobile-inner">
+    <a itemprop="url" class="mobile-logo-link" href="/" rel="home">
+      <img class="header-logo" src="/img/logo.png" alt="{{ .Site.Title }}">
+    </a>
+    <a class="mobile-menu-toggle" href="javascript:void(0)">
+      <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 64 64">
+        <line x1="0" y1="16" x2="64" y2="16" stroke="currentColor" stroke-width="2"/>
+        <line x1="0" y1="32" x2="64" y2="32" stroke="currentColor" stroke-width="2"/>
+        <line x1="0" y1="48" x2="64" y2="48" stroke="currentColor" stroke-width="2"/>
+      </svg>
+    </a>
+    <nav class="mobile-nav " role="navigation" aria-label="Mobile Menu">
+      {{ partial "nav-menu.html" (dict "items" .Site.Data.menus.mobile_nav.items "depth" 0) }}
+    </nav>
+  </div>
+</header>

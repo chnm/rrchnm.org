@@ -1,0 +1,19 @@
+---
+author_name: Sheila Brennan
+categories:
+- News
+date: '2016-03-22T09:03:01Z'
+draft: false
+lastmod: '2016-08-10T17:41:47Z'
+slug: a-liberian-journey
+title: A Liberian Journey Launches
+url: /news/a-liberian-journey/
+---
+
+The Roy Rosenzweig Center for History and New Media is pleased to announce the launch of *A Liberian Journey: History, Memory, and the Making of a Nation* <[liberianhistory.org](http://liberianhistory.org)>, developed in partnership with the [Liberian Center for National Documents and Records Agency](http://www.cndra.gov.lr/) (CNDRA), the [Indiana University Liberian Collections](http://www.onliberia.org/), and the [University of Wisconsin-Madison](http://www.wisc.edu/), with generous support from the [National Science Foundation](http://nsf.gov).
+[caption id="attachment\_3758" align="alignright" width="400"]![Liberian President attends opening ceremonies](http://chnm.gmu.edu/wordpress/wp-content/files/2016/03/PresidentSirleaf_opening-cropped.jpg) Liberian President, Ellen Johnson Sirleaf, attends launch ceremony at CNDRA.[/caption] The project officially launched in Monrovia at a ceremony on Monday, March 21 with President Ellen Johnson Sirleaf in attendance, together with members of her cabinet and the Liberian legislature.
+This new digital public history site is meant to inform, raise questions, and invite stories about a transformational moment in Liberia’s past by making historical sources available for the first time in one place related to a 1926 Harvard scientific expedition to Liberia. The website features an exhibit on Chief Suah Koko, a noted woman leader in Liberia’s history; digital collections containing nearly 600 photographs, more than two hours of motion picture footage, oral histories, and documents linked to an interactive map. This effort marks the beginning of a recollection of Liberia’s lost history and for CNDRA represents a very important step in reawakening the Liberia national consciousness.
+In 1926, Firestone Tire and Rubber Company secured a ninety-nine year lease for nearly one million acres of land from the Liberian government to establish one of the world’s largest rubber plantations. To help the company understand the conditions and challenges it faced, Firestone sponsored a team of Harvard University scientists and physicians to conduct a four-month-long biological and medical survey. Loring Whitman, a Harvard medical student, served as the expedition's official photographer, and his work includes the earliest known surviving motion picture footage of Liberia. The moving images and still photographs offer a perspective shaped by the early-twentieth-century, “Western,” world-view of the American scientists. At the same time, the footage and photographs offer a valuable historical record of the peoples, cultural traditions, and landscapes of Liberia at a time of rapid economic, cultural, and environmental change.
+![A Liberian Journey homepage](http://chnm.gmu.edu/wordpress/wp-content/files/2016/03/homepage-long.jpg)
+RRCHNM’s Sheila Brennan and Ken Albers collaborated with the team for nearly three years to develop this digital public history and community-sourcing site. The site is designed minimally for mobile devices first, in the [Omeka](http://omeka.org) platform, to ensure that anyone can access the site especially in areas with limited internet connectivity. *A Liberian Journey* adds to the Center's portfolio of global digital humanities projects.
+In the coming months, CNDRA will invite individuals to share meaningful stories and images about Liberia’s past. Additional online exhibits will combine community contributions with the Firestone expedition sources to give voice, meaning, and historical context to the lives, cultures, and histories of the Liberian people.

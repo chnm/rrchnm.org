@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="post-list">
+  {{ range .Paginator.Pages }}
+  {{ $item := . }}
+  <article class="post-item">
+    <div class="card-inner">
+      {{ with .Params.featured_image }}
+      <div class="card-media">
+        <a href="{{ $item.RelPermalink }}">
+          <img src="{{ . }}" alt="{{ $item.Title }}" loading="lazy">
+        </a>
+      </div>
+      {{ end }}
+      <div class="card-content">
+        <div class="card-text">
+          <h2 class="card-title entry-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          {{ with .Params.description }}<p class="card-excerpt">{{ . | truncate 200 }}</p>{{ end }}
+        </div>
+      </div>
+    </div>
+  </article>
+  {{ end }}
+</div>
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}

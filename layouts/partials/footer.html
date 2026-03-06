@@ -1,0 +1,57 @@
+<footer id="site-footer">
+  {{ with .Site.Data.footer }}
+  {{ if .top_areas }}
+  <div id="site-footer-top">
+    <div id="site-footer-top-inner" class="container">
+      <div class="grid grid-columns qodef-col-num--{{ len .top_areas }}">
+        <div class="grid-inner clear">
+          {{ range .top_areas }}
+          <div class="grid-item">
+            {{ range .widgets }}
+            <div class="widget {{ .type }}">
+              {{ with .title }}<h5 class="widget-title">{{ . }}</h5>{{ end }}
+              {{ if eq .type "text" }}
+                <div class="textwidget">{{ .content | safeHTML }}</div>
+              {{ else if eq .type "custom_html" }}
+                <div class="textwidget custom-html-widget">{{ .content | safeHTML }}</div>
+              {{ else if eq .type "nav_menu" }}
+                <div class="menu-footer-menu-container">
+                  {{/* Menu widget - rendered from menu data */}}
+                </div>
+              {{ else if eq .type "media_image" }}
+                {{ with .url }}<img src="{{ . }}" alt="{{ $.alt }}" class="image wp-image">{{ end }}
+              {{ end }}
+            </div>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .bottom_areas }}
+  <div id="site-footer-bottom">
+    <div id="site-footer-bottom-inner" class="container">
+      <div class="grid grid-columns qodef-col-num--{{ len .bottom_areas }}">
+        <div class="grid-inner clear">
+          {{ range .bottom_areas }}
+          <div class="grid-item">
+            {{ range .widgets }}
+            <div class="widget {{ .type }}">
+              {{ with .title }}<h5 class="widget-title">{{ . }}</h5>{{ end }}
+              {{ if or (eq .type "text") (eq .type "custom_html") }}
+                <div class="textwidget">{{ .content | safeHTML }}</div>
+              {{ end }}
+            </div>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+</footer>

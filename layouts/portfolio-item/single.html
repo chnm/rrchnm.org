@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="project-single">
+  <div class="card-inner">
+    {{ with .Params.featured_image }}
+    <div class="card-media">
+      <img src="{{ . }}" alt="{{ $.Title }}">
+    </div>
+    {{ end }}
+    <div class="card-content">
+      {{ with .Params.intro_text }}
+      <div class="card-intro rrchnm-red-left-border">
+        <p>{{ . }}</p>
+      </div>
+      {{ end }}
+      <div class="card-text">
+        {{ .Content }}
+      </div>
+      {{ with .Params.project_url }}
+      <div class="project-link">
+        <a href="{{ . }}" class="rrchnm-btn" target="_blank" rel="noopener">Visit Project</a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</article>
+{{ end }}

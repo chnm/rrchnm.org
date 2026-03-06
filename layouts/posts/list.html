@@ -1,0 +1,40 @@
+{{ define "main" }}
+<div class="grid-item page-section">
+  <div class="post-list">
+    {{ range .Paginator.Pages }}
+    {{ $post := . }}
+    <article class="post-item">
+      <div class="card-inner">
+        {{ with .Params.featured_image }}
+        <div class="card-media">
+          <a href="{{ $post.RelPermalink }}">
+            <img src="{{ . }}" alt="{{ $post.Title }}" loading="lazy">
+          </a>
+        </div>
+        {{ end }}
+        <div class="card-content">
+          <div class="card-meta meta-top">
+            <span class="meta-date">{{ .Date.Format "January 2, 2006" }}</span>
+            {{ with .Params.categories }}
+            {{ range . }}<a class="meta-category" href="#">{{ . }}</a>{{ end }}
+            {{ end }}
+          </div>
+          <div class="card-text">
+            <h2 class="card-title entry-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ with .Params.description }}<p class="card-excerpt">{{ . | truncate 200 }}</p>{{ end }}
+          </div>
+          <div class="card-meta meta-bottom">
+            <div class="meta-left">
+              <a class="read-more" href="{{ .RelPermalink }}">Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+
+  {{/* Pagination */}}
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

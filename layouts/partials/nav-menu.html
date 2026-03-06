@@ -1,0 +1,12 @@
+{{ $items := .items }}
+{{ $depth := .depth }}
+<ul class="{{ if eq $depth 0 }}menu{{ else }}sub-menu{{ end }}">
+  {{ range $items }}
+  <li class="menu-item{{ if .children }} menu-item-has-children{{ end }}">
+    <a href="{{ .url }}"{{ with .target }} target="{{ . }}"{{ end }}><span class="enu-item-text">{{ .title }}</span></a>
+    {{ if .children }}
+    {{ partial "nav-menu.html" (dict "items" .children "depth" (add $depth 1)) }}
+    {{ end }}
+  </li>
+  {{ end }}
+</ul>
