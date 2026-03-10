@@ -8,7 +8,7 @@
 {{/* Portfolio grid */}}
 <div class="project-list grid grid-cols-3">
   <div class="grid-inner clear">
-    {{ range (where .Site.RegularPages "Section" "portfolio-item") }}
+    {{ range (where .Site.RegularPages "Section" "projects") }}
     {{ $item := . }}
     <article class="grid-item">
       <div class="card-inner">

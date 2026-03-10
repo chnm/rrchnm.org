@@ -5,8 +5,9 @@
   </div>
 </article>
 
-{{/* Staff listing - grouped by level */}}
-{{ $allStaff := where .Site.RegularPages "Section" "staff" }}
+{{/* People listing - grouped by level */}}
+{{ $allPeople  := where .Site.RegularPages "Section" "people" }}
+{{ $allStaff   := where $allPeople "Params.role" "ne" "affiliate" }}
 {{ $leadership   := where $allStaff "Params.level" "Leadership" }}
 {{ $seniors      := where $allStaff "Params.level" "Senior Scholars" }}
 {{ $faculty      := where $allStaff "Params.level" "Faculty & Emeritus" }}
@@ -14,7 +15,7 @@
 {{ $professional := where $allStaff "Params.level" "Professional Staff" }}
 {{ $gras         := where $allStaff "Params.level" "Graduate Research Assistants" }}
 {{ $historical   := where $allStaff "Params.level" "Historical Figure" }}
-{{ $affiliates   := where .Site.RegularPages "Section" "affiliates" }}
+{{ $affiliates   := where $allPeople "Params.role" "affiliate" }}
 
 {{ if $leadership }}
 <section class="staff-group">

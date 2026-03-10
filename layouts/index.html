@@ -34,7 +34,7 @@
     </div>
     <div class="project-list grid grid-cols-3">
       <div class="grid-inner clear">
-        {{ range first 6 (where .Site.RegularPages "Section" "portfolio-item") }}
+        {{ range first 6 (where .Site.RegularPages "Section" "projects") }}
         {{ $item := . }}
         <article class="grid-item">
           <div class="card-inner">
@@ -72,7 +72,7 @@
       <h2 class="rrchnm-section-title">News</h2>
     </div>
     <div class="post-list">
-      {{ range first 3 (where .Site.RegularPages "Section" "posts") }}
+      {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
       {{ $post := . }}
       <article class="post-item">
         <div class="card-inner">
@@ -105,7 +105,7 @@
       {{ end }}
     </div>
     <div class="rrchnm-section-cta">
-      <a href="/news-events/" class="rrchnm-btn">View All News</a>
+      <a href="/blog/" class="rrchnm-btn">View All Posts</a>
     </div>
   </div>
 </section>
