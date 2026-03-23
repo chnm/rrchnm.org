@@ -5,7 +5,10 @@
 {{ $staff := where .Site.RegularPages "Section" "staff" }}
 {{ $essays := where .Site.RegularPages "Section" "essay" }}
 {{ $posts := where .Site.RegularPages "Section" "posts" }}
-{{ $alumni := .Site.Data.alumni }}
+{{ $alumniCSV := resources.Get "data/alumni.csv" }}
+{{ $alumni := $alumniCSV | transform.Unmarshal (dict "delimiter" ",") }}
+{{/* Skip header row */}}
+{{ $alumni = last (sub (len $alumni) 1) $alumni }}
 {{ $yearsActive := sub now.Year 1994 }}
 <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 lg:gap-5 mb-14">
   <div class="bg-stone-50 border border-stone-200 rounded-lg p-6 text-center">
