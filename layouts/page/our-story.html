@@ -1,7 +1,40 @@
 {{ define "main" }}
-<article class="page-content rrchnm-our-story">
-  <div class="card-content">
-    {{ .Content }}
+
+{{/* Fast Facts */}}
+{{ $projects := where .Site.RegularPages "Section" "portfolio-item" }}
+{{ $staff := where .Site.RegularPages "Section" "staff" }}
+{{ $essays := where .Site.RegularPages "Section" "essay" }}
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $alumni := .Site.Data.alumni }}
+{{ $yearsActive := sub now.Year 1994 }}
+<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 lg:gap-5 mb-14">
+  <div class="bg-stone-50 border border-stone-200 rounded-lg p-6 text-center">
+    <p class="text-3xl lg:text-4xl font-mono font-bold text-red-brand">1994</p>
+    <p class="text-sm text-stone-600 mt-1">Year Founded</p>
   </div>
+  <div class="bg-stone-50 border border-stone-200 rounded-lg p-6 text-center">
+    <p class="text-3xl lg:text-4xl font-mono font-bold text-red-brand">{{ $yearsActive }}</p>
+    <p class="text-sm text-stone-600 mt-1">Years Active</p>
+  </div>
+  <div class="bg-stone-50 border border-stone-200 rounded-lg p-6 text-center">
+    <p class="text-3xl lg:text-4xl font-mono font-bold text-red-brand">{{ len $projects }}</p>
+    <p class="text-sm text-stone-600 mt-1">Projects</p>
+  </div>
+  <div class="bg-stone-50 border border-stone-200 rounded-lg p-6 text-center">
+    <p class="text-3xl lg:text-4xl font-mono font-bold text-red-brand">{{ len $staff }}</p>
+    <p class="text-sm text-stone-600 mt-1">People</p>
+  </div>
+  <div class="bg-stone-50 border border-stone-200 rounded-lg p-6 text-center">
+    <p class="text-3xl lg:text-4xl font-mono font-bold text-red-brand">{{ len $alumni }}</p>
+    <p class="text-sm text-stone-600 mt-1">Alumni</p>
+  </div>
+  <div class="bg-stone-50 border border-stone-200 rounded-lg p-6 text-center">
+    <p class="text-3xl lg:text-4xl font-mono font-bold text-red-brand">{{ len $posts }}</p>
+    <p class="text-sm text-stone-600 mt-1">Blog Posts</p>
+  </div>
+</div>
+
+<article class="prose prose-stone prose-lg max-w-3xl">
+  {{ .Content }}
 </article>
 {{ end }}

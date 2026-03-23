@@ -1,9 +1,59 @@
 {{ if .Title }}
-<div class="page-title-banner">
-  <div class="-inner">
-    <div class="-content container">
-      <h1 class="-title entry-title">{{ .Title }}</h1>
+
+{{ if .Params.hero_image }}
+{{/* Hero image variant — full width with overlay */}}
+<div class="relative bg-stone-900 overflow-hidden" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw;">
+  <img src="{{ .Params.hero_image }}" alt="" class="absolute inset-0 w-full h-full object-cover">
+  <div class="absolute inset-0 bg-gradient-to-r from-stone-900 via-stone-900/80 to-transparent"></div>
+  <div class="relative z-10 mx-auto max-w-site px-6 lg:px-10 py-12 lg:py-16 min-h-[340px] lg:min-h-[420px] flex flex-col justify-between">
+    {{/* Top — breadcrumb + title */}}
+    <div>
+      <nav aria-label="Breadcrumb" class="mb-6">
+        <ol class="flex items-center text-sm text-white/60">
+          <li><a href="/" class="hover:text-white transition-colors">Home</a></li>
+          {{ if .Parent }}
+          {{ if ne .Parent.RelPermalink "/" }}
+          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><a href="{{ .Parent.RelPermalink }}" class="hover:text-white transition-colors">{{ .Parent.Title }}</a></li>
+          {{ end }}
+          {{ end }}
+          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><span class="text-white/90">{{ .Title }}</span></li>
+        </ol>
+      </nav>
+      <h1 class="font-serif text-4xl lg:text-5xl xl:text-6xl text-white leading-tight max-w-3xl">{{ .Title }}</h1>
     </div>
+
+    {{/* Bottom — optional description + button */}}
+    {{ if or .Params.hero_text .Params.hero_button_text }}
+    <div>
+      {{ with .Params.hero_text }}
+      <p class="text-base lg:text-lg text-white/80 leading-relaxed max-w-2xl">{{ . }}</p>
+      {{ end }}
+      {{ if .Params.hero_button_text }}
+      <a href="{{ .Params.hero_button_url | default .RelPermalink }}" class="inline-block mt-4 bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors">{{ .Params.hero_button_text }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
   </div>
 </div>
+
+{{ else }}
+{{/* Default — simple title bar with breadcrumb */}}
+<div class="bg-stone-100 border-t-4 border-red-brand">
+  <div class="mx-auto max-w-site px-6 lg:px-10 py-12 lg:py-16">
+    <nav aria-label="Breadcrumb" class="mb-4">
+      <ol class="flex items-center text-sm text-stone-500">
+        <li><a href="/" class="hover:text-red-brand transition-colors">Home</a></li>
+        {{ if .Parent }}
+        {{ if ne .Parent.RelPermalink "/" }}
+        <li><span class="mx-2 text-stone-300" aria-hidden="true">/</span><a href="{{ .Parent.RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Parent.Title }}</a></li>
+        {{ end }}
+        {{ end }}
+        <li><span class="mx-2 text-stone-300" aria-hidden="true">/</span><span class="text-stone-900">{{ .Title }}</span></li>
+      </ol>
+    </nav>
+    <h1 class="font-serif text-4xl lg:text-5xl text-stone-900">{{ .Title }}</h1>
+  </div>
+</div>
+{{ end }}
+
 {{ end }}
