@@ -1,17 +1,15 @@
-<header id="site-header-mobile">
-  <div id="site-header-mobile-inner">
-    <a itemprop="url" class="mobile-logo-link" href="/" rel="home">
-      <img class="header-logo" src="/img/logo.png" alt="{{ .Site.Title }}">
+<header id="site-header-mobile" class="lg:hidden border-b border-stone-200 bg-white relative z-50">
+  <div class="px-5 h-16 flex items-center justify-between">
+    <a href="/" class="shrink-0" rel="home">
+      <img src="/img/logo-dark.png" alt="{{ .Site.Title }}" class="h-10 w-auto">
     </a>
-    <a class="mobile-menu-toggle" href="javascript:void(0)">
-      <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 64 64">
-        <line x1="0" y1="16" x2="64" y2="16" stroke="currentColor" stroke-width="2"/>
-        <line x1="0" y1="32" x2="64" y2="32" stroke="currentColor" stroke-width="2"/>
-        <line x1="0" y1="48" x2="64" y2="48" stroke="currentColor" stroke-width="2"/>
+    <button class="mobile-menu-toggle w-7 h-7 text-stone-700" aria-label="Toggle menu" aria-expanded="false" aria-controls="mobile-nav">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
       </svg>
-    </a>
-    <nav class="mobile-nav " role="navigation" aria-label="Mobile Menu">
-      {{ partial "nav-menu.html" (dict "items" .Site.Data.menus.mobile_nav.items "depth" 0) }}
-    </nav>
+    </button>
   </div>
+  <nav id="mobile-nav" class="mobile-nav hidden absolute top-16 left-0 right-0 bg-white border-t border-stone-200 shadow-lg z-50 max-h-[80vh] overflow-y-auto" role="navigation" aria-label="Mobile menu">
+    {{ partial "nav-menu.html" (dict "items" .Site.Data.menus.mobile_nav.items "depth" 0) }}
+  </nav>
 </header>

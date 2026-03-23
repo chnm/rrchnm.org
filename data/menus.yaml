@@ -11,21 +11,18 @@ mobile_nav:
   name: Mobile Nav
   items:
   - title: About Us
-    url: /our-story/
     children:
-    - title: Our History
-      url: /our-history/
+    - title: Our Story
+      url: /our-story/
     - title: Supporters
       url: /supporters/
   - title: Our People
-    url: /our-people/
     children:
     - title: Staff
-      url: /staff/
+      url: /our-people/
     - title: Affiliates
       url: /affiliates/
   - title: Our Work
-    url: /our-work/
     children:
     - title: Projects
       url: /our-work/
@@ -41,10 +38,9 @@ top_nav:
   name: Top Nav
   items:
   - title: About Us
-    url: /our-story/
     children:
-    - title: Our History
-      url: /our-history/
+    - title: Our Story
+      url: /our-story/
     - title: Supporters
       url: /supporters/
     - title: Annual Report
@@ -52,14 +48,12 @@ top_nav:
     - title: Contact Us
       url: /contact-us/
   - title: Our People
-    url: /our-people/
     children:
     - title: Staff
-      url: /staff/
+      url: /our-people/
     - title: Affiliates
       url: /affiliates/
   - title: Our Work
-    url: /our-work/
     children:
     - title: Projects
       url: /our-work/

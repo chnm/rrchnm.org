@@ -1,9 +1,9 @@
-<header id="site-header">
-  <div id="site-header-inner">
-    <a itemprop="url" class="header-logo-link" href="/" rel="home">
-      <img class="header-logo" src="/img/logo.png" alt="{{ .Site.Title }}">
+<header class="hidden lg:block border-b border-stone-200 bg-white">
+  <div class="mx-auto max-w-site px-10 h-20 flex items-center justify-between">
+    <a href="/" class="shrink-0" rel="home">
+      <img src="/img/logo-dark.png" alt="{{ .Site.Title }}" class="h-12 w-auto">
     </a>
-    <nav class="header-nav" role="navigation" aria-label="Top Menu">
+    <nav role="navigation" aria-label="Main navigation">
       {{ partial "nav-menu.html" (dict "items" .Site.Data.menus.top_nav.items "depth" 0) }}
     </nav>
   </div>

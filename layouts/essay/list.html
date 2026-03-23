@@ -1,34 +1,17 @@
 {{ define "main" }}
-<div class="post-list">
+<div class="space-y-10">
   {{ range .Pages }}
-  {{ $item := . }}
-  <article class="post-item">
-    <div class="card-inner">
-      {{ with .Params.featured_image }}
-      <div class="card-media">
-        <a href="{{ $item.RelPermalink }}">
-          <img src="{{ . }}" alt="{{ $item.Title }}" loading="lazy">
-        </a>
-      </div>
-      {{ end }}
-      <div class="card-content">
-        <div class="card-text">
-          <h2 class="card-title entry-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-          {{ with .Params.essay_author }}
-          <span class="meta-author">{{ . }}</span>
-          {{ end }}
-          {{ with .Params.essay_publication_info }}
-          <span class="meta-pub">{{ . }}</span>
-          {{ end }}
-          {{ with .Params.description }}<p class="card-excerpt">{{ . | truncate 200 }}</p>{{ end }}
-        </div>
-        <div class="card-meta meta-bottom">
-          <div class="meta-left">
-            <a class="read-more" href="{{ .RelPermalink }}">Read More</a>
-          </div>
-        </div>
-      </div>
+  <article class="border-b border-stone-200 pb-10">
+    <h2 class="font-serif text-xl lg:text-2xl text-stone-900 mb-2">
+      <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
+    </h2>
+    <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm mb-3">
+      {{ with .Params.essay_author }}<span class="text-stone-600 font-medium">{{ . }}</span>{{ end }}
+      {{ with .Params.essay_date }}<span class="text-stone-500">{{ . }}</span>{{ end }}
+      {{ with .Params.essay_publication_info }}<span class="text-stone-500 italic">{{ . | safeHTML }}</span>{{ end }}
     </div>
+    {{ with .Params.description }}<p class="text-stone-600 leading-relaxed">{{ . | truncate 200 }}</p>{{ end }}
+    <a href="{{ .RelPermalink }}" class="inline-block mt-3 text-sm font-semibold text-stone-900 hover:text-red-brand transition-colors" aria-label="Read more about {{ .Title }}">Read more &rarr;</a>
   </article>
   {{ end }}
 </div>
