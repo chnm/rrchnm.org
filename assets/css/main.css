@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ==========================================================================
+   RRCHNM — Fresh design built on Tailwind
+   ========================================================================== */
+
+[x-cloak] {
+  display: none !important;
+}
+
+@layer base {
+  body {
+    @apply font-sans text-stone-700 antialiased;
+    font-size: 16px;
+    line-height: 1.7;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-serif text-stone-900 font-normal;
+  }
+
+  a {
+    @apply transition-colors duration-200;
+  }
+
+  /* Visible focus indicators for keyboard navigation */
+  a:focus-visible,
+  button:focus-visible,
+  [role="tab"]:focus-visible {
+    @apply outline-2 outline-offset-2 outline-red-brand rounded-sm;
+  }
+}
+
+@layer components {
+
+  /* Shared label style — used for taglines, dates, categories */
+  .label {
+    @apply font-sans text-xs font-semibold uppercase tracking-widest;
+  }
+
+  /* Staff modal — kept as component CSS since it's JS-driven */
+  #staff-modal {
+    @apply border-none rounded-lg p-0 max-w-2xl w-[calc(100%-2rem)] max-h-[calc(100vh-5rem)] overflow-y-auto;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.2);
+  }
+
+  #staff-modal::backdrop {
+    background: rgba(0, 0, 0, 0.5);
+  }
+
+  /* Prose overrides for long-form content */
+  .prose a {
+    @apply text-red-brand hover:text-red-dark underline decoration-red-brand/30 hover:decoration-red-brand;
+  }
+
+  .prose img {
+    @apply rounded-lg;
+  }
+
+  /* Buttons in prose content */
+  .prose button,
+  .prose a > button {
+    @apply inline-block bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors cursor-pointer border-none font-sans;
+  }
+
+  /* Pullquote — editorial highlight within prose */
+  .pullquote {
+    @apply font-serif text-xl lg:text-2xl font-normal text-stone-900 leading-relaxed;
+    @apply border-l-4 border-red-brand pl-6 my-10;
+    @apply relative;
+  }
+}
