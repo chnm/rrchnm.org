@@ -14,7 +14,7 @@
   {{ partial "mobile-header.html" . }}
 
   <main id="main-content">
-    {{ if and (not .IsHome) (not .Params.hide_title) }}
+    {{ if and (not .IsHome) (not .Params.hide_title) (not (and (eq .Section "posts") .Params.featured_image)) }}
     {{ partial "page-title.html" . }}
     {{ end }}
 

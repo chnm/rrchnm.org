@@ -17,6 +17,17 @@ taxonomies:
   category: categories
   tag: tags
 
+related:
+  includeNewer: true
+  threshold: 80
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 10
+    - name: date
+      weight: 5
+
 params:
   description: "Roy Rosenzweig Center for History and New Media at George Mason University"
 
