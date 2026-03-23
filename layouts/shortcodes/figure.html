@@ -1,0 +1,23 @@
+{{- /* Figure shortcode: src, alt, caption, align (left/right/center), attr, attrlink, class */ -}}
+{{ $align := .Get "align" | default "" }}
+{{ $alignClasses := "" }}
+{{ if eq $align "left" }}
+  {{ $alignClasses = "float-left mr-6 mb-4 w-1/2 max-w-sm" }}
+{{ else if eq $align "right" }}
+  {{ $alignClasses = "float-right ml-6 mb-4 w-1/2 max-w-sm" }}
+{{ else if eq $align "center" }}
+  {{ $alignClasses = "mx-auto max-w-lg" }}
+{{ end }}
+<figure class="{{ $alignClasses }}{{ with .Get "class" }} {{ . }}{{ end }}">
+  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" | default "" }}" loading="lazy" class="rounded-lg w-full">
+  {{ if or (.Get "caption") (.Get "attr") }}
+  <figcaption class="mt-2 text-sm text-stone-500">
+    {{ with .Get "caption" }}{{ . | markdownify }}{{ end }}
+    {{ with .Get "attr" }}
+    <span class="block mt-1">
+      {{ if $.Get "attrlink" }}<a href="{{ $.Get "attrlink" }}" class="text-red-brand hover:text-red-dark">{{ . }}</a>{{ else }}{{ . }}{{ end }}
+    </span>
+    {{ end }}
+  </figcaption>
+  {{ end }}
+</figure>

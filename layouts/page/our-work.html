@@ -1,35 +1,88 @@
 {{ define "main" }}
-<article class="page-content">
-  <div class="card-content">
-    {{ .Content }}
-  </div>
-</article>
+{{ with .Content }}
+<div class="prose prose-stone max-w-none mb-12">
+  {{ . }}
+</div>
+{{ end }}
 
-{{/* Portfolio grid */}}
-<div class="project-list grid grid-cols-3">
-  <div class="grid-inner clear">
+{{/* Collect all unique categories */}}
+{{ $allCategories := slice }}
+{{ range (where .Site.RegularPages "Section" "portfolio-item") }}
+  {{ with .Params.categories }}
+    {{ range . }}
+      {{ $allCategories = $allCategories | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $allCategories = $allCategories | uniq | sort }}
+
+<div x-data="projectFilter()" x-init="init()">
+  {{/* Filter bar */}}
+  <div class="flex flex-wrap gap-2 mb-10" role="group" aria-label="Filter projects by category">
+    <button
+      @click="filter = ''"
+      :aria-pressed="(filter === '').toString()"
+      :class="filter === '' ? 'bg-red-brand text-white' : 'bg-stone-100 text-stone-700 hover:bg-stone-200'"
+      class="text-sm px-4 py-1.5 rounded-full transition-colors cursor-pointer">
+      All
+    </button>
+    {{ range $allCategories }}
+    <button
+      @click="filter = '{{ . }}'"
+      :aria-pressed="(filter === '{{ . }}').toString()"
+      :class="filter === '{{ . }}' ? 'bg-red-brand text-white' : 'bg-stone-100 text-stone-700 hover:bg-stone-200'"
+      class="text-sm px-4 py-1.5 rounded-full transition-colors cursor-pointer">
+      {{ . }}
+    </button>
+    {{ end }}
+  </div>
+
+  {{/* Project grid */}}
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
     {{ range (where .Site.RegularPages "Section" "portfolio-item") }}
     {{ $item := . }}
-    <article class="grid-item">
-      <div class="card-inner">
-        <div class="card-media">
-          {{ with .Params.featured_image }}
-          <a href="{{ $item.RelPermalink }}">
-            <img src="{{ . }}" alt="{{ $item.Title }}" loading="lazy">
-          </a>
-          {{ end }}
-        </div>
-        <div class="card-content">
-          <h5 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
-          {{ with .Params.categories }}
-          <div class="card-meta">
-            {{ range . }}<span class="meta-category">{{ . }}</span>{{ end }}
-          </div>
-          {{ end }}
-        </div>
+    <article
+      class="group"
+      x-show="matchesFilter({{ .Params.categories | jsonify }})"
+      x-transition.opacity.duration.200ms>
+      {{ with .Params.featured_image }}
+      <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4">
+        <img src="{{ . }}" alt="{{ $item.Title }}" loading="lazy" class="w-full aspect-[4/3] object-cover group-hover:scale-[1.03] transition-transform duration-300">
+      </a>
+      {{ end }}
+      <h3 class="font-serif text-lg text-stone-900">
+        <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
+      </h3>
+      {{ with .Params.categories }}
+      <div class="mt-1 flex flex-wrap gap-1">
+        {{ range . }}
+        <button
+          @click="filter = '{{ . }}'"
+          class="text-xs text-stone-500 hover:text-red-brand uppercase tracking-wide cursor-pointer bg-transparent border-none p-0 transition-colors">
+          {{ . }}
+        </button>
+        {{ end }}
       </div>
+      {{ end }}
     </article>
     {{ end }}
   </div>
 </div>
+
+<script>
+function projectFilter() {
+  return {
+    filter: '',
+    init() {
+      var params = new URLSearchParams(window.location.search);
+      var cat = params.get('category');
+      if (cat) this.filter = cat;
+    },
+    matchesFilter(categories) {
+      if (!this.filter) return true;
+      return categories && categories.indexOf(this.filter) !== -1;
+    }
+  };
+}
+</script>
 {{ end }}
