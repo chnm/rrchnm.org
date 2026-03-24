@@ -8,7 +8,7 @@ slug: our-story
 title: Our Story
 type: page
 url: /our-story/
-hero_image: /img/founder.jpg
+hero_image: /media/2025/03/jp-dan-caroline.jpg
 hero_text: "Our digital projects emerge from our engagement with the practice of history in universities, schools, libraries, archives, museums, and local communities."
 hero_button_text: "See what we've been up to →"
 hero_button_url: /blog/

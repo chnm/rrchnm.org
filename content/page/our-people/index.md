@@ -8,5 +8,6 @@ slug: people
 title: Our People
 type: page
 url: /people/
+hero_image: /media/2025/03/2024-holiday-photo.jpg
 ---
 

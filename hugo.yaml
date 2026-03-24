@@ -30,8 +30,22 @@ related:
 
 params:
   description: "Roy Rosenzweig Center for History and New Media at George Mason University"
+  default_image: "/media/2022/03/founder.jpg"
   donate_url: "https://securemason.gmu.edu/s/1564/GID2/16/19-giving.aspx?sid=1564&gid=2&pgid=7958&cid=1709&bledit=1&sort=1&dids=318.822.534&appealcode=26SS10"
   newsletter_url: "https://airtable.com/appCTQZLKPTyIa83B/shr4EDv3YKjl3NdZD"
+  social:
+    - name: Bluesky
+      url: "https://bsky.app/profile/rrchnm.bsky.social"
+      icon: bluesky
+    - name: LinkedIn
+      url: "https://www.linkedin.com/company/roy-rosenzweig-center-for-history-and-new-media/mycompany/"
+      icon: linkedin
+    - name: Facebook
+      url: "https://www.facebook.com/rrchnm/"
+      icon: facebook
+    - name: Mastodon
+      url: "https://rrchnm.org"
+      icon: mastodon
 
 outputs:
   home:

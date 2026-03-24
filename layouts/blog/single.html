@@ -1,19 +1,19 @@
 {{ define "main" }}
 <article>
   {{/* Featured image as hero with title overlay */}}
-  {{ with .Params.featured_image }}
+  {{ $hero := .Params.featured_image | default .Site.Params.default_image }}
+  {{ with $hero }}
   <div class="relative bg-stone-900 overflow-hidden -mt-12 lg:-mt-16 mb-10" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw;">
-    <img src="{{ . }}" alt="{{ $.Title }}" class="absolute inset-0 w-full h-full object-cover">
+    <img src="{{ . }}" alt="{{ $.Title }}" class="absolute inset-0 w-full h-full object-cover {{ if not $.Params.featured_image }}object-[center_20%]{{ end }}">
     <div class="absolute inset-0 bg-gradient-to-r from-stone-900 via-stone-900/80 to-transparent"></div>
     <div class="relative z-10 mx-auto max-w-site px-6 lg:px-10 py-16 lg:py-24 min-h-[300px] lg:min-h-[380px] flex flex-col justify-end">
       <nav aria-label="Breadcrumb" class="mb-4">
         <ol class="flex items-center text-sm text-white/60">
           <li><a href="/" class="hover:text-white transition-colors">Home</a></li>
           <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><a href="/blog/" class="hover:text-white transition-colors">Blog</a></li>
-          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><span class="text-white/90 truncate">{{ $.Title | truncate 50 }}</span></li>
+          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span></li>
         </ol>
       </nav>
-      <p class="text-sm text-white/60 mb-2">{{ $.Date.Format "January 2, 2006" }}{{ with $.Params.authors }} &middot; {{ delimit . ", " }}{{ end }}</p>
       <h1 class="font-serif text-3xl lg:text-4xl text-white leading-tight max-w-3xl">{{ $.Title }}</h1>
     </div>
   </div>

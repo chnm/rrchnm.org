@@ -4,11 +4,9 @@
   {{ $post := . }}
   <article class="border-b border-stone-200 pb-10">
     <div class="flex flex-col md:flex-row gap-6">
-      {{ with .Params.featured_image }}
       <a href="{{ $post.RelPermalink }}" class="shrink-0 block overflow-hidden rounded-lg md:w-56">
-        <img src="{{ . }}" alt="{{ $post.Title }}" loading="lazy" class="w-full aspect-[3/2] object-cover hover:scale-[1.03] transition-transform duration-300">
+        <img src="{{ .Params.featured_image | default .Site.Params.default_image }}" alt="{{ $post.Title }}" loading="lazy" class="w-full aspect-[3/2] object-cover hover:scale-[1.03] transition-transform duration-300">
       </a>
-      {{ end }}
       <div class="min-w-0">
         <div class="flex items-center gap-3 mb-2">
           <span class="text-xs text-stone-500 uppercase tracking-wide">{{ .Date.Format "January 2, 2006" }}</span>
