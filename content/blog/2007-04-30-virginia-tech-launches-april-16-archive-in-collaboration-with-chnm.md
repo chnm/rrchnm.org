@@ -1,5 +1,7 @@
 ---
 author_name: Dan Cohen
+authors:
+- "Dan Cohen"
 categories:
 - News
 date: '2007-04-30T13:24:17Z'

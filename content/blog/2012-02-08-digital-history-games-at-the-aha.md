@@ -1,5 +1,7 @@
 ---
 author_name: Kelly Schrum
+authors:
+- "Kelly Schrum"
 categories:
 - News
 date: '2012-02-08T18:53:42Z'

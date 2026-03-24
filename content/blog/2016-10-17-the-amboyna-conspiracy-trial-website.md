@@ -1,5 +1,7 @@
 ---
 author_name: Kelly Schrum
+authors:
+- "Kelly Schrum"
 categories:
 - Uncategorized
 date: '2016-10-17T08:01:19Z'

@@ -1,5 +1,7 @@
 ---
 author_name: Jessica Dauterive
+authors:
+- "Jessica Dauterive"
 categories:
 - News
 date: '2019-05-06T15:15:59Z'

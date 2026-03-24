@@ -2,6 +2,8 @@
 date: '2016-07-12T03:09:17Z'
 draft: false
 essay_author: Daniel J. Cohen and Roy Rosenzweig
+authors:
+- "Daniel J. Cohen and Roy Rosenzweig"
 essay_date: February 2006
 essay_publication_info: <i>Chronicle of Higher Education</i>, Feb. 24, 2006.
 lastmod: '2016-07-12T03:09:17Z'

@@ -1,5 +1,7 @@
 ---
 author_name: Sheila Brennan
+authors:
+- "Sheila Brennan"
 categories:
 - News
 date: '2013-03-14T13:16:45Z'

@@ -2,6 +2,8 @@
 date: '2016-07-11T21:28:21Z'
 draft: false
 essay_author: John Summers
+authors:
+- "John Summers"
 essay_date: February 1999
 essay_publication_info: 'This article was originally published in <em>Labor History</em>
   40, 1 (February 1999): 69-79 and is reprinted here with permission.'

@@ -1,5 +1,7 @@
 ---
 author_name: Caroline Greer
+authors:
+- "Caroline Greer"
 categories:
 - News
 - Teaching + Learning

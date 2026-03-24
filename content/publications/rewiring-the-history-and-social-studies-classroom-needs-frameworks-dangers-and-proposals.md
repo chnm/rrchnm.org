@@ -2,6 +2,8 @@
 date: '2016-07-12T02:17:25Z'
 draft: false
 essay_author: Randy Bass and Roy Rosenzweig
+authors:
+- "Randy Bass and Roy Rosenzweig"
 essay_date: December 1999
 essay_publication_info: 'This article was originally published as White Paper for
   Department of Education, Forum on Technology in K-12 Education: Envisioning a New

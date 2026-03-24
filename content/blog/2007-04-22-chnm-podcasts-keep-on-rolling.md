@@ -1,5 +1,7 @@
 ---
 author_name: Stephen Robertson
+authors:
+- "Stephen Robertson"
 categories:
 - News
 date: '2007-04-22T13:25:19Z'

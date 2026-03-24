@@ -1,5 +1,7 @@
 ---
 author_name: Jennifer Rosenfeld
+authors:
+- "Jennifer Rosenfeld"
 categories:
 - News
 date: '2015-07-13T09:00:27Z'

@@ -2,6 +2,8 @@
 aliases:
 - /collecting-and-exhibiting/igorj2.sg-host-and-covid-19/
 author_name: Mills Kelly
+authors:
+- "Mills Kelly"
 categories:
 - Collecting + Exhibiting
 date: '2020-04-14T15:00:26Z'

@@ -2,6 +2,8 @@
 aliases:
 - /news/igorj2.sg-host-joins-nonprofit-finance-fund-cohort/
 author_name: Mills Kelly
+authors:
+- "Mills Kelly"
 categories:
 - News
 date: '2020-05-19T13:40:48Z'

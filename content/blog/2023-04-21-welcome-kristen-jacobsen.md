@@ -1,5 +1,7 @@
 ---
 author_name: Amanda Madden
+authors:
+- "Amanda Madden"
 categories:
 - News
 date: '2023-04-21T12:00:00Z'

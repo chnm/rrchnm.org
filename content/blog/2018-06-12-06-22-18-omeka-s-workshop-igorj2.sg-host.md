@@ -1,5 +1,7 @@
 ---
 author_name: Stephen Robertson
+authors:
+- "Stephen Robertson"
 categories:
 - Events
 date: '2018-06-12T16:48:11Z'

@@ -2,6 +2,8 @@
 date: '2016-07-12T02:25:59Z'
 draft: false
 essay_author: Orville Vernon Burton
+authors:
+- "Orville Vernon Burton"
 essay_date: July 2005
 essay_publication_info: This article was originally published in <em>Social Science
   Computer Review</em>, Vol. 23 No. 2, Summer 2005 206-220, reprinted here with permission.

@@ -1,5 +1,7 @@
 ---
 author_name: sharon-leon
+authors:
+- "sharon-leon"
 categories:
 - News
 date: '2009-11-08T19:48:48Z'

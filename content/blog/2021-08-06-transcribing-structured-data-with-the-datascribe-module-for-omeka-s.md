@@ -1,5 +1,7 @@
 ---
 author_name: Janet Hammond
+authors:
+- "Janet Hammond"
 categories:
 - Uncategorized
 date: '2021-08-06T10:10:56Z'

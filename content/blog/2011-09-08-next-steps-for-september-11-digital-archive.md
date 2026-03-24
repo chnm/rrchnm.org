@@ -1,5 +1,7 @@
 ---
 author_name: Sheila Brennan
+authors:
+- "Sheila Brennan"
 categories:
 - Collecting + Exhibiting
 date: '2011-09-08T11:45:47Z'

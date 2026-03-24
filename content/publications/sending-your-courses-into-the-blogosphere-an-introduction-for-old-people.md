@@ -2,6 +2,8 @@
 date: '2016-07-12T03:39:17Z'
 draft: false
 essay_author: T. Mills Kelly
+authors:
+- "T. Mills Kelly"
 essay_date: August 2006
 essay_publication_info: 'This article originally appeared in the August 2006 issue
   of <em>NewsNet</em> 46/4 (August 2006): 49-52 and is reprinted here with permission.'

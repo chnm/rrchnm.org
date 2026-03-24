@@ -1,5 +1,7 @@
 ---
 author_name: Mills Kelly
+authors:
+- "Mills Kelly"
 categories:
 - News
 date: '2022-09-12T08:00:00Z'

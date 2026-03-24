@@ -1,5 +1,7 @@
 ---
 author_name: jeny-martinez
+authors:
+- "jeny-martinez"
 categories:
 - News
 date: '2012-07-25T10:57:16Z'

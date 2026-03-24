@@ -1,5 +1,7 @@
 ---
 author_name: Paige Magoto
+authors:
+- "Paige Magoto"
 categories:
 - News
 date: '2025-12-08T14:19:17Z'

@@ -1,5 +1,7 @@
 ---
 author_name: Daniel Howlett
+authors:
+- "Daniel Howlett"
 categories:
 - Events
 date: '2019-09-18T15:04:02Z'

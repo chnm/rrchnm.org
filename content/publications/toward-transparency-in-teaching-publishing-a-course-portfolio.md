@@ -2,6 +2,8 @@
 date: '2016-07-11T23:07:53Z'
 draft: false
 essay_author: T. Mills Kelly
+authors:
+- "T. Mills Kelly"
 essay_date: November 2001
 essay_publication_info: This article was originally published in <em>AHA Perspectives</em>
   (November 2001) and is reprinted here with permission.

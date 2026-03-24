@@ -1,5 +1,7 @@
 ---
 author_name: Rachel Whyte
+authors:
+- "Rachel Whyte"
 categories:
 - News
 - Research + Tools

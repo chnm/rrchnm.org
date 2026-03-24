@@ -1,5 +1,7 @@
 ---
 author_name: Caroline Greer
+authors:
+- "Caroline Greer"
 categories:
 - Research + Tools
 date: '2025-01-27T12:00:00Z'

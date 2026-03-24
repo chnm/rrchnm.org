@@ -2,6 +2,8 @@
 date: '2016-07-11T20:30:05Z'
 draft: false
 essay_author: Roy Rosenzweig
+authors:
+- "Roy Rosenzweig"
 essay_date: June 1999
 essay_publication_info: This article originally appeared in <i>American Quarterly</i>
   51.2 (June 1999), 237-246. It introduced a group of online, hypertext articles,

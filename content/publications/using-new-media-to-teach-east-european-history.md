@@ -2,6 +2,8 @@
 date: '2016-07-11T23:17:29Z'
 draft: false
 essay_author: T. Mills Kelly
+authors:
+- "T. Mills Kelly"
 essay_date: September 2001
 essay_publication_info: 'This article was originally published in <em>Nationalities
   Papers</em> 29, 3 (September 2001): 499-508 and is reprinted here with permission.'

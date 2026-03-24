@@ -1,5 +1,7 @@
 ---
 author_name: Nate Sleeter
+authors:
+- "Nate Sleeter"
 categories:
 - Teaching + Learning
 - Partnerships

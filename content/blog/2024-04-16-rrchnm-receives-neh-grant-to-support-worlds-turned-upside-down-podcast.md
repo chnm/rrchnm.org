@@ -1,5 +1,7 @@
 ---
 author_name: RRCHNM
+authors:
+- "RRCHNM"
 categories:
 - News
 date: '2024-04-16T09:45:23Z'

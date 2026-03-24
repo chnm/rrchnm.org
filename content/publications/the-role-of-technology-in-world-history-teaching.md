@@ -2,6 +2,8 @@
 date: '2016-07-12T03:31:43Z'
 draft: false
 essay_author: T. Mills Kelly
+authors:
+- "T. Mills Kelly"
 essay_date: July 2006
 essay_publication_info: 'This article was originally published in <em>World History
   Connected</em> 3.3 (2006): 22 pars. 24 Jul. 2006 <http://worldhistoryconnected.press.uiuc.edu/3.3/kelly.html>

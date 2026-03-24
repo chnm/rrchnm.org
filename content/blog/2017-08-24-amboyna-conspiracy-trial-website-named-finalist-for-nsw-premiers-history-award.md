@@ -1,5 +1,7 @@
 ---
 author_name: Kelly Schrum
+authors:
+- "Kelly Schrum"
 categories:
 - Uncategorized
 - News

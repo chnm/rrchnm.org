@@ -1,5 +1,7 @@
 ---
 author_name: Joan Fragaszy Troyano
+authors:
+- "Joan Fragaszy Troyano"
 categories:
 - News
 - Research + Tools

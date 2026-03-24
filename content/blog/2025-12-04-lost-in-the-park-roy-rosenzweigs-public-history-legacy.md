@@ -2,6 +2,8 @@
 aliases:
 - /news/envisioning-the-legacy-of-seneca-village/
 author_name: Alexandra Miller
+authors:
+- "Alexandra Miller"
 categories:
 - News
 date: '2025-12-04T12:14:41Z'

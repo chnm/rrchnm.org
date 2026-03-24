@@ -1,5 +1,7 @@
 ---
 author_name: Jim Ambuske
+authors:
+- "Jim Ambuske"
 categories:
 - News
 - R2 Studios

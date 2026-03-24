@@ -1,5 +1,7 @@
 ---
 author_name: Lincoln Mullen
+authors:
+- "Lincoln Mullen"
 categories:
 - News
 date: '2020-10-21T12:10:54Z'

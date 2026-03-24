@@ -2,6 +2,8 @@
 date: '2016-07-11T23:27:03Z'
 draft: false
 essay_author: Kelly Schrum
+authors:
+- "Kelly Schrum"
 essay_date: May 2001
 essay_publication_info: 'This article was originally published in <em>The History
   Teacher</em> 34, 3 (May 2001): 327-338 and is reprinted here with permission.'

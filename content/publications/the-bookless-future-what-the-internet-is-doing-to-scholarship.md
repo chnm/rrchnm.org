@@ -2,6 +2,8 @@
 date: '2016-07-12T02:21:40Z'
 draft: false
 essay_author: David A. Bell
+authors:
+- "David A. Bell"
 essay_date: May 2005
 essay_publication_info: Originally published in the <em>New Republic</em>, May 2,
   2005, p. 27. Reprinted here with permission.

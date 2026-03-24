@@ -1,5 +1,7 @@
 ---
 author_name: Tom Scheinfeldt
+authors:
+- "Tom Scheinfeldt"
 categories:
 - News
 date: '2011-03-17T13:54:41Z'

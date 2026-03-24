@@ -1,5 +1,7 @@
 ---
 author_name: John Turner
+authors:
+- "John Turner"
 categories:
 - Uncategorized
 date: '2020-07-23T14:49:27Z'

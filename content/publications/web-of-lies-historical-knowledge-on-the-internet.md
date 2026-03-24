@@ -2,6 +2,8 @@
 date: '2016-07-12T03:06:27Z'
 draft: false
 essay_author: Daniel J. Cohen and Roy Rosenzweig
+authors:
+- "Daniel J. Cohen and Roy Rosenzweig"
 essay_date: December 2005
 essay_publication_info: This essay originally appeared in <i>First Monday</i>, December
   2005.

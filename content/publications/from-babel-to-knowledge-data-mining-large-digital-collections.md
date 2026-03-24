@@ -2,6 +2,8 @@
 date: '2016-07-12T03:14:23Z'
 draft: false
 essay_author: Daniel J. Cohen
+authors:
+- "Daniel J. Cohen"
 essay_date: March 2006
 essay_publication_info: "This article was originally published in <em> \t\nD-Lib Magazine</em>\
   \ Volume 12, Number 3 (March, 2006): 6-19 and is reprinted here with permission."

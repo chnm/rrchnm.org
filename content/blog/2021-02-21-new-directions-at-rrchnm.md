@@ -2,6 +2,8 @@
 aliases:
 - /about-rrchnm/new-directions-at-igorj2.sg-host/
 author_name: Mills Kelly
+authors:
+- "Mills Kelly"
 categories:
 - About RRCHNM
 - News

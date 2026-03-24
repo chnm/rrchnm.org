@@ -2,6 +2,8 @@
 date: '2016-07-11T20:36:38Z'
 draft: false
 essay_author: Roy Rosenzweig
+authors:
+- "Roy Rosenzweig"
 essay_date: April 2005
 essay_publication_info: From the Vice Presidents column in AHA <i>Perspectives</i>
   (April 2005), reprinted here with permission.

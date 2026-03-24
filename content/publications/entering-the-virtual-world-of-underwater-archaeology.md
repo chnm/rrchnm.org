@@ -2,6 +2,8 @@
 date: '2016-07-12T03:41:41Z'
 draft: false
 essay_author: Gordon P. Watts and T. Kurt Knoerl
+authors:
+- "Gordon P. Watts and T. Kurt Knoerl"
 essay_date: '2007'
 essay_publication_info: 'This article was originally published in the book <em>Out
   of the Blue: Public Interpretation of Maritime Cultural Resources</em> and is reprinted

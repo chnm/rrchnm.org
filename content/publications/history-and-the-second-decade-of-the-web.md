@@ -2,6 +2,8 @@
 date: '2016-07-12T02:36:34Z'
 draft: false
 essay_author: Daniel J. Cohen
+authors:
+- "Daniel J. Cohen"
 essay_date: June 2004
 essay_publication_info: 'Originally published in <em>Rethinking History</em>
 

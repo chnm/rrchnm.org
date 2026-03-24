@@ -2,6 +2,8 @@
 date: '2016-07-11T21:41:12Z'
 draft: false
 essay_author: Michael O'Malley and Roy Rosenzweig
+authors:
+- "Michael O'Malley and Roy Rosenzweig"
 essay_date: June 1997
 essay_publication_info: This article was originally published in <em>Journal Of American
   History</em> 84, 1 (June 1997) and is republished here with permission.

@@ -3,6 +3,8 @@ aliases:
 - /news/a-new-look-and-improved-accessibility-and-stability-for-the-september-11-digital-archive/
 - /news/a-new-look-and-improved-accessibility-and-stability-for-the-september-11-digital-archive/
 author_name: sharon-leon
+authors:
+- "sharon-leon"
 categories:
 - News
 date: '2014-09-11T10:15:40Z'

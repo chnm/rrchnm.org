@@ -1,5 +1,7 @@
 ---
 author_name: Stephen Robertson
+authors:
+- "Stephen Robertson"
 categories:
 - Uncategorized
 date: '2013-09-26T15:55:22Z'

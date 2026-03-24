@@ -1,5 +1,7 @@
 ---
 author_name: Stephen Robertson
+authors:
+- "Stephen Robertson"
 categories:
 - About RRCHNM
 date: '2014-11-17T15:10:08Z'

@@ -1,5 +1,7 @@
 ---
 author_name: Deepthi Murali
+authors:
+- "Deepthi Murali"
 categories:
 - News
 date: '2024-10-30T10:00:00Z'

@@ -2,6 +2,8 @@
 date: '2016-07-12T03:49:26Z'
 draft: false
 essay_author: Sheila A. Brennan and T. Mills Kelly
+authors:
+- "Sheila A. Brennan and T. Mills Kelly"
 essay_date: March 2009
 essay_publication_info: Center for History and New Media, Case Study
 lastmod: '2016-07-12T03:49:26Z'

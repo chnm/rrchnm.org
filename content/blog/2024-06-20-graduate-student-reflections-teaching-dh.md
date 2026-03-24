@@ -1,5 +1,7 @@
 ---
 author_name: Laura Brannan Fretwell
+authors:
+- "Laura Brannan Fretwell"
 categories:
 - News
 - Teaching + Learning

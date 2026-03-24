@@ -2,7 +2,8 @@
 date: '2016-07-12T03:23:47Z'
 draft: false
 essay_author: Michael Coventry, Peter Felten, David Jaffee, Cecilia O'Leary, and Tracey
-  Weis, with Susannah McGowan
+authors:
+- "Michael Coventry, Peter Felten, David Jaffee, Cecilia O'Leary, and Tracey Weis, with Susannah McGowan"
 essay_date: March 2006
 essay_publication_info: This article originally appeared in the March 2006 issue of
   <em>The Journal of American History</em> Volume 92, Number 4(March, 2006):1371-1402

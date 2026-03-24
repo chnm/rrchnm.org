@@ -2,7 +2,7 @@
 <article class="max-w-3xl">
   {{/* Meta */}}
   <div class="flex flex-wrap items-center gap-3 mb-8 text-sm">
-    {{ with .Params.essay_author }}<span class="text-stone-600 font-medium">{{ . }}</span>{{ end }}
+    {{ with .GetTerms "authors" }}{{ range . }}<a href="{{ .RelPermalink }}" class="text-stone-600 font-medium hover:text-red-brand transition-colors">{{ .LinkTitle }}</a>{{ end }}{{ end }}
     {{ with .Params.essay_date }}<span class="text-stone-500">{{ . }}</span>{{ end }}
     {{ with .Params.essay_publication_info }}<span class="text-stone-500 italic">{{ . }}</span>{{ end }}
   </div>

@@ -2,6 +2,8 @@
 date: '2016-07-11T21:32:03Z'
 draft: false
 essay_author: Carl Smith
+authors:
+- "Carl Smith"
 essay_date: February 1998
 essay_publication_info: This article was originally published in <em>AHA Perspectives</em>
   (February 1998) and is reprinted here with permission.
