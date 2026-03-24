@@ -13,7 +13,9 @@ RUN apk add --no-cache \
     wget \
     ca-certificates \
     gcompat \
-    libstdc++ && \
+    libstdc++ \
+    nodejs \
+    npm && \
     ARCH=$(uname -m) && \
     case ${ARCH} in \
         x86_64) HUGO_ARCH="Linux-64bit" ;; \
@@ -35,6 +37,9 @@ WORKDIR /app
 
 # Copy all project files first
 ADD . .
+
+# Install Node.js dependencies (provides postcss binary for Hugo)
+RUN npm ci
 
 # Build the site with Hugo
 RUN hugo ${HUGO_BUILD_ARGS}
