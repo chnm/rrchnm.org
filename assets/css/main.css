@@ -113,8 +113,8 @@
   transition: background-color 0.15s;
 }
 #searchResults li:last-child a { border-bottom: none; }
-#searchResults li a:hover,
-#searchResults li a:focus { background-color: #fafaf9; outline: none; }
+#searchResults li a:hover { background-color: #fafaf9; }
+#searchResults li a:focus-visible { background-color: #fafaf9; outline: 2px solid #C32A26; outline-offset: -2px; }
 #searchResults .search-title {
   display: block;
   font-size: 0.875rem;

@@ -29,10 +29,13 @@ document.addEventListener('DOMContentLoaded', function () {
   var mobileNav = document.querySelector('.mobile-nav');
 
   if (opener && mobileNav) {
+    mobileNav.setAttribute('aria-hidden', 'true');
+
     opener.addEventListener('click', function (e) {
       e.preventDefault();
       var isOpen = !mobileNav.classList.contains('hidden');
       mobileNav.classList.toggle('hidden');
+      mobileNav.setAttribute('aria-hidden', String(isOpen));
       opener.setAttribute('aria-expanded', String(!isOpen));
     });
 
@@ -40,6 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
     for (var i = 0; i < mobileLinks.length; i++) {
       mobileLinks[i].addEventListener('click', function () {
         mobileNav.classList.add('hidden');
+        mobileNav.setAttribute('aria-hidden', 'true');
         opener.setAttribute('aria-expanded', 'false');
       });
     }
@@ -66,21 +70,29 @@ document.addEventListener('DOMContentLoaded', function () {
     var modalBio      = document.getElementById('staff-modal-bio');
     var modalClose    = modal.querySelector('button[aria-label="Close"]');
 
-    function openStaffModal(card) {
+    var modalTrigger = null;
+
+    function openStaffModal(card, triggerEl) {
       var bioDiv = card.querySelector('.staff-bio-data');
       modalName.textContent     = card.dataset.modalName    || '';
       modalJobTitle.textContent = card.dataset.modalTitle   || '';
       modalPhoto.src            = card.dataset.modalPicture || '';
       modalPhoto.alt            = card.dataset.modalName ? 'Photo of ' + card.dataset.modalName : '';
       modalBio.innerHTML        = bioDiv ? bioDiv.innerHTML : '';
+      modalTrigger = triggerEl || null;
       modal.showModal();
     }
+
+    modal.addEventListener('close', function () {
+      if (modalTrigger && modalTrigger.focus) modalTrigger.focus();
+      modalTrigger = null;
+    });
 
     document.addEventListener('click', function (e) {
       var trigger = e.target.closest('.staff-card-trigger');
       if (trigger) {
         var card = trigger.closest('.staff-card');
-        if (card) openStaffModal(card);
+        if (card) openStaffModal(card, trigger);
       }
     });
 

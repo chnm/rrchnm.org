@@ -25,9 +25,10 @@
 
       {{/* Col 2 — Rotating project showcase */}}
       <div class="lg:col-span-5"
-        x-data="{ current: 0, total: {{ len ($featuredProjects) }}, timer: null }"
-        x-init="timer = setInterval(() => { current = (current + 1) % total }, 5000)">
-        <div class="relative aspect-[4/3] overflow-hidden">
+        x-data="{ current: 0, total: {{ len ($featuredProjects) }}, timer: null, playing: true }"
+        x-init="timer = setInterval(() => { current = (current + 1) % total }, 5000)"
+        @keydown.space.prevent="playing ? (clearInterval(timer), playing = false) : (timer = setInterval(() => { current = (current + 1) % total }, 5000), playing = true)">
+        <div class="relative aspect-[4/3] overflow-hidden" aria-live="polite" aria-atomic="true">
           {{ range $i, $p := $featuredProjects }}
           {{ $item := $p }}
           <a href="{{ $item.RelPermalink }}"
@@ -48,18 +49,27 @@
           </a>
           {{ end }}
         </div>
-        {{/* Dots */}}
-        <div class="flex gap-1.5 mt-3" role="tablist" aria-label="Project slides">
-          {{ range $i, $p := $featuredProjects }}
+        {{/* Dots + pause control */}}
+        <div class="flex items-center gap-2 mt-3">
           <button
-            role="tab"
-            :aria-selected="(current === {{ $i }}).toString()"
-            aria-label="Show project {{ add $i 1 }}: {{ $p.Title }}"
-            @click="current = {{ $i }}; clearInterval(timer); timer = setInterval(() => { current = (current + 1) % total }, 5000)"
-            :class="current === {{ $i }} ? 'bg-red-brand' : 'bg-stone-300 hover:bg-stone-400'"
-            class="w-2.5 h-2.5 rounded-full transition-colors cursor-pointer">
+            @click="playing ? (clearInterval(timer), playing = false) : (timer = setInterval(() => { current = (current + 1) % total }, 5000), playing = true)"
+            :aria-label="playing ? 'Pause slideshow' : 'Play slideshow'"
+            class="w-5 h-5 text-stone-400 hover:text-stone-600 transition-colors shrink-0 cursor-pointer">
+            <svg x-show="playing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M6.75 5.25a.75.75 0 0 1 .75-.75H9a.75.75 0 0 1 .75.75v13.5a.75.75 0 0 1-.75.75H7.5a.75.75 0 0 1-.75-.75V5.25Zm7.5 0A.75.75 0 0 1 15 4.5h1.5a.75.75 0 0 1 .75.75v13.5a.75.75 0 0 1-.75.75H15a.75.75 0 0 1-.75-.75V5.25Z" clip-rule="evenodd" /></svg>
+            <svg x-show="!playing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M4.5 5.653c0-1.427 1.529-2.33 2.779-1.643l11.54 6.347c1.295.712 1.295 2.573 0 3.286L7.28 19.99c-1.25.687-2.779-.217-2.779-1.643V5.653Z" clip-rule="evenodd" /></svg>
           </button>
-          {{ end }}
+          <div class="flex gap-1.5" role="tablist" aria-label="Project slides">
+            {{ range $i, $p := $featuredProjects }}
+            <button
+              role="tab"
+              :aria-selected="(current === {{ $i }}).toString()"
+              aria-label="Show project {{ add $i 1 }}: {{ $p.Title }}"
+              @click="current = {{ $i }}; clearInterval(timer); playing && (timer = setInterval(() => { current = (current + 1) % total }, 5000))"
+              :class="current === {{ $i }} ? 'bg-red-brand' : 'bg-stone-300 hover:bg-stone-400'"
+              class="w-2.5 h-2.5 rounded-full transition-colors cursor-pointer">
+            </button>
+            {{ end }}
+          </div>
         </div>
       </div>
 
@@ -104,8 +114,8 @@
     {{ $item := . }}
     <article class="group">
       {{ with .Params.featured_image }}
-      <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4">
-        <img src="{{ . }}" alt="{{ $item.Title }}" loading="lazy" class="w-full aspect-[4/3] object-cover group-hover:scale-[1.03] transition-transform duration-300">
+      <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4" aria-hidden="true" tabindex="-1">
+        <img src="{{ . }}" alt="" loading="lazy" class="w-full aspect-[4/3] object-cover group-hover:scale-[1.03] transition-transform duration-300">
       </a>
       {{ end }}
       <h3 class="font-serif text-lg text-stone-900">
@@ -142,8 +152,8 @@
     {{ $post := . }}
     <article class="group">
       {{ with .Params.featured_image }}
-      <a href="{{ $post.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4">
-        <img src="{{ . }}" alt="{{ $post.Title }}" loading="lazy" class="w-full aspect-[3/2] object-cover group-hover:scale-[1.03] transition-transform duration-300">
+      <a href="{{ $post.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4" aria-hidden="true" tabindex="-1">
+        <img src="{{ . }}" alt="" loading="lazy" class="w-full aspect-[3/2] object-cover group-hover:scale-[1.03] transition-transform duration-300">
       </a>
       {{ end }}
       <div class="flex items-center gap-3 mb-2">

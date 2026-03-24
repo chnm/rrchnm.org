@@ -63,9 +63,13 @@ const CONFIG = {
     return event.key === sc.key && (event.metaKey || event.ctrlKey) && !event.altKey && !event.shiftKey;
   }
 
+  var searchOpener = null;
+
   function openSearch() {
     searchVisible = true;
+    searchOpener = document.activeElement;
     fastSearch.style.visibility = 'visible';
+    fastSearch.removeAttribute('aria-hidden');
     searchInput.focus();
     searchInput.value = '';
     searchResults.innerHTML = '';
@@ -74,9 +78,11 @@ const CONFIG = {
   function closeSearch() {
     searchVisible = false;
     fastSearch.style.visibility = 'hidden';
-    searchInput.blur();
+    fastSearch.setAttribute('aria-hidden', 'true');
     searchInput.value = '';
     searchResults.innerHTML = '';
+    if (searchOpener && searchOpener.focus) searchOpener.focus();
+    searchOpener = null;
   }
 
   // Close on backdrop click
