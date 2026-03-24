@@ -7,6 +7,7 @@ featured_image: /media/2022/09/thumbnail-LegalModernization.jpg
 lastmod: '2022-09-15T12:19:28Z'
 slug: legal-modernism
 title: Legal Modernism
+featured_project: true
 ---
 
 # Legal Modernism

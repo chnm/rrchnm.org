@@ -7,6 +7,7 @@ featured_image: /media/2024/05/harlemfinalTRUE.jpg
 lastmod: '2024-05-09T16:43:24Z'
 slug: harlem-in-disorder
 title: Harlem in Disorder
+featured_project: true
 ---
 
 # Harlem in Disorder

@@ -8,6 +8,7 @@ featured_image: /media/2024/02/connecting-threads-01.jpg
 lastmod: '2024-02-12T17:02:37Z'
 slug: connecting-threads
 title: Connecting Threads
+featured_project: true
 ---
 
 # Connecting Threads

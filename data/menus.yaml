@@ -17,9 +17,7 @@ mobile_nav:
     - title: Supporters
       url: /supporters/
   - title: Our People
-    children:
-    - title: Staff & Affiliates
-      url: /people/
+    url: /people/
   - title: Our Work
     children:
     - title: Projects
@@ -30,8 +28,6 @@ mobile_nav:
     url: /blog/
   - title: Contact Us
     url: /contact-us/
-  - title: DONATE
-    url: /MasonNow/
 top_nav:
   name: Top Nav
   items:
@@ -46,9 +42,7 @@ top_nav:
     - title: Contact Us
       url: /contact-us/
   - title: Our People
-    children:
-    - title: Staff & Affiliates
-      url: /people/
+    url: /people/
   - title: Our Work
     children:
     - title: Projects

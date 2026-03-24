@@ -7,6 +7,7 @@ featured_image: /media/2022/04/thumbnail-ARE.jpg
 lastmod: '2022-07-01T14:48:08Z'
 slug: american-religious-ecologies
 title: American Religious Ecologies
+featured_project: true
 ---
 
 # American Religious Ecologies

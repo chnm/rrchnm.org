@@ -4,9 +4,11 @@ categories:
 date: '2024-11-20T09:37:52Z'
 draft: false
 featured_image: /media/2024/11/The-Denig-Manuscript.png
+project_url: https://denigmanuscript.org/
 lastmod: '2024-12-11T09:47:51Z'
 slug: the-denig-manuscript
 title: The Denig Manuscript
+featured_project: true
 ---
 
 # The Denig Manuscript

@@ -14,6 +14,7 @@ affiliates:
     role: Principal Investigator
 funders:
   - National Endowment for the Humanities
+featured_project: true
 ---
 
 # America's Public Bible

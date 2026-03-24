@@ -7,6 +7,7 @@ featured_image: /media/2022/04/thumbnail-current-research-in-digital-history-v2.
 lastmod: '2022-07-01T15:16:58Z'
 slug: current-research-in-digital-history
 title: Current Research In Digital History
+featured_project: true
 ---
 
 # Current Research In Digital History

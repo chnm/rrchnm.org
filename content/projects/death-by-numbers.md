@@ -7,6 +7,7 @@ featured_image: /media/2022/04/thumbnail-death-by-numbers.jpg
 lastmod: '2022-05-17T16:19:45Z'
 slug: death-by-numbers
 title: Death By Numbers
+featured_project: true
 ---
 
 # Death By Numbers

@@ -1,0 +1,73 @@
+{{ define "main" }}
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+
+  {{/* About */}}
+  <div>
+    <h2 class="font-serif text-xl text-stone-900 mb-4 pb-2 border-b border-stone-200">About</h2>
+    <ul class="space-y-2 text-sm">
+      <li><a href="/our-story/" class="text-stone-600 hover:text-red-brand transition-colors">Our Story</a></li>
+      {{ range where .Site.RegularPages "Section" "page" }}
+      {{ if and (ne .RelPermalink "/our-story/") (ne .RelPermalink "/sitemap/") }}
+      <li><a href="{{ .RelPermalink }}" class="text-stone-600 hover:text-red-brand transition-colors">{{ .Title }}</a></li>
+      {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+
+  {{/* People */}}
+  {{ $people := where .Site.RegularPages "Section" "people" }}
+  {{ if $people }}
+  <div>
+    <h2 class="font-serif text-xl text-stone-900 mb-4 pb-2 border-b border-stone-200">People</h2>
+    <ul class="space-y-2 text-sm">
+      <li><a href="/people/" class="text-stone-600 hover:text-red-brand transition-colors font-medium">All People</a></li>
+      {{ range sort $people "Params.last_name" "asc" }}
+      <li><a href="{{ .RelPermalink }}" class="text-stone-600 hover:text-red-brand transition-colors">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+  {{/* Projects */}}
+  {{ $projects := where .Site.RegularPages "Section" "projects" }}
+  {{ if $projects }}
+  <div>
+    <h2 class="font-serif text-xl text-stone-900 mb-4 pb-2 border-b border-stone-200">Projects</h2>
+    <ul class="space-y-2 text-sm">
+      <li><a href="/our-work/" class="text-stone-600 hover:text-red-brand transition-colors font-medium">All Projects</a></li>
+      {{ range $projects }}
+      <li><a href="{{ .RelPermalink }}" class="text-stone-600 hover:text-red-brand transition-colors">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+  {{/* Publications */}}
+  {{ $pubs := where .Site.RegularPages "Section" "publications" }}
+  {{ if $pubs }}
+  <div>
+    <h2 class="font-serif text-xl text-stone-900 mb-4 pb-2 border-b border-stone-200">Publications</h2>
+    <ul class="space-y-2 text-sm">
+      <li><a href="/publications/" class="text-stone-600 hover:text-red-brand transition-colors font-medium">All Publications</a></li>
+      {{ range $pubs }}
+      <li><a href="{{ .RelPermalink }}" class="text-stone-600 hover:text-red-brand transition-colors">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+  {{/* Blog */}}
+  {{ $posts := where .Site.RegularPages "Section" "blog" }}
+  {{ if $posts }}
+  <div class="md:col-span-2 lg:col-span-2">
+    <h2 class="font-serif text-xl text-stone-900 mb-4 pb-2 border-b border-stone-200">Blog <span class="text-sm text-stone-500 font-sans font-normal">({{ len $posts }} posts)</span></h2>
+    <ul class="columns-1 sm:columns-2 gap-x-8 space-y-2 text-sm">
+      {{ range $posts }}
+      <li><a href="{{ .RelPermalink }}" class="text-stone-600 hover:text-red-brand transition-colors">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+</div>
+{{ end }}

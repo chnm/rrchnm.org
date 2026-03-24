@@ -7,6 +7,7 @@ featured_image: /media/2024/02/hcac-logo-01.jpg
 lastmod: '2024-02-12T17:44:26Z'
 slug: history-and-culture-access-consortium
 title: History and Culture Access Consortium
+featured_project: true
 ---
 
 # History and Culture Access Consortium
