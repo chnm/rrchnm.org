@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Public History
 date: '2022-03-24T16:47:22Z'
@@ -7,6 +11,12 @@ featured_image: /media/2022/03/thumbnail-september11.jpg
 lastmod: '2022-07-01T14:45:41Z'
 slug: the-september-11-digital-archive
 title: The September 11 Digital Archive
+funders:
+- "Alfred P. Sloan Foundation"
+- "National Park Service"
+gallery:
+- "/media/2022/03/September-11-Digital-Archive-2-scaled.jpg"
+project_url: "http://911digitalarchive.org/"
 ---
 
 # The September 11 Digital Archive

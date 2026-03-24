@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Public History
 date: '2022-05-17T09:57:55Z'
@@ -7,6 +11,11 @@ featured_image: /media/2022/05/thumbnail-mozilla.jpg
 lastmod: '2022-05-18T10:55:06Z'
 slug: mozilla-digital-memory-bank
 title: Mozilla Digital Memory Bank
+funders:
+- "Alfred P. Sloan Foundation"
+gallery:
+- "/media/2022/05/Mozilla-Digital-Memory-Bank-1-scaled.jpg"
+project_url: "http://mozillamemory.org"
 ---
 
 # Mozilla Digital Memory Bank

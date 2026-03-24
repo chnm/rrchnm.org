@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 date: '2022-04-06T16:35:16Z'
@@ -7,6 +11,11 @@ featured_image: /media/2022/04/thumbnail-MilitaryHistory.jpg
 lastmod: '2022-05-17T17:35:34Z'
 slug: digital-methods-for-military-history
 title: Digital Methods for Military History
+funders:
+- "National Endowment for the Humanities"
+gallery:
+- "/media/2022/04/Digital-Methods-for-Military-History-1-scaled.jpg"
+project_url: "https://dmmh.rrchnm.org/"
 ---
 
 # Digital Methods for Military History

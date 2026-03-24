@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Public History
 date: '2022-04-06T15:58:23Z'
@@ -7,6 +10,9 @@ featured_image: /media/2022/04/thumbnail-collecting-these-times.jpg
 lastmod: '2022-05-17T16:03:23Z'
 slug: collecting-these-times
 title: Collecting These Times
+gallery:
+- "/media/2022/04/Collecting-These-Times-1-scaled.jpg"
+project_url: "https://collectingthesetimes.org/s/collecting-these-times/page/home"
 ---
 
 # Collecting These Times

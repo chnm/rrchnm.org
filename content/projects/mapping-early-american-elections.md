@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Data Driven History
 date: '2022-05-16T17:41:52Z'
@@ -7,6 +11,13 @@ featured_image: /media/2022/05/thumbnail-elections.jpg
 lastmod: '2022-05-16T17:41:52Z'
 slug: mapping-early-american-elections
 title: Mapping Early American Elections
+funders:
+- "National Endowment for the Humanities"
+gallery:
+- "/media/2022/05/Mapping-Early-American-Elections-1-scaled.jpg"
+- "/media/2022/05/Mapping-Early-American-Elections-2-scaled.jpg"
+- "/media/2022/05/Mapping-Early-American-Elections-3-scaled.jpg"
+project_url: "http://earlyamericanelections.org"
 ---
 
 # Mapping Early American Elections

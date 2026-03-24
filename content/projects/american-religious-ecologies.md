@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Data Driven History
 date: '2022-04-06T15:45:29Z'
@@ -8,6 +11,11 @@ lastmod: '2022-07-01T14:48:08Z'
 slug: american-religious-ecologies
 title: American Religious Ecologies
 featured_project: true
+gallery:
+- "/media/2022/04/ARE-2-scaled.jpg"
+- "/media/2022/04/ARE-3-scaled.jpg"
+- "/media/2022/04/American-Religious-Ecologies-1.png"
+project_url: "https://religiousecologies.org/"
 ---
 
 # American Religious Ecologies

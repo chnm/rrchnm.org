@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Education
 - Public History
@@ -8,6 +11,9 @@ featured_image: /media/2022/04/thumbnail-whitepaper-1.jpg
 lastmod: '2022-09-22T14:02:27Z'
 slug: digital-history-argument-white-paper
 title: Digital History & Argument white paper
+funders:
+- "Andrew W. Mellon Foundation"
+gallery:
 ---
 
 # Digital History & Argument white paper

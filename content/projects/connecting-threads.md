@@ -1,4 +1,6 @@
 ---
+
+
 categories:
 - Data Driven History
 - Public History
@@ -9,6 +11,8 @@ lastmod: '2024-02-12T17:02:37Z'
 slug: connecting-threads
 title: Connecting Threads
 featured_project: true
+gallery:
+project_url: "https://www.connectingthreads.co.uk/"
 ---
 
 # Connecting Threads

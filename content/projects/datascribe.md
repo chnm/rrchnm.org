@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Data Driven History
 - Public History
@@ -8,6 +11,10 @@ featured_image: /media/2022/04/thumbnail-datascribe.jpg
 lastmod: '2022-05-17T16:41:50Z'
 slug: datascribe
 title: DataScribe
+gallery:
+- "/media/2022/04/DataScribe-1-scaled.jpg"
+- "/media/2022/04/DataScribe-2-scaled.jpg"
+project_url: "https://datascribe.tech/"
 ---
 
 # DataScribe

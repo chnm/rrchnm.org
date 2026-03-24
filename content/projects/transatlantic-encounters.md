@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Public History
 date: '2022-05-17T12:17:26Z'
@@ -7,6 +10,10 @@ featured_image: /media/2022/05/thumbnail-transatlantic-encounters.jpg
 lastmod: '2022-05-18T10:58:22Z'
 slug: transatlantic-encounters
 title: Transatlantic Encounters
+gallery:
+- "/media/2022/05/Transatlantic-Encounters-1-scaled.jpg"
+- "/media/2022/05/Transatlantic-Encounters-2-scaled.jpg"
+project_url: "https://transatlanticencounters.rrchnm.org/"
 ---
 
 # Transatlantic Encounters

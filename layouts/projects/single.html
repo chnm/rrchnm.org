@@ -20,6 +20,19 @@
       <div class="prose prose-stone max-w-none">
         {{ .Content }}
       </div>
+
+      {{/* Gallery */}}
+      {{ with .Params.gallery }}
+      <div class="mt-10">
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {{ range . }}
+          <a href="{{ . }}" target="_blank" class="block overflow-hidden rounded-lg">
+            <img src="{{ . }}" alt="Project screenshot" loading="lazy" class="w-full aspect-[16/10] object-cover hover:scale-[1.03] transition-transform duration-300">
+          </a>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
     </div>
 
     {{/* Sidebar */}}

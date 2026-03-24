@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Public History
 date: '2022-05-16T16:51:26Z'
@@ -7,6 +11,12 @@ featured_image: /media/2022/05/thumbnail-national-mall-5.jpg
 lastmod: '2022-07-01T14:46:18Z'
 slug: histories-of-the-national-mall
 title: Histories of the National Mall
+funders:
+- "National Endowment for the Humanities"
+gallery:
+- "/media/2022/05/Histories-of-the-National-Mall-1-scaled.jpg"
+- "/media/2022/05/Histories-of-the-National-Mall-2-1-scaled.jpg"
+project_url: "http://mallhistory.org"
 ---
 
 # Histories of the National Mall

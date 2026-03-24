@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 date: '2022-05-16T16:45:08Z'
@@ -7,6 +11,12 @@ featured_image: /media/2022/05/thumbnail-history-matters.jpg
 lastmod: '2022-05-18T10:47:26Z'
 slug: historical-thinking-matters
 title: Historical Thinking Matters
+funders:
+- "Carnegie Corporation"
+- "Hewlett Foundation"
+gallery:
+- "/media/2022/05/historical-thinking-matters-scaled.jpg"
+project_url: "http://historicalthinkingmatters.org"
 ---
 
 # Historical Thinking Matters

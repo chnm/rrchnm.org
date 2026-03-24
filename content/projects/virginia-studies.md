@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 date: '2022-05-17T12:58:34Z'
@@ -7,6 +11,9 @@ featured_image: /media/2022/05/thumbnail-virginia-studies.jpg
 lastmod: '2022-05-17T12:58:34Z'
 slug: virginia-studies
 title: Virginia Studies
+gallery:
+- "/media/2022/05/Virginia-Studies-1-scaled.jpg"
+project_url: "http://virginiastudies.org"
 ---
 
 # Virginia Studies

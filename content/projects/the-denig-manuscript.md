@@ -1,4 +1,5 @@
 ---
+
 categories:
 - Public History
 date: '2024-11-20T09:37:52Z'
@@ -9,6 +10,7 @@ lastmod: '2024-12-11T09:47:51Z'
 slug: the-denig-manuscript
 title: The Denig Manuscript
 featured_project: true
+gallery:
 ---
 
 # The Denig Manuscript

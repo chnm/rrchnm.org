@@ -1,4 +1,6 @@
 ---
+
+
 categories:
 - Data Driven History
 - Education
@@ -21,6 +23,9 @@ funders:
   - Institute of Museum and Library Services
   - Samuel H. Kress Foundation
   - National Endowment for the Humanities
+gallery:
+- "/media/2022/05/Omeka-1-scaled.jpg"
+- "/media/2022/05/Omeka-2-scaled.jpg"
 ---
 
 # Omeka

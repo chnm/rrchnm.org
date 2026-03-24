@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 - Public History
@@ -8,6 +12,11 @@ featured_image: /media/2022/03/thumbnail-THATCamp.jpg
 lastmod: '2022-05-17T11:53:20Z'
 slug: thatcamp
 title: THATCamp
+funders:
+- "Andrew W. Mellon Foundation"
+gallery:
+- "/media/2022/03/That-Camp-1-scaled.jpg"
+project_url: "http://thatcamp.org"
 ---
 
 # THATCamp

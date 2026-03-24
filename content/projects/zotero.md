@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Data Driven History
 - Education
@@ -9,6 +13,15 @@ featured_image: /media/2022/05/thumbnail-zotero.jpg
 lastmod: '2023-08-31T09:26:28Z'
 slug: zotero
 title: Zotero
+funders:
+- "Alfred P. Sloan Foundation"
+- "Andrew W. Mellon Foundation"
+- "Corporation for Digital Scholarship"
+- "Institute of Museum and Library Services"
+gallery:
+- "/media/2022/05/Zotero-1-scaled.jpg"
+- "/media/2022/05/Zotero-2-scaled.jpg"
+project_url: "http://www.zotero.org"
 ---
 
 # Zotero

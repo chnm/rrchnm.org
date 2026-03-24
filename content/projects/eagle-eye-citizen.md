@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 date: '2022-03-24T10:04:12Z'
@@ -7,6 +11,14 @@ featured_image: /media/2022/03/thumbnail-eagle-eye-citizen.jpg
 lastmod: '2022-05-18T10:16:18Z'
 slug: eagle-eye-citizen
 title: Eagle Eye Citizen
+funders:
+- "Library of Congress"
+gallery:
+- "/media/2022/03/EagleEyeCitizen-Challenge-scaled.jpg"
+- "/media/2022/03/EagleEyeCitizen-Time-After-Time-scaled.jpg"
+- "/media/2022/03/EagleEyeCitizen-homepage-scaled.jpg"
+- "/media/2022/03/EagleEyeCitizen-logo-scaled.jpg"
+project_url: "https://eagleeyecitizen.org/"
 ---
 
 # Eagle Eye Citizen

@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Education
 - Public History
@@ -8,6 +11,9 @@ featured_image: /media/2022/03/thumbnail-AHN-1.jpg
 lastmod: '2022-05-18T09:49:24Z'
 slug: american-history-now
 title: American History Now
+funders:
+- "Una Chapman Cox Foundation"
+gallery:
 ---
 
 # American History Now

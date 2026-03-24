@@ -1,4 +1,5 @@
 ---
+
 categories:
 - Data Driven History
 date: '2024-05-09T16:20:27Z'
@@ -15,6 +16,7 @@ affiliates:
 funders:
   - National Endowment for the Humanities
 featured_project: true
+gallery:
 ---
 
 # America's Public Bible

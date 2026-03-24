@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Public History
 date: '2022-05-16T16:12:14Z'
@@ -7,6 +10,10 @@ featured_image: /media/2022/05/thumbnail-gulag.jpg
 lastmod: '2023-07-13T14:02:16Z'
 slug: gulag-many-days-many-lives
 title: 'Gulag: Many Days, Many Lives'
+gallery:
+- "/media/2022/05/Gulag-1-scaled.jpg"
+- "/media/2022/05/Gulag-2-scaled.jpg"
+project_url: "https://gulaghistory.org/index.html"
 ---
 
 # Gulag: Many Days, Many Lives

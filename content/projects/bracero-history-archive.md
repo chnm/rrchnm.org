@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Public History
 date: '2022-03-24T16:45:37Z'
@@ -7,6 +11,14 @@ featured_image: /media/2022/03/thumbnail-bracero-1.jpg
 lastmod: '2022-05-17T17:33:51Z'
 slug: bracero-history-archive
 title: Bracero History Archive
+funders:
+- "National Endowment for the Humanities"
+gallery:
+- "/media/2022/03/bracero-1-1-scaled.jpg"
+- "/media/2022/03/bracero-1-scaled.jpg"
+- "/media/2022/03/bracero-2-scaled.jpg"
+- "/media/2022/03/bracero-3-scaled.jpg"
+project_url: "http://braceroarchive.org"
 ---
 
 # Bracero History Archive

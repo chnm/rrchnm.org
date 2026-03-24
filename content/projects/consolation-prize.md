@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Public History
 date: '2022-04-06T16:00:17Z'
@@ -7,6 +10,10 @@ featured_image: /media/2022/04/consolation-prize-thumbnail.jpg
 lastmod: '2025-09-03T15:23:06Z'
 slug: consolation-prize
 title: Consolation Prize
+gallery:
+- "/media/2022/04/Consolation-Prize-2-scaled.jpg"
+- "/media/2022/04/Consolation-Prize-3-scaled.jpg"
+project_url: "https://podcasts.rrchnm.org/show/consolation-prize/"
 ---
 
 # Consolation Prize

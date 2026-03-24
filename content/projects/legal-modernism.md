@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Data Driven History
 date: '2022-09-15T11:38:08Z'
@@ -8,6 +11,9 @@ lastmod: '2022-09-15T12:19:28Z'
 slug: legal-modernism
 title: Legal Modernism
 featured_project: true
+gallery:
+- "/media/2022/09/project-LegalModernization-scaled.jpg"
+project_url: "https://legalmodernism.org"
 ---
 
 # Legal Modernism
