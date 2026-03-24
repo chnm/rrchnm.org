@@ -42,14 +42,18 @@
     {{ range (where .Site.RegularPages "Section" "projects") }}
     {{ $item := . }}
     <article
-      class="group"
+      class="group flex flex-col"
       x-show="matchesFilter({{ .Params.categories | jsonify }})"
       x-transition.opacity.duration.200ms>
-      {{ with .Params.featured_image }}
-      <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4">
-        <img src="{{ . }}" alt="{{ $item.Title }}" loading="lazy" class="w-full aspect-[4/3] object-cover group-hover:scale-[1.03] transition-transform duration-300">
+      <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4 shrink-0">
+        {{ if .Params.featured_image }}
+        <img src="{{ .Params.featured_image }}" alt="{{ $item.Title }}" loading="lazy" class="w-full aspect-square object-contain bg-stone-50 group-hover:scale-[1.03] transition-transform duration-300">
+        {{ else }}
+        <div class="w-full aspect-square bg-stone-100 flex items-center justify-center">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-stone-300" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5Zm10.5-11.25h.008v.008h-.008V8.25Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" /></svg>
+        </div>
+        {{ end }}
       </a>
-      {{ end }}
       <h3 class="font-serif text-lg text-stone-900">
         <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
       </h3>

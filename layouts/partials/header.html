@@ -7,7 +7,6 @@
       <nav role="navigation" aria-label="Main navigation">
         {{ partial "nav-menu.html" (dict "items" .Site.Data.menus.top_nav.items "depth" 0) }}
       </nav>
-      <a href="{{ .Site.Params.donate_url }}" target="_blank" rel="noopener" class="bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-4 py-1.5 rounded-md transition-colors">Donate</a>
       <button onclick="document.dispatchEvent(new KeyboardEvent('keydown',{key:'k',metaKey:true}))" class="flex items-center gap-2 px-3 py-1.5 text-sm text-stone-400 hover:text-stone-600 bg-stone-50 border border-stone-200 rounded-md transition-colors cursor-pointer" aria-label="Search (Cmd-K)">
         <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" /></svg>
         <kbd class="font-mono text-xs text-stone-400">⌘+K</kbd>
