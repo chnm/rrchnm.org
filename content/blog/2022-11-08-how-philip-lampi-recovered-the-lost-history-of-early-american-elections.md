@@ -1,5 +1,7 @@
 ---
 author_name: Lincoln Mullen
+authors:
+- "Lincoln Mullen"
 categories:
 - News
 date: '2022-11-08T13:07:19Z'
@@ -35,18 +37,14 @@ For this act of historical recovery, Lampi received an [honorary doctorate](htt
 
 Lampi, in collaboration with other scholars, also received a series of grants to create a comprehensive database of the election records he had gathered. The result was [*A New Nation Votes: American Election Returns, 1787–1825*](https://elections.lib.tufts.edu/). Created in partnership with the American Antiquarian Society and Tufts University, that project allows researchers and citizens to find the election returns for state, local, and Congressional elections across the early republic.
 
-[![An image of a table of data from the A New Nation Votes project.](/media/2022/11/nnv.png)](/media/2022/11/nnv.png)
+{{< figure src="/media/2022/11/nnv.png" alt="A table of data from the A New Nation Votes project." caption="An [example of a Congressional election](https://elections.lib.tufts.edu/catalog/ns064687v) in A New Nation Votes. A Federalist candidate won out over a Democratic-Republican competitor in a Massachusetts congressional district which is now a part of Maine." >}}
 
-*An*[example of a Congressional election](https://elections.lib.tufts.edu/catalog/ns064687v)*in A New Nation Votes. A Federalist candidate won out over a Democractic-Republican competitor in a Massachusetts congressional district which is now a part of Maine.*
 
 The next step for Lampi’s election data was to create maps of Congressional elections like those people pore over on Election Day, but for the first decades of the United States. In 2019, a team of historians at the Roy Rosenzweig Center for History and New Media, working with Lampi and other scholars at the American Antiquarian Society, created [*Mapping Early American Elections*](https://earlyamericanelections.org/). The site offers as comprehensive a set of maps of Congressional elections as it is possible to make for the early republic. [Here](https://earlyamericanelections.org/maps/meae.congressional.congress07.ma.county.html), for example, are the results for the highly contested election of 1800, in which Federalists faced off against Democratic-Republicans. (You can also read more about the 1800 election in this [*New Yorker*](https://www.newyorker.com/magazine/2007/09/17/party-time) essay, which also profiles Lampi.) The project includes the maps, of course, but also tables of election results and data which you can download for yourself.
 
-[![A map from Mapping Early American Elections](/media/2022/11/meae.png)](http://earlyamericanelections.org)
+{{< figure src="/media/2022/11/meae.png" alt="A map from Mapping Early American Elections." caption="A [map](https://earlyamericanelections.org/maps/meae.congressional.congress07.ma.county.html) of the 1800 Congressional elections in Massachusetts, from Mapping Early American Elections." >}}
 
-*A*[map](https://earlyamericanelections.org/maps/meae.congressional.congress07.ma.county.html)*of the 1800 Congressional elections in Massachusetts, from Mapping Early American Elections.*
 
 After you go to the polls, you might consider reading some of the essays that show how the American political system developed, and gain some historical perspective on our current elections. Rosemarie Zagarri writes about the [rough and tumble of the first party system](https://earlyamericanelections.org/essays/02-zagarri-political-parties.html) at a time when the legitimacy of political parties as an institution was not well defined. Philip Lampi writes about [how elections actually happened](https://earlyamericanelections.org/essays/03-lampi-election-methods.html), in a very different process than the orderly voting by district that is the norm today. Jordan Bratt [tackles the problem of incumbency](https://earlyamericanelections.org/essays/05-bratt-incumbency.html): what does it mean for a democracy if the same people keep getting elected? Greta Swain takes up the [question of region and geography](https://earlyamericanelections.org/essays/06-swain-geography-of-politics.html). And Andrew Robertson [discusses voter turnout](https://earlyamericanelections.org/essays/04-robertson-voter-turnout.html), demonstrating that voter participation in the early republic was extraordinarily high among eligible voters, though suffrage laws and enslavement systematically excluded most Americans from the francise. Together the essays comprise a brief, accessible introduction to the foundational era of American politics, with maps and data to chart what political historian Andrew Robertson has called “the tortuous trajectory of American democracy.”
 
-[![An image of two congressmen fighting](/media/2022/11/congressional-pugilists-1789.jpg)](/media/2022/11/congressional-pugilists-1789.jpg)
-
-In 1798, after a bitter personal exchange on the floor of the U.S. House of Representatives, Federalist Roger Griswold of Connecticut grabbed a cane and attacked Democratic-Republican Matthew Lyon of Vermont. Lyon grabbed a nearby pair of fireplace tongs and lashed out against his adversary. This image reflects the heightened nature of political antagonisms that erupted in the 1790s with the emergence of the country’s first political parties. From the Library of Congress.
+{{< figure src="/media/2022/11/congressional-pugilists-1789.jpg" alt="An illustration of two congressmen fighting on the floor of the House of Representatives." caption="In 1798, after a bitter personal exchange on the floor of the U.S. House of Representatives, Federalist Roger Griswold of Connecticut grabbed a cane and attacked Democratic-Republican Matthew Lyon of Vermont. Lyon grabbed a nearby pair of fireplace tongs and lashed out against his adversary. This image reflects the heightened nature of political antagonisms that erupted in the 1790s with the emergence of the country’s first political parties." attr="Library of Congress" >}}

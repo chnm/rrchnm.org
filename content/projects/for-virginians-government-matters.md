@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 date: '2022-04-08T16:13:23Z'
@@ -7,6 +11,11 @@ featured_image: /media/2022/04/thumbnail-virginians-government.jpg
 lastmod: '2022-05-17T14:06:48Z'
 slug: for-virginians-government-matters
 title: 'For Virginians: Government Matters'
+gallery:
+- "/media/2022/04/For-Virginians-1-scaled.jpg"
+- "/media/2022/04/For-Virginians-2-scaled.jpg"
+- "/media/2022/04/For-Virginians-3-scaled.jpg"
+project_url: "https://vagovernmentmatters.org/"
 ---
 
 # For Virginians: Government Matters

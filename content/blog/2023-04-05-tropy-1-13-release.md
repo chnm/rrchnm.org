@@ -1,5 +1,7 @@
 ---
 author_name: Douglas McRae
+authors:
+- "Douglas McRae"
 categories:
 - News
 - Research + Tools

@@ -1,5 +1,7 @@
 ---
 author_name: Nate Sleeter
+authors:
+- "Nate Sleeter"
 categories:
 - News
 date: '2023-11-16T12:00:05Z'

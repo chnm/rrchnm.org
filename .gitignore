@@ -1,2 +1,5 @@
+node_modules/
 public/
-static/media
+.hugo_build.lock
+resources/_gen/
+static/media/

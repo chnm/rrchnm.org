@@ -2,6 +2,8 @@
 date: '2016-07-11T20:43:59Z'
 draft: false
 essay_author: Michael O'Malley
+authors:
+- "Michael O'Malley"
 essay_date: February 2000
 essay_publication_info: This article was originally published in <em>Inventio</em>
   2, 1 (February 2000) and is republished here with permission.

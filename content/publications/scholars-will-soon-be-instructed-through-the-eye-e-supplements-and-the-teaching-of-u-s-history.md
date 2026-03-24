@@ -2,6 +2,8 @@
 date: '2016-07-12T02:39:07Z'
 draft: false
 essay_author: David Jaffee
+authors:
+- "David Jaffee"
 essay_date: March 2003
 essay_publication_info: 'From <em>The Journal of American History</em> Vol. 89, Issue
   4 March 2003.<br>

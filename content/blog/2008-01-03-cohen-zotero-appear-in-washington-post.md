@@ -1,5 +1,7 @@
 ---
 author_name: Sean Takats
+authors:
+- "Sean Takats"
 categories:
 - News
 date: '2008-01-03T15:15:41Z'

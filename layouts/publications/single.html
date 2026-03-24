@@ -1,27 +1,20 @@
 {{ define "main" }}
-<article class="post-item rrchnm-essay-single">
-  <div class="card-inner">
-    {{ with .Params.featured_image }}
-    <div class="card-media">
-      <img src="{{ . }}" alt="{{ $.Title }}">
-    </div>
-    {{ end }}
-    <div class="card-content">
-      <div class="card-meta meta-top">
-        {{ with .Params.essay_author }}
-        <span class="meta-author">{{ . }}</span>
-        {{ end }}
-        {{ with .Params.essay_date }}
-        <span class="meta-date">{{ . }}</span>
-        {{ end }}
-        {{ with .Params.essay_publication_info }}
-        <span class="meta-pub">{{ . }}</span>
-        {{ end }}
-      </div>
-      <div class="card-text">
-        {{ .Content }}
-      </div>
-    </div>
+<article class="max-w-3xl">
+  {{/* Meta */}}
+  <div class="flex flex-wrap items-center gap-3 mb-8 text-sm">
+    {{ with .GetTerms "authors" }}{{ range . }}<a href="{{ .RelPermalink }}" class="text-stone-600 font-medium hover:text-red-brand transition-colors">{{ .LinkTitle }}</a>{{ end }}{{ end }}
+    {{ with .Params.essay_date }}<span class="text-stone-500">{{ . }}</span>{{ end }}
+    {{ with .Params.essay_publication_info }}<span class="text-stone-500 italic">{{ . }}</span>{{ end }}
+  </div>
+
+  {{ with .Params.featured_image }}
+  <div class="mb-8">
+    <img src="{{ . }}" alt="{{ $.Title }}" class="w-full rounded-lg">
+  </div>
+  {{ end }}
+
+  <div class="prose prose-stone max-w-none">
+    {{ .Content }}
   </div>
 </article>
 {{ end }}

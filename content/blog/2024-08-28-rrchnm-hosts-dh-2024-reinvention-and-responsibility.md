@@ -1,5 +1,7 @@
 ---
 author_name: Luz A. Giraldo Mueller
+authors:
+- "Luz A. Giraldo Mueller"
 categories:
 - News
 date: '2024-08-28T13:00:24Z'

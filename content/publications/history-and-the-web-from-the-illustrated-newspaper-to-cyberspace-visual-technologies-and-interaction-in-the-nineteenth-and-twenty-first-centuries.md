@@ -2,6 +2,8 @@
 date: '2016-07-12T02:23:52Z'
 draft: false
 essay_author: Joshua Brown
+authors:
+- "Joshua Brown"
 essay_date: June 2004
 essay_publication_info: This article was originally published in <em>Rethinking History</em>,
   Vol. 8, No. 2, June 2004.<a href="#N_1_"name="ref1"id="ref1"><sup>1</sup></a>

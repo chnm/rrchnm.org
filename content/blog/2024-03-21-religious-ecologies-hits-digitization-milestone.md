@@ -1,5 +1,7 @@
 ---
 author_name: Rachel Whyte
+authors:
+- "Rachel Whyte"
 categories:
 - News
 date: '2024-03-21T10:56:01Z'

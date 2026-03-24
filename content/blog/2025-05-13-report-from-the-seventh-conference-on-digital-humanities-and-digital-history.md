@@ -1,5 +1,7 @@
 ---
 author_name: Lauren Rever
+authors:
+- "Lauren Rever"
 categories:
 - News
 - Research + Tools

@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Public History
 date: '2022-04-06T15:52:17Z'
@@ -7,6 +11,11 @@ featured_image: /media/2022/04/thumbnail-child-custody-project-2.jpg
 lastmod: '2022-05-17T17:08:35Z'
 slug: child-custody-project
 title: Child Custody Project
+funders:
+- "Virginia Foundation for the Humanities"
+gallery:
+- "/media/2022/04/Child-Custody-Project-1-scaled.jpg"
+project_url: "https://childcustodyproject.org/"
 ---
 
 # Child Custody Project

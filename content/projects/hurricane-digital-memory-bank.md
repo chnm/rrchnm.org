@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Public History
 date: '2022-05-16T17:03:43Z'
@@ -7,6 +11,11 @@ featured_image: /media/2022/05/thumbnail-hurricane.jpg
 lastmod: '2022-05-18T11:31:46Z'
 slug: hurricane-digital-memory-bank
 title: Hurricane Digital Memory Bank
+funders:
+- "Alfred P. Sloan Foundation"
+gallery:
+- "/media/2022/05/Hurricane-Digital-Memory-Bank-1-scaled.jpg"
+project_url: "http://hurricanearchive.org"
 ---
 
 # Hurricane Digital Memory Bank

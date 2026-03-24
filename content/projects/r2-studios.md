@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Public History
 date: '2022-09-15T12:16:03Z'
@@ -7,6 +10,11 @@ featured_image: /media/2022/09/thumbnail-R2Studios-1.jpg
 lastmod: '2023-04-04T15:51:07Z'
 slug: r2-studios
 title: R2 Studios
+gallery:
+- "/media/2022/09/R2Studios-Homepage-scaled.jpg"
+- "/media/2022/09/R2Studios-Podcast-scaled.jpg"
+- "/media/2022/09/R2Studios-Reviews-scaled.jpg"
+project_url: "https://www.r2studios.org"
 ---
 
 # R2 Studios

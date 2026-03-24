@@ -2,6 +2,8 @@
 date: '2016-07-12T00:16:40Z'
 draft: false
 essay_author: Tracey Weiss
+authors:
+- "Tracey Weiss"
 essay_date: May 2001
 essay_publication_info: 'This article was originally published in <em>The History
   Teacher</em> 34, 3 (May 2001): 345-352 and is reprinted here with permission.'

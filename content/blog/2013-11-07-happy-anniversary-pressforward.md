@@ -1,5 +1,7 @@
 ---
 author_name: Joan Fragaszy Troyano
+authors:
+- "Joan Fragaszy Troyano"
 categories:
 - News
 date: '2013-11-07T13:30:48Z'

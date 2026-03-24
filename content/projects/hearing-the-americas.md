@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Public History
 date: '2023-04-04T15:49:11Z'
@@ -7,6 +10,11 @@ featured_image: /media/2023/04/HearingTheAmericas.jpg
 lastmod: '2023-04-04T15:59:16Z'
 slug: hearing-the-americas
 title: Hearing the Americas
+gallery:
+- "/media/2023/04/HearingTheAmericas-1-scaled.jpg"
+- "/media/2023/04/HearingTheAmericas-homepage-scaled.jpg"
+- "/media/2023/04/timeline-scaled.jpg"
+project_url: "https://hearingtheamericas.org"
 ---
 
 # Hearing the Americas

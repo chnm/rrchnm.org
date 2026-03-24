@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 date: '2022-04-06T16:42:00Z'
@@ -7,6 +11,13 @@ featured_image: /media/2022/04/thumbnail-discover-diplomacy.jpg
 lastmod: '2022-11-17T11:11:36Z'
 slug: discover-diplomacy
 title: Discover Diplomacy
+funders:
+- "United States Diplomacy Center"
+gallery:
+- "/media/2022/04/Discover-Diplomacy-2-scaled.jpg"
+- "/media/2022/04/Discover-Diplomacy-3-scaled.jpg"
+- "/media/2022/04/Discover-Diplomacy-4-scaled.jpg"
+project_url: "https://diplomacy.state.gov/discover-diplomacy/simulations/"
 ---
 
 # Discover Diplomacy

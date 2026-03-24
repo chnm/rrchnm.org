@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Public History
 date: '2022-05-17T11:08:38Z'
@@ -7,6 +11,10 @@ featured_image: /media/2022/05/thumbnail-resounding-the-archives.jpg
 lastmod: '2022-05-17T11:11:38Z'
 slug: resounding-the-archives
 title: ReSounding the Archives
+gallery:
+- "/media/2022/05/Resounding-the-Archives-1-scaled.jpg"
+- "/media/2022/05/Resounding-the-Archives-2-scaled.jpg"
+project_url: "http://resoundingthearchives.org"
 ---
 
 # ReSounding the Archives

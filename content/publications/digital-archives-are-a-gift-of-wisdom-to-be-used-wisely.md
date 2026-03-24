@@ -2,6 +2,8 @@
 date: '2016-07-12T02:30:53Z'
 draft: false
 essay_author: Roy Rosenzweig
+authors:
+- "Roy Rosenzweig"
 essay_date: June 2005
 essay_publication_info: Originally published in the <em>The Chronicle of Higher Education</em>,
   June 24,2005 Volume 51, Issue 42, Page B20 <a href="http://chronicle.com">http://chronicle.com</a>

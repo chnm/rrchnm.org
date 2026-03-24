@@ -1,5 +1,7 @@
 ---
 author_name: Greta Swain
+authors:
+- "Greta Swain"
 categories:
 - Teaching + Learning
 date: '2018-09-12T12:00:11Z'

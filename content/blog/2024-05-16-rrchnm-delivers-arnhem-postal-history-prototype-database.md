@@ -1,5 +1,7 @@
 ---
 author_name: Kristin Jacobsen
+authors:
+- "Kristin Jacobsen"
 categories:
 - News
 date: '2024-05-16T08:55:14Z'

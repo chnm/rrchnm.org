@@ -1,5 +1,7 @@
 ---
 author_name: Greta Swain
+authors:
+- "Greta Swain"
 categories:
 - News
 date: '2020-10-28T09:55:18Z'

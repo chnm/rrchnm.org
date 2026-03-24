@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Data Driven History
 - Public History
@@ -8,6 +12,13 @@ featured_image: /media/2022/05/thumbnail-Tropy.jpg
 lastmod: '2022-05-17T12:44:51Z'
 slug: tropy
 title: Tropy
+funders:
+- "Andrew W. Mellon Foundation"
+gallery:
+- "/media/2022/05/Tropy-1-scaled.jpg"
+- "/media/2022/05/Tropy-2-scaled.jpg"
+- "/media/2022/05/Tropy-3-1-scaled.jpg"
+project_url: "http://tropy.org"
 ---
 
 # Tropy

@@ -1,5 +1,7 @@
 ---
 author_name: Gwendolyn White
+authors:
+- "Gwendolyn White"
 categories:
 - Uncategorized
 - News

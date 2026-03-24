@@ -1,4 +1,6 @@
 ---
+
+
 categories:
 - Education
 - Public History
@@ -8,6 +10,8 @@ featured_image: /media/2022/04/thumbnail-graduate-certificate.jpg
 lastmod: '2025-05-20T13:58:31Z'
 slug: digital-public-humanities-graduate-certificate
 title: Digital Public Humanities Graduate Certificate
+gallery:
+project_url: "https://masononline.gmu.edu/programs/digital-public-humanities-graduate-certificate/"
 ---
 
 # Digital Public Humanities Graduate Certificate

@@ -1,19 +1,19 @@
-<div class="staff-card"
+<div class="staff-card group"
   data-modal-name="{{ .Title }}"
   data-modal-title="{{ .Params.job_title }}"
   data-modal-picture="{{ .Params.picture }}">
   <div class="staff-bio-data" hidden>{{ .Content }}</div>
-  {{ with .Params.picture }}
-  <button class="staff-card-trigger" aria-label="View {{ $.Title }} profile">
-    <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+  <button class="block w-full text-left cursor-pointer bg-transparent border-none p-0 staff-card-trigger" aria-label="View {{ .Title }} profile">
+    {{ with .Params.picture }}
+    <img src="{{ . }}" alt="Photo of {{ $.Title }}" loading="lazy" class="w-full aspect-square object-cover rounded-lg bg-stone-100">
+    {{ else }}
+    <div class="w-full aspect-square rounded-lg bg-stone-100" role="img" aria-label="No photo available for {{ $.Title }}"></div>
+    {{ end }}
   </button>
-  {{ else }}
-  <button class="staff-card-trigger" aria-label="View {{ $.Title }} profile">
-    <div class="staff-placeholder"></div>
-  </button>
-  {{ end }}
-  <div class="staff-card-info">
-    <h3><button class="staff-card-trigger staff-card-name-btn">{{ .Title }}</button></h3>
-    {{ with .Params.job_title }}<p>{{ . }}</p>{{ end }}
+  <div class="pt-3 text-center">
+    <h3 class="text-sm font-semibold text-stone-900">
+      <button class="staff-card-trigger bg-transparent border-none p-0 cursor-pointer font-semibold text-stone-900 hover:text-red-brand transition-colors" aria-label="View {{ .Title }} profile">{{ .Title }}</button>
+    </h3>
+    {{ with .Params.job_title }}<p class="text-xs text-stone-500 mt-0.5">{{ . }}</p>{{ end }}
   </div>
 </div>

@@ -1,113 +1,200 @@
 {{ define "main" }}
-{{/* Homepage - recreates Elementor layout with Hugo-native HTML */}}
 
-{{/* Hero Section */}}
-<section class="rrchnm-hero">
-  <div class="rrchnm-hero-inner container">
-    <div class="rrchnm-hero-content">
-      <h1 class="rrchnm-hero-title">Roy Rosenzweig Center for History and New Media</h1>
-      <p class="rrchnm-hero-subtitle">We use digital media and technology to democratize history: to incorporate multiple voices, reach diverse audiences, and encourage popular participation in presenting and preserving the past.</p>
-    </div>
-  </div>
-</section>
+{{/* Hero — bold, edge-to-edge, three columns */}}
+{{ $projects := where .Site.RegularPages "Section" "projects" }}
+{{ $featuredProjects := where $projects "Params.featured_project" true }}
+{{ $posts := where .Site.RegularPages "Section" "blog" }}
+<section class="-mx-6 lg:-mx-10 -mt-12 lg:-mt-16 mb-16 lg:mb-20 bg-white" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw;">
+  <div class="px-6 lg:px-16 xl:px-24 py-12 lg:py-16 mx-auto max-w-[1600px]">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-10 items-stretch">
 
-{{/* About Section */}}
-<section class="rrchnm-section rrchnm-about-section">
-  <div class="container">
-    <div class="rrchnm-two-col rrchnm-col-30-70">
-<div class="rrchnm-col-right rrchnm-red-left-border">
-        <span class="rrchnm-section-tagline">About Us</span>
-        <h2 class="rrchnm-section-title">Our Story</h2>
-        <p>The Roy Rosenzweig Center for History and New Media (RRCHNM) at George Mason University uses digital media and technology to democratize history.</p>
-        <a href="/our-story/" class="rrchnm-btn">Learn More</a>
+      {{/* Col 1 — Identity */}}
+      <div class="lg:col-span-4 flex flex-col">
+        <h1 class="font-serif text-3xl lg:text-4xl text-stone-900 leading-tight">
+          Roy Rosenzweig Center for History &amp; New Media
+        </h1>
+        <p class="mt-4 text-sm lg:text-base text-stone-600 leading-relaxed">
+          Using digital media and technology to democratize history &mdash; incorporating multiple voices, reaching diverse audiences, and encouraging popular participation in presenting and preserving the past.
+        </p>
+        <div class="flex-1"></div>
+        <div class="mt-6 flex gap-3">
+          <a href="/our-story/" class="inline-block bg-red-brand text-white text-sm font-semibold px-5 py-2.5 rounded-md hover:bg-red-dark transition-colors">About Us</a>
+          <a href="/our-work/" class="inline-block border-2 border-red-brand text-red-brand text-sm font-semibold px-5 py-2.5 rounded-md hover:bg-red-brand hover:text-white transition-colors">Our Work</a>
+        </div>
       </div>
-    </div>
-  </div>
-</section>
 
-{{/* Portfolio / Our Work Section */}}
-<section class="rrchnm-section rrchnm-portfolio-section" style="background-color: #FAFAFA;">
-  <div class="container">
-    <div class="rrchnm-section-header">
-      <span class="rrchnm-section-tagline">What We Do</span>
-      <h2 class="rrchnm-section-title">Our Work</h2>
-    </div>
-    <div class="project-list grid grid-cols-3">
-      <div class="grid-inner clear">
-        {{ range first 6 (where .Site.RegularPages "Section" "projects") }}
-        {{ $item := . }}
-        <article class="grid-item">
-          <div class="card-inner">
-            <div class="card-media">
-              {{ with .Params.featured_image }}
-              <a href="{{ $item.RelPermalink }}">
-                <img src="{{ . }}" alt="{{ $item.Title }}" loading="lazy">
-              </a>
-              {{ end }}
+      {{/* Col 2 — Rotating project showcase */}}
+      <div class="lg:col-span-5"
+        x-data="{ current: 0, total: {{ len ($featuredProjects) }}, timer: null, playing: true }"
+        x-init="timer = setInterval(() => { current = (current + 1) % total }, 5000)"
+        @keydown.space.prevent="playing ? (clearInterval(timer), playing = false) : (timer = setInterval(() => { current = (current + 1) % total }, 5000), playing = true)">
+        <div class="relative aspect-[4/3] overflow-hidden" aria-live="polite" aria-atomic="true">
+          {{ range $i, $p := $featuredProjects }}
+          {{ $item := $p }}
+          <a href="{{ $item.RelPermalink }}"
+            x-show="current === {{ $i }}"
+            x-transition:enter="transition ease-out duration-500"
+            x-transition:enter-start="opacity-0"
+            x-transition:enter-end="opacity-100"
+            x-transition:leave="transition ease-in duration-300"
+            x-transition:leave-start="opacity-100"
+            x-transition:leave-end="opacity-0"
+            class="absolute inset-0 block group/slide">
+            {{ with .Params.featured_image }}
+            <img src="{{ . }}" alt="{{ $item.Title }}" class="w-full h-full object-cover">
+            {{ end }}
+            <div class="absolute inset-x-0 bottom-0 bg-gradient-to-t from-stone-900/80 to-transparent pt-12 pb-4 px-4">
+              <span class="font-serif text-sm lg:text-base text-white leading-snug">{{ $item.Title }}</span>
             </div>
-            <div class="card-content">
-              <h5 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
-              {{ with .Params.categories }}
-              <div class="card-meta">
-                {{ range . }}<span class="meta-category">{{ . }}</span>{{ end }}
-              </div>
-              {{ end }}
-            </div>
-          </div>
-        </article>
-        {{ end }}
-      </div>
-    </div>
-    <div class="rrchnm-section-cta">
-      <a href="/our-work/" class="rrchnm-btn">View All Projects</a>
-    </div>
-  </div>
-</section>
-
-{{/* News Section */}}
-<section class="rrchnm-section rrchnm-news-section">
-  <div class="container">
-    <div class="rrchnm-section-header">
-      <span class="rrchnm-section-tagline">Latest</span>
-      <h2 class="rrchnm-section-title">News</h2>
-    </div>
-    <div class="post-list">
-      {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
-      {{ $post := . }}
-      <article class="post-item">
-        <div class="card-inner">
-          {{ with .Params.featured_image }}
-          <div class="card-media">
-            <a href="{{ $post.RelPermalink }}">
-              <img src="{{ . }}" alt="{{ $post.Title }}" loading="lazy">
-            </a>
-          </div>
+          </a>
           {{ end }}
-          <div class="card-content">
-            <div class="card-meta meta-top">
-              <span class="meta-date">{{ .Date.Format "January 2, 2006" }}</span>
-              {{ with .Params.categories }}
-              {{ range . }}<a class="meta-category" href="#">{{ . }}</a>{{ end }}
-              {{ end }}
-            </div>
-            <div class="card-text">
-              <h4 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
-              {{ with .Params.description }}<p class="card-excerpt">{{ . | truncate 160 }}</p>{{ end }}
-            </div>
-            <div class="card-meta meta-bottom">
-              <div class="meta-left">
-                <a class="read-more" href="{{ .RelPermalink }}">Read More</a>
-              </div>
-            </div>
+        </div>
+        {{/* Dots + pause control */}}
+        <div class="flex items-center gap-2 mt-3">
+          <button
+            @click="playing ? (clearInterval(timer), playing = false) : (timer = setInterval(() => { current = (current + 1) % total }, 5000), playing = true)"
+            :aria-label="playing ? 'Pause slideshow' : 'Play slideshow'"
+            class="w-5 h-5 text-stone-400 hover:text-stone-600 transition-colors shrink-0 cursor-pointer">
+            <svg x-show="playing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M6.75 5.25a.75.75 0 0 1 .75-.75H9a.75.75 0 0 1 .75.75v13.5a.75.75 0 0 1-.75.75H7.5a.75.75 0 0 1-.75-.75V5.25Zm7.5 0A.75.75 0 0 1 15 4.5h1.5a.75.75 0 0 1 .75.75v13.5a.75.75 0 0 1-.75.75H15a.75.75 0 0 1-.75-.75V5.25Z" clip-rule="evenodd" /></svg>
+            <svg x-show="!playing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M4.5 5.653c0-1.427 1.529-2.33 2.779-1.643l11.54 6.347c1.295.712 1.295 2.573 0 3.286L7.28 19.99c-1.25.687-2.779-.217-2.779-1.643V5.653Z" clip-rule="evenodd" /></svg>
+          </button>
+          <div class="flex gap-1.5" role="tablist" aria-label="Project slides">
+            {{ range $i, $p := $featuredProjects }}
+            <button
+              role="tab"
+              :aria-selected="(current === {{ $i }}).toString()"
+              aria-label="Show project {{ add $i 1 }}: {{ $p.Title }}"
+              @click="current = {{ $i }}; clearInterval(timer); playing && (timer = setInterval(() => { current = (current + 1) % total }, 5000))"
+              :class="current === {{ $i }} ? 'bg-red-brand' : 'bg-stone-300 hover:bg-stone-400'"
+              class="w-2.5 h-2.5 rounded-full transition-colors cursor-pointer">
+            </button>
+            {{ end }}
           </div>
         </div>
-      </article>
-      {{ end }}
-    </div>
-    <div class="rrchnm-section-cta">
-      <a href="/blog/" class="rrchnm-btn">View All Posts</a>
+      </div>
+
+      {{/* Col 3 — Latest posts */}}
+      <div class="lg:col-span-3 flex flex-col">
+        <p class="label text-stone-500 mb-4">The Latest</p>
+        {{ range $i, $p := first 2 $posts }}
+        {{ if $i }}<div class="border-t border-stone-200 my-4"></div>{{ end }}
+        <a href="{{ .RelPermalink }}" class="group block">
+          <h3 class="font-serif text-sm lg:text-base text-stone-900 leading-snug group-hover:text-red-brand transition-colors">{{ .Title }}</h3>
+          <div class="flex items-center justify-between mt-2">
+            <span class="text-xs text-stone-500">{{ .Date.Format "Jan 2, 2006" }}</span>
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 text-stone-400 group-hover:text-red-brand transition-colors" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" /></svg>
+          </div>
+        </a>
+        {{ end }}
+        <div class="flex-1"></div>
+        <div class="border-t border-stone-200 mt-4 pt-4">
+          <a href="/blog/" class="text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">All Posts &rarr;</a>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
+
+<hr class="border-t-2 border-red-brand/20 mb-16 lg:mb-24">
+
+{{/* Our Work */}}
+<section class="mb-16 lg:mb-24">
+  <div class="flex items-end justify-between mb-10">
+    <div>
+      <p class="label text-red-brand mb-3">What We Do</p>
+      <h2 class="font-serif text-3xl lg:text-4xl text-stone-900">Our Work</h2>
+    </div>
+    <a href="/our-work/" class="hidden sm:inline-block text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
+      View all &rarr;
+    </a>
+  </div>
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+    {{ range first 6 $projects }}
+    {{ $item := . }}
+    <article class="group">
+      {{ with .Params.featured_image }}
+      <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4" aria-hidden="true" tabindex="-1">
+        <img src="{{ . }}" alt="" loading="lazy" class="w-full aspect-[4/3] object-cover group-hover:scale-[1.03] transition-transform duration-300">
+      </a>
+      {{ end }}
+      <h3 class="font-serif text-lg text-stone-900">
+        <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
+      </h3>
+      {{ with .Params.categories }}
+      <div class="mt-1">
+        {{ range . }}<a href="/our-work/?category={{ . | urlquery }}" class="text-xs text-stone-500 hover:text-red-brand uppercase tracking-wide transition-colors">{{ . }}</a>{{ end }}
+      </div>
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>
+  <div class="mt-10 sm:hidden">
+    <a href="/our-work/" class="inline-block bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors">View All Projects</a>
+  </div>
+</section>
+
+<hr class="border-t-2 border-red-brand/20 mb-16 lg:mb-24">
+
+{{/* News */}}
+<section class="mb-8">
+  <div class="flex items-end justify-between mb-10">
+    <div>
+      <p class="label text-red-brand mb-3">Latest</p>
+      <h2 class="font-serif text-3xl lg:text-4xl text-stone-900">News</h2>
+    </div>
+    <a href="/blog/" class="hidden sm:inline-block text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
+      View all &rarr;
+    </a>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+    {{ range first 3 $posts }}
+    {{ $post := . }}
+    <article class="group">
+      {{ with .Params.featured_image }}
+      <a href="{{ $post.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4" aria-hidden="true" tabindex="-1">
+        <img src="{{ . }}" alt="" loading="lazy" class="w-full aspect-[3/2] object-cover group-hover:scale-[1.03] transition-transform duration-300">
+      </a>
+      {{ end }}
+      <div class="flex items-center gap-3 mb-2">
+        <span class="text-xs text-stone-500 uppercase tracking-wide">{{ .Date.Format "January 2, 2006" }}</span>
+        {{ with .Params.categories }}
+        {{ range first 1 . }}<span class="text-xs text-red-brand uppercase tracking-wide">{{ . }}</span>{{ end }}
+        {{ end }}
+      </div>
+      <h3 class="font-serif text-lg text-stone-900 leading-snug">
+        <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
+      </h3>
+    </article>
+    {{ end }}
+  </div>
+  <div class="mt-10 sm:hidden">
+    <a href="/blog/" class="inline-block bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors">View All News</a>
+  </div>
+</section>
+
+{{/* Newsletter + Donate CTAs — side by side */}}
+<div class="mt-16 lg:mt-24 mb-8 grid grid-cols-1 md:grid-cols-2 gap-6">
+  <div class="bg-stone-900 rounded-lg px-8 py-10 flex flex-col">
+    <div class="flex-1">
+      <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-red-brand mb-4" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" /></svg>
+      <h2 class="font-serif text-2xl text-white mb-2">Stay in the loop</h2>
+      <p class="text-stone-400 text-sm leading-relaxed">Get updates on our latest projects, events, and publications delivered to your inbox.</p>
+    </div>
+    <a href="{{ .Site.Params.newsletter_url }}" target="_blank" rel="noopener" class="inline-flex items-center gap-2 mt-6 bg-white hover:bg-stone-100 text-stone-900 text-sm font-semibold px-6 py-3 rounded-md transition-colors self-start">
+      Subscribe &rarr;
+    </a>
+  </div>
+  <div class="bg-stone-50 border border-stone-200 rounded-lg px-8 py-10 flex flex-col">
+    <div class="flex-1">
+      <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-red-brand mb-4" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z" /></svg>
+      <h2 class="font-serif text-2xl text-stone-900 mb-2">Support Our Work</h2>
+      <p class="text-stone-600 text-sm leading-relaxed">Your gift helps RRCHNM continue building free, open-access tools and resources that democratize history for everyone.</p>
+    </div>
+    <a href="{{ .Site.Params.donate_url }}" target="_blank" rel="noopener" class="inline-block mt-6 bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors self-start">
+      Donate Now &rarr;
+    </a>
+  </div>
+</div>
 
 {{ end }}

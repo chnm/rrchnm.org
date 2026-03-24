@@ -2,6 +2,8 @@
 date: '2016-07-12T03:51:24Z'
 draft: false
 essay_author: Kelly Schrum and T. Mills Kelly
+authors:
+- "Kelly Schrum and T. Mills Kelly"
 essay_date: '2008'
 essay_publication_info: 'New York: Bedford/St. Martin'
 lastmod: '2016-07-12T03:51:24Z'

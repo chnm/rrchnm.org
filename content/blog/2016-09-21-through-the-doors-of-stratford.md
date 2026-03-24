@@ -1,5 +1,7 @@
 ---
 author_name: Kelly Schrum
+authors:
+- "Kelly Schrum"
 categories:
 - Teaching + Learning
 date: '2016-09-21T06:10:16Z'

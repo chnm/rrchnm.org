@@ -6,33 +6,61 @@
   {{ partial "head.html" . }}
   <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 </head>
-<body  itemscope itemtype="https://schema.org/WebPage">
-  <div id="site-wrapper">
-    {{ partial "header.html" . }}
-    {{ partial "mobile-header.html" . }}
-    <div id="site-outer">
-      {{ if and (not .IsHome) (not .Params.hide_title) }}
-      {{ partial "page-title.html" . }}
-      {{ end }}
-      <div id="site-main" class="container">
-        {{ block "main" . }}{{ end }}
-      </div>
+<body itemscope itemtype="https://schema.org/WebPage">
+
+  <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[999] focus:bg-red-brand focus:text-white focus:px-4 focus:py-2 focus:rounded-md focus:text-sm focus:font-semibold">Skip to main content</a>
+
+  {{ partial "header.html" . }}
+  {{ partial "mobile-header.html" . }}
+
+  <main id="main-content">
+    {{ if and (not .IsHome) (not .Params.hide_title) (not (and (eq .Section "blog") .Params.featured_image)) (not (and (eq .Section "projects") .Params.featured_image)) }}
+    {{ partial "page-title.html" . }}
+    {{ end }}
+
+    <div class="mx-auto max-w-site px-6 lg:px-10 py-12 lg:py-16">
+      {{ block "main" . }}{{ end }}
     </div>
-    {{ partial "footer.html" . }}
-  </div>
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  {{/* Staff modal */}}
   <dialog id="staff-modal" aria-modal="true" aria-labelledby="staff-modal-name">
-    <button class="staff-modal-close" aria-label="Close">&times;</button>
-    <div class="staff-modal-inner">
-      <div class="staff-modal-photo-wrap">
-        <img id="staff-modal-photo" src="" alt="" loading="lazy">
-      </div>
-      <div class="staff-modal-body">
-        <h2 id="staff-modal-name"></h2>
-        <p id="staff-modal-job-title"></p>
-        <div id="staff-modal-bio"></div>
+    <div class="relative">
+      <button class="absolute top-3 right-4 text-stone-400 hover:text-red-brand text-2xl leading-none cursor-pointer p-1 bg-transparent border-none z-10" aria-label="Close">&times;</button>
+      <div class="flex gap-6 p-8 max-sm:flex-col">
+        <div class="shrink-0">
+          <img id="staff-modal-photo" src="" alt="" loading="lazy" class="w-40 h-40 object-cover rounded-lg max-sm:w-28 max-sm:h-28">
+        </div>
+        <div class="min-w-0">
+          <h2 id="staff-modal-name" class="text-xl font-serif font-semibold text-stone-900 mb-1"></h2>
+          <p id="staff-modal-job-title" class="text-red-brand text-sm mb-4"></p>
+          <div id="staff-modal-bio" class="text-sm leading-relaxed text-stone-600 prose prose-sm"></div>
+        </div>
       </div>
     </div>
   </dialog>
+
+  {{/* Search modal — Cmd-K / Ctrl-K */}}
+  <div id="fastSearch" class="fixed inset-0 z-[999] flex items-start justify-center pt-[15vh]" style="visibility: hidden; background: rgba(0,0,0,0.5);" role="dialog" aria-modal="true" aria-label="Site search" aria-hidden="true">
+    <div class="w-full max-w-xl mx-4 bg-white rounded-lg shadow-2xl overflow-hidden">
+      <div class="flex items-center gap-3 px-4 py-3 border-b border-stone-200">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-stone-400 shrink-0" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" /></svg>
+        <input id="searchInput" type="text" placeholder="Search RRCHNM..." class="flex-1 text-base text-stone-900 placeholder-stone-400 bg-transparent border-none outline-none" autocomplete="off" tabindex="0">
+        <kbd class="hidden sm:inline-flex items-center px-2 py-0.5 text-xs text-stone-400 bg-stone-100 rounded border border-stone-200 font-mono">ESC</kbd>
+      </div>
+      <ul id="searchResults" class="max-h-[50vh] overflow-y-auto list-none m-0 p-0"></ul>
+    </div>
+  </div>
+
+  {{/* Back to top */}}
+  <button id="back-to-top" aria-label="Back to top" class="fixed bottom-6 right-6 z-50 bg-white border border-stone-200 shadow-lg rounded-full p-3 text-stone-500 hover:text-red-brand hover:border-red-brand transition-all opacity-0 translate-y-4 pointer-events-none cursor-pointer">
+    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5" /></svg>
+  </button>
+
   {{ partial "scripts.html" . }}
+  {{ $searchJS := resources.Get "js/fastsearch.js" | fingerprint }}
+  <script src="{{ $searchJS.RelPermalink }}"></script>
 </body>
 </html>

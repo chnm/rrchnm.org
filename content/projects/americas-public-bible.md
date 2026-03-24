@@ -1,4 +1,5 @@
 ---
+
 categories:
 - Data Driven History
 date: '2024-05-09T16:20:27Z'
@@ -7,6 +8,15 @@ featured_image: /media/2024/05/apbfinal.jpg
 lastmod: '2024-05-09T16:36:04Z'
 slug: americas-public-bible
 title: America's Public Bible
+project_url: https://americaspublicbible.supdigital.org
+status: active
+affiliates:
+  - name: Lincoln Mullen
+    role: Principal Investigator
+funders:
+  - National Endowment for the Humanities
+featured_project: true
+gallery:
 ---
 
 # America's Public Bible

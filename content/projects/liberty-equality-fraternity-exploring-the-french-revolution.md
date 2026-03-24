@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Public History
 date: '2022-05-16T17:22:55Z'
@@ -7,6 +11,14 @@ featured_image: /media/2022/05/thumbnail-French-Revolution.jpg
 lastmod: '2022-05-25T15:32:33Z'
 slug: liberty-equality-fraternity-exploring-the-french-revolution
 title: 'Liberty, Equality, Fraternity: Exploring the French Revolution'
+funders:
+- "Florence Gould Foundation"
+- "National Endowment for the Humanities"
+gallery:
+- "/media/2022/05/Liberty-Equality-Fraternity-1-scaled.jpg"
+- "/media/2022/05/Liberty-Equality-Fraternity-2-scaled.jpg"
+- "/media/2022/05/Liberty-Equality-Fraternity-3-scaled.jpg"
+project_url: "http://revolution.chnm.org/"
 ---
 
 # Liberty, Equality, Fraternity: Exploring the French Revolution

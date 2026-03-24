@@ -1,5 +1,7 @@
 ---
 author_name: Lincoln Mullen
+authors:
+- "Lincoln Mullen"
 categories:
 - About RRCHNM
 date: '2022-08-26T14:00:00Z'

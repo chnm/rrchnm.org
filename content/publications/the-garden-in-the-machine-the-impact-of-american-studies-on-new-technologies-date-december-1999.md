@@ -2,6 +2,8 @@
 date: '2016-07-11T23:03:48Z'
 draft: false
 essay_author: Randy Bass
+authors:
+- "Randy Bass"
 essay_date: December 1999
 essay_publication_info: This essay is undergoing revision. (Constructive) comments
   may be sent to the author. Unpublished essay, reprinted with permission from <a

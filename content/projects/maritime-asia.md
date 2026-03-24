@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Education
 - Public History
@@ -8,6 +11,10 @@ featured_image: /media/2022/05/thumbnail-maritime.jpg
 lastmod: '2022-05-17T09:48:51Z'
 slug: maritime-asia
 title: Maritime Asia
+gallery:
+- "/media/2022/05/Maritime-Asia-1-scaled.jpg"
+- "/media/2022/05/Maritime-Asia-2-scaled.jpg"
+project_url: "http://maritime-asia.org"
 ---
 
 # Maritime Asia

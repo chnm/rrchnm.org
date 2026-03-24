@@ -1,4 +1,6 @@
 ---
+
+
 categories:
 - Public History
 date: '2024-01-19T15:14:49Z'
@@ -7,6 +9,8 @@ featured_image: /media/2024/01/Worlds_1080x1080.jpg
 lastmod: '2025-09-03T15:29:07Z'
 slug: worlds-turned-upside-down
 title: Worlds Turned Upside Down
+gallery:
+project_url: "https://podcasts.rrchnm.org/show/worlds-turned-upside-down/"
 ---
 
 # Worlds Turned Upside Down

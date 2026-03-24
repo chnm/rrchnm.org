@@ -2,6 +2,8 @@
 date: '2016-07-11T20:54:20Z'
 draft: false
 essay_author: Kelly Schrum
+authors:
+- "Kelly Schrum"
 essay_date: May 2003
 essay_publication_info: This article was originally published in <em>AHA Perspectives</em>
   (May 2003) and is reprinted here with permission.

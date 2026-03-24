@@ -1,5 +1,7 @@
 ---
 author_name: Brandon Tachco
+authors:
+- "Brandon Tachco"
 categories:
 - News
 - Partnerships

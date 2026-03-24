@@ -1,5 +1,7 @@
 ---
 author_name: Sean Takats
+authors:
+- "Sean Takats"
 categories:
 - News
 date: '2018-10-22T11:30:53Z'

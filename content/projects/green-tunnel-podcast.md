@@ -1,4 +1,6 @@
 ---
+
+
 categories:
 - Public History
 date: '2022-05-16T16:06:58Z'
@@ -7,6 +9,8 @@ featured_image: /media/2022/05/GMU_Green-Tunnel-Podcast-Graphic-Final-01-2-01.jp
 lastmod: '2025-09-03T15:23:34Z'
 slug: green-tunnel-podcast
 title: The Green Tunnel Podcast
+gallery:
+project_url: "https://podcasts.rrchnm.org/show/the-green-tunnel/"
 ---
 
 # The Green Tunnel Podcast

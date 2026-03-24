@@ -2,6 +2,8 @@
 date: '2016-07-11T20:40:14Z'
 draft: false
 essay_author: Paula Petrik
+authors:
+- "Paula Petrik"
 essay_date: May 2000
 essay_publication_info: This article was originally published in <em>History Computer
   Review</em> (May 2000) and is reprinted with permission.

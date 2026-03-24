@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 - Public History
@@ -8,6 +12,12 @@ featured_image: /media/2022/04/thumbnail-creating-local-linkages.jpg
 lastmod: '2022-05-17T13:40:33Z'
 slug: creating-local-linkages
 title: Creating Local Linkages
+funders:
+- "Institute of Museum and Library Services"
+gallery:
+- "/media/2022/04/Creating-Local-Linkages-1-scaled.jpg"
+- "/media/2022/04/Creating-Local-Linkages-2-scaled.jpg"
+project_url: "https://locallinkages.org/"
 ---
 
 # Creating Local Linkages

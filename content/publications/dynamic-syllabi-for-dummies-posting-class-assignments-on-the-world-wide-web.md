@@ -2,6 +2,8 @@
 date: '2016-07-12T00:45:36Z'
 draft: false
 essay_author: Gary J. Kornblith
+authors:
+- "Gary J. Kornblith"
 essay_date: March 1998
 essay_publication_info: 'This article was originally published in <i>Journal of American
   History</i> 84, 4 (March 1998): 1447-53 and is reprinted here with permission.'

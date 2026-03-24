@@ -1,4 +1,6 @@
 ---
+
+
 categories:
 - Data Driven History
 date: '2024-05-09T16:35:26Z'
@@ -7,6 +9,9 @@ featured_image: /media/2024/05/harlemfinalTRUE.jpg
 lastmod: '2024-05-09T16:43:24Z'
 slug: harlem-in-disorder
 title: Harlem in Disorder
+featured_project: true
+gallery:
+project_url: "https://harlemindisorder.org/"
 ---
 
 # Harlem in Disorder

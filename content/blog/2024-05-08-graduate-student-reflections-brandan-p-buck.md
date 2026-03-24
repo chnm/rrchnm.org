@@ -2,6 +2,8 @@
 aliases:
 - /news/graduate-student-reflections-brandon-p-buck/
 author_name: Brandan Buck
+authors:
+- "Brandan Buck"
 categories:
 - News
 - Teaching + Learning

@@ -1,5 +1,7 @@
 ---
 author_name: Gwendolyn White
+authors:
+- "Gwendolyn White"
 categories:
 - News
 date: '2016-12-05T14:32:01Z'

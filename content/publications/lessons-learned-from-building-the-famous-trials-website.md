@@ -2,6 +2,8 @@
 date: '2016-07-11T21:25:40Z'
 draft: false
 essay_author: Douglas Linder
+authors:
+- "Douglas Linder"
 essay_date: January 2001
 essay_publication_info: This article was originally published in <em>The Jurist </em>(January
   2001) and is reprinted here with permission.

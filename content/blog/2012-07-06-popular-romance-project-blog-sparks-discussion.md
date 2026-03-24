@@ -3,6 +3,8 @@ aliases:
 - /news/1769/
 - /news/1769/
 author_name: RRCHNM
+authors:
+- "RRCHNM"
 categories:
 - News
 date: '2012-07-06T11:06:30Z'

@@ -1,4 +1,6 @@
 ---
+
+
 categories:
 - Public History
 date: '2024-05-09T16:56:09Z'
@@ -7,6 +9,8 @@ featured_image: /media/2024/05/AntiSemitism-USA.png
 lastmod: '2025-09-03T15:24:17Z'
 slug: antisemitism-usa
 title: Antisemitism, U.S.A.
+gallery:
+project_url: "https://podcasts.rrchnm.org/show/Antisemitism-USA/"
 ---
 
 # Antisemitism, U.S.A.: A History

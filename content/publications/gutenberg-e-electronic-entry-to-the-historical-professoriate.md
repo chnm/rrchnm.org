@@ -2,6 +2,8 @@
 date: '2016-07-12T02:27:35Z'
 draft: false
 essay_author: Patrick Manning
+authors:
+- "Patrick Manning"
 essay_date: December 2004
 essay_publication_info: 'Originally published in <em>American Historical Review</em>,
   December 2004

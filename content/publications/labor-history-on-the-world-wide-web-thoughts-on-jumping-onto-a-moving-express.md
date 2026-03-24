@@ -2,6 +2,8 @@
 date: '2016-07-11T21:08:28Z'
 draft: false
 essay_author: Thomas Dublin
+authors:
+- "Thomas Dublin"
 essay_date: August 2002
 essay_publication_info: 'This article was originally published in <em>Labor History</em>
   43, 3 (August 2002): 343-56 and is reprinted here with permission.'

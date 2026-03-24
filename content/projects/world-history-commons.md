@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 date: '2022-05-17T13:03:49Z'
@@ -7,6 +11,15 @@ featured_image: /media/2022/05/WHC-thumbnail.jpg
 lastmod: '2022-05-17T13:05:53Z'
 slug: world-history-commons
 title: World History Commons
+funders:
+- "American Council of Learned Societies"
+- "National Endowment for the Humanities"
+gallery:
+- "/media/2022/05/WHC-flyer-scaled-1.jpg"
+- "/media/2022/05/WHC-mobile-scaled-1.jpg"
+- "/media/2022/05/WHC-postcard-scaled-1.jpg"
+- "/media/2022/05/World-History-Commons-2-scaled.jpg"
+project_url: "http://worldhistorycommons.org"
 ---
 
 # World History Commons

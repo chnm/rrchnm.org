@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 - Public History
@@ -8,6 +12,13 @@ featured_image: /media/2022/03/thumbnail-amboyna.jpg
 lastmod: '2024-01-19T14:33:22Z'
 slug: amboyna-conspiracy-trial
 title: Amboyna Conspiracy Trial
+funders:
+- "Monash University"
+gallery:
+- "/media/2022/03/amboyna-1-scaled.jpg"
+- "/media/2022/03/amboyna-2-scaled.jpg"
+- "/media/2022/03/amboyna-3-scaled.jpg"
+project_url: "http://amboyna.org"
 ---
 
 # Amboyna Conspiracy Trial

@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 date: '2022-05-17T11:37:29Z'
@@ -7,6 +11,11 @@ featured_image: /media/2022/05/thumbnail-teaching-history.jpg
 lastmod: '2022-05-17T11:37:52Z'
 slug: teachinghistory-org
 title: Teachinghistory.org
+gallery:
+- "/media/2022/05/Teaching-History-1-scaled.jpg"
+- "/media/2022/05/Teaching-History-2-scaled.jpg"
+- "/media/2022/05/Teaching-History-3-scaled.jpg"
+project_url: "http://teachinghistory.org"
 ---
 
 # Teachinghistory.org

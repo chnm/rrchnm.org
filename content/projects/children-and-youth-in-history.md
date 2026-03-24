@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 - Public History
@@ -8,6 +12,11 @@ featured_image: /media/2022/04/thumbnail-children-and-youth-1.jpg
 lastmod: '2022-05-17T16:36:56Z'
 slug: children-and-youth-in-history
 title: Children and Youth in History
+funders:
+- "National Endowment for the Humanities"
+gallery:
+- "/media/2022/04/Children-and-Youth-in-History-1-scaled.jpg"
+project_url: "https://chnm.gmu.edu/cyh/"
 ---
 
 # Children and Youth in History

@@ -2,6 +2,8 @@
 date: '2016-07-12T03:53:16Z'
 draft: false
 essay_author: Kelly Schrum
+authors:
+- "Kelly Schrum"
 essay_date: '2008'
 essay_publication_info: 'New York: Bedford/St. Martin'
 lastmod: '2016-07-12T03:53:16Z'

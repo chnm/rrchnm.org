@@ -1,4 +1,6 @@
 ---
+
+
 categories:
 - Public History
 date: '2024-01-19T14:59:22Z'
@@ -7,6 +9,8 @@ featured_image: /media/2024/01/R2_Your-Most-Obedient-Humble-Servant_Cover_1080x1
 lastmod: '2025-09-03T15:26:17Z'
 slug: your-most-obedient-humble-servant
 title: Your Most Obedient & Humble Servant
+gallery:
+project_url: "https://podcasts.rrchnm.org/show/your-most-obedient-humble-servant/"
 ---
 
 # Your Most Obedient & Humble Servant

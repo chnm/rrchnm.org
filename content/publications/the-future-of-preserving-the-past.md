@@ -2,6 +2,8 @@
 date: '2016-07-12T03:11:09Z'
 draft: false
 essay_author: Daniel J. Cohen
+authors:
+- "Daniel J. Cohen"
 essay_date: June 2005
 essay_publication_info: 'This article was originally published in <em>CRM: The Journal
   of Heritage Stewardship</em> 2, 2 (Summer, 2005): 6&ndash;19 and is reprinted here

@@ -2,6 +2,8 @@
 date: '2016-07-12T02:34:18Z'
 draft: false
 essay_author: Daniel J. Cohen
+authors:
+- "Daniel J. Cohen"
 essay_date: March 2005
 essay_publication_info: Originally published in <em>The Journal of American History</em>,
   March 2005, Volume 91, No.4

@@ -2,6 +2,8 @@
 date: '2016-07-11T21:18:56Z'
 draft: false
 essay_author: Roy Rosenzweig
+authors:
+- "Roy Rosenzweig"
 essay_date: September 2001
 essay_publication_info: 'This article was originally published in <em>Journal of American
   History</em> 88, 2 (September 2001): 548-579 and is reprinted here with permission.'

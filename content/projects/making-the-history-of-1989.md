@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Public History
 date: '2022-05-16T17:35:28Z'
@@ -7,6 +11,12 @@ featured_image: /media/2022/05/thumbnail-1989.jpg
 lastmod: '2022-05-18T10:57:01Z'
 slug: making-the-history-of-1989
 title: Making the History of 1989
+funders:
+- "National Endowment for the Humanities"
+gallery:
+- "/media/2022/05/Making-of-History-1-scaled.jpg"
+- "/media/2022/05/Making-of-History-2-scaled.jpg"
+project_url: "http://chnm.gmu.edu/1989/"
 ---
 
 # Making the History of 1989

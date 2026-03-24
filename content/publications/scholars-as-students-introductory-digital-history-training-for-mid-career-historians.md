@@ -2,6 +2,8 @@
 date: '2016-07-12T03:55:01Z'
 draft: false
 essay_author: Sharon M. Leon and Sheila A. Brennan
+authors:
+- "Sharon M. Leon and Sheila A. Brennan"
 essay_date: August 2015
 essay_publication_info: white paper, <a href="http://hdl.handle.net/1920/9825"> http://hdl.handle.net/1920/9825
   </a>

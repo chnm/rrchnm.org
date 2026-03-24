@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Data Driven History
 date: '2022-04-06T16:17:01Z'
@@ -7,6 +11,12 @@ featured_image: /media/2022/04/thumbnail-death-by-numbers.jpg
 lastmod: '2022-05-17T16:19:45Z'
 slug: death-by-numbers
 title: Death By Numbers
+featured_project: true
+funders:
+- "National Science Foundation"
+gallery:
+- "/media/2022/04/Death-By-Numbers-1-scaled.jpg"
+project_url: "https://deathbynumbers.org/"
 ---
 
 # Death By Numbers

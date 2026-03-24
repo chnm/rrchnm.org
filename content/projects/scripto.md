@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Data Driven History
 - Public History
@@ -8,6 +11,10 @@ featured_image: /media/2022/05/thumbnail-scripto-3.jpg
 lastmod: '2022-05-17T11:19:57Z'
 slug: scripto
 title: Scripto
+gallery:
+- "/media/2022/05/Scripto-1-scaled.jpg"
+- "/media/2022/05/Scripto-2-scaled.jpg"
+project_url: "http://scripto.org"
 ---
 
 # Scripto

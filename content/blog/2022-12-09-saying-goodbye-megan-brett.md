@@ -1,5 +1,7 @@
 ---
 author_name: Jessica Otis
+authors:
+- "Jessica Otis"
 categories:
 - News
 date: '2022-12-09T12:00:00Z'

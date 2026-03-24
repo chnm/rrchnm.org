@@ -1,4 +1,8 @@
 ---
+
+
+
+
 categories:
 - Education
 date: '2022-05-16T16:35:04Z'
@@ -7,6 +11,9 @@ featured_image: /media/2022/05/thumbnail-hidden-in-plain-sight.jpg
 lastmod: '2022-05-18T10:47:05Z'
 slug: hidden-in-plain-sight
 title: Hidden in Plain Sight
+gallery:
+- "/media/2022/05/Hidden-in-Plain-Sight-1-scaled.jpg"
+project_url: "http://hipshistory.org/"
 ---
 
 # Hidden in Plain Sight

@@ -1,5 +1,7 @@
 ---
 author_name: RRCHNM
+authors:
+- "RRCHNM"
 categories:
 - Teaching + Learning
 date: '2018-09-27T09:40:05Z'

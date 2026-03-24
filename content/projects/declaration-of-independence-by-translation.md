@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Education
 - Public History
@@ -8,6 +11,9 @@ featured_image: /media/2022/04/thumbnail-independence.jpg
 lastmod: '2022-05-18T10:00:29Z'
 slug: declaration-of-independence-by-translation
 title: Declaration of Independence by Translation
+gallery:
+- "/media/2022/04/declaration-of-independence-scaled.jpg"
+project_url: "https://chnm.gmu.edu/declaration/"
 ---
 
 # Declaration of Independence by Translation

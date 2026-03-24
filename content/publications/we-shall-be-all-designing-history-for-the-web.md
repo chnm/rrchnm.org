@@ -2,6 +2,8 @@
 date: '2016-07-11T20:46:56Z'
 draft: false
 essay_author: Paula Petrik
+authors:
+- "Paula Petrik"
 essay_date: '1999'
 essay_publication_info: 'Note: This presentation is part of a longer, more developed
   essay that is still in progress. As such, it does not contain the usual full complement

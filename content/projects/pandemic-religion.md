@@ -1,4 +1,7 @@
 ---
+
+
+
 categories:
 - Public History
 date: '2022-05-17T10:23:58Z'
@@ -7,6 +10,9 @@ featured_image: /media/2022/05/thumbnail-pandemic-religion.jpg
 lastmod: '2022-05-18T10:57:42Z'
 slug: pandemic-religion
 title: Pandemic Religion
+gallery:
+- "/media/2022/05/Pandemic-Religion-4-scaled.jpg"
+project_url: "http://pandemicreligion.org"
 ---
 
 # Pandemic Religion
