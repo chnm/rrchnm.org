@@ -5,15 +5,13 @@ essay_author: David Jaffee
 authors:
 - "David Jaffee"
 essay_date: March 2003
-essay_publication_info: 'From <em>The Journal of American History</em> Vol. 89, Issue
-  4 March 2003.<br>
+essay_publication_info: 'From <em>The Journal of American History</em> Vol. 89, Issue 4 March 2003.<br>
 
-  Presented online in association with the History Cooperative. <a href="http://www.historycooperative.org">http://www.historycooperative.org</a><br><a
-  href="http://www.historycooperative.org/journals/jah/89.4/jaffee.html">http://www.historycooperative.org/journals/jah/89.4/jaffee.html</a>'
+  Presented online in association with the History Cooperative. <a href="http://www.historycooperative.org">http://www.historycooperative.org</a><br><a href="http://www.historycooperative.org/journals/jah/89.4/jaffee.html">http://www.historycooperative.org/journals/jah/89.4/jaffee.html</a>'
 lastmod: '2016-07-12T02:39:07Z'
 slug: scholars-will-soon-be-instructed-through-the-eye-e-supplements-and-the-teaching-of-u-s-history
-title: '''Scholars will soon be instructed through the eye'': E-Supplements and the
-  Teaching of U.S. History'
+title: '''Scholars will soon be instructed through the eye'': E-Supplements and the Teaching of U.S. History'
+pub_date: '2003'
 ---
 
 A visit to the book exhibit at the 2002 annual meeting of the Organization of American Historians left me thinking that I had stumbled upon a CompUSA store rather than a gathering of professional historians. Strolling through the aisles I found a multitude of high-tech equipment, including flat-panel monitors, digital projectors, and laptop computers. What was going on? Publishers had their rows of new monographs and their displays of colorfully covered U.S. history texts, of course–staples of exhibits for decades–but they also featured numerous CD-ROMs and online resources. Some of the exhibited items were historical databases for research purposes, such as The *Trans-Atlantic Slave Trade* CD-ROM published by Cambridge University Press and Harvard University's W. E. B. Du Bois Center, but the bulk of digital resources on display were for teachers, especially teachers of the U.S. history survey course. Are we witnessing a transformative moment in the history of textbook publishing, as many champions of educational technology would have us believe? Or is something less far-reaching and more problematic perhaps at hand? What does the entry of digital history into the college classroom portend for how we teach and for how students learn?[1](#N_1_)

@@ -5,12 +5,11 @@ essay_author: Gary J. Kornblith
 authors:
 - "Gary J. Kornblith"
 essay_date: March 1998
-essay_publication_info: 'This article was originally published in <i>Journal of American
-  History</i> 84, 4 (March 1998): 1447-53 and is reprinted here with permission.'
+essay_publication_info: 'This article was originally published in <i>Journal of American History</i> 84, 4 (March 1998): 1447-53 and is reprinted here with permission.'
 lastmod: '2016-07-12T00:45:36Z'
 slug: dynamic-syllabi-for-dummies-posting-class-assignments-on-the-world-wide-web
-title: '''Dynamic Syllabi for Dummies'': Posting Class Assignments on the World Wide
-  Web'
+title: '''Dynamic Syllabi for Dummies'': Posting Class Assignments on the World Wide Web'
+pub_date: '1998'
 ---
 
 As my friends at the Irvin E. Houck Computing Center at Oberlin College, where I teach, can attest, I am not a geek. I never fiddled with the "autoexec.bat" file on my old DOS computer, I do not know any hard-core programming languages, and I still have trouble remembering which combination of keys to hit when an application freezes. Without question, my three children (ages nine to thirteen) are more comfortable with computers than I am or ever will be. But that very fact has spurred my fascination with educational technology. The coming generation of students will arrive at colleges and universities with many years of experience using computers for education, communication, and entertainment. To ignore or willfully deny this historical transformation is foolhardy, I believe, if we wish to reach and teach these students effectively. Whatever personal ambivalence we may feel about computers, we need to prepare ourselves for the brave new world of bits, bytes, network protocols, and a glut of Internet resources.

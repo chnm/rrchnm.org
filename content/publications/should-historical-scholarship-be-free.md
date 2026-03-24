@@ -5,11 +5,11 @@ essay_author: Roy Rosenzweig
 authors:
 - "Roy Rosenzweig"
 essay_date: April 2005
-essay_publication_info: From the Vice Presidents column in AHA <i>Perspectives</i>
-  (April 2005), reprinted here with permission.
+essay_publication_info: From the Vice Presidents column in AHA <i>Perspectives</i> (April 2005), reprinted here with permission.
 lastmod: '2016-07-11T20:36:38Z'
 slug: should-historical-scholarship-be-free
 title: Should Historical Scholarship Be Free?
+pub_date: '2005'
 ---
 
 On February 3, 2005, the National Institutes of Health (NIH) issued a new policy on "Enhancing Public Access to . . . NIH-Funded Research." It urges NIH-funded researchers to make all their peer-reviewed journal articles available for free to everyone through a central repository called "PubMed Central," within 12 months of publication in a journal. Although the original force of the initiative was diluted through industry lobbying, the NIH measure represents government recognition of the principle that research, especially government-supported research, belongs to the public, which should not have to pay the prohibitively high subscription charges levied by many

@@ -5,11 +5,11 @@ essay_author: T. Mills Kelly
 authors:
 - "T. Mills Kelly"
 essay_date: November 2001
-essay_publication_info: This article was originally published in <em>AHA Perspectives</em>
-  (November 2001) and is reprinted here with permission.
+essay_publication_info: This article was originally published in <em>AHA Perspectives</em> (November 2001) and is reprinted here with permission.
 lastmod: '2016-07-11T23:07:53Z'
 slug: toward-transparency-in-teaching-publishing-a-course-portfolio
 title: 'Toward Transparency in Teaching: Publishing a Course Portfolio'
+pub_date: '2001'
 ---
 
 During the 1999–2000 academic year I devoted a large part of my research energy to an attempt to understand better what happens when we introduce hypermedia into an introductory history survey course. How do new media change student understanding of course content? Do hypermedia improve or detract from students' ability to acquire a greater facility with historical methods? Might using hypermedia in a survey course give students new or different insights into something we like to call "historical thinking"?

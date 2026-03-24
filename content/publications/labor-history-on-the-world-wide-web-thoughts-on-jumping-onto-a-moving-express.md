@@ -5,11 +5,11 @@ essay_author: Thomas Dublin
 authors:
 - "Thomas Dublin"
 essay_date: August 2002
-essay_publication_info: 'This article was originally published in <em>Labor History</em>
-  43, 3 (August 2002): 343-56 and is reprinted here with permission.'
+essay_publication_info: 'This article was originally published in <em>Labor History</em> 43, 3 (August 2002): 343-56 and is reprinted here with permission.'
 lastmod: '2016-07-11T21:08:28Z'
 slug: labor-history-on-the-world-wide-web-thoughts-on-jumping-onto-a-moving-express
 title: 'Labor History on the World Wide Web: Thoughts on Jumping onto a Moving Express'
+pub_date: '2002'
 ---
 
 The World Wide Web has undergone remarkable expansion of late and this growth poses challenges to all historians. In an article published recently in the *Journal of American History*, Roy Rosenzweig offered a variety of measures of that growth: the Online Computer Library Center, for instance, reported a fivefold increase in unique web sites between 1997 and 2000, estimating some 7.1 million sites in October 2000; the Search engine Google indexed some 1.3 billion web pages, a figure that now exceeds 1.6 billion as this article is being written (November-December 2001); searchable databases on the World Wide Web, not accessible to conventional search engines, by some estimates total 550 billion web pages.[(1)](#N_1_) As historians we are all used to some version of the information explosion, but this is really too much! What sense can labor historians make of the vast new resources now accessible on the World Wide Web, and how can we best draw on these resources for our research and teaching? It is difficult to climb up on a moving train, but climb on this express we must. And while no one can claim to "keep up" with the rapidly changing state of the World Wide Web, it is important to take stock of some of the more important resources available on the web and to consider strategies for keeping abreast of this information explosion.

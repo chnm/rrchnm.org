@@ -5,12 +5,11 @@ essay_author: Michael Jon Jensen
 authors:
 - "Michael Jon Jensen"
 essay_date: March 2006
-essay_publication_info: This essay was originally presented as the Keynote Speech
-  at the Illinois Association of College and Research Libraries (IACRL) Biannual Meeting,
-  Bloomington/Normal, IL, March 30, 2006.
+essay_publication_info: This essay was originally presented as the Keynote Speech at the Illinois Association of College and Research Libraries (IACRL) Biannual Meeting, Bloomington/Normal, IL, March 30, 2006.
 lastmod: '2016-07-12T03:16:59Z'
 slug: evolution-intelligent-design-climate-change-and-the-scholarly-ecosystem
 title: Evolution, Intelligent Design, Climate Change, and the Scholarly Ecosystem
+pub_date: '2006'
 ---
 
 I'd like to thank Dane and the organizing committee for the invitation to speak to you today. It's a rare treat to be able to address such a large audience of engaged participants in scholarly communications.

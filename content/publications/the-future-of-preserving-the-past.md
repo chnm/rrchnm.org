@@ -5,12 +5,11 @@ essay_author: Daniel J. Cohen
 authors:
 - "Daniel J. Cohen"
 essay_date: June 2005
-essay_publication_info: 'This article was originally published in <em>CRM: The Journal
-  of Heritage Stewardship</em> 2, 2 (Summer, 2005): 6&ndash;19 and is reprinted here
-  with permission.'
+essay_publication_info: 'This article was originally published in <em>CRM: The Journal of Heritage Stewardship</em> 2, 2 (Summer, 2005): 6&ndash;19 and is reprinted here with permission.'
 lastmod: '2016-07-12T03:11:09Z'
 slug: the-future-of-preserving-the-past
 title: The Future of Preserving the Past
+pub_date: '2005'
 ---
 
 Consider the effort expended to save a rich and representative historical record of perhaps the two most tragic days in American history in the past century: December 7, 1941, and September 11, 2001. The National Archives preserved military photographs of the chaos at Pearl Harbor on December 7 as well as communications and damage assessments. The Office of Naval Records and Library recorded the names of those who died or were wounded. Meanwhile, other government branches and institutions undertook more wide-ranging preservation activities. The Library of Congress acquired the annotated typescript of the National Broadcasting Corporation's breaking news account. In addition to saving military records, the National Archives catalogued the reactions of government officials in public announcements and private correspondence. The National Park Service administers the *USS Arizona* Memorial of Pearl Harbor in Hawaii to preserve the underwater remains of the ship, while providing visitors a sense of the day's events and repercussions.

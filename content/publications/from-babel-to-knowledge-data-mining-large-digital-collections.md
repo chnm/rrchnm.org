@@ -5,11 +5,11 @@ essay_author: Daniel J. Cohen
 authors:
 - "Daniel J. Cohen"
 essay_date: March 2006
-essay_publication_info: "This article was originally published in <em> \t\nD-Lib Magazine</em>\
-  \ Volume 12, Number 3 (March, 2006): 6-19 and is reprinted here with permission."
+essay_publication_info: "This article was originally published in <em> \t\nD-Lib Magazine</em>\ \ Volume 12, Number 3 (March, 2006): 6-19 and is reprinted here with permission."
 lastmod: '2016-07-12T03:14:23Z'
 slug: from-babel-to-knowledge-data-mining-large-digital-collections
 title: 'From Babel to Knowledge: Data Mining Large Digital Collections'
+pub_date: '2006'
 ---
 
 In Jorge Luis Borges's curious short story *The Library of Babel*, the narrator describes an endless collection of books stored from floor to ceiling in a labyrinth of countless hexagonal rooms. The pages of the library's books seem to contain random sequences of letters and spaces; occasionally a few intelligible words emerge in the sea of paper and ink. Nevertheless, readers diligently, and exasperatingly, scan the shelves for coherent passages. The narrator himself has wandered numerous rooms in search of enlightenment, but with resignation he simply awaits his death and burial - which Borges explains (with signature dark humor) consists of being tossed unceremoniously over the library's banister.

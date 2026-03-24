@@ -5,11 +5,11 @@ essay_author: Roy Rosenzweig
 authors:
 - "Roy Rosenzweig"
 essay_date: June 2005
-essay_publication_info: Originally published in the <em>The Chronicle of Higher Education</em>,
-  June 24,2005 Volume 51, Issue 42, Page B20 <a href="http://chronicle.com">http://chronicle.com</a>
+essay_publication_info: Originally published in the <em>The Chronicle of Higher Education</em>, June 24,2005 Volume 51, Issue 42, Page B20 <a href="http://chronicle.com">http://chronicle.com</a>
 lastmod: '2016-07-12T02:30:53Z'
 slug: digital-archives-are-a-gift-of-wisdom-to-be-used-wisely
 title: Digital Archives Are a Gift of Wisdom to Be Used Wisely
+pub_date: '2005'
 ---
 
 "What's the big deal?" was the grumpy question of a fellow participant in a workshop at the Library of Congress in the summer of 1996. The library was showing off its still very new digital archive, which it had dubbed American Memory. The workshop aimed to show how the Web-based repository of photographs, documents, newspapers, films, maps, and sounds could transform teaching. My colleague, who taught at a major research university, was unpersuaded. "I'd rather send students to the library," he announced.

@@ -5,12 +5,11 @@ essay_author: Joshua Brown
 authors:
 - "Joshua Brown"
 essay_date: June 2004
-essay_publication_info: This article was originally published in <em>Rethinking History</em>,
-  Vol. 8, No. 2, June 2004.<a href="#N_1_"name="ref1"id="ref1"><sup>1</sup></a>
+essay_publication_info: This article was originally published in <em>Rethinking History</em>, Vol. 8, No. 2, June 2004.<a href="#N_1_"name="ref1"id="ref1"><sup>1</sup></a>
 lastmod: '2016-07-12T02:23:52Z'
 slug: history-and-the-web-from-the-illustrated-newspaper-to-cyberspace-visual-technologies-and-interaction-in-the-nineteenth-and-twenty-first-centuries
-title: 'History and the Web, From the Illustrated Newspaper to Cyberspace: Visual
-  Technologies and Interaction in the Nineteenth and Twenty-First Centuries'
+title: 'History and the Web, From the Illustrated Newspaper to Cyberspace: Visual Technologies and Interaction in the Nineteenth and Twenty-First Centuries'
+pub_date: '2004'
 ---
 
 This article is a self-critical, historically informed progress report to assess ways that different forms of visual media admit and frustrate public expression and education. Reviewing more than a decade of digital projects produced by the American Social History Project and its collaborators, I consider ways that the design of visual digital projects may provide opportunities for active learning on the part of users and a renewed dialogue between new media producers and consumers. Some of the clues to creative interactivity in the new visual media of the present may be found by referring back 150 years to the visual technol-ogies of the past.

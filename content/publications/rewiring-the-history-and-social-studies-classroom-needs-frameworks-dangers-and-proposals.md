@@ -5,13 +5,11 @@ essay_author: Randy Bass and Roy Rosenzweig
 authors:
 - "Randy Bass and Roy Rosenzweig"
 essay_date: December 1999
-essay_publication_info: 'This article was originally published as White Paper for
-  Department of Education, Forum on Technology in K-12 Education: Envisioning a New
-  Future, December 1, 1999 and is reprinted here with permission.'
+essay_publication_info: 'This article was originally published as White Paper for Department of Education, Forum on Technology in K-12 Education: Envisioning a New Future, December 1, 1999 and is reprinted here with permission.'
 lastmod: '2016-07-12T02:17:25Z'
 slug: rewiring-the-history-and-social-studies-classroom-needs-frameworks-dangers-and-proposals
-title: 'Rewiring the History and Social Studies Classroom: Needs, Frameworks, Dangers,
-  and Proposals'
+title: 'Rewiring the History and Social Studies Classroom: Needs, Frameworks, Dangers, and Proposals'
+pub_date: '1999'
 ---
 
 Within five years of Alexander Graham Bell's first display of his telephone at the 1876 Centennial Exposition, Scientific American promised that the new device would bring a greater "kinship of humanity" and "nothing less than a new organization of society." Others were less sanguine, worrying that telephones would spread germs through the wires, destroy local accents, and give authoritarian governments a listening box in the homes of their subjects. The Knights of Columbus fretted that phones might wreck home life, stop people from visiting friends, and create a nation of slugs who would not stir from their desks.[2](#_edn2)

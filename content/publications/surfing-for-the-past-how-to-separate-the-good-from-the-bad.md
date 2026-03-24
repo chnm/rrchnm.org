@@ -5,11 +5,11 @@ essay_author: Kelly Schrum
 authors:
 - "Kelly Schrum"
 essay_date: May 2003
-essay_publication_info: This article was originally published in <em>AHA Perspectives</em>
-  (May 2003) and is reprinted here with permission.
+essay_publication_info: This article was originally published in <em>AHA Perspectives</em> (May 2003) and is reprinted here with permission.
 lastmod: '2016-07-11T20:54:20Z'
 slug: surfing-for-the-past-how-to-separate-the-good-from-the-bad
 title: 'Surfing for the Past: How to Separate the Good from the Bad'
+pub_date: '2003'
 ---
 
 ![](http://chnm.gmu.edu/images/harappa.jpg)The Internet has become a vast, rich, and primarily free library. With the right website addresses or search strategies, you can quickly access a wealth of primary sources for studying almost any historical topic. For example, [Harappa](http://www.harappa.com) provides a comprehensive introduction to the ancient Indus culture as well as a rich collection of nineteenth-and twentieth-

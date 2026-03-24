@@ -5,12 +5,11 @@ essay_author: Roy Rosenzweig
 authors:
 - "Roy Rosenzweig"
 essay_date: June 2006
-essay_publication_info: 'This article was originally published in <em>The Journal
-  of American History</em> Volume 93, Number 1 (June, 2006): 117-46 and is reprinted
-  here with permission.'
+essay_publication_info: 'This article was originally published in <em>The Journal of American History</em> Volume 93, Number 1 (June, 2006): 117-46 and is reprinted here with permission.'
 lastmod: '2016-07-12T03:18:54Z'
 slug: can-history-be-open-source-wikipedia-and-the-future-of-the-past
 title: Can History be Open Source? Wikipedia and the Future of the Past
+pub_date: '2006'
 ---
 
 History is a deeply individualistic craft. The singly authored work is the standard for the profession; only about 6 percent of the more than 32,000 scholarly works indexed since 2000 in this journal's comprehensive bibliographic guide, "Recent Scholarship," have more than one author. Works with several authors—common in the sciences—are even harder to find. Fewer than 500 (less than 2 percent) have three or more authors.[1](#f1)

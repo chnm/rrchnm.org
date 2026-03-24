@@ -5,12 +5,11 @@ essay_author: Tracey Weiss
 authors:
 - "Tracey Weiss"
 essay_date: May 2001
-essay_publication_info: 'This article was originally published in <em>The History
-  Teacher</em> 34, 3 (May 2001): 345-352 and is reprinted here with permission.'
+essay_publication_info: 'This article was originally published in <em>The History Teacher</em> 34, 3 (May 2001): 345-352 and is reprinted here with permission.'
 lastmod: '2016-07-12T00:16:40Z'
 slug: evaluating-websites-for-history-teachers-using-history-matters-in-a-graduate-seminar
-title: 'Evaluating Websites for History Teachers: Using History Matters in a Graduate
-  Seminar'
+title: 'Evaluating Websites for History Teachers: Using History Matters in a Graduate Seminar'
+pub_date: '2001'
 ---
 
 This past fall I taught a graduate research seminar at Millersville University on "History and Media." My grand objective in the course was to engage graduate students in an inquiry-based investigation:

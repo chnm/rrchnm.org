@@ -5,11 +5,11 @@ essay_author: Michael O'Malley and Roy Rosenzweig
 authors:
 - "Michael O'Malley and Roy Rosenzweig"
 essay_date: June 1997
-essay_publication_info: This article was originally published in <em>Journal Of American
-  History</em> 84, 1 (June 1997) and is republished here with permission.
+essay_publication_info: This article was originally published in <em>Journal Of American History</em> 84, 1 (June 1997) and is republished here with permission.
 lastmod: '2016-07-11T21:41:12Z'
 slug: brave-new-world-or-blind-alley-american-history-on-the-world-wide-web
 title: Brave New World or Blind Alley? American History on the World Wide Web
+pub_date: '1997'
 ---
 
 In August 1995 Netscape Communications Corporation went public at twenty-eight dollars a share; that fall, it briefly reached a peak of $174–an incredible figure for a company making no real profits and whose best-known product was essentially free. Even at year's end, when the share price settled around $130, its market capitalization was more than five billion dollars–greater than the combined market value of the *New York Times* Corporation and United Airlines. Netscape's skyrocketing stock price reflected the sudden discovery by investors and the general public of the Internet, the global network of connected computers that communicate with each other by following a common set of protocols. In November 1969 the Internet's predecessor, the Arpanet (named after its funder, the United States Department of Defense's Advanced Research Projects Agency), consisted of just two specially designed communications computers located in Los Angeles and Palo Alto, California. Its initial users were scientists and technical people, particularly those with Defense Department connections. But in the 1980s and 1990s the Internet rapidly became a broadly accessed medium that began to rival the telephone and post office in importance.[1](#1)

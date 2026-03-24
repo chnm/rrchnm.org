@@ -5,12 +5,11 @@ essay_author: T. Mills Kelly
 authors:
 - "T. Mills Kelly"
 essay_date: July 2006
-essay_publication_info: 'This article was originally published in <em>World History
-  Connected</em> 3.3 (2006): 22 pars. 24 Jul. 2006 <http://worldhistoryconnected.press.uiuc.edu/3.3/kelly.html>
-  and is reprinted here with permission.'
+essay_publication_info: 'This article was originally published in <em>World History Connected</em> 3.3 (2006): 22 pars. 24 Jul. 2006 <http://worldhistoryconnected.press.uiuc.edu/3.3/kelly.html> and is reprinted here with permission.'
 lastmod: '2016-07-12T03:31:43Z'
 slug: the-role-of-technology-in-world-history-teaching
 title: The Role of Technology in World History Teaching
+pub_date: '2006'
 ---
 
 When we think about the role of digital media in the teaching and learning of World History it is appropriate to begin with some historical context. The challenges inherent in teaching a broad historical survey course have been well recognized and debated for more than a century at least. In a report issued by the American Historical Association in 1906 on the first year college history course, Charles Homer Haskins wrote, "The most difficult question which now confronts the college teacher in history seems, by general agreement, to be the first year of the college course."[1](#_ftn1) All of us who teach (or have taught) introductory survey courses know that few truer words have ever been written. How one presents hundreds or even thousands of years of factual content, while at the same introducing students to historians' many methodological approaches to the interpretation of these facts is difficult enough in a survey of the history of one state or national culture. Instead of trying to make the problem more manageable, we have made the task more difficult for ourselves by broadening or focus to include the entire world.

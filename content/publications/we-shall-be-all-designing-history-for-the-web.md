@@ -5,15 +5,11 @@ essay_author: Paula Petrik
 authors:
 - "Paula Petrik"
 essay_date: '1999'
-essay_publication_info: 'Note: This presentation is part of a longer, more developed
-  essay that is still in progress. As such, it does not contain the usual full complement
-  of scholarly apparatus or all the arguments and examples of the extended version.
-  Although you may refer to the presentation in general, please do not quote from
-  this iteration of the essay. You may also find the pieces at my web site (http://www.archiva.net)
-  helpful for discussions of information, aesthetic, and technical design.'
+essay_publication_info: 'Note: This presentation is part of a longer, more developed essay that is still in progress. As such, it does not contain the usual full complement of scholarly apparatus or all the arguments and examples of the extended version. Although you may refer to the presentation in general, please do not quote from this iteration of the essay. You may also find the pieces at my web site (http://www.archiva.net) helpful for discussions of information, aesthetic, and technical design.'
 lastmod: '2016-07-11T20:46:56Z'
 slug: we-shall-be-all-designing-history-for-the-web
 title: '''We Shall Be All'': Designing History for the Web'
+pub_date: '1999'
 ---
 
 Before I begin to talk about history and the web, I need set some boundaries. Instead of examining jeremiads in which professors are turned into digital piece workers and books disappear or conversion chronicles in which digital zealots bear witness to anything with high bits, I want to move into the middle ground. Armed with common sense, a good deal of practical experience, and Occam's Razor, I wish to descend from the lofty world of management vision statements to the academy's shop floor and explore some of the thinking about technology and teaching common in colleges and universities. These are the premises and arguments, both informed and misinformed, that faculty must sort through on a day to day basis as they cope with the educational e-world.

@@ -5,11 +5,11 @@ essay_author: Daniel J. Cohen
 authors:
 - "Daniel J. Cohen"
 essay_date: March 2005
-essay_publication_info: Originally published in <em>The Journal of American History</em>,
-  March 2005, Volume 91, No.4
+essay_publication_info: Originally published in <em>The Journal of American History</em>, March 2005, Volume 91, No.4
 lastmod: '2016-07-12T02:34:18Z'
 slug: by-the-book-assessing-the-place-of-textbooks-in-u-s-survey-courses
 title: 'By the Book: Assessing the Place of Textbooks in U.S. Survey Courses'
+pub_date: '2005'
 ---
 
 In a round table published in the *Journal of American History* four years ago, professors from ten different colleges and universities spoke of the thoughtful, creative ways they approached the design of their American history survey courses. Most suggested that the textbook was of secondary importance, mainly used to supply background information to students, and they highlighted the pedagogical role of additional readings. Yet a study of nearly eight hundred syllabi posted on the World Wide Web reveals that the round table discussion may not be representative of how the survey is taught at most colleges and universities in the United States. Many U.S. history instructors appear to take a more pedestrian, by-the-book approach. They depend heavily on a textbook, on a textbook-based course's favorite type of graded work–the examination–and on the conventional ways of teaching American history that a textbook enshrines. Those findings lend a dark tone to the proclamation that Sara Evans and Roy Rosenzweig made in introducing the "Textbooks and Teaching" section of this journal in 1992: "Textbooks are the single most important written source through which college students learn about the past."[1](#N_1_)

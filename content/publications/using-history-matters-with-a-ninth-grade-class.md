@@ -5,11 +5,11 @@ essay_author: David Kobrin
 authors:
 - "David Kobrin"
 essay_date: May 2001
-essay_publication_info: 'This article was originally published in <em>The History
-  Teacher</em> 34, 3 (May 2001): 339-344 and is reprinted here with permission.'
+essay_publication_info: 'This article was originally published in <em>The History Teacher</em> 34, 3 (May 2001): 339-344 and is reprinted here with permission.'
 lastmod: '2016-07-11T23:20:59Z'
 slug: using-history-matters-with-a-ninth-grade-class
 title: Using 'History Matters' with a Ninth-Grade Class
+pub_date: '2001'
 ---
 
 I wander around the computer lab watching my ninth grade class, all of whom appear absorbed by what they are discovering on the Internet. Even the sometimes frustrating hunt for new information seems to fascinate them. Occasionally one student calls across the room to another when she stumbles on a new site that might be helpful to someone else. Or students ask me for help in making sense of what they are finding, or in determining whether a site is trustworthy, or in searching for sources on their topic. It's like a community of scholars, I think, except that they are ninth graders in a United States history class in a Jewish Day School in Rockville, Maryland, all of whom carry a double load of classes. (They must takes courses in Jewish subjects, like Rabbinics and Bible, in addition to the usual high school schedule.) If I forget to give a "two minute warning" before the bell rings so that they can save, log off, and figure out their homework for that night, they work through the bell. They have lost track of time. It's not exactly my doing as their teacher, much as it pleases me to create projects and watch them learn. It's the Internet; and sites like <http://www.historymatters.gmu.edu> that help make the Internet safe and accessible for ninth graders.

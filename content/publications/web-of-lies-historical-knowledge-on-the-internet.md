@@ -5,11 +5,11 @@ essay_author: Daniel J. Cohen and Roy Rosenzweig
 authors:
 - "Daniel J. Cohen and Roy Rosenzweig"
 essay_date: December 2005
-essay_publication_info: This essay originally appeared in <i>First Monday</i>, December
-  2005.
+essay_publication_info: This essay originally appeared in <i>First Monday</i>, December 2005.
 lastmod: '2016-07-12T03:06:27Z'
 slug: web-of-lies-historical-knowledge-on-the-internet
 title: Web of lies? Historical knowledge on the Internet
+pub_date: '2005'
 ---
 
 **Abstract:** Scholars in history (as well as other fields in the humanities) have generally taken a dim view of the state of knowledge on the Web, pointing to the many inaccuracies on Web pages written by amateurs. A new software agent called H-Bot scans the Web for historical facts, and shows how the Web may indeed include many such inaccuracies–while at the same time being extremely accurate when assessed as a whole through statistical means that are alien to the discipline of history. These mathematical methods and other algorithms drawn from the computational sciences also suggest new techniques for historical research and new approaches to teaching history in an age in which an increasingly significant portion of the past has been digitized.

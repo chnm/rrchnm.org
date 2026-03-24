@@ -5,11 +5,11 @@ essay_author: Michael O'Malley
 authors:
 - "Michael O'Malley"
 essay_date: February 2000
-essay_publication_info: This article was originally published in <em>Inventio</em>
-  2, 1 (February 2000) and is republished here with permission.
+essay_publication_info: This article was originally published in <em>Inventio</em> 2, 1 (February 2000) and is republished here with permission.
 lastmod: '2016-07-11T20:43:59Z'
 slug: building-effective-course-sites-some-thoughts-on-design-for-academic-work
 title: 'Building Effective Course Sites: Some Thoughts on Design for Academic Work'
+pub_date: '2000'
 ---
 
 While some faculty may still dismiss the internet as an annoying fad, they stand on the edge of what Thomas Kuhn famously called a "paradigm" shift. Like it or not, academics beginning in this decade will surely finish their careers in a digital age. Digital technology promises to reshape the way we do our research our writing and our publication, but its most notable impact to date has been on teaching.

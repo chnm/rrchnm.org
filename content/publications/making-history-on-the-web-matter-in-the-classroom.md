@@ -5,11 +5,11 @@ essay_author: Kelly Schrum
 authors:
 - "Kelly Schrum"
 essay_date: May 2001
-essay_publication_info: 'This article was originally published in <em>The History
-  Teacher</em> 34, 3 (May 2001): 327-338 and is reprinted here with permission.'
+essay_publication_info: 'This article was originally published in <em>The History Teacher</em> 34, 3 (May 2001): 327-338 and is reprinted here with permission.'
 lastmod: '2016-07-11T23:27:03Z'
 slug: making-history-on-the-web-matter-in-the-classroom
 title: Making History on the Web  Matter in the Classroom
+pub_date: '2001'
 ---
 
 One of your students wants to research American consumer culture in the twentieth-century as an independent research project. The student knows that there are many resources available, and tries a search on one of the most sophisticated search engines. This turns up more than 250,000 results, beginning with Cyberattic, an antique site, and a guitar magazine. A similar search on another popular search engine yields more than 46,000 results, including a list of "great" buildings from the 1980s and a policy funding report. Frustrated, the student consults you and you suggest a search on *History Matters: The U.S. Survey Course on the Web*. The student runs a search on "Postwar U.S." and "Consumer Culture." The results include two Web-based archives that provide excellent, reliable resources for this project. Ad\* Access, created by the Digital Scriptorum at Duke University, presents more than 7,000 United States advertisements from 1911 to 1955, covering radio, television, transportation, beauty and hygiene, and World War II. The Library of Congress American Memory website, Fifty Years of Coca-Cola Television Advertisements, contains fifty commercials and broadcast outtakes, as well as experimental footage. Together, these sites allow the student to begin her study of twentieth-century consumer culture, perhaps inspiring her to compare print and television advertisements or to analyze the impact of changes in content, technique, and technology. By using History Matters, the student is able to focus on the materials rather than on the Web search and can conduct exciting research with primary materials that were largely unavailable to high school students, and even many university undergraduates, before the spread of the Internet.[1](#_edn1)

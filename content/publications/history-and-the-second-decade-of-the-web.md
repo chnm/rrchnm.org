@@ -5,18 +5,13 @@ essay_author: Daniel J. Cohen
 authors:
 - "Daniel J. Cohen"
 essay_date: June 2004
-essay_publication_info: 'Originally published in <em>Rethinking History</em>
-
-  Vol.8, No.2, June 2004, pp. 293-301'
+essay_publication_info: 'Originally published in <em>Rethinking History</em> Vol.8, No.2, June 2004, pp. 293-301'
 lastmod: '2016-07-12T02:36:34Z'
 slug: history-and-the-second-decade-of-the-web
 title: History and the Second Decade of the Web
+abstract: "More than ten years of experience with the web has allowed us to understand what the medium does well and what it does poorly, and how we may improve online historical efforts so they capitalize on the web's strengths while avoiding its weaknesses. This essay explores three possible ways to advance digital history: interaction between historians and their subjects, interoperation of dispersed historical archives, and the analysis of online resources using computationalmethods. Thinking about such possibilities raises important, age-old questions about how we should preserve and chronicle the past."
+pub_date: '2004'
 ---
-
-*More than ten years of experience with the web has allowed us to understand what the medium does well and what it does poorly, and how we may improve online historical efforts so they capitalize on the web's strengths while avoiding its weaknesses. This essay explores three possible ways to advance digital history: interaction between historians and their subjects, interoperation of dispersed historical archives, and the analysis of online resources using computational
-methods. Thinking about such possibilities raises important, age-old questions about how we should preserve and chronicle the past.*
-
-Keywords: Digital history; Data-mining; Interoperability; XML; Archives
 
 With the World Wide Web now in its second decade of existence, and with the euphoria of the dot-com era now well behind us, it is a good time to reflect on what historians have been able to do in this still immature medium and how in the next decade of its existence we can better make use of it. Generally a conservative bunch in terms of the adoption of new technology (if not in political inclination), historians have, mostly for better but surely on occasion for worse, incorporated the medium into their work over the past ten years. For the most part using the web–it seems appropriate in our post-bubble sobriety to drop the grandiose alliterative phrase as well as the capitalization–has meant the posting of materials for courses, exhibitions, independent work and collaborations, as well as the communication of news and views from all corners of the discipline. Websites have flourished on almost every conceivable historical topic, created by historians from within and beyond the academy.
 

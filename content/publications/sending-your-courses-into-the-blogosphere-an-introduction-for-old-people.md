@@ -5,11 +5,11 @@ essay_author: T. Mills Kelly
 authors:
 - "T. Mills Kelly"
 essay_date: August 2006
-essay_publication_info: 'This article originally appeared in the August 2006 issue
-  of <em>NewsNet</em> 46/4 (August 2006): 49-52 and is reprinted here with permission.'
+essay_publication_info: 'This article originally appeared in the August 2006 issue of <em>NewsNet</em> 46/4 (August 2006): 49-52 and is reprinted here with permission.'
 lastmod: '2016-07-12T03:39:17Z'
 slug: sending-your-courses-into-the-blogosphere-an-introduction-for-old-people
 title: 'Sending Your Courses into the Blogosphere: An Introduction for "Old People"'
+pub_date: '2006'
 ---
 
 Not long ago, one of our graduate students at George Mason University gave me some bad news. During a conversation with undergraduates in a class she teaches, a student told her that email was "just a way to stay in touch with old people." The other students in the room agreed–you know…old people…like professors.

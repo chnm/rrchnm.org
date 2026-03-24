@@ -5,11 +5,11 @@ essay_author: Carl Smith
 authors:
 - "Carl Smith"
 essay_date: February 1998
-essay_publication_info: This article was originally published in <em>AHA Perspectives</em>
-  (February 1998) and is reprinted here with permission.
+essay_publication_info: This article was originally published in <em>AHA Perspectives</em> (February 1998) and is reprinted here with permission.
 lastmod: '2016-07-11T21:32:03Z'
 slug: can-you-do-serious-history-on-the-web
 title: Can You Do Serious History on the Web?
+pub_date: '1998'
 ---
 
 Many who write and teach history have been intrigued and even excited by the proliferation of historical web sites that keep materializing out of the ether. They increasingly use the Internet as a research tool, and, like their colleagues in other fields, historians have constructed, sometimes in collaboration with web designers, on-line reference guides and collections of materials on numerous subjects. History instructors are also preparing electronic syllabi that provide links to some digitized resources that would be difficult to assign by other means. In some courses students submit web-based projects of their own or work with others on the creation of a site on a particular topic. Such sites can continue to grow with succeeding offerings of the same class, and they can serve a much larger and more widespread audience than the students currently enrolled.

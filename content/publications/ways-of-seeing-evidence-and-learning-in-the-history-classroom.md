@@ -5,12 +5,11 @@ essay_author: Michael Coventry, Peter Felten, David Jaffee, Cecilia O'Leary, and
 authors:
 - "Michael Coventry, Peter Felten, David Jaffee, Cecilia O'Leary, and Tracey Weis, with Susannah McGowan"
 essay_date: March 2006
-essay_publication_info: This article originally appeared in the March 2006 issue of
-  <em>The Journal of American History</em> Volume 92, Number 4(March, 2006):1371-1402
-  and is reprinted here with permission.
+essay_publication_info: This article originally appeared in the March 2006 issue of <em>The Journal of American History</em> Volume 92, Number 4(March, 2006):1371-1402 and is reprinted here with permission.
 lastmod: '2016-07-12T03:23:47Z'
 slug: ways-of-seeing-evidence-and-learning-in-the-history-classroom
 title: 'Ways of Seeing: Evidence and Learning in the History Classroom'
+pub_date: '2006'
 ---
 
 This article is a collaborative essay by five historians who have worked together since 2000 on the Visible Knowledge Project (VKP): Michael Coventry of Georgetown University; Peter Felten of Elon University; David Jaffee of the City College of New York and the Graduate Center, City University of New York; Cecilia O'Leary of California State University, Monterey Bay; and Tracey Weis of Millersville University. Directed by Randy Bass of Georgetown University and co-directed by Bret Eynon of LaGuardia Community College, the VKP "aims to improve the quality of college and university teaching through a focus on both student learning and faculty development in technology-enhanced environments." In the original published article, Gary J. Kornblith and Carol Lasser noted, "As the authors explain, questions of teaching and learning quickly became central to their thinking about how to engage their students in using visuals and new media to develop a sophisticated approach to history. Bringing new forms of evidence and analysis into their history classrooms helped them not only to promote the cognitive processes they sought to foster in novice learners but also to understand better the methods we use as historians in our research and writing for others in the profession. We expect that JAH readers, whether novice, skeptic, or expert in the scholarship of teaching and learning, will find these reports from the field stimulating and provocative as they seek to convey more effectively to their students, and to the larger public of which they are a part, what it is we do when we do American history."[\*](#f*) 

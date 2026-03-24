@@ -5,11 +5,11 @@ essay_author: Douglas Linder
 authors:
 - "Douglas Linder"
 essay_date: January 2001
-essay_publication_info: This article was originally published in <em>The Jurist </em>(January
-  2001) and is reprinted here with permission.
+essay_publication_info: This article was originally published in <em>The Jurist </em>(January 2001) and is reprinted here with permission.
 lastmod: '2016-07-11T21:25:40Z'
 slug: lessons-learned-from-building-the-famous-trials-website
 title: Lessons Learned from Building  the Famous Trials Website
+pub_date: '2001'
 ---
 
 In 1996, when I began work on the Famous Trials Website, I understood that putting a site on the Internet is no guarantee that it will attract a wide audience. "It's like colonizing a planet in outer space," someone told me. "You might create a beautiful world, but how likely is it people will find it and stop by to visit?" I knew that students in my Seminar in Famous Trials would use my site–I'd make them–but how about the many other people from ages nine to ninety that I knew could benefit from learning about the most compelling trials in history?

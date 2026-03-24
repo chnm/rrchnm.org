@@ -5,11 +5,11 @@ essay_author: Paula Petrik
 authors:
 - "Paula Petrik"
 essay_date: May 2000
-essay_publication_info: This article was originally published in <em>History Computer
-  Review</em> (May 2000) and is reprinted with permission.
+essay_publication_info: This article was originally published in <em>History Computer Review</em> (May 2000) and is reprinted with permission.
 lastmod: '2016-07-11T20:40:14Z'
 slug: top-ten-mistakes-in-academic-web-design
 title: Top Ten Mistakes in Academic Web Design
+pub_date: '2000'
 ---
 
 Faculty usually make their first foray into integrating technology into their teaching by putting their syllabus on the Web. Putting a syllabus into digital format renders it accessible to students and solves a number of logistical and routine problems for the instructor. A smaller number of higher education folk mount entire courses on-line, both for distance education and for traditional course enhancements. Presently, there are enough of these examples to make some comments about the usability of these sites and where they are going wrong. So, with a tip of the hat to David Letterman and Jakob Neilsen, the top ten mistakes in academic web design are:

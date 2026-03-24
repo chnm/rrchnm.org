@@ -5,12 +5,11 @@ essay_author: Roy Rosenzweig
 authors:
 - "Roy Rosenzweig"
 essay_date: March 1995
-essay_publication_info: 'This article was originally published in <em>The <em>Journal
-  of American History</em> </em>81, 4 (March 1995): 1621-1640 and is reprinted here
-  with permission.'
+essay_publication_info: 'This article was originally published in <em>The <em>Journal of American History</em> </em>81, 4 (March 1995): 1621-1640 and is reprinted here with permission.'
 lastmod: '2016-07-12T00:51:52Z'
 slug: so-whats-next-for-clio-cd-rom-and-historians
 title: '''So, What''s Next for Clio?'' CD-ROM and Historians'
+pub_date: '1995'
 ---
 
 #### Introduction

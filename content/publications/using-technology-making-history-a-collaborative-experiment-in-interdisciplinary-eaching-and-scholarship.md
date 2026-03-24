@@ -5,12 +5,11 @@ essay_author: Brian Dennis, Carl Smith, and Jonathan Smith
 authors:
 - "Brian Dennis, Carl Smith, and Jonathan Smith"
 essay_date: June 2004
-essay_publication_info: Originally published in <em>Rethinking History</em> Vol.8,
-  No.2, June 2004, pp.303-317<a href="#N_1_"name="ref1"id="ref1"><sup>1</sup></a>
+essay_publication_info: Originally published in <em>Rethinking History</em> Vol.8, No.2, June 2004, pp.303-317<a href="#N_1_"name="ref1"id="ref1"><sup>1</sup></a>
 lastmod: '2016-07-12T03:03:12Z'
 slug: using-technology-making-history-a-collaborative-experiment-in-interdisciplinary-eaching-and-scholarship
-title: 'Using Technology, Making History: A Collaborative Experiment in Interdisciplinary
-  Teaching and Scholarship'
+title: 'Using Technology, Making History: A Collaborative Experiment in Interdisciplinary Teaching and Scholarship'
+pub_date: '2004'
 ---
 
 Since the summer of 2002, the three of us at Northwestern–a historian

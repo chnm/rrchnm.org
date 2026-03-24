@@ -9,6 +9,7 @@ essay_publication_info: 'New York: Bedford/St. Martin'
 lastmod: '2016-07-12T03:51:24Z'
 slug: an-introduction-to-world-history-research-online
 title: An Introduction to World History Research Online
+pub_date: '2008'
 ---
 
 Please see the below link to a PDF file for the article.

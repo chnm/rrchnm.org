@@ -5,11 +5,11 @@ essay_author: Orville Vernon Burton
 authors:
 - "Orville Vernon Burton"
 essay_date: July 2005
-essay_publication_info: This article was originally published in <em>Social Science
-  Computer Review</em>, Vol. 23 No. 2, Summer 2005 206-220, reprinted here with permission.
+essay_publication_info: This article was originally published in <em>Social Science Computer Review</em>, Vol. 23 No. 2, Summer 2005 206-220, reprinted here with permission.
 lastmod: '2016-07-12T02:25:59Z'
 slug: american-digital-history-2
 title: American Digital History
+pub_date: '2005'
 ---
 
 U.S. History and Computing have had a long history of partnership in teaching and research. There currently is a deep divide among historians on the direction this partnership will take in the future. Will the partnership revolutionize the ways in which history is taught and researched or will it simply offer additional tools to improve traditional practices? In either case, future success depends on history scholars taking an active role in the partnership. With active and involved historians, great ideas such as digital libraries and online educational materials can be developed into workable and effective teaching and research tools. However, historians must take the initiative. A pioneering group of historians have laid the groundwork, now the profession must embrace this work and move forward or it will be done for us by those who are not historians.

@@ -5,12 +5,11 @@ essay_author: Roy Rosenzweig
 authors:
 - "Roy Rosenzweig"
 essay_date: June 1999
-essay_publication_info: This article originally appeared in <i>American Quarterly</i>
-  51.2 (June 1999), 237-246. It introduced a group of online, hypertext articles,
-  which are available at <a href="http://chnm.gmu.edu/aq/">http://chnm.gmu.edu/aq/</a>.
+essay_publication_info: This article originally appeared in <i>American Quarterly</i> 51.2 (June 1999), 237-246. It introduced a group of online, hypertext articles, which are available at <a href="http://chnm.gmu.edu/aq/">http://chnm.gmu.edu/aq/</a>.
 lastmod: '2016-07-11T20:30:05Z'
 slug: crashing-the-system
 title: Crashing the System?  Hypertext and Scholarship on American Culture
+pub_date: '1999'
 ---
 
 Looking back over my folder of more than 250 e-mail messages from my past year as "guest editor" for this experimental section of *American Quarterly* on "hypertext and American Studies scholarship," I see many messages that deal with topics familiar to those who have done any scholarly editing--discussions of acceptance and rejection letters, suggestions for revisions, and, of course, reminders of impending and past deadlines. Yet others have more unusual subject headings like "20K streams," "still further testing," and "AQ article crashes Netscape." No doubt, *American Quarterly* editors have had to deal with many different kinds of disgruntled readers over the years, but I am surely the first to need to respond to people complaining of "JavaScript errors" that were "crashing" their browsers.

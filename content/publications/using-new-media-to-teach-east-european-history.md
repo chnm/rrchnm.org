@@ -5,11 +5,11 @@ essay_author: T. Mills Kelly
 authors:
 - "T. Mills Kelly"
 essay_date: September 2001
-essay_publication_info: 'This article was originally published in <em>Nationalities
-  Papers</em> 29, 3 (September 2001): 499-508 and is reprinted here with permission.'
+essay_publication_info: 'This article was originally published in <em>Nationalities Papers</em> 29, 3 (September 2001): 499-508 and is reprinted here with permission.'
 lastmod: '2016-07-11T23:17:29Z'
 slug: using-new-media-to-teach-east-european-history
 title: Using New Media to Teach  East European History
+pub_date: '2001'
 ---
 
 For decades the residents of Taos, New Mexico have been afflicted by a low frequency humming–sometimes louder, sometimes almost inaudible–but never completely absent.[1](#_edn1) On almost every college campus in North America, the buzz about using technology in teaching can be almost as annoying–and with each passing year, it gets louder. Although recent events in the American stock market have taken a good deal of the shine off of the idea that the internet will fundamentally transform the economy, in higher education there seems to be no corresponding waning of enthusiasm for the infusion of new media into the educational experiences of students.[2](#_edn2)

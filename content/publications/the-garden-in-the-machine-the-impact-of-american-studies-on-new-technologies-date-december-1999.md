@@ -5,13 +5,11 @@ essay_author: Randy Bass
 authors:
 - "Randy Bass"
 essay_date: December 1999
-essay_publication_info: This essay is undergoing revision. (Constructive) comments
-  may be sent to the author. Unpublished essay, reprinted with permission from <a
-  href="http://www.georgetown.edu/faculty/bassr/garden.html">http://www.georgetown.edu/faculty/bassr/garden.html</a>.
+essay_publication_info: This essay is undergoing revision. (Constructive) comments may be sent to the author. Unpublished essay, reprinted with permission from <a href="http://www.georgetown.edu/faculty/bassr/garden.html">http://www.georgetown.edu/faculty/bassr/garden.html</a>.
 lastmod: '2016-07-11T23:03:48Z'
 slug: the-garden-in-the-machine-the-impact-of-american-studies-on-new-technologies-date-december-1999
-title: 'The Garden in the Machine: The Impact of American Studies on New Technologies
-  Date: December 1999'
+title: 'The Garden in the Machine: The Impact of American Studies on New Technologies Date: December 1999'
+pub_date: '1999'
 ---
 
 #### Introduction

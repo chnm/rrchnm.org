@@ -5,12 +5,11 @@ essay_author: T. Mills Kelly
 authors:
 - "T. Mills Kelly"
 essay_date: August 2000
-essay_publication_info: This article was originally published in <em>Journal of the
-  Association for History and Computing</em> III, 2 (August 2000) and is republished
-  here with permission.
+essay_publication_info: This article was originally published in <em>Journal of the Association for History and Computing</em> III, 2 (August 2000) and is republished here with permission.
 lastmod: '2016-07-12T00:21:33Z'
 slug: for-better-or-worse-the-marriage-of-the-web-and-classroom
 title: For Better or Worse? The Marriage of the Web and Classroom
+pub_date: '2000'
 ---
 
 #### Introduction

@@ -5,11 +5,11 @@ essay_author: Roy Rosenzweig
 authors:
 - "Roy Rosenzweig"
 essay_date: June 2003
-essay_publication_info: 'This article was originally published in <em>American Historical
-  Review</em> 108, 3 (June 2003): 735-762 and is reprinted here with permission.'
+essay_publication_info: 'This article was originally published in <em>American Historical Review</em> 108, 3 (June 2003): 735-762 and is reprinted here with permission.'
 lastmod: '2016-07-11T20:49:55Z'
 slug: scarcity-or-abundance-preserving-the-past-in-a-digital-era
 title: Scarcity or Abundance? Preserving the Past in a Digital Era
+pub_date: '2003'
 ---
 
 On October 11, 2001, the satiric Bert Is Evil web site, which displayed photographs of the furry Muppet in Zelig-like proximity to villains such as Adolf Hitler (see Figure 1), disappeared from the web–a bit of collateral damage from the September 11th attacks. Following the strange career of Bert Is Evil shows us possible futures of the past in a digital era–futures that historians need to contemplate more carefully than they have done so far.

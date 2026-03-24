@@ -9,6 +9,7 @@ essay_publication_info: <i>Chronicle of Higher Education</i>, Feb. 24, 2006.
 lastmod: '2016-07-12T03:09:17Z'
 slug: no-computer-left-behind
 title: No Computer Left Behind
+pub_date: '2006'
 ---
 
 "I hate Scantron," one exasperated high-school student wrote on an online bulletin board earlier this year, referring to the ubiquitous multiple-choice forms covered with ovals, named for the corporation that has manufactured them since 1972. An older student replied: "Get used to seeing them. Colleges are all about Scantrons." Noting that it can take 30 minutes to grade an essay question, the older student explained, "That's why most instructors use Scantron, or at least multiple choice, for most of their tests."

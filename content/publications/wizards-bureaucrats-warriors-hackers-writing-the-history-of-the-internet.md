@@ -5,11 +5,11 @@ essay_author: Roy Rosenzweig
 authors:
 - "Roy Rosenzweig"
 essay_date: December 1998
-essay_publication_info: 'This article was originally published in <em>American Historical
-  Review</em> 103, 5 (December 1998): 1530-52 and is reprinted here with permission.'
+essay_publication_info: 'This article was originally published in <em>American Historical Review</em> 103, 5 (December 1998): 1530-52 and is reprinted here with permission.'
 lastmod: '2016-07-12T00:57:36Z'
 slug: wizards-bureaucrats-warriors-hackers-writing-the-history-of-the-internet
 title: 'Wizards, Bureaucrats, Warriors & Hackers: Writing the History of the Internet'
+pub_date: '1998'
 ---
 
 Take a look at the standard textbooks on post-World War II America. You will search in vain through the index for references to the Internet or its predecessor, the ARPANET; even mentions of "computers" are few and far between. The gap is hardly a unique fault of these authors; after all, before 1988, the New York Times mentioned the Internet only once– in a brief aside. Still, it is a fair guess that the textbooks of the next century will devote considerable attention to the Internet and the larger changes in information and communications technology that have emerged so dramatically in recent years. Few will share *Wired* publisher Louis Rossetto's hyperbolic claim that the digital revolution presages "social changes so profound their only parallel is probably the discovery of fire.[1](#_edn1)" But most historians will feel compelled to reckon with the Internet's emergence as a standard feature of everyday life.

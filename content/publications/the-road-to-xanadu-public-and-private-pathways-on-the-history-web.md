@@ -5,11 +5,11 @@ essay_author: Roy Rosenzweig
 authors:
 - "Roy Rosenzweig"
 essay_date: September 2001
-essay_publication_info: 'This article was originally published in <em>Journal of American
-  History</em> 88, 2 (September 2001): 548-579 and is reprinted here with permission.'
+essay_publication_info: 'This article was originally published in <em>Journal of American History</em> 88, 2 (September 2001): 548-579 and is reprinted here with permission.'
 lastmod: '2016-07-11T21:18:56Z'
 slug: the-road-to-xanadu-public-and-private-pathways-on-the-history-web
 title: 'The Road to Xanadu: Public and Private Pathways on the History Web'
+pub_date: '2001'
 ---
 
 On August 24, 1965, Theodor Nelson presented a paper to the Association for Computing Machinery national conference in which he introduced the word "hypertext" to refer to "a body of written or pictorial material interconnected in such a complex way that it could not conveniently be presented or represented on paper." Nelson, who had started musing about this sort of associative thinking and linking as a Harvard University graduate student in 1960, viewed "hypertext" as an integral part of an imagined globally interconnected library and publishing system that would "grow indefinitely, gradually including more and more of the world's written knowledge" and "have every feature a novelist or absent-minded professor could want, holding everything he wanted in just the complicated way he wanted it held, and handling notes and manuscripts in as subtle and complex ways as he wanted them handled."[1](#_edn1)

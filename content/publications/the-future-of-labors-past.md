@@ -5,11 +5,11 @@ essay_author: John Summers
 authors:
 - "John Summers"
 essay_date: February 1999
-essay_publication_info: 'This article was originally published in <em>Labor History</em>
-  40, 1 (February 1999): 69-79 and is reprinted here with permission.'
+essay_publication_info: 'This article was originally published in <em>Labor History</em> 40, 1 (February 1999): 69-79 and is reprinted here with permission.'
 lastmod: '2016-07-11T21:28:21Z'
 slug: the-future-of-labors-past
 title: The Future of Labor's Past
+pub_date: '1999'
 ---
 
 Each week dozens of new on-line exhibits, archives, films, sound recordings, charts, graphs, essays, maps, journals, books, curricula, student projects, and syllabi adorn the World Wide Web, charting heretofore unchartered territory.[1](#_edn1) Thousands of history Web sites, indeed, now tender access to millions of primary and secondary sources. Many teachers in the humanities already promote the Web's "chat rooms" and discussion lists, and growing numbers are beginning to make course material available through university sites.[2](#_edn2)

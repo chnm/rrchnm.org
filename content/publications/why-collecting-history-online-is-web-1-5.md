@@ -9,6 +9,7 @@ essay_publication_info: Center for History and New Media, Case Study
 lastmod: '2016-07-12T03:49:26Z'
 slug: why-collecting-history-online-is-web-1-5
 title: Why Collecting History Online is Web 1.5
+pub_date: '2009'
 ---
 
 It seems like only yesterday that we were transitioning from the first-generation, read-only web to the "read-write web" of Web 2.0, that fosters community and collaboration where users participate in online content creation. But does Tim O'Reilly's idea of Web 2.0 really work for the collecting and preserving of history online? [1](#1) Not really. We, as digital humanists, however, are comfortable with that.

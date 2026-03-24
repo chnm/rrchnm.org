@@ -5,13 +5,13 @@ essay_author: Patrick Manning
 authors:
 - "Patrick Manning"
 essay_date: December 2004
-essay_publication_info: 'Originally published in <em>American Historical Review</em>,
-  December 2004
+essay_publication_info: 'Originally published in <em>American Historical Review</em>, December 2004
 
   <a href="http://www.historycooperative.org/journals/ahr/109.5/manning.html">http://www.historycooperative.org/journals/ahr/109.5/manning.html</a>'
 lastmod: '2016-07-12T02:27:35Z'
 slug: gutenberg-e-electronic-entry-to-the-historical-professoriate
 title: 'Gutenberg-e: Electronic Entry to the Historical Professoriate'
+pub_date: '2004'
 ---
 
 The Gutenberg-e project, publishing revisions of prize-winning dissertations as electronic books, has released eleven works as of this writing. Even in a world of widespread experimentation with electronic publishing, this collaboration of Columbia University Press and the American Historical Association (AHA) is a distinctive initiative because it combines electronic access with attention to outstanding junior scholars.[1](#N_1_) With over a third of the projected works now online, it has become feasible to assess the program's relative strength and promise. This essay reviews the e-books and the project that has produced them. The effort of Gutenberg-e to update the form of first books in history, itself a big step, ends up revealing dilemmas as much as generating progress in the discipline of history. One dilemma lies in setting the balance in historical publication among print and electronic works, books and articles, monographs and syntheses. A second dilemma poses the question of whether graduate education should prepare new historians to focus on field-specific monographic research or on a wider range of professional responsibilities. Thus the books and the project mark an important turning point, though not a definitive step forward, for the discipline of history. The e-books themselves provide an intriguing sample of work by scholars entering the historical profession and thereby provoke reflection going beyond the works themselves. The very task of reviewing eleven works in four distinct fields of history stretches the usual standards for review: it leads the reviewer to consider questions within the various fields of history but also questions on interpreting modern history as a whole.
