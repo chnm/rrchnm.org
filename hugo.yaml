@@ -16,7 +16,6 @@ permalinks:
 taxonomies:
   category: categories
   tag: tags
-  author: authors
 
 related:
   includeNewer: true

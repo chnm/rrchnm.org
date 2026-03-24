@@ -13,7 +13,7 @@
           <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><span class="text-white/90 truncate">{{ $.Title | truncate 50 }}</span></li>
         </ol>
       </nav>
-      <p class="text-sm text-white/60 mb-2">{{ $.Date.Format "January 2, 2006" }}{{ range $.GetTerms "authors" }} &middot; <a href="{{ .RelPermalink }}" class="text-white/80 hover:text-white transition-colors">{{ .LinkTitle }}</a>{{ end }}</p>
+      <p class="text-sm text-white/60 mb-2">{{ $.Date.Format "January 2, 2006" }}{{ with $.Params.authors }} &middot; {{ delimit . ", " }}{{ end }}</p>
       <h1 class="font-serif text-3xl lg:text-4xl text-white leading-tight max-w-3xl">{{ $.Title }}</h1>
     </div>
   </div>
@@ -40,34 +40,32 @@
         </div>
 
         {{/* Author */}}
-        {{ with .GetTerms "authors" }}
+        {{ with .Params.authors }}
         <div>
           <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Author</h3>
-          {{ range . }}
-          <a href="{{ .RelPermalink }}" class="text-sm text-stone-700 hover:text-red-brand transition-colors">{{ .LinkTitle }}</a>
-          {{ end }}
+          <p class="text-sm text-stone-700">{{ delimit . ", " }}</p>
         </div>
         {{ end }}
 
         {{/* Categories */}}
-        {{ with .GetTerms "categories" }}
+        {{ with .Params.categories }}
         <div>
           <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Categories</h3>
           <div class="flex flex-wrap gap-2">
             {{ range . }}
-            <a href="{{ .RelPermalink }}" class="text-sm bg-stone-100 text-stone-700 hover:bg-red-brand hover:text-white px-3 py-1 rounded-full transition-colors">{{ .LinkTitle }}</a>
+            <span class="text-sm bg-stone-100 text-stone-700 px-3 py-1 rounded-full">{{ . }}</span>
             {{ end }}
           </div>
         </div>
         {{ end }}
 
         {{/* Tags */}}
-        {{ with .GetTerms "tags" }}
+        {{ with .Params.tags }}
         <div>
           <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Tags</h3>
           <div class="flex flex-wrap gap-2">
             {{ range . }}
-            <a href="{{ .RelPermalink }}" class="text-xs bg-stone-100 text-stone-600 hover:bg-red-brand hover:text-white px-3 py-1 rounded-full transition-colors">{{ .LinkTitle }}</a>
+            <span class="text-xs bg-stone-100 text-stone-600 px-3 py-1 rounded-full">{{ . }}</span>
             {{ end }}
           </div>
         </div>

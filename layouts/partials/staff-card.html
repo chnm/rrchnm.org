@@ -1,19 +1,13 @@
-<div class="staff-card group"
-  data-modal-name="{{ .Title }}"
-  data-modal-title="{{ .Params.job_title }}"
-  data-modal-picture="{{ .Params.picture }}">
-  <div class="staff-bio-data" hidden>{{ .Content }}</div>
-  <button class="block w-full text-left cursor-pointer bg-transparent border-none p-0 staff-card-trigger" aria-label="View {{ .Title }} profile">
-    {{ with .Params.picture }}
-    <img src="{{ . }}" alt="Photo of {{ $.Title }}" loading="lazy" class="w-full aspect-square object-cover rounded-lg bg-stone-100">
-    {{ else }}
-    <div class="w-full aspect-square rounded-lg bg-stone-100" role="img" aria-label="No photo available for {{ $.Title }}"></div>
-    {{ end }}
-  </button>
+<div class="flex flex-col">
+  {{ if .picture }}
+  <img src="{{ .picture }}" alt="Photo of {{ .first_name }} {{ .last_name }}" loading="lazy"
+    class="w-full aspect-square object-cover rounded-lg bg-stone-100">
+  {{ else }}
+  <div class="w-full aspect-square rounded-lg bg-stone-100" role="img" aria-label="No photo available for {{ .first_name }} {{ .last_name }}"></div>
+  {{ end }}
   <div class="pt-3 text-center">
-    <h3 class="text-sm font-semibold text-stone-900">
-      <button class="staff-card-trigger bg-transparent border-none p-0 cursor-pointer font-semibold text-stone-900 hover:text-red-brand transition-colors" aria-label="View {{ .Title }} profile">{{ .Title }}</button>
-    </h3>
-    {{ with .Params.job_title }}<p class="text-xs text-stone-500 mt-0.5">{{ . }}</p>{{ end }}
+    <h3 class="text-sm font-semibold text-stone-900">{{ .first_name }} {{ .last_name }}</h3>
+    {{ with .job_title }}<p class="text-xs text-stone-500 mt-0.5">{{ . }}</p>{{ end }}
+    {{ with .url }}<a href="{{ . }}" class="text-xs text-red-brand hover:text-red-dark transition-colors mt-1 inline-block" target="_blank" rel="noopener">Profile &rarr;</a>{{ end }}
   </div>
 </div>
