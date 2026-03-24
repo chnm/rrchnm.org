@@ -12,7 +12,7 @@
         <ol class="flex items-center text-sm text-white/60">
           <li><a href="/" class="hover:text-white transition-colors">Home</a></li>
           {{ if .Parent }}
-          {{ if ne .Parent.RelPermalink "/" }}
+          {{ if and (ne .Parent.RelPermalink "/") (ne .Parent.Section "page") }}
           <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><a href="{{ .Parent.RelPermalink }}" class="hover:text-white transition-colors">{{ .Parent.Title }}</a></li>
           {{ end }}
           {{ end }}
@@ -44,7 +44,7 @@
       <ol class="flex items-center text-sm text-stone-500">
         <li><a href="/" class="hover:text-red-brand transition-colors">Home</a></li>
         {{ if .Parent }}
-        {{ if ne .Parent.RelPermalink "/" }}
+        {{ if and (ne .Parent.RelPermalink "/") (ne .Parent.Section "page") }}
         <li><span class="mx-2 text-stone-300" aria-hidden="true">/</span><a href="{{ .Parent.RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Parent.Title }}</a></li>
         {{ end }}
         {{ end }}
