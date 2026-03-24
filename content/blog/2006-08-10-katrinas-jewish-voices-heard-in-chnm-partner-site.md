@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2006-08-10T11:18:55Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:49:07Z'
 slug: katrinas-jewish-voices-heard-in-chnm-partner-site
 title: Katrina's Jewish Voices heard in CHNM partner site

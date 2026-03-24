@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2011-05-05T12:40:09Z'
-draft: false
+draft: true
 lastmod: '2011-05-05T12:40:09Z'
 slug: roy-rosenzweig-prize
 title: Roy Rosenzweig Prize

@@ -5,7 +5,7 @@ authors:
 categories:
 - Events
 date: '2017-02-23T13:28:23Z'
-draft: false
+draft: true
 event_start_date: '20170424'
 featured_image: /media/2017/02/c2a9jessicadeeks_2014-10-08_mcgillmag_chadgaffield_0076-alt.jpg
 lastmod: '2017-02-23T13:28:23Z'

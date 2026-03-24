@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2015-05-11T16:57:18Z'
-draft: false
+draft: true
 lastmod: '2015-05-11T16:57:18Z'
 slug: earn-a-graduate-certificate-in-digital-public-humanities-online
 title: Earn a Graduate Certificate in Digital Public Humanities Online

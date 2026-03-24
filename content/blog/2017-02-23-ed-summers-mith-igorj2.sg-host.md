@@ -5,7 +5,7 @@ authors:
 categories:
 - Events
 date: '2017-02-23T13:12:41Z'
-draft: false
+draft: true
 event_start_date: '20170417'
 featured_image: /media/2017/02/DocNow.jpg
 lastmod: '2017-03-06T14:12:03Z'

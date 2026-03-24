@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2011-10-12T12:45:19Z'
-draft: false
+draft: true
 lastmod: '2011-10-12T12:45:19Z'
 slug: come-develop-with-the-omeka-team
 title: Come develop with the Omeka team!

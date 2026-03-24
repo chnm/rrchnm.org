@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2013-12-19T13:00:27Z'
-draft: false
+draft: true
 lastmod: '2013-12-19T13:00:27Z'
 slug: position-announcement-wikipedia-affiliate-roy-rosenzweig-center-for-history-and-new-media
 title: 'Position announcement: Wikipedia Affiliate, Roy Rosenzweig Center for History

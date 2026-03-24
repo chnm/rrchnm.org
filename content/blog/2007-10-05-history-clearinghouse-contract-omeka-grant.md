@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2007-10-05T11:01:38Z'
-draft: false
+draft: true
 lastmod: '2007-10-05T11:01:38Z'
 slug: history-clearinghouse-contract-omeka-grant
 title: History Clearinghouse Contract, Omeka Grant

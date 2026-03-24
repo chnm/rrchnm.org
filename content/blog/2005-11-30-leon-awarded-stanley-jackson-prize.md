@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2005-11-30T11:03:40Z'
-draft: false
+draft: true
 lastmod: '2005-11-30T11:03:40Z'
 slug: leon-awarded-stanley-jackson-prize
 title: Leon awarded Stanley Jackson Prize

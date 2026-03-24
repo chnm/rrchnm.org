@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2019-05-06T15:15:59Z'
-draft: false
+draft: true
 lastmod: '2019-05-06T15:15:59Z'
 slug: papers-of-the-war-department-1784-1800-relaunch
 title: Papers of the War Department 1784-1800 Relaunch

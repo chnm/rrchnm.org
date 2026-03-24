@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2005-12-15T11:06:42Z'
-draft: false
+draft: true
 lastmod: '2005-12-15T11:06:42Z'
 slug: chnm-named-among-the-best-of-the-humanities-on-the-web-by-neh
 title: CHNM named among "The Best of the Humanities on the Web" by NEH

@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2004-02-06T10:38:10Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:39:09Z'
 slug: chnm-launches-critical-infrastructure-protection-oral-history-project
 title: CHNM launches Critical Infrastructure Protection Oral History Project

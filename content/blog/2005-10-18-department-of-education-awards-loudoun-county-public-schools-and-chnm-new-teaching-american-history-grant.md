@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2005-10-18T11:03:10Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:49:08Z'
 slug: department-of-education-awards-loudoun-county-public-schools-and-chnm-new-teaching-american-history-grant
 title: Department of Education awards Loudoun County Public Schools and CHNM new Teaching

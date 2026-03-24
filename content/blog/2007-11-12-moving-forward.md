@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2007-11-12T16:26:52Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:44:57Z'
 slug: moving-forward
 title: Moving Forward

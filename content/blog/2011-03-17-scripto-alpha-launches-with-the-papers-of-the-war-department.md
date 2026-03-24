@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2011-03-17T12:50:53Z'
-draft: false
+draft: true
 lastmod: '2011-03-17T12:50:53Z'
 slug: scripto-alpha-launches-with-the-papers-of-the-war-department
 title: Scripto Alpha Launches with the Papers of the War Department

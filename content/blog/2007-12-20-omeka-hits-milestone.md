@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2007-12-20T23:21:26Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:44:20Z'
 slug: omeka-hits-milestone
 title: Omeka Hits Milestone

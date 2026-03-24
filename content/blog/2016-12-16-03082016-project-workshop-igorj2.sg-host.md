@@ -5,7 +5,7 @@ authors:
 categories:
 - Events
 date: '2016-12-16T14:52:36Z'
-draft: false
+draft: true
 event_start_date: '20170308'
 featured_image: /media/2016/08/projart_zotero.png
 lastmod: '2017-03-03T11:48:37Z'

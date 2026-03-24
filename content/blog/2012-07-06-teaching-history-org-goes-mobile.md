@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2012-07-06T13:38:01Z'
-draft: false
+draft: true
 lastmod: '2012-07-06T13:38:01Z'
 slug: teaching-history-org-goes-mobile
 title: Teachinghistory.org Goes Mobile

@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2013-09-11T08:50:02Z'
-draft: false
+draft: true
 lastmod: '2013-09-11T08:50:02Z'
 slug: remembering-with-the-september-11-digital-archive
 title: Remembering with the September 11 Digital Archive

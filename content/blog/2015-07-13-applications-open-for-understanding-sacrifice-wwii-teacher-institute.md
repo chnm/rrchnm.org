@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2015-07-13T09:00:27Z'
-draft: false
+draft: true
 lastmod: '2015-07-13T09:00:27Z'
 slug: applications-open-for-understanding-sacrifice-wwii-teacher-institute
 title: Applications Open for Understanding Sacrifice WWII Teacher Institute

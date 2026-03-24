@@ -5,7 +5,7 @@ authors:
 categories:
 - Events
 date: '2018-10-23T12:57:51Z'
-draft: false
+draft: true
 event_start_date: '20181107'
 featured_image: /media/2018/10/Jens.jpg
 lastmod: '2018-10-23T14:17:58Z'

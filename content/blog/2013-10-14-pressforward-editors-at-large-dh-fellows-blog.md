@@ -7,7 +7,7 @@ categories:
 - News
 - Research + Tools
 date: '2013-10-14T09:16:15Z'
-draft: false
+draft: true
 lastmod: '2013-10-14T09:16:15Z'
 slug: pressforward-editors-at-large-dh-fellows-blog
 title: PressForward Editors-at-Large | DH Fellow's Blog

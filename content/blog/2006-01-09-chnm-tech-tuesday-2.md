@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2006-01-09T10:46:03Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:49:08Z'
 slug: chnm-tech-tuesday-2
 title: CHNM "Tech Tuesday"

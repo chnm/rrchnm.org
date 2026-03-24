@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2009-05-15T10:24:09Z'
-draft: false
+draft: true
 lastmod: '2009-05-15T10:24:09Z'
 slug: zotero-20-is-here
 tags:

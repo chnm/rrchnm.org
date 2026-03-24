@@ -5,7 +5,7 @@ authors:
 categories:
 - Events
 date: '2017-10-19T11:43:14Z'
-draft: false
+draft: true
 event_start_date: '20171114'
 featured_image: /media/2017/11/James_final_2_mq.width-300.jpg
 lastmod: '2017-11-09T16:48:38Z'

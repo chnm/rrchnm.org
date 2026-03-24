@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2015-02-03T10:29:27Z'
-draft: false
+draft: true
 lastmod: '2015-02-03T10:29:27Z'
 slug: getty-foundation-funds-institute-for-art-history-graduate-students-at-igorj2.sg-host
 title: Getty Foundation Funds Institute for Art History Graduate Students at RRCHNM

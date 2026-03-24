@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2009-11-24T17:43:47Z'
-draft: false
+draft: true
 lastmod: '2009-11-24T17:43:47Z'
 slug: chnm-announces-the-first-receipient-of-the-aha-roy-rosenzweig-fellowship
 tags:

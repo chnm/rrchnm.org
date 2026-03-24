@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2008-11-11T13:43:44Z'
-draft: false
+draft: true
 lastmod: '2008-11-11T13:43:44Z'
 slug: chnm-releases-omeka-010b
 title: CHNM Releases Omeka 0.10b

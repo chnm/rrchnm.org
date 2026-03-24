@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2011-12-19T14:37:06Z'
-draft: false
+draft: true
 lastmod: '2011-12-19T14:37:06Z'
 slug: digital-history-research-awards-for-new-phd-students-at-mason
 title: Digital History Research Awards for New PhD Students at Mason

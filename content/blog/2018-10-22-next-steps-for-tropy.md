@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2018-10-22T11:30:53Z'
-draft: false
+draft: true
 lastmod: '2018-10-22T12:25:52Z'
 slug: next-steps-for-tropy
 tags:

@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2009-09-09T14:40:59Z'
-draft: false
+draft: true
 lastmod: '2009-09-09T14:40:59Z'
 slug: george-mason-and-chnm-to-commemorate-20th-anniversary-of-fall-of-berlin-wall-with-support-from-german-embassy
 title: George Mason and CHNM to Commemorate the 20th Anniversary of the Fall of the

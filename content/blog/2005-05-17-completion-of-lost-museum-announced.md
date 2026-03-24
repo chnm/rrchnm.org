@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2005-05-17T10:58:02Z'
-draft: false
+draft: true
 lastmod: '2005-05-17T10:58:02Z'
 slug: completion-of-lost-museum-announced
 title: Completion of Lost Museum Announced

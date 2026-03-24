@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2003-10-29T10:33:31Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:38:16Z'
 slug: department-of-education-awards-chnm-two-teaching-american-history-grants
 title: Department of Education awards CHNM two Teaching American History Grants

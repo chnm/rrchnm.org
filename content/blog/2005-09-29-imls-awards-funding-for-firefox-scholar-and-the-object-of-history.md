@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2005-09-29T11:00:40Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:49:08Z'
 slug: imls-awards-funding-for-firefox-scholar-and-the-object-of-history
 title: IMLS awards funding for "Firefox Scholar" and "The Object of History"

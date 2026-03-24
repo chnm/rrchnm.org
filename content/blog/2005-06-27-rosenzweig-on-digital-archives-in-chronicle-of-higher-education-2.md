@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2005-06-27T09:50:24Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:49:08Z'
 slug: rosenzweig-on-digital-archives-in-chronicle-of-higher-education-2
 title: Rosenzweig on Digital Archives in Chronicle of Higher Education

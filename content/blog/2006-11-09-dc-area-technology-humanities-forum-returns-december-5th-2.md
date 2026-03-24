@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2006-11-09T08:19:29Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:49:07Z'
 slug: dc-area-technology-humanities-forum-returns-december-5th-2
 title: DC Area Technology & Humanities Forum returns December 5th

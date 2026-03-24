@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2004-12-11T10:47:23Z'
-draft: false
+draft: true
 lastmod: '2004-12-11T10:47:23Z'
 slug: chnm-director-recognized-for-excellence-in-the-humanities
 title: CHNM Director recognized for "excellence in the humanities"

@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2016-10-11T10:46:36Z'
-draft: false
+draft: true
 lastmod: '2016-09-27T11:43:07Z'
 slug: meet-the-gerda-henkel-postdoctoral-fellow-for-digital-history
 title: Meet the Gerda Henkel Postdoctoral Fellow for Digital History

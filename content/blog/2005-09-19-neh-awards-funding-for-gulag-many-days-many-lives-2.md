@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2005-09-19T10:13:40Z'
-draft: false
+draft: true
 lastmod: '2005-09-19T10:13:40Z'
 slug: neh-awards-funding-for-gulag-many-days-many-lives-2
 title: 'NEH awards funding for "Gulag: Many Days, Many Lives"'

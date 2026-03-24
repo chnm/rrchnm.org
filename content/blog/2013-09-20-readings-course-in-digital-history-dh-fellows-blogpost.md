@@ -6,7 +6,7 @@ categories:
 - About RRCHNM
 - Teaching + Learning
 date: '2013-09-20T10:00:01Z'
-draft: false
+draft: true
 lastmod: '2013-09-20T10:00:01Z'
 slug: readings-course-in-digital-history-dh-fellows-blogpost
 title: Readings Course in Digital History | DH Fellow's blogpost

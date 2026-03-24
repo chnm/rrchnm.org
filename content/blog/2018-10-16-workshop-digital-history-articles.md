@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2018-10-16T09:55:57Z'
-draft: false
+draft: true
 featured_image: /media/2018/10/m_jsh_52_1cover.png
 lastmod: '2018-10-16T11:25:14Z'
 slug: workshop-digital-history-articles

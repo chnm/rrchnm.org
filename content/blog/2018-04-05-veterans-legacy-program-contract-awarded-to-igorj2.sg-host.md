@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2018-04-05T15:24:20Z'
-draft: false
+draft: true
 lastmod: '2018-04-05T15:24:20Z'
 slug: veterans-legacy-program-contract-awarded-to-igorj2.sg-host
 title: Veterans Legacy Program contract awarded to RRCHNM

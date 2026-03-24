@@ -6,7 +6,7 @@ categories:
 - News
 - Research + Tools
 date: '2014-04-08T14:51:23Z'
-draft: false
+draft: true
 featured_image: http://localhost/~kim/wordpress/media/2014/04/thatcamp_square_logo_11.png
 lastmod: '2014-04-08T14:51:23Z'
 slug: introducing-the-proceedings-of-thatcamp

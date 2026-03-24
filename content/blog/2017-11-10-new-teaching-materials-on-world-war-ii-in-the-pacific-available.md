@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2017-11-10T13:33:05Z'
-draft: false
+draft: true
 lastmod: '2017-11-10T13:33:05Z'
 slug: new-teaching-materials-on-world-war-ii-in-the-pacific-available
 title: New teaching materials on World War II in the Pacific available

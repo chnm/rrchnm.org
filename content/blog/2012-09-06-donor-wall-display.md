@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2012-09-06T16:08:28Z'
-draft: false
+draft: true
 lastmod: '2012-09-06T16:08:28Z'
 slug: donor-wall-display
 title: Donor Wall Display

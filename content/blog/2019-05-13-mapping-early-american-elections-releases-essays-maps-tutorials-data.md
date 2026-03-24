@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2019-05-13T13:10:15Z'
-draft: false
+draft: true
 lastmod: '2019-05-13T13:10:15Z'
 slug: mapping-early-american-elections-releases-essays-maps-tutorials-data
 tags:

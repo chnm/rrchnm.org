@@ -10,7 +10,7 @@ description: The Center for History and New Media (CHNM) and the American Histor
   and New Media." The Rosenzweig Prize will be awarded annually for an innovative
   and freely available new media project that reflects thoughtful, critical, and rigorous
   engagement with technology and the practice of history.
-draft: false
+draft: true
 lastmod: '2008-01-15T07:58:42Z'
 slug: chnm-and-american-historical-association-announce-new-prize
 title: CHNM and American Historical Association Announce New Prize

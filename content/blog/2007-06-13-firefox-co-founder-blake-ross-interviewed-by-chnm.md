@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2007-06-13T13:27:24Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:45:57Z'
 slug: firefox-co-founder-blake-ross-interviewed-by-chnm
 title: Firefox Co-Founder Blake Ross Interviewed by CHNM

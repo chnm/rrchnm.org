@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2003-09-18T10:32:07Z'
-draft: false
+draft: true
 lastmod: '2003-09-18T10:32:07Z'
 slug: what-can-good-web-design-do-for-humanities-projects-reflections-and-case-studies
 title: What Can Good Web Design Do for Humanities Projects? Reflections and Case Studies

@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2016-07-29T14:27:46Z'
-draft: false
+draft: true
 lastmod: '2016-08-22T15:27:39Z'
 slug: in-memory-of-lt-col-ronald-j-martin-usmc-retired
 title: In Memory of Lt. Col. Ronald J. Martin, USMC, Retired

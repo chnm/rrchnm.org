@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2012-02-29T13:34:14Z'
-draft: false
+draft: true
 lastmod: '2012-02-29T13:34:14Z'
 slug: the-chronicle-features-12-tech-innovators
 title: The Chronicle features 12 Tech Innovators

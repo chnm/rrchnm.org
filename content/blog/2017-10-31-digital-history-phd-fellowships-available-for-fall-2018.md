@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2017-10-31T12:26:02Z'
-draft: false
+draft: true
 featured_image: /media/2016/12/Logo.jpg
 lastmod: '2017-10-31T12:26:02Z'
 slug: digital-history-phd-fellowships-available-for-fall-2018

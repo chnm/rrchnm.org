@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2016-12-05T14:32:01Z'
-draft: false
+draft: true
 lastmod: '2016-12-05T14:32:01Z'
 slug: eisenhower-memorial
 title: Eisenhower Memorial

@@ -5,7 +5,7 @@ authors:
 categories:
 - Uncategorized
 date: '2016-10-17T08:01:19Z'
-draft: false
+draft: true
 lastmod: '2016-10-17T08:01:23Z'
 slug: the-amboyna-conspiracy-trial-website
 title: The Amboyna Conspiracy Trial Website

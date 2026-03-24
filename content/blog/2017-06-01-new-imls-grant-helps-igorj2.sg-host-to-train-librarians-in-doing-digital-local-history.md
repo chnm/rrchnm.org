@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2017-06-01T09:49:51Z'
-draft: false
+draft: true
 lastmod: '2018-08-16T12:29:15Z'
 slug: new-imls-grant-helps-igorj2.sg-host-to-train-librarians-in-doing-digital-local-history
 title: New IMLS Grant Helps RRCHNM to Train Librarians in Doing Digital Local History

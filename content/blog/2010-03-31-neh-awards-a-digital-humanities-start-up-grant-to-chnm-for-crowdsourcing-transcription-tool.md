@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2010-03-31T11:07:53Z'
-draft: false
+draft: true
 lastmod: '2010-03-31T11:07:53Z'
 slug: neh-awards-a-digital-humanities-start-up-grant-to-chnm-for-crowdsourcing-transcription-tool
 title: NEH awards a Digital Humanities Start-Up Grant to CHNM for Crowdsourcing Transcription

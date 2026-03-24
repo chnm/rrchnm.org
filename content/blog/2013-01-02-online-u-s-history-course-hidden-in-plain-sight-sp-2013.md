@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2013-01-02T17:08:49Z'
-draft: false
+draft: true
 lastmod: '2013-01-02T17:08:49Z'
 slug: online-u-s-history-course-hidden-in-plain-sight-sp-2013
 title: 'Online U.S. History Course: Hidden in Plain Sight (Sp 2013)'

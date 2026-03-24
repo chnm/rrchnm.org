@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2009-06-16T14:18:11Z'
-draft: false
+draft: true
 lastmod: '2009-06-16T14:18:11Z'
 slug: one-week-one-tool-a-digital-humanities-barn-raising
 tags:

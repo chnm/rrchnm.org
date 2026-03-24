@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2008-01-02T11:37:34Z'
-draft: false
+draft: true
 lastmod: '2008-01-02T11:37:34Z'
 slug: zotero-joins-forces-with-internet-archive-wins-major-grant
 title: Zotero joins forces with Internet Archive, wins major grant

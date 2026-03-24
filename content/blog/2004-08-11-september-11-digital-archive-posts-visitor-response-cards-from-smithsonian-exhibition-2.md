@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2004-08-11T14:51:52Z'
-draft: false
+draft: true
 lastmod: '2004-08-11T14:51:52Z'
 slug: september-11-digital-archive-posts-visitor-response-cards-from-smithsonian-exhibition-2
 title: September 11 Digital Archive posts visitor response cards from Smithsonian

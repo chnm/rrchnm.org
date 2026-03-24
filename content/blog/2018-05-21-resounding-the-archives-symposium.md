@@ -6,7 +6,7 @@ categories:
 - News
 - Teaching + Learning
 date: '2018-05-21T07:00:16Z'
-draft: false
+draft: true
 lastmod: '2018-05-23T07:53:29Z'
 slug: resounding-the-archives-symposium
 title: ReSounding the Archives Symposium

@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2009-04-28T11:17:08Z'
-draft: false
+draft: true
 lastmod: '2009-04-28T11:17:08Z'
 slug: 2009-roy-rosenzweig-forum-social-networking-and-the-semantic-web
 tags:

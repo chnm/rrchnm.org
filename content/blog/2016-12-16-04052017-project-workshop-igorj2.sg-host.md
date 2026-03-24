@@ -5,7 +5,7 @@ authors:
 categories:
 - Events
 date: '2016-12-16T14:54:27Z'
-draft: false
+draft: true
 event_start_date: '20170405'
 featured_image: /media/2016/07/eagleeye.png
 lastmod: '2017-03-28T12:47:59Z'

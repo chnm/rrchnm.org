@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2006-10-09T09:54:23Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:49:07Z'
 slug: zotero-the-next-generation-research-tool-now-available-2
 title: 'Zotero: The Next-Generation Research Tool now available'

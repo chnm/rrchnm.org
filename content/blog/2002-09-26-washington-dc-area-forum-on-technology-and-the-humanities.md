@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2002-09-26T10:28:41Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:37:59Z'
 slug: washington-dc-area-forum-on-technology-and-the-humanities
 title: Washington DC Area Forum on Technology and the Humanities

@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2017-10-24T13:04:17Z'
-draft: false
+draft: true
 featured_image: /media/2017/10/tropy-sticker.jpg
 lastmod: '2017-10-24T13:07:06Z'
 slug: tropy-1-0-release

@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2005-12-15T11:05:58Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:49:08Z'
 slug: firefox-scholar-in-chronicle-of-higher-education
 title: Firefox Scholar in Chronicle of Higher Education

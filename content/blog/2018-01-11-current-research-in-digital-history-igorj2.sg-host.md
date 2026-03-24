@@ -5,7 +5,7 @@ authors:
 categories:
 - Events
 date: '2018-01-11T16:01:39Z'
-draft: false
+draft: true
 event_start_date: '20180317'
 featured_image: /media/2016/12/Logo.jpg
 lastmod: '2018-01-11T16:02:10Z'

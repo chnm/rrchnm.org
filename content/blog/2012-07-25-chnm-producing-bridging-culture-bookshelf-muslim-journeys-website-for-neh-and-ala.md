@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2012-07-25T10:57:16Z'
-draft: false
+draft: true
 lastmod: '2012-07-25T10:57:16Z'
 slug: chnm-producing-bridging-culture-bookshelf-muslim-journeys-website-for-neh-and-ala
 title: 'CHNM producing Bridging Culture Bookshelf: Muslim Journeys website for NEH

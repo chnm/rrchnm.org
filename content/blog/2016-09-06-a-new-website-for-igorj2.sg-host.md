@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2016-09-06T11:15:04Z'
-draft: false
+draft: true
 lastmod: '2016-09-06T11:25:06Z'
 slug: a-new-website-for-igorj2.sg-host
 title: A New Website for RRCHNM

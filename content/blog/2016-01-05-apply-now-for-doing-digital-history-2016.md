@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2016-01-05T10:00:54Z'
-draft: false
+draft: true
 lastmod: '2016-01-05T10:00:54Z'
 slug: apply-now-for-doing-digital-history-2016
 title: Apply Now for Doing Digital History 2016

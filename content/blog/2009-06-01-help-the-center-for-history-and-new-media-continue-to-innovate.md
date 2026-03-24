@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2009-06-01T14:59:16Z'
-draft: false
+draft: true
 lastmod: '2009-06-01T14:59:16Z'
 slug: help-the-center-for-history-and-new-media-continue-to-innovate
 tags:

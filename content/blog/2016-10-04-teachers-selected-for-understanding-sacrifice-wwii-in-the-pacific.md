@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2016-10-04T16:05:24Z'
-draft: false
+draft: true
 lastmod: '2016-10-04T16:05:24Z'
 slug: teachers-selected-for-understanding-sacrifice-wwii-in-the-pacific
 title: 'Teachers Selected for Understanding Sacrifice: WWII in the Pacific'

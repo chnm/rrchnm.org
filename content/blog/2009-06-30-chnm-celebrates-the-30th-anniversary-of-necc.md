@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2009-06-30T16:12:51Z'
-draft: false
+draft: true
 lastmod: '2009-06-30T16:12:51Z'
 slug: chnm-celebrates-the-30th-anniversary-of-necc
 title: CHNM celebrates the 30th Anniversary of NECC

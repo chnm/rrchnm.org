@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2007-10-31T09:42:36Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:45:05Z'
 slug: roy-rosenzweig-memorial-events
 title: 'Roy Rosenzweig: Memorial Events'

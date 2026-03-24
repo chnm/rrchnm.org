@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2010-03-10T12:31:52Z'
-draft: false
+draft: true
 lastmod: '2010-03-10T12:31:52Z'
 slug: omeka-net-be-first-in-line
 title: 'Omeka.net: Be First in Line'

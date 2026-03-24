@@ -5,7 +5,7 @@ authors:
 categories:
 - Events
 date: '2018-06-12T16:48:11Z'
-draft: false
+draft: true
 event_start_date: '20180622'
 featured_image: /media/2016/11/omeka-s-stickermule-3x3.png
 lastmod: '2018-06-12T16:49:05Z'

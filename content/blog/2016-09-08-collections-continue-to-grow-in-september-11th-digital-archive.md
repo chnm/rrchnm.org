@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2016-09-08T11:04:17Z'
-draft: false
+draft: true
 lastmod: '2016-09-08T16:01:10Z'
 slug: collections-continue-to-grow-in-september-11th-digital-archive
 title: Collections Continue to Grow in September 11th Digital Archive

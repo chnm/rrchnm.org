@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2004-12-09T10:47:56Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:40:27Z'
 slug: echo-expands-to-include-collecting-and-tools-centers
 title: Echo expands to include Collecting and Tools Centers

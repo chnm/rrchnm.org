@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2013-07-22T11:04:02Z'
-draft: false
+draft: true
 lastmod: '2013-07-22T11:04:02Z'
 slug: teachinghistory-org-wins-2013-aaslh-award-of-merit
 title: Teachinghistory.org Wins 2013 AASLH Award of Merit

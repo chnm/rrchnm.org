@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2005-12-15T09:20:56Z'
-draft: false
+draft: true
 lastmod: '2005-12-15T09:20:56Z'
 slug: chnm-blogosphere-2
 title: CHNM "Blogosphere"

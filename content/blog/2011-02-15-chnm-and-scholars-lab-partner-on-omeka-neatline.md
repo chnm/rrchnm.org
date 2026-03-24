@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2011-02-15T15:00:42Z'
-draft: false
+draft: true
 lastmod: '2011-02-15T15:00:42Z'
 slug: chnm-and-scholars-lab-partner-on-omeka-neatline
 title: CHNM and Scholars' Lab Partner on "Omeka + Neatline"

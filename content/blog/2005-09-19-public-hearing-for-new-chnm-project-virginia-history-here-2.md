@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2005-09-19T10:15:00Z'
-draft: false
+draft: true
 lastmod: '2005-09-19T10:15:00Z'
 slug: public-hearing-for-new-chnm-project-virginia-history-here-2
 title: 'Public hearing for new CHNM project: "Virginia History Here"'

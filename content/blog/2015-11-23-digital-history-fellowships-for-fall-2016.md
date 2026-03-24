@@ -5,7 +5,7 @@ authors:
 categories:
 - About RRCHNM
 date: '2015-11-23T11:33:28Z'
-draft: false
+draft: true
 lastmod: '2015-11-23T11:33:28Z'
 slug: digital-history-fellowships-for-fall-2016
 title: Digital History Fellowships for Fall 2016

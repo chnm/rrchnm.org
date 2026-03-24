@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2007-05-15T13:25:45Z'
-draft: false
+draft: true
 lastmod: '2007-05-15T13:25:45Z'
 slug: upcoming-echo-workshop-and-echo-grants
 title: Upcoming ECHO workshop and ECHO Grants

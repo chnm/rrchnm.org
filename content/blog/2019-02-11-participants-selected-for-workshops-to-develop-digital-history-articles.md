@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2019-02-11T10:32:02Z'
-draft: false
+draft: true
 lastmod: '2019-02-11T10:32:02Z'
 slug: participants-selected-for-workshops-to-develop-digital-history-articles
 title: Participants Selected for Workshops to Develop Digital History Articles

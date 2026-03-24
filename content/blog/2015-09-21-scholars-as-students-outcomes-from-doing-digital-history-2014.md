@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2015-09-21T01:00:04Z'
-draft: false
+draft: true
 lastmod: '2015-09-21T01:00:04Z'
 slug: scholars-as-students-outcomes-from-doing-digital-history-2014
 title: 'Scholars as Students: Outcomes from Doing Digital History 2014'

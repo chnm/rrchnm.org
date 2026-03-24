@@ -6,7 +6,7 @@ categories:
 - News
 - Research + Tools
 date: '2013-08-02T15:15:15Z'
-draft: false
+draft: true
 lastmod: '2013-08-02T15:15:15Z'
 slug: one-week-one-tool-team-launches-serendip-o-matic
 title: One Week | One Tool Team Launches Serendip-o-matic

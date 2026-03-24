@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2016-11-08T10:00:12Z'
-draft: false
+draft: true
 lastmod: '2016-11-07T16:20:23Z'
 slug: our-new-digital-history-fellows-their-work-on-igorj2.sg-hosts-history
 title: Our New Digital History Fellows & Their Work on RRCHNM's History

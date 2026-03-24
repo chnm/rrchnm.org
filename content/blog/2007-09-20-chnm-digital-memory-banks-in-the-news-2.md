@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2007-09-20T07:53:10Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:45:37Z'
 slug: chnm-digital-memory-banks-in-the-news-2
 title: CHNM Digital Memory Banks in the News

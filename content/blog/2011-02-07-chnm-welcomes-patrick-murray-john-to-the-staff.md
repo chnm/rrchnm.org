@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2011-02-07T13:38:46Z'
-draft: false
+draft: true
 lastmod: '2011-02-07T13:38:46Z'
 slug: chnm-welcomes-patrick-murray-john-to-the-staff
 title: CHNM welcomes Patrick Murray-John to the staff

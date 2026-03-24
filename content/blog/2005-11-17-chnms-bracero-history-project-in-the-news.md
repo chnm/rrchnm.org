@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2005-11-17T11:04:24Z'
-draft: false
+draft: true
 lastmod: '2005-11-17T11:04:24Z'
 slug: chnms-bracero-history-project-in-the-news
 title: CHNM's Bracero History Project in the News

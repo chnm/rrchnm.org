@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2015-10-13T10:05:09Z'
-draft: false
+draft: true
 lastmod: '2015-10-13T10:05:09Z'
 slug: building-histories-of-the-national-mall
 title: Building Histories of the National Mall

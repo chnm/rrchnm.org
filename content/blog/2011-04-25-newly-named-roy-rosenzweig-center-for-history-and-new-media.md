@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2011-04-25T14:12:21Z'
-draft: false
+draft: true
 lastmod: '2011-04-25T14:12:21Z'
 slug: newly-named-roy-rosenzweig-center-for-history-and-new-media
 title: Newly named Roy Rosenzweig Center for History and New Media

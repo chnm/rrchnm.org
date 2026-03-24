@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2013-10-01T10:00:50Z'
-draft: false
+draft: true
 lastmod: '2013-10-01T10:00:50Z'
 slug: getty-foundation-funds-a-digital-humanities-summer-institute-for-art-historians-at-igorj2.sg-host
 title: Getty Foundation Funds a Digital Humanities Summer Institute for Art Historians

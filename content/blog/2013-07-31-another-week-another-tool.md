@@ -6,7 +6,7 @@ categories:
 - News
 - Research + Tools
 date: '2013-07-31T16:11:01Z'
-draft: false
+draft: true
 lastmod: '2013-07-31T16:11:01Z'
 slug: another-week-another-tool
 title: Another Week | Another Tool Begins

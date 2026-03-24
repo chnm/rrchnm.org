@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2014-03-05T23:54:58Z'
-draft: false
+draft: true
 lastmod: '2014-03-05T23:54:58Z'
 slug: welcome-wikipedia-affiliate
 title: Welcome, Wikipedia Affiliate

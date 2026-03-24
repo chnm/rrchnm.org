@@ -5,7 +5,7 @@ authors:
 categories:
 - News
 date: '2004-10-04T10:45:04Z'
-draft: false
+draft: true
 lastmod: '2016-08-10T17:39:47Z'
 slug: digital-preservation-grant-includes-chnm
 title: Digital preservation grant includes CHNM
