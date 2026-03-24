@@ -18,18 +18,16 @@ mobile_nav:
       url: /supporters/
   - title: Our People
     children:
-    - title: Staff
-      url: /our-people/
-    - title: Affiliates
-      url: /affiliates/
+    - title: Staff & Affiliates
+      url: /people/
   - title: Our Work
     children:
     - title: Projects
       url: /our-work/
-    - title: Essays
-      url: /essays/
-  - title: News & Events
-    url: /news-events/
+    - title: Publications
+      url: /publications/
+  - title: Blog
+    url: /blog/
   - title: Contact Us
     url: /contact-us/
   - title: DONATE
@@ -49,17 +47,15 @@ top_nav:
       url: /contact-us/
   - title: Our People
     children:
-    - title: Staff
-      url: /our-people/
-    - title: Affiliates
-      url: /affiliates/
+    - title: Staff & Affiliates
+      url: /people/
   - title: Our Work
     children:
     - title: Projects
       url: /our-work/
-    - title: Essays
-      url: /essays/
-  - title: News
-    url: /news-events/
+    - title: Publications
+      url: /publications/
+  - title: Blog
+    url: /blog/
   - title: Graduate Education
     url: /graduate-student-education/

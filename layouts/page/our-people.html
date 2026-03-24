@@ -5,9 +5,7 @@
 </div>
 {{ end }}
 
-{{ $staff := where .Site.RegularPages "Section" "staff" }}
-{{ $affiliates := where .Site.RegularPages "Section" "affiliates" }}
-{{ $everyone := union $staff $affiliates }}
+{{ $everyone := where .Site.RegularPages "Section" "people" }}
 {{ $sorted := sort $everyone "Params.last_name" "asc" }}
 
 <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6">

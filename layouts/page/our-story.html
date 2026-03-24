@@ -1,10 +1,10 @@
 {{ define "main" }}
 
 {{/* Fast Facts */}}
-{{ $projects := where .Site.RegularPages "Section" "portfolio-item" }}
-{{ $staff := where .Site.RegularPages "Section" "staff" }}
-{{ $essays := where .Site.RegularPages "Section" "essay" }}
-{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $projects := where .Site.RegularPages "Section" "projects" }}
+{{ $staff := where .Site.RegularPages "Section" "people" }}
+{{ $essays := where .Site.RegularPages "Section" "publications" }}
+{{ $posts := where .Site.RegularPages "Section" "blog" }}
 {{ $alumniCSV := resources.Get "data/alumni.csv" }}
 {{ $alumni := $alumniCSV | transform.Unmarshal (dict "delimiter" ",") }}
 {{/* Skip header row */}}

@@ -7,7 +7,7 @@
 
 {{/* Collect all unique categories */}}
 {{ $allCategories := slice }}
-{{ range (where .Site.RegularPages "Section" "portfolio-item") }}
+{{ range (where .Site.RegularPages "Section" "projects") }}
   {{ with .Params.categories }}
     {{ range . }}
       {{ $allCategories = $allCategories | append . }}
@@ -39,7 +39,7 @@
 
   {{/* Project grid */}}
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-    {{ range (where .Site.RegularPages "Section" "portfolio-item") }}
+    {{ range (where .Site.RegularPages "Section" "projects") }}
     {{ $item := . }}
     <article
       class="group"

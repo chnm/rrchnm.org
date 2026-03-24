@@ -11,7 +11,7 @@ pagination:
   pagerSize: 12
 
 permalinks:
-  posts: "/:slug/"
+  blog: "/blog/:slug/"
 
 taxonomies:
   category: categories
