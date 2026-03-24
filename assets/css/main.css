@@ -70,10 +70,66 @@
     @apply inline-block bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors cursor-pointer border-none font-sans;
   }
 
+  /* Pagination — Hugo internal pagination template */
+  .pagination {
+    @apply flex justify-center items-center gap-1 mt-12 py-8 list-none;
+  }
+
+  .pagination .page-item .page-link {
+    @apply inline-flex items-center justify-center min-w-[2.25rem] h-9 px-3 text-sm font-medium text-stone-600 rounded-md transition-colors no-underline;
+  }
+
+  .pagination .page-item .page-link:hover {
+    @apply bg-stone-100 text-stone-900;
+  }
+
+  .pagination .page-item.active .page-link {
+    @apply bg-red-brand text-white;
+  }
+
+  .pagination .page-item.disabled .page-link {
+    @apply text-stone-300 cursor-default;
+  }
+
+  .pagination .page-item.disabled .page-link:hover {
+    @apply bg-transparent text-stone-300;
+  }
+
   /* Pullquote — editorial highlight within prose */
   .pullquote {
     @apply font-serif text-xl lg:text-2xl font-normal text-stone-900 leading-relaxed;
     @apply border-l-4 border-red-brand pl-6 my-10;
     @apply relative;
   }
+}
+
+/* Search results — outside @layer, plain CSS to avoid Tailwind purging JS-generated classes */
+#searchResults li a {
+  display: block;
+  padding: 0.75rem 1rem;
+  color: #44403c;
+  text-decoration: none;
+  border-bottom: 1px solid #f5f5f4;
+  transition: background-color 0.15s;
+}
+#searchResults li:last-child a { border-bottom: none; }
+#searchResults li a:hover,
+#searchResults li a:focus { background-color: #fafaf9; outline: none; }
+#searchResults .search-title {
+  display: block;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #1c1917;
+}
+#searchResults .search-meta {
+  display: block;
+  font-size: 0.75rem;
+  color: #78716c;
+  margin-top: 0.125rem;
+}
+#searchResults .search-message {
+  padding: 0.75rem 1rem;
+  font-size: 0.875rem;
+  color: #78716c;
+  font-style: italic;
 }
