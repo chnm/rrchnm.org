@@ -2,7 +2,7 @@
 role: staff
 date: '2025-08-01T00:00:00Z'
 draft: false
-job_title: "Department of Defense POW/MIA Accounting Agency Postdoctoral Research Fellow"
+job_title: "DPAA Postdoctoral Fellow"
 level: Postdoctoral Fellows
 picture: "/media/2025/08/John-Winters.png"
 slug: john-winters

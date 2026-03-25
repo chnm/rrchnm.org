@@ -2,7 +2,7 @@
 role: staff
 date: '2025-08-01T00:00:00Z'
 draft: false
-job_title: "Gerda Henkel Postdoctoral Fellow in Digital History"
+job_title: "Gerda Henkel Postdoctoral Fellow"
 level: Postdoctoral Fellows
 picture: "/media/2025/08/Ronny-Grundig.png"
 slug: ronny-grundig

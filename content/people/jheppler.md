@@ -3,7 +3,7 @@ role: staff
 date: '2021-07-09T19:02:19Z'
 draft: false
 first_name: Jason
-job_title: "Senior Web Developer"
+job_title: "Senior Developer/Scholar"
 last_name: Heppler
 level: Professional Staff
 picture: "/media/2022/05/Jason-Heppler1.jpg"
