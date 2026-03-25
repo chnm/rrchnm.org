@@ -2,7 +2,7 @@
 date: '2008-02-13T18:13:21Z'
 draft: false
 first_name: Kelly
-job_title: "Senior Scholar"
+job_title: "Affiliate Faculty"
 last_name: Schrum
 level: Senior Scholars
 picture: "/media/2022/05/Kelly-Schrum-1.jpg"
