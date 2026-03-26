@@ -17,6 +17,11 @@
 {{/* Favicon */}}
 <link rel="icon" type="image/png" href="/img/logo.png">
 
+{{/* RSS autodiscovery */}}
+{{ with .OutputFormats.Get "rss" -}}
+  {{ printf `<link rel=%q type=%q href=%q title=%q>` "alternate" .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+
 {{/* Meta */}}
 <meta name="referrer" content="strict-origin-when-cross-origin">
 {{ with .Params.description }}<meta name="description" content="{{ . }}">{{ end }}
