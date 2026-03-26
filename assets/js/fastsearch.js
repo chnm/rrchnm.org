@@ -65,6 +65,10 @@ const CONFIG = {
 
   var searchOpener = null;
 
+  // Expose globally so the header button can call it directly
+  // (Safari doesn't support setting modifier keys on synthetic KeyboardEvents)
+  window.openSearch = openSearch;
+
   function openSearch() {
     searchVisible = true;
     searchOpener = document.activeElement;

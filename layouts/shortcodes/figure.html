@@ -8,10 +8,10 @@
 {{ else if eq $align "center" }}
   {{ $alignClasses = "mx-auto max-w-lg" }}
 {{ end }}
-<figure class="{{ $alignClasses }}{{ with .Get "class" }} {{ . }}{{ end }}">
-  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" | default "" }}" loading="lazy" class="rounded-lg w-full">
+<figure class="bg-stone-50 border border-stone-200 rounded-lg p-3 my-8 {{ $alignClasses }}{{ with .Get "class" }} {{ . }}{{ end }}">
+  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" | default "" }}" loading="lazy" class="rounded w-full">
   {{ if or (.Get "caption") (.Get "attr") }}
-  <figcaption class="mt-2 text-sm text-stone-500">
+  <figcaption class="mt-2 px-1 text-sm text-stone-500">
     {{ with .Get "caption" }}{{ . | markdownify }}{{ end }}
     {{ with .Get "attr" }}
     <span class="block mt-1">

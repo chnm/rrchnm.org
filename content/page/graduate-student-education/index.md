@@ -7,6 +7,7 @@ slug: graduate-student-education
 title: Graduate Student Education
 type: page
 url: /graduate-student-education/
+hero_image: /media/2025/03/carline-grace-alexandra-savannah.jpg
 ---
 
 We train the next generation of digital historians through our graduate programs. GMU’s Ph.D. program is second to none in digital history, and it shows in the success of our graduates in public and academic history, libraries, archives, museums, research centers, education, and more cultural heritage institutions throughout the county. Building on what they have learned working alongside RRCHNM’s faculty and staff, graduate students create groundbreaking, rigorous dissertation research. Unlike practically every other university,  RRCHNM’s graduate students can create innovative digital histories for their dissertations, thus showcasing the relevance of their historical scholarship.

@@ -95,6 +95,11 @@
     @apply bg-transparent text-stone-300;
   }
 
+  /* Aside — author bio or contextual note within prose */
+  .prose aside {
+    @apply text-sm text-stone-500 italic bg-stone-50 border-l-4 border-stone-300 px-5 py-4 rounded-r-md my-8;
+  }
+
   /* Pullquote — editorial highlight within prose */
   .pullquote {
     @apply font-serif text-xl lg:text-2xl font-normal text-stone-900 leading-relaxed;

@@ -1,0 +1,18 @@
+---
+author_name: Stephen Robertson
+authors:
+- "Stephen Robertson"
+categories:
+- Events
+date: '2017-09-06T16:17:33Z'
+draft: true
+event_start_date: '20171013'
+featured_image: Commonwealth.jpg
+lastmod: '2017-09-06T16:17:33Z'
+slug: 10132017-igorj2.sg-host-digital-archives-in-the-commonwealth-summit
+tags:
+- RRCHNM@
+title: '10/13/2017: RRCHNM @ Digital Archives in the Commonwealth Summit'
+---
+
+Stephen Robertson and Abby Mullen are presenting a lunchtime workshop on *Tropy* at the [Digital Archives in the Commonwealth Summit](http://oieahc.wm.edu/conferences/supported/summit/index.html) at the University of Virginia in Charlottesville on Friday, October 13, 2017.

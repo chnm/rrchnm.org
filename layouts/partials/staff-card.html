@@ -1,19 +1,15 @@
-<div class="staff-card group"
-  data-modal-name="{{ .Title }}"
-  data-modal-title="{{ .Params.job_title }}"
-  data-modal-picture="{{ .Params.picture }}">
-  <div class="staff-bio-data" hidden>{{ .Content }}</div>
-  <button class="block w-full text-left cursor-pointer bg-transparent border-none p-0 staff-card-trigger" aria-label="View {{ .Title }} profile">
-    {{ with .Params.picture }}
-    <img src="{{ . }}" alt="Photo of {{ $.Title }}" loading="lazy" class="w-full aspect-square object-cover rounded-lg bg-stone-100">
-    {{ else }}
-    <div class="w-full aspect-square rounded-lg bg-stone-100" role="img" aria-label="No photo available for {{ $.Title }}"></div>
-    {{ end }}
-  </button>
+<div class="flex flex-col">
+  {{ if .picture }}
+  <img src="{{ .picture }}" alt="Photo of {{ .first_name }} {{ .last_name }}" loading="lazy"
+    class="w-full aspect-square object-cover rounded-lg bg-stone-100">
+  {{ else }}
+  <div class="w-full aspect-square rounded-lg bg-stone-100" role="img" aria-label="No photo available for {{ .first_name }} {{ .last_name }}"></div>
+  {{ end }}
   <div class="pt-3 text-center">
     <h3 class="text-sm font-semibold text-stone-900">
-      <button class="staff-card-trigger bg-transparent border-none p-0 cursor-pointer font-semibold text-stone-900 hover:text-red-brand transition-colors" aria-label="View {{ .Title }} profile">{{ .Title }}</button>
+      {{ if .url }}<a href="{{ .url }}" class="hover:text-red-brand transition-colors" target="_blank" rel="noopener">{{ .first_name }} {{ .last_name }}<svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-3 h-3 ml-1 -mt-0.5 text-stone-400" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" /></svg></a>
+      {{ else }}{{ .first_name }} {{ .last_name }}{{ end }}
     </h3>
-    {{ with .Params.job_title }}<p class="text-xs text-stone-500 mt-0.5">{{ . }}</p>{{ end }}
+    {{ with .job_title }}<p class="text-xs text-stone-500 mt-0.5">{{ . }}</p>{{ end }}
   </div>
 </div>

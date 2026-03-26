@@ -1,94 +1,65 @@
 {{ define "main" }}
 
-{{/* Hero — bold, edge-to-edge, three columns */}}
-{{ $projects := where .Site.RegularPages "Section" "projects" }}
+{{/* Hero — two columns: lede (2/3) + The Latest (1/3) */}}
+{{ $projects := where .Site.RegularPages "Section" "our-work" }}
 {{ $featuredProjects := where $projects "Params.featured_project" true }}
 {{ $posts := where .Site.RegularPages "Section" "blog" }}
-<section class="-mx-6 lg:-mx-10 -mt-12 lg:-mt-16 mb-16 lg:mb-20 bg-white" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw;">
+<section class="-mx-6 lg:-mx-10 -mt-12 lg:-mt-16 mb-16 lg:mb-20 bg-white border-b border-stone-200" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw;">
   <div class="px-6 lg:px-16 xl:px-24 py-12 lg:py-16 mx-auto max-w-[1600px]">
-    <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-10 items-stretch">
+    <div class="grid grid-cols-1 lg:grid-cols-5 gap-10 lg:gap-16 items-start">
 
-      {{/* Col 1 — Identity */}}
-      <div class="lg:col-span-4 flex flex-col">
-        <h1 class="font-serif text-3xl lg:text-4xl text-stone-900 leading-tight">
+      {{/* Left — Identity lede (2/3) */}}
+      <div class="lg:col-span-3">
+        <h1 class="font-serif text-3xl lg:text-5xl text-stone-900 leading-tight">
           Roy Rosenzweig Center for History &amp; New Media
         </h1>
-        <p class="mt-4 text-sm lg:text-base text-stone-600 leading-relaxed">
+        <p class="mt-5 text-base lg:text-lg text-stone-600 leading-relaxed max-w-2xl">
           Using digital media and technology to democratize history &mdash; incorporating multiple voices, reaching diverse audiences, and encouraging popular participation in presenting and preserving the past.
         </p>
-        <div class="flex-1"></div>
-        <div class="mt-6 flex gap-3">
-          <a href="/our-story/" class="inline-block bg-red-brand text-white text-sm font-semibold px-5 py-2.5 rounded-md hover:bg-red-dark transition-colors">About Us</a>
-          <a href="/our-work/" class="inline-block border-2 border-red-brand text-red-brand text-sm font-semibold px-5 py-2.5 rounded-md hover:bg-red-brand hover:text-white transition-colors">Our Work</a>
+        <p class="mt-4 text-base text-stone-500 leading-relaxed max-w-2xl">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </p>
+        <p class="mt-4 text-base text-stone-500 leading-relaxed max-w-2xl">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </p>
+        <div class="mt-6 flex items-center justify-between gap-4">
+          <div class="flex items-center gap-4">
+            <a href="{{ .Site.Params.donate_url }}" target="_blank" rel="noopener" class="inline-block bg-red-brand text-white text-sm font-semibold px-5 py-2.5 rounded-md hover:bg-red-dark transition-colors">Support Our Work &rarr;</a>
+            <a href="/our-story/" class="text-sm font-semibold text-stone-600 hover:text-red-brand transition-colors">About Us &rarr;</a>
+          </div>
+          <div class="flex items-center gap-3">
+            {{ partial "social-icons.html" (dict "Site" .Site "size" "w-4 h-4" "color" "text-stone-400 hover:text-stone-700") }}
+          </div>
         </div>
       </div>
 
-      {{/* Col 2 — Rotating project showcase */}}
-      <div class="lg:col-span-5"
-        x-data="{ current: 0, total: {{ len ($featuredProjects) }}, timer: null, playing: true }"
-        x-init="timer = setInterval(() => { current = (current + 1) % total }, 5000)"
-        @keydown.space.prevent="playing ? (clearInterval(timer), playing = false) : (timer = setInterval(() => { current = (current + 1) % total }, 5000), playing = true)">
-        <div class="relative aspect-[4/3] overflow-hidden" aria-live="polite" aria-atomic="true">
-          {{ range $i, $p := $featuredProjects }}
-          {{ $item := $p }}
-          <a href="{{ $item.RelPermalink }}"
-            x-show="current === {{ $i }}"
-            x-transition:enter="transition ease-out duration-500"
-            x-transition:enter-start="opacity-0"
-            x-transition:enter-end="opacity-100"
-            x-transition:leave="transition ease-in duration-300"
-            x-transition:leave-start="opacity-100"
-            x-transition:leave-end="opacity-0"
-            class="absolute inset-0 block group/slide">
-            {{ with .Params.featured_image }}
-            <img src="{{ . }}" alt="{{ $item.Title }}" class="w-full h-full object-cover">
-            {{ end }}
-            <div class="absolute inset-x-0 bottom-0 bg-gradient-to-t from-stone-900/80 to-transparent pt-12 pb-4 px-4">
-              <span class="font-serif text-sm lg:text-base text-white leading-snug">{{ $item.Title }}</span>
+      {{/* Right — The Latest (1/3) */}}
+      <div class="lg:col-span-2 lg:border-l lg:border-stone-200 lg:pl-10">
+        <p class="text-xs font-semibold uppercase tracking-widest text-stone-400 mb-5">The Latest</p>
+        <div class="space-y-5">
+          {{ range $i, $p := first 2 $posts }}
+          {{ if $i }}<div class="border-t border-stone-100"></div>{{ end }}
+          <a href="{{ .RelPermalink }}" class="group flex gap-3 items-start pt-{{ if $i }}5{{ else }}0{{ end }}">
+            {{ $img := partial "featured-image.html" . }}
+            <img src="{{ $img }}" alt="" loading="lazy" class="w-16 h-16 object-cover rounded shrink-0">
+            <div>
+              <h3 class="font-serif text-sm text-stone-900 leading-snug group-hover:text-red-brand transition-colors">{{ .Title }}</h3>
+              <span class="text-xs text-stone-400 mt-1 flex items-center gap-2">{{ .Date.Format "Jan 2, 2006" }}{{ with .Params.categories }}{{ range . }}<span class="bg-red-brand/10 text-red-brand px-1.5 py-0.5 rounded text-[10px] font-semibold uppercase">{{ . }}</span>{{ end }}{{ end }}</span>
             </div>
           </a>
           {{ end }}
         </div>
-        {{/* Dots + pause control */}}
-        <div class="flex items-center gap-2 mt-3">
-          <button
-            @click="playing ? (clearInterval(timer), playing = false) : (timer = setInterval(() => { current = (current + 1) % total }, 5000), playing = true)"
-            :aria-label="playing ? 'Pause slideshow' : 'Play slideshow'"
-            class="w-5 h-5 text-stone-400 hover:text-stone-600 transition-colors shrink-0 cursor-pointer">
-            <svg x-show="playing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M6.75 5.25a.75.75 0 0 1 .75-.75H9a.75.75 0 0 1 .75.75v13.5a.75.75 0 0 1-.75.75H7.5a.75.75 0 0 1-.75-.75V5.25Zm7.5 0A.75.75 0 0 1 15 4.5h1.5a.75.75 0 0 1 .75.75v13.5a.75.75 0 0 1-.75.75H15a.75.75 0 0 1-.75-.75V5.25Z" clip-rule="evenodd" /></svg>
-            <svg x-show="!playing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M4.5 5.653c0-1.427 1.529-2.33 2.779-1.643l11.54 6.347c1.295.712 1.295 2.573 0 3.286L7.28 19.99c-1.25.687-2.779-.217-2.779-1.643V5.653Z" clip-rule="evenodd" /></svg>
-          </button>
-          <div class="flex gap-1.5" role="tablist" aria-label="Project slides">
-            {{ range $i, $p := $featuredProjects }}
-            <button
-              role="tab"
-              :aria-selected="(current === {{ $i }}).toString()"
-              aria-label="Show project {{ add $i 1 }}: {{ $p.Title }}"
-              @click="current = {{ $i }}; clearInterval(timer); playing && (timer = setInterval(() => { current = (current + 1) % total }, 5000))"
-              :class="current === {{ $i }} ? 'bg-red-brand' : 'bg-stone-300 hover:bg-stone-400'"
-              class="w-2.5 h-2.5 rounded-full transition-colors cursor-pointer">
-            </button>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-
-      {{/* Col 3 — Latest posts */}}
-      <div class="lg:col-span-3 flex flex-col">
-        <p class="label text-stone-500 mb-4">The Latest</p>
-        {{ range $i, $p := first 2 $posts }}
-        {{ if $i }}<div class="border-t border-stone-200 my-4"></div>{{ end }}
-        <a href="{{ .RelPermalink }}" class="group block">
-          <h3 class="font-serif text-sm lg:text-base text-stone-900 leading-snug group-hover:text-red-brand transition-colors">{{ .Title }}</h3>
-          <div class="flex items-center justify-between mt-2">
-            <span class="text-xs text-stone-500">{{ .Date.Format "Jan 2, 2006" }}</span>
-            <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 text-stone-400 group-hover:text-red-brand transition-colors" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" /></svg>
-          </div>
-        </a>
-        {{ end }}
-        <div class="flex-1"></div>
-        <div class="border-t border-stone-200 mt-4 pt-4">
+        <div class="border-t border-stone-100 mt-5 pt-5">
           <a href="/blog/" class="text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">All Posts &rarr;</a>
+        </div>
+
+        {{/* Newsletter subscribe card */}}
+        <div class="mt-6 bg-stone-900 rounded-lg px-5 py-6">
+          <p class="text-xs font-semibold uppercase tracking-widest text-stone-400 mb-2">Stay in the loop</p>
+          <p class="text-sm text-stone-300 leading-relaxed mb-4">Get updates on our latest projects, events, and publications.</p>
+          <a href="{{ .Site.Params.newsletter_url }}" target="_blank" rel="noopener" class="inline-block w-full text-center bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-4 py-2.5 rounded-md transition-colors">
+            Subscribe &rarr;
+          </a>
         </div>
       </div>
 
@@ -96,7 +67,46 @@
   </div>
 </section>
 
-<hr class="border-t-2 border-red-brand/20 mb-16 lg:mb-24">
+
+{{/* Video Feature */}}
+{{ $videos := where (where .Site.RegularPages "Section" "video") "Params.featured" true }}
+{{ with index $videos 0 }}
+{{ $vid := . }}
+<section class="mb-16 lg:mb-24">
+  <div class="flex items-end justify-between mb-10">
+    <div>
+      <p class="label text-red-brand mb-3">Watch</p>
+      <h2 class="font-serif text-3xl lg:text-4xl text-stone-900">From RRCHNM</h2>
+    </div>
+    <a href="/video/" class="hidden sm:inline-block text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
+      All Videos &rarr;
+    </a>
+  </div>
+  <div class="grid grid-cols-1 lg:grid-cols-5 gap-8 lg:gap-12 items-start">
+    {{/* Video embed */}}
+    <div class="lg:col-span-3">
+      {{ with .Params.video_url }}
+      {{ $embedUrl := partial "youtube-embed-url.html" . }}
+      <div class="relative w-full aspect-video rounded-lg overflow-hidden bg-stone-900">
+        <iframe src="{{ $embedUrl }}" class="absolute inset-0 w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+      </div>
+      {{ else }}
+      <div class="relative w-full aspect-video rounded-lg overflow-hidden bg-stone-100 flex items-center justify-center">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-16 h-16 text-stone-300" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="m15.75 10.5 4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z" /></svg>
+      </div>
+      {{ end }}
+    </div>
+    {{/* Text + links */}}
+    <div class="lg:col-span-2">
+      <h3 class="font-serif text-xl lg:text-2xl text-stone-900 mb-3">{{ .Title }}</h3>
+      {{ with .Params.lede }}<p class="text-stone-600 leading-relaxed mb-4">{{ . }}</p>{{ end }}
+      <a href="{{ .RelPermalink }}" class="inline-block text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
+        {{ with .Params.link_text }}{{ . }}{{ else }}Watch &amp; learn more{{ end }} &rarr;
+      </a>
+    </div>
+  </div>
+</section>
+{{ end }}
 
 {{/* Our Work */}}
 <section class="mb-16 lg:mb-24">
@@ -110,14 +120,19 @@
     </a>
   </div>
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-    {{ range first 6 $projects }}
+    {{ range first 9 $featuredProjects }}
     {{ $item := . }}
-    <article class="group">
-      {{ with .Params.featured_image }}
-      <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4" aria-hidden="true" tabindex="-1">
-        <img src="{{ . }}" alt="" loading="lazy" class="w-full aspect-[4/3] object-cover group-hover:scale-[1.03] transition-transform duration-300">
+    <article class="group flex flex-col">
+      <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4 shrink-0" aria-hidden="true" tabindex="-1">
+        {{ $projImg := partial "featured-image.html" . }}
+        {{ if $projImg }}
+        <img src="{{ $projImg }}" alt="" loading="lazy" class="w-full aspect-square object-contain bg-stone-50 group-hover:scale-[1.03] transition-transform duration-300">
+        {{ else }}
+        <div class="w-full aspect-square bg-stone-100 flex items-center justify-center">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-stone-300" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5Zm10.5-11.25h.008v.008h-.008V8.25Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" /></svg>
+        </div>
+        {{ end }}
       </a>
-      {{ end }}
       <h3 class="font-serif text-lg text-stone-900">
         <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
       </h3>
@@ -134,44 +149,27 @@
   </div>
 </section>
 
-<hr class="border-t-2 border-red-brand/20 mb-16 lg:mb-24">
-
-{{/* News */}}
-<section class="mb-8">
-  <div class="flex items-end justify-between mb-10">
-    <div>
-      <p class="label text-red-brand mb-3">Latest</p>
-      <h2 class="font-serif text-3xl lg:text-4xl text-stone-900">News</h2>
+{{/* Spotlight — pulls the most recent featured page from content/spotlight/ */}}
+{{ $spotlights := where (where .Site.RegularPages "Section" "spotlight") "Params.featured" true }}
+{{ with index $spotlights 0 }}
+{{ $spot := . }}
+<section class="mb-16 lg:mb-24 bg-stone-50 border border-stone-200 rounded-lg overflow-hidden">
+  <div class="flex flex-col lg:flex-row">
+    {{ $spotImg := .Params.featured_image | default $.Site.Params.default_image }}
+    <div class="lg:w-2/5 shrink-0">
+      <img src="{{ $spotImg }}" alt="{{ $spot.Title }}" class="w-full h-full object-cover" loading="lazy">
     </div>
-    <a href="/blog/" class="hidden sm:inline-block text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
-      View all &rarr;
-    </a>
-  </div>
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-    {{ range first 3 $posts }}
-    {{ $post := . }}
-    <article class="group">
-      {{ with .Params.featured_image }}
-      <a href="{{ $post.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4" aria-hidden="true" tabindex="-1">
-        <img src="{{ . }}" alt="" loading="lazy" class="w-full aspect-[3/2] object-cover group-hover:scale-[1.03] transition-transform duration-300">
+    <div class="px-8 py-10 lg:px-12 lg:py-12 flex flex-col justify-center">
+      <p class="text-xs font-semibold uppercase tracking-widest text-red-brand mb-3">Now at RRCHNM</p>
+      <h2 class="font-serif text-2xl lg:text-3xl text-stone-900 mb-4">{{ .Title }}</h2>
+      {{ with .Params.lede }}<p class="text-stone-600 leading-relaxed">{{ . }}</p>{{ end }}
+      <a href="{{ .RelPermalink }}" class="inline-block mt-6 text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
+        {{ with .Params.link_text }}{{ . }}{{ else }}Learn more{{ end }} &rarr;
       </a>
-      {{ end }}
-      <div class="flex items-center gap-3 mb-2">
-        <span class="text-xs text-stone-500 uppercase tracking-wide">{{ .Date.Format "January 2, 2006" }}</span>
-        {{ with .Params.categories }}
-        {{ range first 1 . }}<span class="text-xs text-red-brand uppercase tracking-wide">{{ . }}</span>{{ end }}
-        {{ end }}
-      </div>
-      <h3 class="font-serif text-lg text-stone-900 leading-snug">
-        <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
-      </h3>
-    </article>
-    {{ end }}
-  </div>
-  <div class="mt-10 sm:hidden">
-    <a href="/blog/" class="inline-block bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors">View All News</a>
+    </div>
   </div>
 </section>
+{{ end }}
 
 {{/* Newsletter + Donate CTAs — side by side */}}
 <div class="mt-16 lg:mt-24 mb-8 grid grid-cols-1 md:grid-cols-2 gap-6">

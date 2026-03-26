@@ -1,18 +1,66 @@
 {{ define "main" }}
-<div class="space-y-10">
-  {{ range .Pages }}
-  <article class="border-b border-stone-200 pb-10">
-    <h2 class="font-serif text-xl lg:text-2xl text-stone-900 mb-2">
-      <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
-    </h2>
-    <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm mb-3">
-      {{ with .GetTerms "authors" }}{{ range . }}<a href="{{ .RelPermalink }}" class="text-stone-600 font-medium hover:text-red-brand transition-colors">{{ .LinkTitle }}</a>{{ end }}{{ end }}
-      {{ with .Params.essay_date }}<span class="text-stone-500">{{ . }}</span>{{ end }}
-      {{ with .Params.essay_publication_info }}<span class="text-stone-500 italic">{{ . | safeHTML }}</span>{{ end }}
-    </div>
-    {{ with .Params.description }}<p class="text-stone-600 leading-relaxed">{{ . | truncate 200 }}</p>{{ end }}
-    <a href="{{ .RelPermalink }}" class="inline-block mt-3 text-sm font-semibold text-stone-900 hover:text-red-brand transition-colors" aria-label="Read more about {{ .Title }}">Read more &rarr;</a>
-  </article>
-  {{ end }}
+{{ $grouped := .Pages.GroupByParam "pub_date" "desc" }}
+
+<div class="flex flex-col lg:flex-row gap-10 lg:gap-16">
+
+  {{/* Sticky year nav */}}
+  <aside class="lg:w-40 shrink-0">
+    <nav aria-label="Jump to year" class="lg:sticky lg:top-8">
+      <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-400 mb-3">By Year</h3>
+      <ul class="space-y-1">
+        {{ range $grouped }}
+        <li>
+          <a href="#year-{{ .Key }}" class="text-sm text-stone-500 hover:text-red-brand transition-colors">{{ .Key }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+  </aside>
+
+  {{/* Publications by year */}}
+  <div class="flex-1 min-w-0 space-y-14">
+    {{ range $grouped }}
+    <section id="year-{{ .Key }}">
+      <h2 class="font-serif text-2xl text-stone-900 mb-6 pb-3 border-b border-stone-200">{{ .Key }}</h2>
+      <div class="space-y-8">
+        {{ range .Pages }}
+        {{ $isExternal := .Params.external_url }}
+        {{ $href := cond (ne $isExternal nil) $isExternal .RelPermalink }}
+        {{ $authors := .Params.authors | default (slice .Params.essay_author) }}
+        {{ $publisher := .Params.publisher | default .Params.essay_publication_info }}
+        {{ $abstract := .Params.abstract | default .Params.description }}
+        <article class="flex gap-5">
+
+          {{/* Thumbnail */}}
+          {{ with .Params.thumbnail }}
+          {{ $thumbUrl := . }}
+          {{- if not (or (hasPrefix . "/") (hasPrefix . "http")) -}}
+            {{- $res := $.Resources.GetMatch . -}}
+            {{- if $res -}}{{- $thumbUrl = $res.RelPermalink -}}{{- end -}}
+          {{- end -}}
+          <a href="{{ $href }}"{{ if $isExternal }} target="_blank" rel="noopener"{{ end }} class="shrink-0 block w-20 h-28 overflow-hidden rounded shadow-sm">
+            <img src="{{ $thumbUrl }}" alt="{{ $.Title }}" loading="lazy" class="w-full h-full object-cover">
+          </a>
+          {{ end }}
+
+          <div class="min-w-0 flex-1">
+            <h3 class="font-serif text-lg text-stone-900 mb-1 leading-snug">
+              <a href="{{ $href }}"{{ if $isExternal }} target="_blank" rel="noopener"{{ end }} class="hover:text-red-brand transition-colors">{{ .Title }}{{ if $isExternal }}&nbsp;<svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-3.5 h-3.5 mb-0.5 text-stone-400" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" /></svg>{{ end }}</a>
+            </h3>
+            <div class="flex flex-wrap items-center gap-x-2 gap-y-0.5 text-sm text-stone-500 mb-2">
+              {{ with $authors }}{{ range . }}{{ if . }}<span>{{ . }}</span>{{ end }}{{ end }}{{ end }}
+              {{ with $publisher }}<span class="italic">{{ . | safeHTML }}</span>{{ end }}
+              {{ with .Params.doi }}<a href="https://doi.org/{{ . }}" target="_blank" rel="noopener" class="font-mono text-xs text-stone-400 hover:text-red-brand transition-colors">DOI: {{ . }}</a>{{ end }}
+            </div>
+            {{ with $abstract }}<p class="text-stone-600 text-sm leading-relaxed line-clamp-2">{{ . | truncate 200 }}</p>{{ end }}
+          </div>
+
+        </article>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+  </div>
+
 </div>
 {{ end }}

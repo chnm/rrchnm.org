@@ -10,45 +10,25 @@ footer:
 mobile_nav:
   name: Mobile Nav
   items:
-  - title: About Us
-    children:
-    - title: Our Story
-      url: /our-story/
-    - title: Supporters
-      url: /supporters/
-  - title: Our People
+  - title: People
     url: /people/
-  - title: Our Work
-    children:
-    - title: Projects
-      url: /our-work/
-    - title: Publications
-      url: /publications/
+  - title: Projects
+    url: /our-work/
+  - title: Publications
+    url: /publications/
   - title: Blog
     url: /blog/
-  - title: Contact Us
-    url: /contact-us/
+  - title: Graduate Education
+    url: /graduate-student-education/
 top_nav:
   name: Top Nav
   items:
-  - title: About Us
-    children:
-    - title: Our Story
-      url: /our-story/
-    - title: Supporters
-      url: /supporters/
-    - title: Annual Report
-      url: /annual-report/
-    - title: Contact Us
-      url: /contact-us/
-  - title: Our People
+  - title: People
     url: /people/
-  - title: Our Work
-    children:
-    - title: Projects
-      url: /our-work/
-    - title: Publications
-      url: /publications/
+  - title: Projects
+    url: /our-work/
+  - title: Publications
+    url: /publications/
   - title: Blog
     url: /blog/
   - title: Graduate Education

@@ -1,0 +1,18 @@
+---
+author_name: Stephen Robertson
+authors:
+- "Stephen Robertson"
+categories:
+- Events
+date: '2017-07-31T17:29:31Z'
+draft: true
+event_start_date: '20170922'
+featured_image: itlnewlogo.jpg
+lastmod: '2017-07-31T17:30:10Z'
+slug: 09222017-igorj2.sg-host-innovations-in-teaching-learning
+tags:
+- RRCHNM@
+title: '09/22/2017: RRCHNM @ Innovations in Teaching & Learning'
+---
+
+From 10.30-11.30am on September 22, Kelly Schrum, Beth Dalbec, Matt Boyce, Sara Collini are presenting a teaching demo entitled,[Digital Storytelling: Communicating Academic Research Beyond the Academy](http://journals.gmu.edu/ITLCP/article/view/1807), focused on using digital storytelling as a tool for communicating academic research
