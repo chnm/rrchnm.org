@@ -1,0 +1,18 @@
+{{- /*
+  Converts a YouTube URL to an embed URL.
+  Accepts: watch URLs, short URLs, and already-embed URLs.
+  Usage: {{ partial "youtube-embed-url.html" "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }}
+*/ -}}
+{{- $url := . -}}
+{{- $id := "" -}}
+{{- if findRE `youtube\.com/embed/` $url -}}
+  {{- /* Already an embed URL, pass through */ -}}
+  {{- $url = $url -}}
+{{- else if findRE `youtube\.com/watch` $url -}}
+  {{- $id = replaceRE `.*[?&]v=([a-zA-Z0-9_-]+).*` "$1" $url -}}
+  {{- $url = printf "https://www.youtube.com/embed/%s" $id -}}
+{{- else if findRE `youtu\.be/` $url -}}
+  {{- $id = replaceRE `.*youtu\.be/([a-zA-Z0-9_-]+).*` "$1" $url -}}
+  {{- $url = printf "https://www.youtube.com/embed/%s" $id -}}
+{{- end -}}
+{{- return $url -}}
