@@ -11,8 +11,8 @@ slug: our-new-digital-history-fellows-their-work-on-igorj2.sg-hosts-history
 title: Our New Digital History Fellows & Their Work on RRCHNM's History
 ---
 
-[caption id="attachment\_5017" align="alignright" width="150"]![Laura Crossley](IMG_5882-150x150.jpg) Laura Crossley[/caption]
-[caption id="attachment\_5016" align="alignright" width="150"]![Jessica Dauterive](IMG_5883-150x150.jpg) Jessica Dauterive[/caption]
+{{< figure src="IMG_5882-150x150.jpg" alt="Laura Crossley" caption="Laura Crossley" >}}
+{{< figure src="IMG_5883-150x150.jpg" alt="Jessica Dauterive" caption="Jessica Dauterive" >}}
 This semester RRCHNM welcomes two new DH Fellows, [Laura Crossley](http://chnm.gmu.edu/courses/fellowship/) and [Jessica Dauterive](http://chnm.gmu.edu/courses/fellowship/).
 This year the Fellows practicum at the Center began with a seminar with Stephen Robertson, the director. The goal was to explore the role of centres in digital humanities, put RRCHNM in the context of other centres, and explore the 22 years of work the Center has done in the context of the development of digital history and DH. As part of the seminar, the Fellows each created an exhibit telling the story of an RRCHNM project using material on the [site created for our 20th anniversary](https://20.rrchnm.org). Laura's exhibit explored the [Object of History](https://20.rrchnm.org/exhibits/show/ooh); you can find her reflections on the project on [the Fellows blog](http://chnm.gmu.edu/courses/fellowship/?p=979). Jessica's exhibit explored [The Lost Museum](https://20.rrchnm.org/exhibits/show/the-lost-museum); her reflections can be found [here](http://chnm.gmu.edu/courses/fellowship/?p=983).
 In recent weeks the Fellows have been working in the Education division. Look out for their [blog posts](http://chnm.gmu.edu/courses/fellowship/?cat=21) on their work there early in the New Year.

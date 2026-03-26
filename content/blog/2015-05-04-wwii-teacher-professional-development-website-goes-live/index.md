@@ -11,7 +11,7 @@ slug: wwii-teacher-professional-development-website-goes-live
 title: WWII Teacher Professional Development Website Goes Live
 ---
 
-[![understandingsacrifice-logo](http://chnm.gmu.edu/wordpress/wp-content/files/2015/04/understandingsacrifice-logo-300x94.jpg)](http://chnm.gmu.edu/wordpress/wp-content/files/2015/04/understandingsacrifice-logo.jpg)
+{{< figure src="http://chnm.gmu.edu/wordpress/wp-content/files/2015/04/understandingsacrifice-logo.jpg" alt="understandingsacrifice-logo" >}}
  
  
 The Roy Rosenzweig Center for History and New Media (RRCHNM) is proud to announce the launch of [*Understanding Sacrifice*](http://abmceducation.org/understandingsacrifice) (abmceducation.org/understandingsacrifice).

@@ -5,11 +5,12 @@ authors:
 categories:
 - News
 date: '2021-02-25T09:08:36Z'
-draft: false
+draft: true
 lastmod: '2021-02-25T09:08:37Z'
 slug: saying-goodbye-kim-nguyen
 title: Saying Goodbye -- Kim Nguyen
 ---
+draft: true
 
 Have you ever looked at one of our websites and asked yourself what kind of design firm RRCHNM uses? For a large number of our projects, that design firm has been Kim Nguyen, our long-time in house web designer. Since 2011, Kim has been the person we all turn to for questions about everything from color compatibility, to making our work accessible to all, to how to insure that our sites look good across multiple platforms. Along the way, Kim has helped professionalize our design efforts, especially through the application of best practices in all aspects of design.
 

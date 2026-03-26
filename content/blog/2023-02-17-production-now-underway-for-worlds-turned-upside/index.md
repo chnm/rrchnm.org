@@ -1,15 +1,16 @@
 ---
 author_name: RRCHNM
 authors:
-- "RRCHNM"
+- RRCHNM
 categories:
 - News
-- R2 Studios
 date: '2023-02-17T09:00:00Z'
 draft: false
 lastmod: '2023-03-01T11:03:18Z'
 slug: production-now-underway-for-worlds-turned-upside
 title: Production Now Underway For Worlds Turned Upside
+tags:
+- R2 Studios
 ---
 
 #### This post is cross-posted on [r2studios.org](https://www.r2studios.org/blog/production-now-underway-for-worlds-turned-upside-down/) with further details about the announcement.

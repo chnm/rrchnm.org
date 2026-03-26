@@ -1,16 +1,16 @@
 ---
 author_name: Lincoln Mullen
 authors:
-- "Lincoln Mullen"
+- Lincoln Mullen
 categories:
-- Uncategorized
 - News
 date: '2021-03-08T12:17:02Z'
-draft: false
+draft: true
 lastmod: '2021-03-08T12:17:03Z'
 slug: were-hiring-a-full-stack-developer
 title: We're hiring a full-stack developer
 ---
+draft: true
 
 RRCHNM is hiring a full-stack web developer. We're looking for a developer or developer-scholar who can help us fulfill our mission to democratize history. RRCHNM has a twenty-five year track record of bringing history to public and educational audiences, and we have many exciting new avenues of research underway, ranging from historical visualization and computational history, to podcasts, to our existing strengths in public history. We are a great, friendly place to work, and whoever enters this position will have a chance to develop professionally while collaborating with a large team of faculty, grad students, staff, and undergraduates who share a common mission to bring history online and make it accessible.
 

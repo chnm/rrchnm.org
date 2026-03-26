@@ -1,9 +1,9 @@
 ---
 author_name: Mills Kelly
 authors:
-- "Mills Kelly"
+- Mills Kelly
 categories:
-- R2 Studios
+- News
 date: '2021-10-27T09:20:23Z'
 description: Episode 2 of The Green Tunnel podcast launched today. In this episode
   we tell the story of the settler communities that existed along the route of the
@@ -13,6 +13,7 @@ lastmod: '2022-07-14T11:06:38Z'
 slug: what-came-before
 tags:
 - podcast
+- R2 Studios
 title: What Came Before
 ---
 

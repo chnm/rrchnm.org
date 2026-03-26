@@ -1,15 +1,16 @@
 ---
 author_name: Amanda Madden
 authors:
-- "Amanda Madden"
+- Amanda Madden
 categories:
-- News
-- Teaching + Learning
+- Essay
 date: '2023-10-18T10:34:04Z'
 draft: false
 lastmod: '2023-10-18T10:34:05Z'
 slug: exploring-true-crime-in-early-modern-europe-in-the-classroom
 title: Exploring True Crime in Early Modern Europe in the Classroom
+tags:
+- Teaching + Learning
 ---
 
 This semester I’m using my expertise on crime and violence in a new way: I’m teaching an upper-level undergraduate course “True Crime in Early Modern Europe.” When we think of the true crime genre, we tend to think of documentaries, Netflix shows, Pulp Fiction, and podcasts, to name just a few popular formats. What most people don’t know, however, is that “true crime” as a genre originated in the early modern world–mostly Europe but also premodern China and the Americas. Bestsellers in the genre included pamphlets, murder ballads, and executioner’s songs which sensationalized crimes, spoke of motives, and reflected on justice.

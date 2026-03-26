@@ -5,11 +5,12 @@ authors:
 categories:
 - News
 date: '2021-02-24T07:49:57Z'
-draft: false
+draft: true
 lastmod: '2021-02-24T07:49:58Z'
 slug: saying-goodbye-john-flatness
 title: Saying Goodbye -- John Flatness
 ---
+draft: true
 
 If you've ever gone to the [Omeka](http://omeka.org) forums looking for help with a vexing problem, big or small, with your Omeka-based website, there's a pretty good chance that the response you received was from John Flatness (jflatnes in the forums). What you might not know is that the person who just gave you excellent advice and a solution to your problem also happens to be the lead developer on the project. John has worked at RRCHNM on the Omeka project since 2010 and has been the lead developer for many of those years, guiding the team of developers through multiple versions of [Omeka Classic](https://omeka.org/classic/) and now [Omeka S](https://omeka.org/s/).
 

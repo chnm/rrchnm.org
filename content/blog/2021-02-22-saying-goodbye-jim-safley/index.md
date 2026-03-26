@@ -1,15 +1,16 @@
 ---
 author_name: Mills Kelly
 authors:
-- "Mills Kelly"
+- Mills Kelly
 categories:
-- Uncategorized
+- News
 date: '2021-02-22T11:11:48Z'
-draft: false
+draft: true
 lastmod: '2021-02-22T11:46:02Z'
 slug: saying-goodbye-jim-safley
 title: Saying Goodbye -- Jim Safley
 ---
+draft: true
 
 In 2002, Kelly Schrum, the long-time director of educational projects at RRCHNM, told a student in Mason's BA program in applied history that he should apply for a job that was opening up at the Center. That student was Jim Safley and until that moment, he had assumed he would find a job at a traditional archive or library. "I never considered a career in digital humanities given my technical inexperience, but I couldn't turn down the prospect of working with Roy Rosenzweig," Jim said of that moment 19 years ago.
 

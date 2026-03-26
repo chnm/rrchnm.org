@@ -1,15 +1,16 @@
 ---
 author_name: Lincoln Mullen
 authors:
-- "Lincoln Mullen"
+- Lincoln Mullen
 categories:
 - News
-- Partnerships
 date: '2024-11-20T09:59:41Z'
 draft: false
 lastmod: '2024-11-20T10:01:52Z'
 slug: introducing-the-denig-manuscript-project
 title: Introducing the Denig Manuscript Project
+tags:
+- Partnerships
 ---
 
 The Roy Rosenzweig Center for History and New Media is pleased to announce the launch of the Denig Manuscript Project, created in collaboration with the Winterthur Museum, Garden & Library.

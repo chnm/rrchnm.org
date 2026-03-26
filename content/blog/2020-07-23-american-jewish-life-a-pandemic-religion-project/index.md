@@ -1,9 +1,9 @@
 ---
 author_name: John Turner
 authors:
-- "John Turner"
+- John Turner
 categories:
-- Uncategorized
+- News
 date: '2020-07-23T14:49:27Z'
 draft: false
 lastmod: '2020-07-23T14:49:27Z'

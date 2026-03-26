@@ -3,14 +3,16 @@ aliases:
 - /collecting-and-exhibiting/igorj2.sg-host-and-covid-19/
 author_name: Mills Kelly
 authors:
-- "Mills Kelly"
+- Mills Kelly
 categories:
-- Collecting + Exhibiting
+- News
 date: '2020-04-14T15:00:26Z'
 draft: false
 lastmod: '2022-08-10T10:42:58Z'
 slug: rrchnm-and-covid-19
 title: RRCHNM and Covid-19
+tags:
+- Collecting + Exhibiting
 ---
 
 Like every other organization everywhere in the world, here at RRCHNM we are feeling our way forward during this year of the Covid-19 virus. George Mason University is closed and we've been booted from our offices, so we have moved to 100% remote work. Between the various virtual connections we have -- Basecamp, Slack, WebEx, Zoom, email, and good old-fashioned phone calls -- we've managed to say connected and we continue to work on our many digital projects.

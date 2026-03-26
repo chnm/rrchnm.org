@@ -1,16 +1,17 @@
 ---
 author_name: Brandon Tachco
 authors:
-- "Brandon Tachco"
+- Brandon Tachco
 categories:
 - News
-- Partnerships
 date: '2023-11-11T11:31:17Z'
 draft: false
 lastmod: '2023-11-11T11:32:22Z'
 slug: a-veterans-day-salute-to-our-valued-partnership-with-the-defense-pow-mia-accounting-agency
 title: A Veteran’s Day Salute to our Valued Partnership with the Defense POW/MIA Accounting
   Agency
+tags:
+- Partnerships
 ---
 
 This Veteran’s Day, we at the Roy Rosenzweig Center for History and New Media (RRCHNM) would like to highlight the incredible work of the Defense POW/MIA Accounting Agency (DPAA). The mission of the [DPAA](https://www.dpaa.mil/Our-Missing/Past-Conflicts/) is to provide the fullest possible accounting for American personnel lost in foreign conflicts going back to World War II, with the ultimate goal of finding these lost personnel, completing their stories, and bringing them back to their families and loved ones, thus bringing closure to them and to the nation. Such a monumental effort requires an army of professionals working tirelessly across the globe, including administrators, military personnel, historians, archeologists, doctors, scientists, and field specialists.

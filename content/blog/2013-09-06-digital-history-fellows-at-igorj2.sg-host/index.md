@@ -12,7 +12,7 @@ slug: digital-history-fellows-at-igorj2.sg-host
 title: Digital History Fellows At RRCHNM
 ---
 
-[![Monday Meeting 8_26_13](http://chnm.gmu.edu/wordpress/wp-content/files/2013/09/IMG_7999-300x104.jpg)](http://chnm.gmu.edu/wordpress/wp-content/files/2013/09/IMG_7999.jpg)
+{{< figure src="http://chnm.gmu.edu/wordpress/wp-content/files/2013/09/IMG_7999.jpg" alt="Monday Meeting 8_26_13" >}}
 
 The first Monday all-staff meeting of the year at RRCHNM was devoted to an orientation for the fourteen Graduate Research Assistants (GRAs) who will be working at the Center in 2013-14. GRAs are a key part of the Center’s staff, working in a range of capacities on projects in all three divisions – Education, Public Projects, and Research -- and in some cases on multiple projects in different divisions (watch for future posts describing exactly what they are doing).
 

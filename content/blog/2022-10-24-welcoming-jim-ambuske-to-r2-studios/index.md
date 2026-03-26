@@ -1,16 +1,18 @@
 ---
 author_name: Mills Kelly
 authors:
-- "Mills Kelly"
+- Mills Kelly
 categories:
 - News
-- R2 Studios
 date: '2022-10-24T12:00:00Z'
-draft: false
+draft: true
 lastmod: '2023-02-22T14:44:54Z'
 slug: welcoming-jim-ambuske-to-r2-studios
 title: Welcoming Jim Ambuske to R2 Studios
+tags:
+- R2 Studios
 ---
+draft: true
 
 We are excited to announce that [Dr. Jim Ambuske](http://www.jamespambuske.com/) has joined RRCHNM and [R2 Studios](https://www.r2studios.org/), RRCHNM's podcast studio. Jim is a historian of the American Revolution, Scotland, and the British Atlantic World and has directed several digital history projects. He received his Ph.D. in History from the University of Virginia in 2016.
 

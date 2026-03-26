@@ -3,15 +3,16 @@ aliases:
 - /about-rrchnm/new-directions-at-igorj2.sg-host/
 author_name: Mills Kelly
 authors:
-- "Mills Kelly"
+- Mills Kelly
 categories:
-- About RRCHNM
 - News
 date: '2021-02-21T14:40:15Z'
 draft: false
 lastmod: '2022-08-10T10:40:35Z'
 slug: new-directions-at-rrchnm
 title: New Directions at RRCHNM
+tags:
+- About RRCHNM
 ---
 
 Fifteen years ago a team of faculty, students, and developers here at RRCHNM began an ambitious new project. They wanted to create a browser plug-in that would allow users to capture and save things they were looking at online, but not just as a simple save of those items. They wanted to capture the metadata associated with those pages, images, datasets, .pdf files, and everything else the user was looking at, and to save it in ways that were searchable, shareable, and would allow all that data to be organized for research, writing, and teaching. In short, they wanted to kill the 3x5 card that had been the ubiquitous tool of scholars and students in the humanities (and lots of other disciplines) for decades. The result was [Zotero](http://zotero.org), possibly the most successful piece of open source software ever to come out of a humanities center.

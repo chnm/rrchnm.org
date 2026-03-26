@@ -1,15 +1,17 @@
 ---
 author_name: RRCHNM
 authors:
-- "RRCHNM"
+- RRCHNM
 categories:
-- Research + Tools
-- Teaching + Learning
+- Essay
 date: '2025-02-10T10:50:48Z'
 draft: false
 lastmod: '2025-02-10T10:50:48Z'
 slug: celebrating-black-history-month
 title: Celebrating Black History Month
+tags:
+- Research + Tools
+- Teaching + Learning
 ---
 
 Just a couple miles from RRCHNM is the campus of Woodson High School, part of the Fairfax County Public School system. Until this past year the school was named for W. T. Woodson, the long time superintendent of FCPS and an opponent of school desegregation. Now the school is named after Carter G. Woodson. Born in 1875, Woodson was the second Black man to receive a PhD from Harvard University. Excluded from the American Historical Association and other professional historical circles, Woodson was a creator of institutions to understand and study Black history. Among the many institutions he founded was Negro History Week, founded nearly a century ago in 1926. Woodson’s observance was the precursor to Black History Month, first observed in 1970 and then federally recognized in 1976 for the bicentennial.

@@ -5,11 +5,12 @@ authors:
 categories:
 - News
 date: '2025-06-09T15:22:33Z'
-draft: false
+draft: true
 lastmod: '2025-06-09T15:22:34Z'
 slug: saying-goodbye-kristin-jacobsen
 title: Saying Goodbye – Kristin Jacobsen
 ---
+draft: true
 
 When the Roy Rosenzweig Center for History and New Media runs a job search for a project manager, it’s pretty common to get applicants who have an undergraduate or master’s degree in history. We’re always happy to get applicants who also have museum experience or familiarity with Omeka.
 

@@ -1,15 +1,16 @@
 ---
 author_name: RRCHNM
 authors:
-- "RRCHNM"
+- Lincoln Mullen
 categories:
-- News
-- Events
+- Essay
 date: '2025-04-11T10:00:00Z'
 draft: false
 lastmod: '2025-04-11T12:07:57Z'
 slug: carrying-on-when-the-grants-go-away
 title: Carrying On When the Grants Go Away
+tags:
+- Events
 ---
 
 Over the past three decades, RRCHNM has received many awards from the National Endowment for the Humanities (NEH). We’ve used a truly tiny portion of the federal budget to have a huge impact on individuals and communities. Students in public schools use our teaching resources. Visitors to public history sites learn more from our websites. Citizens wondering about the origin of our nation listen to our podcast about the American Revolution. For literally pennies per person we reach, we’ve had a huge impact on public understandings of the past.
@@ -20,7 +21,7 @@ We can keep doing the important work of democratizing access to history because 
 
 —Lincoln Mullen, RRCHNM Executive Director
 
-[Donate Now](https://securemason.gmu.edu/s/1564/GID2/16/19-giving.aspx?sid=1564&gid=2&pgid=7958&cid=1709&bledit=1&sort=1&dids=318.822.534.768&appealcode=25SRRC)
+{{< support-btn >}}
 
 ## Grants Terminated by the NEH
 
@@ -64,4 +65,4 @@ RRCHNM with Dr. Jewon Woo of Lorain Community College (Ohio) was awarded a NEH C
 
 RRCHNM’s mission is to democratize history through new media. We do that by providing free and open resources to help public audiences study and interpret history for themselves. Historical understanding and historical thinking is as important as ever in our democracy. Make your donation today, to help us continue this critical work.
 
-[Give Now](https://securemason.gmu.edu/s/1564/GID2/16/19-giving.aspx?sid=1564&gid=2&pgid=7958&cid=1709&bledit=1&sort=1&dids=318.822.534.768&appealcode=25SRRC)
+{{< support-btn text="Give Now →" >}}

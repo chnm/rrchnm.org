@@ -1,15 +1,16 @@
 ---
 author_name: RRCHNM
 authors:
-- "RRCHNM"
+- RRCHNM
 categories:
 - News
-- Events
 date: '2025-01-03T18:00:00Z'
 draft: false
 lastmod: '2025-01-03T17:09:05Z'
 slug: connect-with-rrchnm-at-aha25
 title: Connect With RRCHNM at AHA25
+tags:
+- Events
 ---
 
 Many RRCHNM-ers will be featured in sessions coming up this week at the American Historical Associations Annual Meeting. To connect with RRHCNM and learn more about our current projects, here is a list of those sessions.

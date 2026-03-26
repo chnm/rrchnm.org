@@ -1,14 +1,16 @@
 ---
 author_name: Caroline Greer
 authors:
-- "Caroline Greer"
+- Caroline Greer
 categories:
-- Research + Tools
+- Essay
 date: '2025-01-27T12:00:00Z'
 draft: false
 lastmod: '2025-01-27T11:12:51Z'
 slug: graduate-student-reflections-how-network-analysis-influenced-my-research
 title: 'Graduate Student Reflections: How Network Analysis Influenced My Research'
+tags:
+- Research + Tools
 ---
 
 As a fifth year PhD candidate in the History Department, I have combined my desire to learn everything I can about female preachers in the early American republic with my enthusiasm for any and all data visualizations and digital humanities tools. Committed to these women, just as they committed themselves to their itinerant ministries, I have expanded my research to include more women, especially Black female preachers, and those from England and Canada who came to the States, and vice-versa. My analysis in my dissertation—a traditional history dissertation—intersects an interest in gender, race, and body studies with a religious history methodology. My focus remains on the women who preached, despite opposition from their families, husbands, pastors, and many others. I center the women, and I still emphasize their relationships with others who supported them.

@@ -1,14 +1,16 @@
 ---
 author_name: Lincoln Mullen
 authors:
-- "Lincoln Mullen"
+- Lincoln Mullen
 categories:
-- About RRCHNM
+- News
 date: '2022-08-26T14:00:00Z'
 draft: false
 lastmod: '2022-08-26T14:21:21Z'
 slug: rrchnm-welcomes-25-graduate-students-for-the-new-academic-year
 title: RRCHNM Welcomes 25 Graduate Students for the new Academic Year
+tags:
+- About RRCHNM
 ---
 
 The start of the academic year at RRCHNM also means the return of many of our graduate students. This week RRCHNM welcomed [twenty-five graduate research assistants or graduate affiliates](https://rrchnm.org/our-people/).

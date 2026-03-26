@@ -1,15 +1,17 @@
 ---
 author_name: Nate Sleeter
 authors:
-- "Nate Sleeter"
+- Nate Sleeter
 categories:
-- Teaching + Learning
-- Events
+- News
 date: '2025-01-17T11:00:00Z'
 draft: false
 lastmod: '2025-01-23T10:25:15Z'
 slug: neh-institute-participants-present-at-aha-on-higher-education-history
 title: NEH Institute Participants Present at AHA on Higher Education History
+tags:
+- Teaching + Learning
+- Events
 ---
 
 **Five participants in the** [**NEH-funded institute**](https://www.neh.gov/divisions/education/summer-programs)**,** ***Unpacking the History of Higher Education,*** **presented the projects they developed at the institute at the** [**AHA Annual Meeting**](https://www.historians.org/event/2025-aha-annual-meeting/) **in January along with project co-directors, Kelly Schrum and Nate Sleeter. The summer 2024 institute brought together faculty members from higher education programs who teach or support history of higher ed courses.**

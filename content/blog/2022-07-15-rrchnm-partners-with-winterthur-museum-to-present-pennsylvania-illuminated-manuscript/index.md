@@ -1,16 +1,17 @@
 ---
 author_name: Lincoln Mullen
 authors:
-- "Lincoln Mullen"
+- Lincoln Mullen
 categories:
 - News
-- Partnerships
 date: '2022-07-15T11:00:00Z'
 draft: false
 lastmod: '2022-07-25T09:47:13Z'
 slug: rrchnm-partners-with-winterthur-museum-to-present-pennsylvania-illuminated-manuscript
 title: RRCHNM Partners with Winterthur Museum to Present Pennsylvania Illuminated
   Manuscript
+tags:
+- Partnerships
 ---
 
 RRCHNM is happy to announce a partnership with the Winterthur Museum, Garden, and Library to present the history of a fascinating and unique eighteenth-century American manuscript.
