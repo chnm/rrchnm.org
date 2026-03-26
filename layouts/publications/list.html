@@ -33,8 +33,13 @@
 
           {{/* Thumbnail */}}
           {{ with .Params.thumbnail }}
+          {{ $thumbUrl := . }}
+          {{- if not (or (hasPrefix . "/") (hasPrefix . "http")) -}}
+            {{- $res := $.Resources.GetMatch . -}}
+            {{- if $res -}}{{- $thumbUrl = $res.RelPermalink -}}{{- end -}}
+          {{- end -}}
           <a href="{{ $href }}"{{ if $isExternal }} target="_blank" rel="noopener"{{ end }} class="shrink-0 block w-20 h-28 overflow-hidden rounded shadow-sm">
-            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" class="w-full h-full object-cover">
+            <img src="{{ $thumbUrl }}" alt="{{ $.Title }}" loading="lazy" class="w-full h-full object-cover">
           </a>
           {{ end }}
 
