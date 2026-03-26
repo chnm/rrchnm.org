@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article>
   {{/* Featured image as hero with title overlay */}}
-  {{ $hero := .Params.featured_image | default .Site.Params.default_image }}
+  {{ $hero := partial "featured-image.html" . }}
   {{ with $hero }}
   <div class="relative bg-stone-900 overflow-hidden -mt-12 lg:-mt-16 mb-10" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw;">
     <img src="{{ . }}" alt="{{ $.Title }}" class="absolute inset-0 w-full h-full object-cover {{ if not $.Params.featured_image }}object-[center_20%]{{ end }}">
@@ -24,6 +24,9 @@
 
     {{/* Main content */}}
     <div class="lg:w-2/3 min-w-0">
+      {{ with .Params.lede }}
+      <p class="text-lg lg:text-xl text-stone-600 leading-relaxed mb-8">{{ . }}</p>
+      {{ end }}
       <div class="prose prose-stone max-w-none">
         {{ .Content }}
       </div>

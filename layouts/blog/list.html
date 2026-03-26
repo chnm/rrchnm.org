@@ -5,7 +5,8 @@
   <article class="border-b border-stone-200 pb-10">
     <div class="flex flex-col md:flex-row gap-6">
       <a href="{{ $post.RelPermalink }}" class="shrink-0 block overflow-hidden rounded-lg md:w-56">
-        <img src="{{ .Params.featured_image | default .Site.Params.default_image }}" alt="{{ $post.Title }}" loading="lazy" class="w-full aspect-[3/2] object-cover hover:scale-[1.03] transition-transform duration-300">
+        {{ $img := partial "featured-image.html" . }}
+        <img src="{{ $img }}" alt="{{ $post.Title }}" loading="lazy" class="w-full aspect-[3/2] object-cover hover:scale-[1.03] transition-transform duration-300">
       </a>
       <div class="min-w-0">
         <div class="flex items-center gap-3 mb-2">
@@ -17,7 +18,7 @@
         <h2 class="font-serif text-xl lg:text-2xl text-stone-900 mb-2">
           <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
         </h2>
-        {{ with .Params.description }}<p class="text-stone-600 text-sm leading-relaxed line-clamp-3">{{ . | truncate 200 }}</p>{{ end }}
+        {{ with .Params.lede }}<p class="text-stone-600 text-sm leading-relaxed line-clamp-3">{{ . }}</p>{{ end }}
         <a href="{{ .RelPermalink }}" class="inline-block mt-3 text-sm font-semibold text-stone-900 hover:text-red-brand transition-colors" aria-label="Read more about {{ .Title }}">Read more &rarr;</a>
       </div>
     </div>

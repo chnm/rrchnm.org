@@ -40,7 +40,8 @@
           {{ range $i, $p := first 2 $posts }}
           {{ if $i }}<div class="border-t border-stone-100"></div>{{ end }}
           <a href="{{ .RelPermalink }}" class="group flex gap-3 items-start pt-{{ if $i }}5{{ else }}0{{ end }}">
-            <img src="{{ .Params.featured_image | default .Site.Params.default_image }}" alt="" loading="lazy" class="w-16 h-16 object-cover rounded shrink-0">
+            {{ $img := partial "featured-image.html" . }}
+            <img src="{{ $img }}" alt="" loading="lazy" class="w-16 h-16 object-cover rounded shrink-0">
             <div>
               <h3 class="font-serif text-sm text-stone-900 leading-snug group-hover:text-red-brand transition-colors">{{ .Title }}</h3>
               <span class="text-xs text-stone-400 mt-1 block">{{ .Date.Format "Jan 2, 2006" }}</span>
