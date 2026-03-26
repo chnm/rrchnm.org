@@ -2,7 +2,7 @@
 role: staff
 date: '2022-05-01T00:00:00Z'
 draft: false
-job_title: "Senior Scholar"
+job_title: "Affiliate Faculty"
 level: Senior Scholars
 picture: "/media/2022/05/Mike-OMalley.jpg"
 slug: mike-omalley

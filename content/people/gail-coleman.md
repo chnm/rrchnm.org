@@ -2,7 +2,7 @@
 role: affiliate
 date: '2022-09-01T00:00:00Z'
 draft: false
-job_title: Graduate Affiliate
+job_title: "Graduate Affiliate"
 lastmod: '2026-03-05T00:00:00Z'
 picture: /media/2022/09/Asset-1.png
 title: Gail Coleman
