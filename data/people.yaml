@@ -184,7 +184,7 @@
 
 - first_name: Ronny
   last_name: Grundig
-  job_title: Gerda Henkel Postdoctoral Fellow in Digital History
+  job_title: Gerda Henkel Postdoctoral Fellow
   level: Postdoctoral Fellows
   picture: "/media/2025/08/Ronny-Grundig.png"
   url: ~
@@ -216,7 +216,7 @@
 
 - first_name: Jason
   last_name: Heppler
-  job_title: Senior Developer-Schoalr
+  job_title: Senior Developer/Scholar
   level: Professional Staff
   picture: "/media/2022/05/Jason-Heppler1.jpg"
   url: "https://jasonheppler.org"
@@ -264,8 +264,8 @@
 
 - first_name: Matt
   last_name: Karush
-  job_title: Senior Scholar
-  level: Senior Scholars
+  job_title: Department Chair
+  level: Leadership
   picture: "/media/2022/05/Matt-Karush1.jpg"
   url: ~
   published: true
@@ -284,7 +284,7 @@
   level: "Faculty & Emeritus"
   picture: "/media/2022/05/Mills-Kelly1.jpg"
   url: ~
-  published: true
+  published: false
 
 - first_name: Timmia
   last_name: King
@@ -296,7 +296,7 @@
 
 - first_name: Alison
   last_name: Langford
-  job_title: Office Manager
+  job_title: Office Administrator
   level: Professional Staff
   picture: "/media/2022/10/Alison-Langford.jpg"
   url: ~
@@ -379,7 +379,7 @@
   job_title: Director
   level: Leadership
   picture: /media/2023/08/LincolnMullen.jpg
-  url: ~
+  url: https://lincolnmullen.com
   published: true
 
 - first_name: Deepthi
@@ -408,8 +408,8 @@
 
 - first_name: Mike
   last_name: "O'Malley"
-  job_title: Senior Scholar
-  level: Senior Scholars
+  job_title: Affiliate Faculty
+  level: "Faculty & Emeritus"
   picture: "/media/2022/05/Mike-OMalley.jpg"
   url: ~
   published: true
@@ -468,7 +468,7 @@
   level: Historical Figure
   picture: "/media/2022/05/Roy-Rosenzweig.jpg"
   url: ~
-  published: true
+  published: false
 
 - first_name: Jim
   last_name: Safley
@@ -488,8 +488,8 @@
 
 - first_name: Kelly
   last_name: Schrum
-  job_title: Senior Scholar
-  level: Senior Scholars
+  job_title: Affiliate Faculty
+  level: "Faculty & Emeritus"
   picture: "/media/2022/05/Kelly-Schrum-1.jpg"
   url: ~
   published: true
@@ -552,8 +552,8 @@
 
 - first_name: John
   last_name: Turner
-  job_title: Senior Scholar
-  level: Senior Scholars
+  job_title: Affiliate Faculty
+  level: "Faculty & Emeritus"
   picture: "/media/2022/05/John-Turner.jpg"
   url: ~
   published: true
@@ -584,7 +584,7 @@
 
 - first_name: John
   last_name: Winters
-  job_title: Department of Defense POW/MIA Accounting Agency Postdoctoral Research Fellow
+  job_title: DPAA Postdoctoral Fellow
   level: Postdoctoral Fellows
   picture: "/media/2025/08/John-Winters.png"
   url: ~
