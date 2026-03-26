@@ -45,11 +45,6 @@ spotlight slug:
     hugo new spotlight/{{slug}}.md
     @echo "Created: content/spotlight/{{slug}}.md"
 
-# Create a new video: just video "video-name"
-video slug:
-    hugo new video/{{slug}}.md
-    @echo "Created: content/video/{{slug}}.md"
-
 # ── Content Helpers ──────────────────────────────────────────
 
 # List all draft content
