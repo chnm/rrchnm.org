@@ -4,7 +4,8 @@
 {{ $abstract := .Params.abstract | default .Params.description }}
 
 <article>
-  {{ with .Params.featured_image }}
+  {{ $featImg := partial "featured-image.html" . }}
+  {{ with $featImg }}
   <div class="mb-10">
     <img src="{{ . }}" alt="{{ $.Title }}" class="w-full rounded-lg">
   </div>
@@ -16,8 +17,13 @@
     <div class="lg:w-2/3 min-w-0">
       {{ if .Params.external_url }}
       {{ with .Params.thumbnail }}
+      {{ $thumbUrl := . }}
+      {{- if not (or (hasPrefix . "/") (hasPrefix . "http")) -}}
+        {{- $res := $.Resources.GetMatch . -}}
+        {{- if $res -}}{{- $thumbUrl = $res.RelPermalink -}}{{- end -}}
+      {{- end -}}
       <div class="mb-8">
-        <img src="{{ . }}" alt="{{ $.Title }}" class="max-w-xs rounded-lg shadow-md">
+        <img src="{{ $thumbUrl }}" alt="{{ $.Title }}" class="max-w-xs rounded-lg shadow-md">
       </div>
       {{ end }}
       {{ with .Content }}
