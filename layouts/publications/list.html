@@ -24,6 +24,7 @@
       <h2 class="font-serif text-2xl text-stone-900 mb-6 pb-3 border-b border-stone-200">{{ .Key }}</h2>
       <div class="space-y-8">
         {{ range .Pages }}
+        {{ $page := . }}
         {{ $isExternal := .Params.external_url }}
         {{ $href := cond (ne $isExternal nil) $isExternal .RelPermalink }}
         {{ $authors := .Params.authors | default (slice .Params.essay_author) }}
@@ -35,7 +36,7 @@
           {{ with .Params.thumbnail }}
           {{ $thumbUrl := . }}
           {{- if not (or (hasPrefix . "/") (hasPrefix . "http")) -}}
-            {{- $res := $.Resources.GetMatch . -}}
+            {{- $res := $page.Resources.GetMatch . -}}
             {{- if $res -}}{{- $thumbUrl = $res.RelPermalink -}}{{- end -}}
           {{- end -}}
           <a href="{{ $href }}"{{ if $isExternal }} target="_blank" rel="noopener"{{ end }} class="shrink-0 block w-20 h-28 overflow-hidden rounded shadow-sm">
