@@ -9,7 +9,11 @@ draft: false
 lastmod: '2025-12-08T14:19:18Z'
 slug: roy-rosenzweig-prize-for-creativity-in-digital-history-winner
 title: Roy Rosenzweig Prize for Creativity in Digital History Winner
+featured_image: image.png
 lede: Congratulations to Envisioning Seneca Village!
+crossposted:
+  - url: "https://rrchnm.org"
+    name: "rrchnm.org -- THIS IS A TEST CROSSPOST VIEW"
 ---
 
 Congratulations to [Envisioning Seneca Village](https://envisioningsenecavillage.github.io/) on being selected as the 2025 winner of the [American Historical Association’s Roy Rosenzweig Prize for Creativity in Digital History!](https://www.historians.org/award-grant/roy-rosenzweig-prize-for-creativity-in-digital-history/#:~:text=2023,2014)

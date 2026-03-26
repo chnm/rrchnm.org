@@ -22,7 +22,7 @@ A major goal of the Doing Digital History institutes is to make a targeted impac
 - Do you feel comfortable supervising students who want to use digital tools in their history scholarship?
 
 By comparing the 2014 and 2016 institute data, we can see some interesting differences in the cohorts. Prior to DoingDH, the 2016 cohort was much more comfortable reviewing digital work for promotion than the 2014 group, but less willing to review digital projects for journals. The 2014 cohort was slightly more at ease in supervising students incorporating digital tools into their work, and more than half of each group felt comfortable discussing digital work with colleagues.
-[![Caparison chart 2014 and 2016 results](http://history2016.doingdh.org/media/sites/8/2017/07/Post-SurveyCompare-1024x321.jpg)](http://history2016.doingdh.org/media/sites/8/2017/07/Post-SurveyCompare.jpg)
+{{< figure src="http://history2016.doingdh.org/media/sites/8/2017/07/Post-SurveyCompare.jpg" alt="Caparison chart 2014 and 2016 results" >}}
 The post-institute surveys show that the 2016 cohort left with more overall confidence across each goal and achieved slightly more positive change in growth than the 2014 group. Even still, both groups experienced an impressive amount of personal and professional growth in two weeks!
 In May 2017, we surveyed the DoingDH 2016 cohort one last time to gather some data about how each of them incorporated what they learned into their teaching, research, and professional development during the 2016-17 academic year:
 **Teaching**

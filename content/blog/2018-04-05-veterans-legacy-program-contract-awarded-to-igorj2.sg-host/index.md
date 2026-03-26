@@ -11,7 +11,7 @@ slug: veterans-legacy-program-contract-awarded-to-igorj2.sg-host
 title: Veterans Legacy Program contract awarded to RRCHNM
 ---
 
-[caption id="attachment\_5743" align="alignright" width="300"][![Alexandria National Cemetery site visit](Alexandria-National-Cemetery-3-300x200.jpg)](Alexandria-National-Cemetery-3.jpg) RRCHNM students receive a tour of Alexandria National Cemetery with James Sanders, Director of the Quantico and Alexandria National Cemeteries. Photo credit: Chris Preperato[/caption]
+{{< figure src="Alexandria-National-Cemetery-3.jpg" alt="Alexandria National Cemetery site visit" caption="RRCHNM students receive a tour of Alexandria National Cemetery with James Sanders, Director of the Quantico and Alexandria National Cemeteries. Photo credit: Chris Preperato" >}}
 The Roy Rosenzweig Center for History and New Media is proud to announce that we received a contract from the U.S. Department of Veterans Affairs (VA) National Cemetery Administration (NCA) in support of their Veterans Legacy Program.
 Students working within RRCHNM’s Education Division will be researching the history of [Alexandria National Cemetery](https://www.cem.va.gov/cems/nchp/alexandriava.asp), one of the original 14 national cemeteries established in 1862.
 RRCHNM will create online learning modules that teachers and high school students in the Alexandria Public Schools will pilot test later this spring. The modules will include a digital activity or service learning activity aimed at exploring commemoration, historical memory, and national mourning. On completion, these modules will be available to other classrooms around the country.

@@ -22,5 +22,5 @@ We welcome all donations, but believe that Roy, a true champion of democracy, wo
 Maybe you keep your precious research in Zotero or your treasured digital archive in Omeka, saving you from the expense of commercial programs. Maybe as a teacher or student you have learned more from CHNM’s free sites than from pricey textbooks. Or maybe you are grateful for our unique and powerful historical collections from George Washington through 9/11.
 If so, we hope you’ll consider joining the Circle of Friends. These donors will be honored on a special page of our website and on the wall of CHNM.
 Please [join the Circle now](../../circle/), and thanks so much in advance for your support!
-[![](http://www.dancohen.org/wp/media/2010/09/donate-button.png "donate-button")](../../circle/)
-![](file:///Users/dcohen/Library/Caches/TemporaryItems/moz-screenshot.png)
+{{< figure src="../../circle/" >}}
+{{< figure src="file:///Users/dcohen/Library/Caches/TemporaryItems/moz-screenshot.png" >}}

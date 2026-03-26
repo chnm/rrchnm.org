@@ -11,7 +11,7 @@ slug: and-the-winner-is
 title: And the winner is...
 ---
 
-The Roy Rosenzweig Center for History and New Media is h[![Eagle Eye Citizen Contest Winer](twitter-post-contest-winner2-300x150.png)](twitter-post-contest-winner2.png)appy to announce that Emily O’Connell from Battle Ground Academy in Franklin, TN is the winner of the Eagle Eye Citizen student challenge making contest.
+The Roy Rosenzweig Center for History and New Media is h{{< figure src="twitter-post-contest-winner2.png" alt="Eagle Eye Citizen Contest Winer" >}}appy to announce that Emily O’Connell from Battle Ground Academy in Franklin, TN is the winner of the Eagle Eye Citizen student challenge making contest.
 Judges from National History Day reviewed over 200 challenges created during the contest period and selected Emily’s challenge, [Becoming Law](https://eagleeyecitizen.org/solve/sio/?sid=3707), as the winning entry.
 As the winner, Emily received a pizza party for her class, a full set of the *Making History* series from National History Day, and a prize pack of books from the Library of Congress.
 Eagle Eye Citizen engages middle and high school students in solving and creating interactive challenges about Congress, American history, civics, and government with Library of Congress primary sources in order to develop students' civic understanding and historical thinking skills.

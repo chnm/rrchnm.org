@@ -1,15 +1,17 @@
 ---
 author_name: Nate Sleeter
 authors:
-- "Nate Sleeter"
+- Nate Sleeter
 categories:
-- Teaching + Learning
-- Partnerships
+- News
 date: '2022-09-06T09:00:00Z'
 draft: false
 lastmod: '2022-09-23T12:56:45Z'
 slug: rrchnm-launches-new-teaching-guides-for-pre-service-history-teachers
 title: RRCHNM Launches New Teaching Guides for Pre-Service History Teachers
+tags:
+- Teaching + Learning
+- Partnerships
 ---
 
 #### Funded by the Library of Congress, the four teaching guides will support new prospective teachers teaching the history of religion and will be available on [Teachinghistory.org](https://teachinghistory.org/teaching-materials/teaching-guides).

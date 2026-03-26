@@ -1,23 +1,24 @@
 ---
 author_name: Savannah Scott
 authors:
-- "Savannah Scott"
+- Savannah Scott
 categories:
-- News
-- Research + Tools
-- Teaching + Learning
-- Events
+- Essay
 date: '2025-08-25T15:40:25Z'
 draft: false
 lastmod: '2025-08-25T15:40:26Z'
 slug: graduate-student-reflections-sustainability-summer
 title: 'Graduate Student Reflections: Sustainability Summer'
-lede: PhD student Savannah Scott reflects on the challenges of flattening the 98,000-item 9/11 Digital Archive into a static site and building search for it.
+featured_image:
+lede: PhD student Savannah Scott reflects on the challenges of flattening the 98,000-item
+  9/11 Digital Archive into a static site and building search for it.
+tags:
+- Research + Tools
+- Teaching + Learning
+- Sustainability
 ---
 
-{{< figure src="Savannah-Scott.jpg" >}}
-
-Savannah is a PhD student at George Mason University and a Graduate Research Assistant at RRCHNM.
+<aside>Savannah is a PhD student at George Mason University and a Graduate Research Assistant at RRCHNM.</aside>
 
 This past summer I had the opportunity to work on RRCHNM’s sustainability team. Our work focused on flattening [websites built with content management systems (CMS)](https://sustainabledh.org/blog/scott-static-search/), such as Drupal, Omeka, and WordPress. Flattening refers to the process of simplifying dynamic, database-backed websites to static versions built with only HTML, CSS, and JavaScript. This minimizes server space and reduces security risks. However, flattening comes with trade-offs, such as losing dynamic features like a search function. One of my main roles this summer was creating a [static site search](https://sustainabledh.org/blog/building-static-search/) for these flattened websites.
 

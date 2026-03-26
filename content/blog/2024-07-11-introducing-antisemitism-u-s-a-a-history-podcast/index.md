@@ -1,15 +1,16 @@
 ---
 author_name: RRCHNM
 authors:
-- "RRCHNM"
+- RRCHNM
 categories:
 - News
-- R2 Studios
 date: '2024-07-11T10:00:00Z'
 draft: false
 lastmod: '2024-08-03T10:18:08Z'
 slug: introducing-antisemitism-u-s-a-a-history-podcast
 title: 'Introducing Antisemitism, U.S.A.: A History Podcast'
+tags:
+- R2 Studios
 ---
 
 **Introducing** ***Antisemitism, U.S.A.*****:** ***A History*** **podcast from the Roy Rosenzweig Center for History and New Media and R2 Studios**

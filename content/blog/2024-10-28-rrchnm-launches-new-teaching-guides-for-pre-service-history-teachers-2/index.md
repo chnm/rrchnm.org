@@ -1,15 +1,16 @@
 ---
 author_name: Nate Sleeter
 authors:
-- "Nate Sleeter"
+- Nate Sleeter
 categories:
 - News
-- Teaching + Learning
 date: '2024-10-28T10:00:00Z'
 draft: false
 lastmod: '2024-10-28T10:18:07Z'
 slug: rrchnm-launches-new-teaching-guides-for-pre-service-history-teachers-2
 title: RRCHNM Launches New Teaching Guides for Pre-Service History Teachers 
+tags:
+- Teaching + Learning
 ---
 
 *Funded by the Library of Congress, these four teaching guides will support new prospective teachers teaching post-1970s U.S. history and civics and will be available on [Teachinghistory.org](https://teachinghistory.org/teaching-materials/teaching-guides).*

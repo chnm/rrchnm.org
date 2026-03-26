@@ -1,15 +1,18 @@
 ---
 author_name: Mills Kelly
 authors:
-- "Mills Kelly"
+- Mills Kelly
 categories:
-- Research + Tools
-- Teaching + Learning
+- Essay
 date: '2025-02-13T10:29:49Z'
 draft: false
 lastmod: '2025-02-13T10:31:05Z'
 slug: teaching-writing-and-research-with-ai
 title: Teaching, Writing, and Research with AI
+tags:
+- Research + Tools
+- Teaching + Learning
+- Generative AI
 ---
 
 When Chat GPT first appeared in November 2022, the almost universal reaction in the humanities community could be summed up in one word – Yikes! Almost without warning this new tool seemed ready to make it incredibly easy for students to “write” essays using prompts that took no more than a minute to produce and then, if they were crafty, another 30 minutes to modify a bit so that it wasn’t quite so obvious that the essay had been written by a large language model (LLM).

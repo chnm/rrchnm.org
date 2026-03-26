@@ -1,9 +1,9 @@
 ---
 author_name: Mills Kelly
 authors:
-- "Mills Kelly"
+- Mills Kelly
 categories:
-- News
+- Essay
 date: '2021-09-10T13:49:13Z'
 description: Shortly after the September 11 attacks, the team here at the Center for
   History and New Media, in collaboration with our partners at the American Social

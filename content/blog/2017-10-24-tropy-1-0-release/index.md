@@ -24,7 +24,7 @@ Just some of the features Tropy offers:
 - Search the descriptive metadata, tags, and notes to find the sources you need
 - Export your items in JSON-LD
 
-![](Screen-Shot-2017-10-23-at-4.02.06-PM-1024x614.png)
+{{< figure src="Screen-Shot-2017-10-23-at-4.02.06-PM-1024x614.png" >}}
 ![](Screen-Shot-2017-10-23-at-4.03.56-PM-1024x614.png)Visit Tropy's extensive [documentation](https://docs.tropy.org) to learn how to use the software to describe your research. And please feel free to post questions, problems, and feedback to Tropy's [support forums](https://forums.tropy.org).
 Our thanks to Tropy's awesome development team: 
 

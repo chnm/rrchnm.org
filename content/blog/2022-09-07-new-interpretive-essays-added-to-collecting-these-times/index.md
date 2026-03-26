@@ -1,15 +1,16 @@
 ---
 author_name: John Turner
 authors:
-- "John Turner"
+- John Turner
 categories:
-- Collecting + Exhibiting
-- Essays
+- Essay
 date: '2022-09-07T15:00:40Z'
 draft: false
 lastmod: '2022-09-07T15:06:57Z'
 slug: new-interpretive-essays-added-to-collecting-these-times
 title: New Interpretive Essays Added to Collecting These Times
+tags:
+- Collecting + Exhibiting
 ---
 
 *[Collecting These Times](https://collectingthesetimes.org/s/collecting-these-times/page/home)* (CTT), funded by [Charles and Lynn Schusterman Family Philanthropies](https://www.schusterman.org/), [Jim Joseph Foundation](https://jimjosephfoundation.org/), [Lippman Kanfer Foundation for Living Torah](https://lkflt.org/), and [The Russell Berrie Foundation](https://www.russellberriefoundation.org/), documents the many ways that diverse communities of American Jews have responded to the COVID-19 pandemic.

@@ -1,16 +1,17 @@
 ---
 author_name: RRCHNM
 authors:
-- "RRCHNM"
+- RRCHNM
 categories:
 - News
-- R2 Studios
 date: '2024-05-10T10:20:07Z'
 draft: false
 lastmod: '2024-06-11T10:17:51Z'
 slug: antisemitism-u-s-a-podcast-receives-generous-support-from-the-david-bruce-smith-family-foundation
 title: Antisemitism, U.S.A. Podcast Receives Generous Support from the David Bruce
   Smith Foundation
+tags:
+- R2 Studios
 ---
 
 The Roy Rosenzweig Center for History and New Media (RRCHNM) is excited to announce that R2 Studioshas received a $50,000 gift from the David Bruce Smith Foundation to support [*Antisemitism, U.S.A.*](https://www.r2studios.org/show/Antisemitism-USA/)*,* our forthcoming narrative podcast series on the long, complicated history of antisemitism in the United States.

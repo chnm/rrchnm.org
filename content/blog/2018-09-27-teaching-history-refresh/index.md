@@ -13,7 +13,7 @@ title: Teaching History Refresh
 
 The Roy Rosenzweig Center for History and New Media is pleased to announce the launch of the updated [**Teaching History**](https://teachinghistory.org/) website. 
 **Teaching History**, a Teaching American History project funded by the U.S. Department of Education, provides educational resources and materials in U.S. history to K-12 students and teachers.
-[![Homepage screenshot of teachinghistory.org](teaching-history-homepage-300x230.png)](teaching-history-homepage.png)
+{{< figure src="teaching-history-homepage.png" alt="Homepage screenshot of teachinghistory.org" >}}
 **Teaching History** has a renewed focus on the site’s most important content:
 
 - Teaching Materials — teaching guides, lesson plan reviews, and ELL resources

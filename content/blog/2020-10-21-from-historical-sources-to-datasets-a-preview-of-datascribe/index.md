@@ -1,9 +1,9 @@
 ---
 author_name: Lincoln Mullen
 authors:
-- "Lincoln Mullen"
+- Lincoln Mullen
 categories:
-- News
+- Essay
 date: '2020-10-21T12:10:54Z'
 draft: false
 lastmod: '2021-02-19T14:50:17Z'

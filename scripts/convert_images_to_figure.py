@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Convert markdown images in 2020+ blog posts to Hugo figure shortcodes.
+"""Convert markdown images in blog posts to Hugo figure shortcodes.
 
 Handles these patterns:
 1. [caption ...][![alt](thumb)](full) Caption[/caption]  (WordPress caption)
@@ -25,6 +25,7 @@ def convert_post(filepath):
 
     # Pattern 1: WordPress [caption] with linked image
     # [caption id="..." align="..." width="..."][![alt](thumb)](full) Caption text[/caption]
+    # Also handles escaped underscores in attachment IDs (attachment\_1234)
     content = re.sub(
         r'\[caption[^\]]*\]\s*\[!\[([^\]]*)\]\([^)]*\)\]\(([^)]+)\)\s*(.*?)\[/caption\]',
         lambda m: _figure(m.group(2), m.group(1), m.group(3).strip()),
@@ -37,6 +38,16 @@ def convert_post(filepath):
     content = re.sub(
         r'\[caption[^\]]*\]\s*!\[([^\]]*)\]\(([^)]+)\)\s*(.*?)\[/caption\]',
         lambda m: _figure(m.group(2), m.group(1), m.group(3).strip()),
+        content,
+        flags=re.DOTALL
+    )
+
+    # Pattern 2b: WordPress [caption] with linked plain image (no thumbnail)
+    # [caption ...][![alt](img)](link) Caption[/caption]
+    # where the link wraps the image but there's no separate thumbnail
+    content = re.sub(
+        r'\[caption[^\]]*\]\s*\[([^\]!][^\]]*)\]\(([^)]+)\)\s*(.*?)\[/caption\]',
+        lambda m: _figure(m.group(2), "", m.group(3).strip()),
         content,
         flags=re.DOTALL
     )
@@ -94,8 +105,6 @@ def main():
     converted = 0
 
     for dirname in sorted(os.listdir(blog_dir)):
-        if not dirname.startswith("202"):
-            continue
         bundle_dir = os.path.join(blog_dir, dirname)
         index_path = os.path.join(bundle_dir, "index.md")
         if not os.path.isdir(bundle_dir) or not os.path.exists(index_path):

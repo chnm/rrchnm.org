@@ -23,7 +23,7 @@ Recently, museums and other educational institutions have embraced social mediaâ
 
 The un-conference will be held on Saturday, December 5, 2009 from 8:30am to 5:30pm at USHMM in Washington, DC. To learn more and submit an application, visit http://www.ushmm.org/social/blog/about.
 
-[![conscience_banner](http://www.foundhistory.org/media/2009/09/conscience_banner.jpg "conscience_banner")](http://www.ushmm.org/social/blog/)
+{{< figure src="http://www.ushmm.org/social/blog/" alt="conscience_banner" >}}
 
 // <![CDATA[
 SHARETHIS.addEntry({ title: "The Conscience Un-Conference: Using Social Media for Good", url: "http://www.foundhistory.org/2009/09/16/conscience-un-conference/" });

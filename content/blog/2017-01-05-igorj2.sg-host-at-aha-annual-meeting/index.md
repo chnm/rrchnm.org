@@ -12,7 +12,7 @@ slug: igorj2.sg-host-at-aha-annual-meeting
 title: RRCHNM at AHA Annual Meeting
 ---
 
-[![bookmark-front](Bookmark-Front-300x78.png)](Bookmark-Front.png)
+{{< figure src="Bookmark-Front.png" alt="bookmark-front" >}}
 The Roy Rosenzweig Center for History and New Media will be well represented at this year’s American Historical Association Annual Meeting in Denver this week.  If you are planning to attend, here is where you can find us:
 
 - Friday, January 6 (10:30 am - noon) — RRCHNM Director Stephen Robertson is chairing and presenting in the [Collaborative Digital History](https://aha.confex.com/aha/2017/webprogram/Session15205.html) roundtable.

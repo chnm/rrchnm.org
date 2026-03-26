@@ -3,15 +3,16 @@ aliases:
 - /news/your-most-humble-and-obedient-servant-joins-the-r2-studios-network/
 author_name: Jeanette Patrick
 authors:
-- "Jeanette Patrick"
+- Jeanette Patrick
 categories:
 - News
-- R2 Studios
 date: '2023-05-15T10:00:00Z'
 draft: false
 lastmod: '2023-05-15T10:23:56Z'
 slug: your-most-obedient-and-humble-servant-joins-the-r2-studios-network
 title: Your Most Obedient & Humble Servant Joins the R2 Studios Network
+tags:
+- R2 Studios
 ---
 
 #### This post is cross-posted on [r2studios.org](https://www.r2studios.org/blog/your-most-obedient-humble-servant-joins-the-r2-studios-network/) with further details about the announcement.

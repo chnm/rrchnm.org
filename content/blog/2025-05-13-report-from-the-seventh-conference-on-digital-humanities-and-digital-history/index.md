@@ -1,17 +1,18 @@
 ---
 author_name: Lauren Rever
 authors:
-- "Lauren Rever"
+- Lauren Rever
 categories:
-- News
-- Research + Tools
-- Teaching + Learning
-- Events
+- Essay
 date: '2025-05-13T09:15:00Z'
 draft: false
 lastmod: '2025-05-13T09:27:36Z'
 slug: report-from-the-seventh-conference-on-digital-humanities-and-digital-history
 title: Report from the Seventh Conference on Digital Humanities and Digital History
+tags:
+- Research + Tools
+- Teaching + Learning
+- Events
 ---
 
 From March 19th to March 21st, 2025, the German Historical Institute (GHI) in Washington, DC hosted the Seventh Conference on Digital Humanities and Digital History. The conference theme, real-time history, drew on Roy Rosenzweig’s call to action that historians need to directly address the methodological potential and risks of the digital age.

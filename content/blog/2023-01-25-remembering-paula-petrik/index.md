@@ -1,9 +1,9 @@
 ---
 author_name: Mills Kelly
 authors:
-- "Mills Kelly"
+- Mills Kelly
 categories:
-- News
+- Essay
 date: '2023-01-25T13:00:00Z'
 draft: false
 lastmod: '2023-01-25T13:22:49Z'

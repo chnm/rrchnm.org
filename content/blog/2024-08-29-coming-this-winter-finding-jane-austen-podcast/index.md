@@ -1,15 +1,16 @@
 ---
 author_name: RRCHNM
 authors:
-- "RRCHNM"
+- RRCHNM
 categories:
 - News
-- R2 Studios
 date: '2024-08-29T09:55:43Z'
 draft: false
 lastmod: '2024-08-29T09:55:55Z'
 slug: coming-this-winter-finding-jane-austen-podcast
 title: 'Coming This Winter: Finding Jane Austen Podcast'
+tags:
+- R2 Studios
 ---
 
 250 years after her birth, Jane Austen remains a giant in the cultural zeitgeist. Her works have been adapted hundreds of times over multiple mediums, and she remains one of the most popular writers in the English language. Yet little is known about Jane Austen the person. Her sister Cassandra burned her letters, leaving just 160 remaining. In the absence of her own direct testimony, where do we find the real Jane Austen? In her books? In her family and friends? In the “world” of Jane Austen or in the many iterations of her life and afterlife?

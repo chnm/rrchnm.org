@@ -1,15 +1,16 @@
 ---
 author_name: RRCHNM
 authors:
-- "RRCHNM"
+- RRCHNM
 categories:
 - News
-- Research + Tools
 date: '2022-09-21T12:30:36Z'
 draft: false
 lastmod: '2022-09-21T12:32:12Z'
 slug: introducing-datascribe-101
 title: Introducing DataScribe 101
+tags:
+- Research + Tools
 ---
 
 #### Fall workshops hosted by the DataScribe project team will further support user exploration of DataScribe 101's capabilities.

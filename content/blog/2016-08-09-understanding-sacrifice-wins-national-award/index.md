@@ -11,7 +11,7 @@ slug: understanding-sacrifice-wins-national-award
 title: Understanding Sacrifice Wins National Award
 ---
 
-![understandingsacrifice-logo](http://chnm.gmu.edu/wordpress/wp-content/files/2015/04/understandingsacrifice-logo-300x94.jpg)
+{{< figure src="http://chnm.gmu.edu/wordpress/wp-content/files/2015/04/understandingsacrifice-logo-300x94.jpg" alt="understandingsacrifice-logo" >}}
 The Roy Rosenzweig Center for History and New Media (CHNM), [National History Day](http://nhd.org) (NHD), and the [American Battle Monuments Commission](http://abmc.gov) (ABMC) are pleased to announce that the web project, [*Understanding Sacrifice*](http://abmceducation.org), won first place in the Digital Media category for the National Association for Interpretation (NAI) 2016 [Interpretative Media Awards](http://www.interpnet.com/nai/Resources/Awards_Programs/Media_Awards/nai/_resources/Media_Awards.aspx?hkey=4154d741-2b3b-44a1-a7e8-6dc96a481c35).
 *Understanding Sacrifice* is an 18-month professional development program for middle- and high-school teachers. Working with the team from NHD and CHNM, 18 teachers create free, interdisciplinary lessons to share with other educators each year. The goal is to bring ABMC resources into classrooms to help students better understand the service, experience, and sacrifice of American service members during World War II.
 To help meet this goal, the *Understanding Sacrifice* website provides access to lesson plans, primary source materials, videos, and stories of fallen service members who are buried or memorialized at ABMC cemeteries.  The intended audience is teachers, students, and others interested in military history.

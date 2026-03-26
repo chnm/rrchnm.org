@@ -5,11 +5,12 @@ authors:
 categories:
 - News
 date: '2022-12-09T12:00:00Z'
-draft: false
+draft: true
 lastmod: '2022-12-09T12:10:44Z'
 slug: saying-goodbye-megan-brett
 title: Saying Goodbye - Megan Brett
 ---
+draft: true
 
 One of the more famous presents ever to grace RRCHNM's annual White Elephant Gift Exchange is a small statue of Chairman Mao.  Year after year, the statue reappears, is generally stolen at least once, and vanishes into someone's office or the top of a bookcase until December rolls around again.  This year, the provenance and history of this statue was recorded in a bit of paper that was rolled up and stuffed into the statue's base.  Both the statue and the documentation owe their existence to long-time RRCHNM staff member who recently finished her Ph.D. in History at GMU: Megan Brett.
 

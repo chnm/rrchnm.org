@@ -1,15 +1,16 @@
 ---
 author_name: Caroline Greer
 authors:
-- "Caroline Greer"
+- Caroline Greer
 categories:
 - News
-- Teaching + Learning
 date: '2024-01-24T10:44:58Z'
 draft: false
 lastmod: '2024-01-24T10:45:00Z'
 slug: world-history-commons-adds-several-new-primary-sources
 title: World History Commons Adds Several New Primary Sources
+tags:
+- Teaching + Learning
 ---
 
 *World History Commons* recently prioritized adding primary sources from lesser-covered regions and time periods to give a more thorough overview of world history for educators to pull from. As the Project Associate heading this endeavor, I focused my efforts on ancient and post-classical Oceania, North/Central America, South America, and Sub-Saharan Africa.

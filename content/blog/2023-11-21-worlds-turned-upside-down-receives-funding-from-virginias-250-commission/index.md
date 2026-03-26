@@ -1,15 +1,16 @@
 ---
 author_name: RRCHNM
 authors:
-- "RRCHNM"
+- RRCHNM
 categories:
 - News
-- R2 Studios
 date: '2023-11-21T10:00:00Z'
 draft: false
 lastmod: '2024-11-22T13:49:14Z'
 slug: worlds-turned-upside-down-receives-funding-from-virginias-250-commission
 title: Worlds Turned Upside Down Receives Funding from Virginia’s 250 Commission
+tags:
+- R2 Studios
 ---
 
 RRCHNM’s R2 Studios is thrilled to announce that the [Virginia American Revolution 250 Commission](https://va250.org/) has generously awarded $10,000 in support of our latest podcast, *Worlds Turned Upside Down*.

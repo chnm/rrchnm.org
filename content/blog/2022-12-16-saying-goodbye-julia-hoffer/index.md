@@ -1,16 +1,16 @@
 ---
 author_name: Mills Kelly
 authors:
-- "Mills Kelly"
+- Mills Kelly
 categories:
-- Uncategorized
 - News
 date: '2022-12-16T12:00:00Z'
-draft: false
+draft: true
 lastmod: '2022-12-14T10:16:46Z'
 slug: saying-goodbye-julia-hoffer
 title: Saying Goodbye - Julia Hoffer
 ---
+draft: true
 
 If you’ve ever worked in a grant-funded research center you probably know just how important having a professional grants administrator on your team is to the success of your projects. This week our long-time grants administrator Shu-Tyng (Julia) Hoffer is departing RRCHNM for a new opportunity at one of the other Georges (Georgetown) here in the greater DC metro area. We’re all very sad she’s leaving and thrilled for her that she has this new opportunity to grow and expand her already considerable talents.
 

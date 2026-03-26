@@ -1,9 +1,9 @@
 ---
 author_name: Janet Hammond
 authors:
-- "Janet Hammond"
+- Janet Hammond
 categories:
-- Uncategorized
+- Essay
 date: '2021-08-06T10:10:56Z'
 description: DataScribe is an Omeka S module that helps ease laboriously detailed
   transcription work. Created at RRCHNM and funded by the NEH, this module allows
