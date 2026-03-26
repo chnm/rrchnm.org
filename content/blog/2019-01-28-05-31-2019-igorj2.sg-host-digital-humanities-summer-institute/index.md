@@ -1,0 +1,18 @@
+---
+author_name: Stephen Robertson
+authors:
+- "Stephen Robertson"
+categories:
+- Events
+date: '2019-01-28T10:37:43Z'
+draft: true
+event_start_date: '20190603'
+featured_image: Screen-Shot-2019-01-28-at-10.36.45-AM.png
+lastmod: '2019-01-28T10:37:43Z'
+slug: 05-31-2019-igorj2.sg-host-digital-humanities-summer-institute
+tags:
+- RRCHNM@
+title: '05/31/2019: RRCHNM @ Digital Humanities Summer Institute'
+---
+
+Jessica Otis (& John Simpson) will be offering the course "Fundamentals of Programming/Coding for Human(s|ists) at the [Digital Humanities Summer Institute (DHSI)](http://www.dhsi.org/courses.php) at the University of Victoria, Canada, from June 3 to June 16, 2019, and the course "Introduction to Network Analysis in the Digital Humanities" from June 10 to June 14, 2019

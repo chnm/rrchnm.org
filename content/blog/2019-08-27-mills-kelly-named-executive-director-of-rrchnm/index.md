@@ -1,0 +1,21 @@
+---
+aliases:
+- /news/mills-kelly-named-executive-director-of-igorj2.sg-host/
+author_name: Lincoln Mullen
+authors:
+- "Lincoln Mullen"
+categories:
+- News
+date: '2019-08-27T12:15:48Z'
+draft: true
+featured_image: GEWMYD7c.jpg
+lastmod: '2022-08-10T10:10:51Z'
+slug: mills-kelly-named-executive-director-of-rrchnm
+title: Mills Kelly Named Executive Director of RRCHNM
+---
+
+The Roy Rosenzweig Center for History and New Media and the Department of History and Art History at George Mason University are pleased to announce that [Mills Kelly](https://historyarthistory.gmu.edu/people/tkelly7) has been named the new executive director of RRCHNM. This year RRCHNM is celebrating its twenty-fifth year, and Kelly has been a part of the Center for eighteen of those years. He joined the department and CHNM in 2001 to work with [Roy Rosenzweig](http://thanksroy.org), the founder of CHNM.
+![Photo of Mills Kelly](GEWMYD7c.jpg)Kelly has contributed to the Center's work in several distinct ways, both as a project leader and as one of the faculty directors of the Center. A specialist in Czech history and the history of Eastern Europe, Kelly was the project leader on [*Making the History of 1989*](http://chnm.gmu.edu/1989/), an NEH-funded digital project that provides sources and narratives about the fall of Communism. Kelly was also co-project leader on [*World History Matters*](http://worldhistorymatters.org) and *[Women in World History](http://chnm.gmu.edu/wwh/)*, two projects which were and are widely used in classrooms. Those projects won the 2007 [James Harvey Robinson Prize](https://www.historians.org/awards-and-grants/past-recipients/james-harvey-robinson-prize-recipients) from the American Historical Association, as well as the 2009 Merlot award for as an exemplary online teaching resource.
+Kelly has become a leader in the scholarship on teaching and learning in history. In the past year he was president of the [International Society for the Scholarship of Teaching and Learning](https://www.issotl.com). And in 2013 he published [*Teaching History in the Digital Age*](https://www.fulcrum.org/concern/monographs/8w32r647k) with the University of Michigan Press, a work which was simultaneously released as an open-access web publication and a print book. Most recently, Kelly has turned to [*Appalachian Trail Histories*](http://appalachiantrailhistory.org), creating a digital project in spatial, social, and environmental history that began in several of his undergraduate classes at Mason and has expanded in scope as it received funding from the National Endowment for the Humanities and the Virginia Foundation for the Humanities.
+In addition to his scholarship in digital history and teaching and learning, Kelly has a proven track record as an administrator. For a time he served as the the director of the Global Affairs program at George Mason University, and at GMU he has been fellow in the offices of both the provost and the president. He has been especially active in European non-profit work, currently serving as a trustee of the [Romanian-American Foundation](https://www.rafonline.org) and earlier as chair of the board of directors of the Civic Education Project, an international non-governmental organization working to promote democracy in post-Communist Eastern Europe. Brian Platt, the chair of the Department of History and Art History, commented on Kelly's leadership: "Dr. Kelly has a long history with the Center and has been involved in a number of its signature projects. He's also a gifted and experienced administrator. We are incredibly lucky that we have someone with his experience—and someone whose loyalty to the Center's mission is so strong—to lead the Center."
+Asked about his appointment, Kelly said, "I came to George Mason University in 2001 to work at the Center for History and New Media and to work for Roy. I am incredibly honored to be able to carry his legacy forward and to work with so many talented people." Kelly will lead an internationally prominent research center that is home to nearly two dozen designers, developers, project managers, staff, faculty, and graduate students.

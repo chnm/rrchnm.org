@@ -1,0 +1,37 @@
+---
+author_name: Jennifer Rosenfeld
+authors:
+- "Jennifer Rosenfeld"
+categories:
+- Uncategorized
+- News
+date: '2016-12-13T11:50:46Z'
+draft: true
+lastmod: '2018-02-05T17:02:55Z'
+slug: igorj2.sg-host-uses-state-department-grant-to-create-diplomatic-simulations-for-the-classroom
+title: RRCHNM uses State Department grant to create diplomatic simulations for the
+  classroom
+---
+
+[caption id="attachment\_5085" align="alignright" width="300"][![Visiting Mongolian students worked to resolve an international HIV/AIDS crisis in the imaginary countries of Daymar and Lateen during a diplomacy in Action simulation at the Arlington Campus. Photo courtesy of Chris Preperato.](MongoliaSimulationIMG_2562-copy-300x193.jpg)](MongoliaSimulationIMG_2562-copy.jpg) Visiting Mongolian students worked to resolve an international HIV/AIDS crisis in the imaginary countries of Daymar and Lateen during a Diplomacy in Action simulation at Mason's Arlington Campus. Photo courtesy of Chris Preperato.[/caption]
+Reposted article by Jamie Rogers from [News at Mason](https://www2.gmu.edu/news/313021):
+High school students and college undergraduates will soon be able to build diplomacy skills thanks to a series of diplomatic simulations being developed at George Mason University.
+A $198,000 grant from the State Department’s U.S. Diplomacy Center is funding the project, “Diplomacy in Action: Diplomatic Simulations in the Classroom,” said grant recipient Kelly Schrum, director of education projects for George Mason’s [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/).
+Mason researchers are creating and revising simulations on multiple topics, including nuclear crises, fresh water, refugees and HIV/AIDS, said Gwen White, the Diplomacy in Action project manager. Most of the simulations will feature fictional countries so students can focus on the process.
+In November, visiting Mongolian students worked to resolve an international HIV/AIDS crisis in the imaginary countries of Daymar and Lateen during a simulation at the Arlington Campus. The students, who were visiting the United States through a State Department program at the University of Indiana, played the role of stakeholders in a dispute over day laborers. They debated whether or not to allow the workers entry into a country that had recently seen a surge in AIDS cases.
+The students were able to reach a temporary agreement through both formal and informal negotiations, White said.
+Schrum and White are working with teachers and students from 10 countries to test the simulations. The tests are recorded on video and analyzed by Mason researchers and instructors.
+Schrum said students who take part in the simulations “get to experience how diplomacy works and what it means to understand someone else’s point of view.”
+Students at the high school level are ready for exposure to the complexities of diplomacy and the idea that there is not necessarily one solution to any international crisis, said White.
+“It has just been really amazing what I’ve seen [and] how quickly the students get into character. It’s a fascinating thing to watch,” White said.
+During the simulations, students have to negotiate and build alliances with others, she added.
+Mason freshman Stephanie Galarza is one of the research assistants on the project.
+Working with diplomacy is a far cry from her biology major, but the research she’s doing now could prepare her to do medical research later, because she’s learning to collect background information on a specific subject, Galarza said. She’s learning to understand the complexity of global issues and the importance of communicating with multiple groups of stakeholders.
+“I get to work with projects that are going to help people,” she said. “It’s not like my old job at the movie theater—it’s actually helping me get where I want to go.”
+The diplomatic simulations will be available for free on the U.S. Diplomacy Center website in 2017. The simulations complement the mission of the U.S. Diplomacy Center, scheduled to open in Washington, D.C., in 2018, as an education center and interactive museum for the public.
+Save
+Save
+Save
+Save
+Save
+Save

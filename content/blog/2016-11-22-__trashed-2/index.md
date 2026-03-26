@@ -1,0 +1,18 @@
+---
+author_name: Stephen Robertson
+authors:
+- "Stephen Robertson"
+categories:
+- Events
+date: '2016-11-22T15:01:26Z'
+draft: true
+event_start_date: '20161026'
+featured_image: eagleeye-header.png
+lastmod: '2016-12-15T16:04:04Z'
+slug: __trashed-2
+tags:
+- RRCHNM@
+title: '10/26/2016: RRCHNM @ Library of Congress online conference'
+---
+
+Kelly Schrum, Nate Sleeter, Sara Collini and Jessica Kilday will be presenting on [Eagle Eye Citizen](https://rrchnm.org/eagle-eye-citizen/).
