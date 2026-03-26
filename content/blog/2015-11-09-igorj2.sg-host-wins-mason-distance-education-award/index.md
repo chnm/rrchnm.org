@@ -1,0 +1,19 @@
+---
+author_name: Kelly Schrum
+authors:
+- "Kelly Schrum"
+categories:
+- News
+date: '2015-11-09T07:00:02Z'
+draft: true
+lastmod: '2015-11-09T07:00:02Z'
+slug: igorj2.sg-host-wins-mason-distance-education-award
+title: RRCHNM Wins Mason Distance Education Award
+---
+
+The Roy Rosenzweig Center for History and New Media received a Distance Education Award for its work conceptualizing and creating a new online course, “Introduction to Digital Humanities.” Steve Nodine, Director of [Distance Education](http://masononline.gmu.edu/), presented the award at the [Mason Outstanding Achievement Awards](http://newsdesk.gmu.edu/2015/11/mason-faculty-staff-recognized-for-contributions-to-university/) on November 3, 2015.
+{{< figure src="http://chnm.gmu.edu/news/igorj2.sg-host-wins-mason-distance-education-award/attachment/de_award/" alt="DE_Award" >}}
+The RRCHNM team was recognized for working collaboratively to establish “a new model that can inspire all of Mason.” This innovative course includes synchronous online class sessions, synchronous individual meetings between student and instructor, and asynchronous modules. There are no textbooks, video lectures, or multiple-choice quizzes. Content consists of readings, short videos, interactive activities, and a culminating digital project.
+"Introduction to Digital Humanities" is the first course in a 15-credit online certificate program in [Digital Public Humanities](http://masononline.gmu.edu/programs/digital-public-humanities-graduate-certificate/). The team is currently developing two additional certificate with instructors [Sharon Leon](http://chnm.gmu.edu/author/sharon-leon/) and [Mills Kelly](http://historyarthistory.gmu.edu/people/tkelly7). The certificate includes a 6-credit digital internship with the Smithsonian Institution, the first of its kind at Mason.
+Award recipients: [Kelly Schrum](http://chnm.gmu.edu/author/kelly-schrum/) (Project Director); [Stephen Robertson](http://chnm.gmu.edu/author/stephen-robertson/) (Course Professor); [Jennifer Rosenfeld](http://chnm.gmu.edu/author/jennifer-rosenfeld/) (Project Manager); [James McCartney](http://chnm.gmu.edu/author/james-mccartney/) (Senior Developer); [Chris Preperato](http://chnm.gmu.edu/author/chris-preperato/) (Interactive & Multimedia Developer); [Joo-Ah Lee](http://chnm.gmu.edu/author/jooah-lee/) (Junior Developer); and [Caroline Kelly](http://chnm.gmu.edu/author/caroline-kelley/) (Undergraduate OSCAR Research Assistant).
+Congratulations all!

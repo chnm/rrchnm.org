@@ -1,20 +1,101 @@
 {{ define "main" }}
-<article class="max-w-3xl">
-  {{/* Meta */}}
-  <div class="flex flex-wrap items-center gap-3 mb-8 text-sm">
-    {{ with .GetTerms "authors" }}{{ range . }}<a href="{{ .RelPermalink }}" class="text-stone-600 font-medium hover:text-red-brand transition-colors">{{ .LinkTitle }}</a>{{ end }}{{ end }}
-    {{ with .Params.essay_date }}<span class="text-stone-500">{{ . }}</span>{{ end }}
-    {{ with .Params.essay_publication_info }}<span class="text-stone-500 italic">{{ . }}</span>{{ end }}
-  </div>
+{{ $authors := .Params.authors | default (slice .Params.essay_author) }}
+{{ $publisher := .Params.publisher | default .Params.essay_publication_info }}
+{{ $abstract := .Params.abstract | default .Params.description }}
 
-  {{ with .Params.featured_image }}
-  <div class="mb-8">
+<article>
+  {{ $featImg := partial "featured-image.html" . }}
+  {{ with $featImg }}
+  <div class="mb-10">
     <img src="{{ . }}" alt="{{ $.Title }}" class="w-full rounded-lg">
   </div>
   {{ end }}
 
-  <div class="prose prose-stone max-w-none">
-    {{ .Content }}
+  <div class="flex flex-col lg:flex-row gap-10 lg:gap-16">
+
+    {{/* Main content */}}
+    <div class="lg:w-2/3 min-w-0">
+      {{ if .Params.external_url }}
+      {{ with .Params.thumbnail }}
+      {{ $thumbUrl := . }}
+      {{- if not (or (hasPrefix . "/") (hasPrefix . "http")) -}}
+        {{- $res := $.Resources.GetMatch . -}}
+        {{- if $res -}}{{- $thumbUrl = $res.RelPermalink -}}{{- end -}}
+      {{- end -}}
+      <div class="mb-8">
+        <img src="{{ $thumbUrl }}" alt="{{ $.Title }}" class="max-w-xs rounded-lg shadow-md">
+      </div>
+      {{ end }}
+      {{ with .Content }}
+      <div class="prose prose-stone max-w-none mb-8">{{ . }}</div>
+      {{ end }}
+      <a href="{{ .Params.external_url }}" target="_blank" rel="noopener" class="inline-flex items-center gap-2 bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors">
+        View Publication
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" /></svg>
+      </a>
+      {{ else }}
+      <div class="prose prose-stone max-w-none">
+        {{ .Content }}
+      </div>
+      {{ end }}
+    </div>
+
+    {{/* Sidebar */}}
+    <aside class="lg:w-1/3">
+      <div class="lg:sticky lg:top-8 space-y-8">
+
+        {{/* Authors */}}
+        {{ with $authors }}
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">{{ if gt (len .) 1 }}Authors{{ else }}Author{{ end }}</h3>
+          <ul class="space-y-1">
+            {{ range . }}{{ if . }}<li class="text-sm text-stone-700">{{ . }}</li>{{ end }}{{ end }}
+          </ul>
+        </div>
+        {{ end }}
+
+        {{/* Date */}}
+        {{ with .Params.essay_date }}
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Date</h3>
+          <p class="text-sm text-stone-700">{{ . }}</p>
+        </div>
+        {{ else }}
+        {{ if not .Date.IsZero }}
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Date</h3>
+          <p class="text-sm text-stone-700">{{ .Date.Format "2006" }}</p>
+        </div>
+        {{ end }}
+        {{ end }}
+
+        {{/* Publisher */}}
+        {{ with $publisher }}
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Publication</h3>
+          <p class="text-sm text-stone-700 italic">{{ . | safeHTML }}</p>
+        </div>
+        {{ end }}
+
+        {{/* DOI */}}
+        {{ with .Params.doi }}
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">DOI</h3>
+          <a href="https://doi.org/{{ . }}" target="_blank" rel="noopener" class="text-sm font-mono text-stone-600 hover:text-red-brand transition-colors break-all">{{ . }}</a>
+        </div>
+        {{ end }}
+
+        {{/* Abstract */}}
+        {{ with $abstract }}
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Abstract</h3>
+          <p class="text-sm text-stone-600 leading-relaxed">{{ . }}</p>
+        </div>
+        {{ end }}
+
+      </div>
+    </aside>
+
   </div>
 </article>
 {{ end }}

@@ -1,0 +1,21 @@
+{{/*
+  Resolves featured_image to a URL.
+  - If it starts with "/" or "http", use it as-is (static/remote path)
+  - Otherwise, look it up as a page resource (bundle image)
+  - Falls back to site default_image
+
+  Usage: {{ partial "featured-image.html" . }}
+  Returns: image URL string
+*/}}
+{{- $img := .Site.Params.default_image -}}
+{{- with .Params.featured_image -}}
+  {{- if or (hasPrefix . "/") (hasPrefix . "http") -}}
+    {{- $img = . -}}
+  {{- else -}}
+    {{- $res := $.Resources.GetMatch . -}}
+    {{- if $res -}}
+      {{- $img = $res.RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $img -}}

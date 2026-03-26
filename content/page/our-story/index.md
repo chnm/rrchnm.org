@@ -1,4 +1,8 @@
 ---
+aliases:
+- /annual-report/
+- /contact-us/
+- /supporters/
 date: '2022-03-21T11:24:51Z'
 draft: false
 full_width: true
@@ -8,7 +12,7 @@ slug: our-story
 title: Our Story
 type: page
 url: /our-story/
-hero_image: /img/founder.jpg
+hero_image: /media/2025/03/jp-dan-caroline.jpg
 hero_text: "Our digital projects emerge from our engagement with the practice of history in universities, schools, libraries, archives, museums, and local communities."
 hero_button_text: "See what we've been up to →"
 hero_button_url: /blog/
@@ -34,6 +38,17 @@ An endowment provided by the National Endowment for the Humanities and over 300 
 
 We encourage you to explore our projects, get to know our staff, follow our activities, and consider how you might work with us, collaborate with us, or build something interesting with us.
 
+<div class="not-prose my-12">
+<div class="grid grid-cols-2 md:grid-cols-3 gap-3">
+  <img src="happy-hour-oct-2022.jpg" alt="RRCHNM happy hour, October 2022" class="rounded-lg w-full aspect-[4/3] object-cover">
+  <img src="katie-rae-alexandra-timmia-award-2025.jpg" alt="Katie, Rae, Alexandra, and Timmia at an award ceremony, April 2025" class="rounded-lg w-full aspect-[4/3] object-cover">
+  <img src="nates-presentation.jpg" alt="Nate's presentation" class="rounded-lg w-full aspect-[4/3] object-cover">
+  <img src="kristins-goodbye.jpg" alt="Team gathering for Kristin's goodbye" class="rounded-lg w-full aspect-[4/3] object-cover">
+  <img src="book-cake.jpg" alt="Book cake celebration" class="rounded-lg w-full aspect-[4/3] object-cover">
+  <img src="haha-kristin.jpg" alt="Kristin at RRCHNM" class="rounded-lg w-full aspect-[4/3] object-cover">
+</div>
+</div>
+
 ## Our History
 
 The Center's origins lay in an agreement between the American Social History Project (ASHP) and GMU in 1990 that provided time for Roy to work with his longtime ASHP collaborators Steve Brier and Josh Brown on a CD-ROM edition of ASHP's Who Built America? textbook. After the first disk was finished, in August 1993, Roy proposed establishing a Center for History and New Media at GMU. The Center's first funded projects were collaborations with ASHP and the National Endowment for the Humanities (NEH), beginning in 1995 with a second Who Built America? CD-ROM, followed in 1997 by Liberty, Equality, Fraternity, and in 1998 by History Matters.
@@ -55,3 +70,27 @@ That project attracted the Center’s first funding from the Institute for Museu
 Dan Cohen succeeded Roy as the Center’s director, with a senior leadership of three division directors – Kelly Schrum, director of the Education division since 2004, Sean Takats, who succeeded Dan as director of the Research division, and Sharon Leon, director of a new Public Projects division – together with Tom Scheinfeldt, who took on a Center-wide role as Managing Director. The award of a second NEH challenge grant, to build the endowment to $3 million, provided an opportunity to name the Center in Roy’s honour. Beginning in 2009, the CHNM developed a new strand of digital humanities projects – the One Week One Tool Summer Institutes (supported by NEH), the THATCamp unconferences (supported by the Mellon Foundation), and PressForward, the tool for capturing online scholarly communication (funded by the Sloan Foundation). The number of GRAs working in the Center doubled in 2012, thanks to a Provost’s PhD Grant that supported three cohorts of three graduate students a year, who undertook practicum courses at RRCHNM.
 
 In 2013, Dan Cohen and Tom Scheinfeldt left the Center for positions at the Digital Public Library of America and the University of Connecticut. Together with the end of funding for the TAH program, a core strand of the Center’s work, in 2012, the departure of these key leaders marked the beginning of a new phase for RRCHNM.
+
+## Supporters
+
+Thirty years ago, Roy Rosenzweig founded our Center with the goal of democratizing access to information for anyone interested in history. Today, that mission is more critical than ever. By teaching the next generation of historians, we can continue our mission of creating access to digital history projects.
+
+{{< figure src="/media/2022/05/donor-board-scaled.jpg" alt="RRCHNM donor board" >}}
+
+{{< support-btn >}}
+
+## Annual Reports
+
+- [2023–2024 Annual Report](/media/2024/10/RRCHNM-AR-2023-2024-DIGITAL-FINAL.pdf)
+- [2022–2023 Annual Report](/media/2024/10/RRCHNM_AnnualReport_2023.pdf)
+- [2021–2022 Annual Report](/media/2024/10/RRCHNM_AnnualReport_2022.pdf)
+
+## Contact Us
+
+Roy Rosenzweig Center for History and New Media
+Department of History and Art History
+George Mason University
+4400 University Drive, MSN 1E7
+Fairfax, Virginia 22030
+
+General Inquiries: [chnm@gmu.edu](mailto:chnm@gmu.edu)
