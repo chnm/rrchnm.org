@@ -3,7 +3,7 @@
     <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
       <div class="md:col-span-2">
         <div class="flex items-center gap-6 mb-6">
-          <a href="/" class="shrink-0"><img src="/img/logo.png" alt="{{ .Site.Title }}" class="h-12 w-auto"></a>
+          <a href="/" class="shrink-0"><img src="/img/logo.png" alt="{{ .Site.Title }}" class="h-12 w-auto opacity-80 hover:opacity-100 transition-opacity"></a>
           <a href="https://historyarthistory.gmu.edu/" target="_blank" rel="noopener" class="shrink-0"><img src="/img/gmu-logo-light.png" alt="George Mason University Department of History and Art History" class="h-20 w-auto opacity-80 hover:opacity-100 transition-opacity"></a>
         </div>
         <p class="text-sm leading-relaxed text-stone-400 mb-6 max-w-xl">
@@ -14,7 +14,7 @@
           {{ partial "social-icons.html" (dict "Site" .Site "size" "w-5 h-5" "color" "text-stone-500 hover:text-white") }}
         </div>
       </div>
-      <div class="md:text-right">
+      <div class="md:ml-auto">
         <p class="text-sm text-stone-400 leading-relaxed mb-4">
           George Mason University<br>
           4400 University Drive, MSN 1E7<br>
