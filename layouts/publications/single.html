@@ -4,13 +4,6 @@
 {{ $abstract := .Params.abstract | default .Params.description }}
 
 <article>
-  {{ $featImg := partial "featured-image.html" . }}
-  {{ with $featImg }}
-  <div class="mb-10">
-    <img src="{{ . }}" alt="{{ $.Title }}" class="w-full rounded-lg">
-  </div>
-  {{ end }}
-
   <div class="flex flex-col lg:flex-row gap-10 lg:gap-16">
 
     {{/* Main content */}}
