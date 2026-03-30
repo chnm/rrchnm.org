@@ -4,11 +4,11 @@ Public website for the [Roy Rosenzweig Center for History and New Media](https:/
 
 ## Quick Start
 
-**Prerequisites:** [Hugo Extended](https://gohugo.io/installation/) 0.154.5+ and Node.js.
+**Prerequisites:** [Hugo Extended](https://gohugo.io/installation/) 0.154.5+, Node.js, and [just](https://github.com/casey/just).
 
 ```bash
-npm ci
-npm run dev
+just setup       # install dependencies
+just dev         # start dev server
 ```
 
 The dev server runs at `http://localhost:1313/` with live reload.
@@ -16,7 +16,7 @@ The dev server runs at `http://localhost:1313/` with live reload.
 ## Production Build
 
 ```bash
-npm run build    # outputs to public/
+just build       # outputs to public/
 ```
 
 ## Tech Stack

@@ -25,14 +25,14 @@ Public website for the Roy Rosenzweig Center for History and New Media (RRCHNM) 
 
 ## Tech Stack
 
-### Package Management
+### Task Runner
 
-- **npm** for Node.js dependencies
-- Node.js required for PostCSS/Tailwind build pipeline
-- `npm ci` for reproducible installs (used in CI and Docker)
-- Key scripts:
-  - `npm run dev` → `hugo server` (local dev with live reload)
-  - `npm run build` → `hugo --minify` (production build)
+- **[just](https://github.com/casey/just)** for local development commands (see `justfile`)
+- **npm** for Node.js dependencies (PostCSS/Tailwind build pipeline)
+- Key commands:
+  - `just setup` → `npm ci` (install dependencies)
+  - `just dev` → `hugo server --buildDrafts --navigateToChanged` (local dev with live reload)
+  - `just build` → `hugo --minify` (production build)
 
 ### Frontend
 
@@ -59,8 +59,8 @@ None. All content is Markdown files with YAML frontmatter. Data-driven content u
 ```bash
 git clone <repo-url>
 cd rrchnm.org
-npm ci
-npm run dev
+just setup
+just dev
 ```
 
 The dev server runs at `http://localhost:1313/` with live reload.
@@ -178,12 +178,12 @@ Gallery arrays in project frontmatter may mix both patterns; the gallery templat
 
 **Development:**
 ```bash
-npm run dev          # Hugo server at localhost:1313 with live reload
+just dev             # Hugo server at localhost:1313 with live reload
 ```
 
 **Production build:**
 ```bash
-npm run build        # hugo --minify → outputs to public/
+just build           # hugo --minify → outputs to public/
 ```
 
 **Docker build:**
@@ -248,7 +248,7 @@ GitHub Actions workflow (`.github/workflows/cicd.yml`):
 - Social icons in `layouts/partials/social-icons.html` only render when a URL is configured
 
 ### When Making Changes
-- Run `npm run dev` to verify changes render correctly
+- Run `just dev` to verify changes render correctly
 - Hugo templates use Go template syntax (`{{ }}`) — not Jinja, Handlebars, etc.
 - Tailwind classes are purged based on `content` paths in `tailwind.config.js` — if adding templates in new directories, update the content array
 - The `data/menus.yaml` file drives all navigation — don't hardcode nav links in templates

@@ -8,9 +8,9 @@ Hugo static site for the Roy Rosenzweig Center for History and New Media (RRCHNM
 
 ## Commands
 
-- **Dev server:** `npm run dev` (runs `hugo server`)
-- **Production build:** `npm run build` (runs `hugo --minify`)
-- **Install dependencies:** `npm ci`
+- **Dev server:** `just dev` (runs `hugo server --buildDrafts --navigateToChanged`)
+- **Production build:** `just build` (runs `hugo --minify`)
+- **Install dependencies:** `just setup` (runs `npm ci`)
 
 Hugo Extended 0.154.5+ is required (for CSS processing).
 

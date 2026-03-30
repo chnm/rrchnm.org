@@ -8,13 +8,14 @@ This guide covers how to create and edit content on the RRCHNM website. The site
 
 - [Hugo Extended](https://gohugo.io/installation/) v0.154.5+
 - [Node.js](https://nodejs.org/) (for Tailwind CSS processing)
+- [just](https://github.com/casey/just) (task runner)
 
 ### Local Development
 
 ```bash
-npm ci            # Install dependencies
-npm run dev       # Start the dev server (http://localhost:1313)
-npm run build     # Production build
+just setup        # Install dependencies
+just dev          # Start the dev server (http://localhost:1313)
+just build        # Production build
 ```
 
 ## Content Sections
@@ -296,7 +297,7 @@ Site navigation is configured in `data/menus.yaml`. Changes to navigation struct
 ## Publishing Workflow
 
 1. Create content with `draft: true`
-2. Preview locally with `npm run dev`
+2. Preview locally with `just dev`
 3. When ready, set `draft: false`
 4. Commit and push to the appropriate branch
 5. The CI/CD pipeline builds and deploys automatically on pushes to `main`
