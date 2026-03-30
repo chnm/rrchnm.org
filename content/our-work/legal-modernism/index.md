@@ -3,7 +3,7 @@
 
 
 categories:
-- Data Driven History
+- Data-Driven History
 date: '2022-09-15T11:38:08Z'
 draft: false
 featured_image: thumbnail-LegalModernization.jpg

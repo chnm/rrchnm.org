@@ -3,7 +3,7 @@
 
 
 categories:
-- Data Driven History
+- Data-Driven History
 - Public History
 date: '2022-05-17T11:16:24Z'
 draft: false
@@ -15,6 +15,8 @@ gallery:
 - "Scripto-1-scaled.jpg"
 - "/media/2022/05/Scripto-2-scaled.jpg"
 project_url: "http://scripto.org"
+status:
+- active: false
 ---
 
 # Scripto

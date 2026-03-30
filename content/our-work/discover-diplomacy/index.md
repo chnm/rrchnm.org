@@ -18,6 +18,8 @@ gallery:
 - "/media/2022/04/Discover-Diplomacy-3-scaled.jpg"
 - "/media/2022/04/Discover-Diplomacy-4-scaled.jpg"
 project_url: "https://diplomacy.state.gov/discover-diplomacy/simulations/"
+status:
+- active: false
 ---
 
 # Discover Diplomacy

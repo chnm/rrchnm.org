@@ -14,6 +14,8 @@ gallery:
 - "Transatlantic-Encounters-1-scaled.jpg"
 - "/media/2022/05/Transatlantic-Encounters-2-scaled.jpg"
 project_url: "https://transatlanticencounters.rrchnm.org/"
+status:
+- active: false
 ---
 
 # Transatlantic Encounters

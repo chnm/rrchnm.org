@@ -14,6 +14,8 @@ title: Virginia Studies
 gallery:
 - "Virginia-Studies-1-scaled.jpg"
 project_url: "http://virginiastudies.org"
+status:
+- active: false
 ---
 
 # Virginia Studies

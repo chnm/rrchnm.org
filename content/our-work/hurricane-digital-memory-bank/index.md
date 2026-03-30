@@ -16,6 +16,8 @@ funders:
 gallery:
 - "Hurricane-Digital-Memory-Bank-1-scaled.jpg"
 project_url: "http://hurricanearchive.org"
+status:
+- active: false
 ---
 
 # Hurricane Digital Memory Bank

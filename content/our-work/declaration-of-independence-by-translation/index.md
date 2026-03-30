@@ -14,6 +14,8 @@ title: Declaration of Independence by Translation
 gallery:
 - "declaration-of-independence-scaled.jpg"
 project_url: "https://chnm.gmu.edu/declaration/"
+status:
+- active: false
 ---
 
 # Declaration of Independence by Translation

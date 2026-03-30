@@ -17,6 +17,8 @@ gallery:
 - "Making-of-History-1-scaled.jpg"
 - "/media/2022/05/Making-of-History-2-scaled.jpg"
 project_url: "http://chnm.gmu.edu/1989/"
+status:
+- active: false
 ---
 
 # Making the History of 1989

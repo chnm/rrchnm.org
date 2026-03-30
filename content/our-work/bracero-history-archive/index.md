@@ -19,6 +19,8 @@ gallery:
 - "/media/2022/03/bracero-2-scaled.jpg"
 - "/media/2022/03/bracero-3-scaled.jpg"
 project_url: "http://braceroarchive.org"
+status:
+- active: false
 ---
 
 # Bracero History Archive

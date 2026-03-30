@@ -1,7 +1,7 @@
 ---
 
 categories:
-- Data Driven History
+- Data-Driven History
 date: '2024-05-09T16:20:27Z'
 draft: false
 featured_image: apbfinal.jpg

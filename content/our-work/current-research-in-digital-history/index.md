@@ -1,17 +1,13 @@
 ---
-
-
-
-
 categories:
-- Education
+- Scholarly Communication
 date: '2022-04-06T16:07:05Z'
 draft: false
 featured_image: thumbnail-current-research-in-digital-history-v2.jpg
 lastmod: '2022-07-01T15:16:58Z'
 slug: current-research-in-digital-history
 title: Current Research In Digital History
-featured_project: true
+featured_project: false
 gallery:
 - "Current-Research-in-Digital-History-1-scaled.jpg"
 - "/media/2022/04/Current-Research-in-Digital-History-2-scaled.jpg"

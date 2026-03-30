@@ -17,6 +17,8 @@ funders:
 gallery:
 - "September-11-Digital-Archive-2-scaled.jpg"
 project_url: "http://911digitalarchive.org/"
+status:
+- active: false
 ---
 
 # The September 11 Digital Archive

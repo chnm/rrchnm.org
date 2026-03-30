@@ -13,7 +13,7 @@ mobile_nav:
   - title: People
     url: /people/
   - title: Projects
-    url: /our-work/
+    url: /projects/
   - title: Publications
     url: /publications/
   - title: Blog
@@ -26,7 +26,7 @@ top_nav:
   - title: People
     url: /people/
   - title: Projects
-    url: /our-work/
+    url: /projects/
   - title: Publications
     url: /publications/
   - title: Blog

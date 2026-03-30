@@ -3,7 +3,7 @@
 
 
 categories:
-- Data Driven History
+- Data-Driven History
 date: '2022-04-06T15:45:29Z'
 draft: false
 featured_image: thumbnail-ARE.jpg

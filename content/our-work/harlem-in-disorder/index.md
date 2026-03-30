@@ -2,7 +2,7 @@
 
 
 categories:
-- Data Driven History
+- Data-Driven History
 date: '2024-05-09T16:35:26Z'
 draft: false
 featured_image: harlemfinalTRUE.jpg

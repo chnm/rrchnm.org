@@ -2,7 +2,7 @@
 
 
 categories:
-- Data Driven History
+- Data-Driven History
 - Public History
 date: '2024-02-12T17:02:37Z'
 draft: false

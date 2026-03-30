@@ -4,7 +4,7 @@
 
 
 categories:
-- Data Driven History
+- Data-Driven History
 date: '2022-04-06T16:17:01Z'
 draft: false
 featured_image: thumbnail-death-by-numbers.jpg

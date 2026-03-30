@@ -16,6 +16,8 @@ funders:
 gallery:
 - "Digital-Methods-for-Military-History-1-scaled.jpg"
 project_url: "https://dmmh.rrchnm.org/"
+status:
+- active: false
 ---
 
 # Digital Methods for Military History
