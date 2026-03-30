@@ -28,6 +28,7 @@ The RRCHNM website (rrchnm.org) is the public-facing site for the Roy Rosenzweig
 - Showcase active and past digital history projects
 - Publish blog posts and news about the center's work
 - Present the center's research publications
+- Highlight Current Research in Digital History (CRDH) as the center's peer-reviewed publication
 - Provide information about staff, graduate education, and the center's story
 - Drive newsletter signups and donations
 
@@ -41,14 +42,14 @@ This is a public, read-only website with no user accounts or authentication. All
 
 ### Site Visitor
 - Can browse all pages, projects, publications, and blog posts
-- Can filter projects by category
+- Can filter projects by category on the projects listing page
 - Can search site content via Cmd-K / Ctrl-K
 - Can navigate via top nav, mobile nav, footer, and breadcrumbs
 - Can click through to external project URLs, donation page, and newsletter signup
 
 ### Content Editor (out-of-band)
 - Adds/edits content by authoring Markdown files with YAML frontmatter
-- Updates data files (menus, people directory) in `data/`
+- Updates data files (menus, people directory, dissertations) in `data/`
 - Changes are deployed via Git push to `main` or `preview` branches
 
 ---
@@ -58,9 +59,13 @@ This is a public, read-only website with no user accounts or authentication. All
 ### Content Publishing
 - Blog posts with `draft: true` are excluded from production builds
 - Blog posts require: `title`, `date`, `slug`, and `author_name`
+- Blog posts in the "News" category hide author attribution in list and single views
+- Blog post summaries use custom `lede` field if set, otherwise Hugo's auto-generated `.Summary`
 - Projects with `featured_project: true` appear on the homepage (up to 9)
-- Projects require: `title`, `categories`; optional: `featured_image`, `project_url`, `funders`, `gallery`
+- Projects with `status: [{active: false}]` appear in a separate "Past Projects" section
+- Projects require: `title`, `categories`; optional: `featured_image`, `project_url`, `funders`, `gallery`, `status`
 - Publications require: `title`, `pub_date`; optional: `essay_author`, `essay_date`, `essay_publication_info`
+- Social media icons only render when a URL is configured in `hugo.yaml`
 
 ### Navigation
 - Navigation menus are defined in `data/menus.yaml` (top_nav, mobile_nav, footer)
@@ -69,15 +74,18 @@ This is a public, read-only website with no user accounts or authentication. All
 ### Display Rules
 - Pagination: 12 items per page across all list views
 - Related posts shown on blog singles, weighted by tags (100), categories (10), date (5)
-- Homepage "The Latest" shows the 2 most recent blog posts
-- Homepage "Our Work" shows up to 9 featured projects
-- Homepage spotlight section is controlled via `content/_index.md` frontmatter (`spotlight_title`, `spotlight_body`, `spotlight_link_url`, `spotlight_link_text`)
+- Homepage "The Latest" shows the 3 most recent blog posts
+- Homepage "Featured Projects" shows up to 9 featured projects
+- Homepage "Now at RRCHNM" spotlight pulls the most recent featured page from `content/spotlight/`
+- Homepage includes a CRDH publication callout section
+- Projects listing page sorts alphabetically and separates active from inactive projects
 
 ### URL Structure
 - Blog: `/blog/:slug/`
-- Projects: `/projects/:slug/`
+- Projects: `/projects/:slug/` (content section is `our-work`, URL overridden)
 - Publications: `/publications/:slug/`
-- Pages: `/:slug/` (defined by file path in `content/page/`)
+- Pages: `/:slug/` (defined by `url:` field in `content/page/` frontmatter)
+- Old `/our-work/` URLs redirect to `/projects/`
 
 ---
 
@@ -85,11 +93,12 @@ This is a public, read-only website with no user accounts or authentication. All
 
 ### Feature: Project Showcase
 
-**Description:** Filterable gallery of RRCHNM's digital history projects.
+**Description:** Filterable gallery of RRCHNM's digital history projects, separated into active and past projects.
 
 **Functionality:**
-- Grid display of project cards with featured images
-- Client-side category filtering via Alpine.js on `/our-work/`
+- Grid display of project cards with featured images (2-col on mobile, 3-col on desktop)
+- Client-side category filtering via Alpine.js on `/projects/`
+- Active projects displayed first; inactive "Past Projects" below a divider
 - Individual project pages with description, external URL, funders, and image gallery
 - Featured projects surfaced on homepage
 
@@ -98,17 +107,21 @@ This is a public, read-only website with no user accounts or authentication. All
 **Description:** News and updates from the center, dating back to 2002.
 
 **Functionality:**
-- Paginated list view with featured images and author names
-- Single post view with prose-styled content
-- Related posts based on shared tags/categories
+- Paginated list view with featured images, author names, and summaries
+- Single post view with two-column layout: prose content (2/3) + metadata sidebar (1/3)
+- Crosspost notices displayed in sidebar when applicable
+- Author hidden for "News" category posts
+- Related posts in sidebar based on shared tags/categories
 - Tag and category taxonomy pages
 
 ### Feature: Publications
 
-**Description:** Research publications produced by center staff.
+**Description:** Research publications produced by center staff, grouped by year.
 
 **Functionality:**
-- List view sorted by publication date
+- Introductory paragraph from `_index.md`
+- List view grouped by publication year with sticky year navigation sidebar
+- Thumbnails for publications that have them
 - Single page with author, publication info, and full text or link
 
 ### Feature: Site Search
@@ -129,6 +142,25 @@ This is a public, read-only website with no user accounts or authentication. All
 - Modal dialog (`#staff-modal`) for viewing individual staff details
 - Organized by affiliation/role
 
+### Feature: Graduate Education
+
+**Description:** Information about graduate programs, assistantships, and digital dissertations.
+
+**Functionality:**
+- Two-column layout: main content (2/3) + sidebar with CTA cards (1/3)
+- Sidebar links to DH certificate program, GMU department, and contact
+- Digital dissertations callout section driven by `data/dissertations.yaml`
+
+### Feature: About Us / Our Story
+
+**Description:** Center history, mission, and organizational information.
+
+**Functionality:**
+- Two-column layout: main content (2/3) + sidebar (1/3)
+- Sidebar cards for Annual Reports (PDFs) and Contact information
+- Fast facts section (Year Founded, Years Active, Projects count)
+- Photo gallery of team events
+
 ### Feature: Newsletter & Donation CTAs
 
 **Description:** Calls to action for newsletter subscription and donations.
@@ -136,7 +168,17 @@ This is a public, read-only website with no user accounts or authentication. All
 **Functionality:**
 - Newsletter links to external Airtable form (configured in `hugo.yaml` `params.newsletter_url`)
 - Donate links to GMU's secure giving page (configured in `hugo.yaml` `params.donate_url`)
-- CTAs appear in homepage hero sidebar and bottom CTA section
+- Newsletter subscribe card in homepage hero sidebar
+- Donate link in footer
+
+### Feature: Social Sharing
+
+**Description:** Open Graph and Twitter Card meta tags for social media previews.
+
+**Functionality:**
+- OG and Twitter Card tags generated via Hugo's internal templates
+- Default social sharing image configured in `hugo.yaml` `params.images`
+- Per-page images used when available via frontmatter
 
 ---
 
@@ -147,21 +189,22 @@ This is a public, read-only website with no user accounts or authentication. All
 **Goal:** Visitor discovers and explores RRCHNM's digital history projects.
 
 **Steps:**
-1. Visitor lands on homepage, sees up to 9 featured projects in "Our Work" grid
-2. Clicks "View all" → navigates to `/our-work/`
+1. Visitor lands on homepage, sees up to 9 featured projects in "Featured Projects" grid
+2. Clicks "View all" → navigates to `/projects/`
 3. On project listing, uses category filter buttons (Alpine.js) to narrow results
-4. Clicks a project card → navigates to project detail page
-5. Reads project description, views image gallery, clicks external project URL to visit the live project
+4. Scrolls past active projects to "Past Projects" section for archived work
+5. Clicks a project card → navigates to project detail page
+6. Reads project description, views image gallery, clicks external project URL to visit the live project
 
 ### Flow 2: Reading a Blog Post
 
 **Goal:** Visitor reads center news and discovers related content.
 
 **Steps:**
-1. Visitor sees "The Latest" in homepage sidebar with 2 recent posts
+1. Visitor sees "The Latest" in homepage sidebar with 3 recent posts
 2. Clicks a post title → navigates to blog single page
-3. Reads post content (prose-styled Markdown)
-4. Sees related posts at bottom based on shared tags/categories
+3. Reads post content (prose-styled Markdown) in left column
+4. Sees metadata, categories, and related posts in right sidebar
 5. Optionally browses tag/category taxonomy pages for more posts
 
 ---
@@ -175,10 +218,6 @@ This is a public, read-only website with no user accounts or authentication. All
 - E-commerce or payment processing (donations link to external GMU page)
 - CMS admin interface (content managed via Git)
 
-### Future Considerations
-- The site is currently undergoing a Tailwind CSS redesign (`tailwind-redesign` branch)
-- Some homepage placeholder text (Lorem ipsum) needs to be replaced with final copy
-
 ---
 
 ## Open Questions
@@ -189,5 +228,5 @@ This is a public, read-only website with no user accounts or authentication. All
   - **Status:** Open
 
 ---
-*Last Updated: 2026-03-26*
+*Last Updated: 2026-03-30*
 *This document is maintained for AI agent context and onboarding.*

@@ -19,7 +19,7 @@
 
 ## Project Overview
 
-Public website for the Roy Rosenzweig Center for History and New Media (RRCHNM) at George Mason University. A Hugo static site currently being redesigned with Tailwind CSS. The site showcases the center's projects, publications, blog, people, and graduate education programs.
+Public website for the Roy Rosenzweig Center for History and New Media (RRCHNM) at George Mason University. A Hugo static site styled with Tailwind CSS. The site showcases the center's projects, publications, blog, people, and graduate education programs.
 
 ---
 
@@ -76,26 +76,31 @@ rrchnm.org/
 │   └── js/                   # JavaScript modules
 ├── content/
 │   ├── blog/                 # Blog posts (Markdown + YAML frontmatter)
-│   ├── projects/             # Project pages
+│   ├── our-work/             # Project pages (served at /projects/)
 │   ├── publications/         # Publication entries
+│   ├── spotlight/            # Featured spotlight content
 │   └── page/                 # Static pages (about, contact, etc.)
 ├── data/
 │   ├── menus.yaml            # Navigation menus (top_nav, mobile_nav, footer)
 │   ├── people.yaml           # Staff directory
+│   ├── dissertations.yaml    # Digital dissertations for grad education page
 │   └── footer.yaml           # Footer configuration
 ├── layouts/
 │   ├── _default/             # Base templates (baseof, list, single)
 │   ├── blog/                 # Blog templates
-│   ├── projects/             # Project templates
+│   ├── our-work/             # Project templates (list separates active/inactive)
 │   ├── publications/         # Publication templates
-│   ├── page/                 # Custom page templates (our-work, our-people, contact, etc.)
+│   ├── spotlight/            # Spotlight templates
+│   ├── page/                 # Custom page templates (our-story, our-people, graduate-student-education, etc.)
 │   ├── partials/             # Reusable template fragments
 │   ├── shortcodes/           # Custom Hugo shortcodes
 │   ├── tags/                 # Tag taxonomy templates
 │   └── index.html            # Homepage
 ├── static/
-│   ├── media/                # Uploaded images and media
-│   ├── img/                  # Icons and site images
+│   ├── media/                # Shared content images and documents
+│   │   ├── reports/          # Annual report PDFs
+│   │   └── grad/             # Graduate education images
+│   ├── img/                  # Site assets (logos, favicon, default images)
 │   └── _redirects            # URL redirect rules
 ├── scripts/                  # Python utilities (project crawling, frontmatter cleanup)
 ├── hugo.yaml                 # Hugo site configuration
@@ -124,7 +129,7 @@ graph TD
 ### Build Pipeline
 
 1. Content is authored as Markdown files with YAML frontmatter in `content/`
-2. Data files in `data/` provide structured content (menus, people)
+2. Data files in `data/` provide structured content (menus, people, dissertations)
 3. Hugo templates in `layouts/` render content into HTML
 4. Tailwind CSS is processed via PostCSS during Hugo's asset pipeline
 5. `hugo --minify` produces optimized static files in `public/`
@@ -136,16 +141,28 @@ graph TD
 Hugo resolves templates by section and type:
 - `/blog/post-slug/` → `layouts/blog/single.html`
 - `/blog/` → `layouts/blog/list.html`
-- `/our-work/` → `layouts/page/our-work.html` (custom page layout)
+- `/projects/` → `layouts/our-work/list.html` (section is `our-work`, URL overridden to `/projects/`)
+- `/projects/project-slug/` → `layouts/our-work/single.html`
 - `/people/` → `layouts/page/our-people.html`
+- `/our-story/` → `layouts/page/our-story.html`
+- `/graduate-student-education/` → `layouts/page/graduate-student-education.html`
 - Homepage → `layouts/index.html`
 - Fallback → `layouts/_default/single.html` or `list.html`
 
 ### Key Interactive Components
 
-- **Project filtering** (`layouts/page/our-work.html`): Alpine.js-driven category filter buttons that show/hide project cards client-side
+- **Project filtering** (`layouts/our-work/list.html`): Alpine.js-driven category filter buttons that show/hide project cards client-side; projects split into active and "Past Projects" sections
 - **Staff modal** (`layouts/page/our-people.html`): HTML `<dialog>` element with Alpine.js for staff profile popups
 - **Site search**: Cmd-K / Ctrl-K shortcut opens search modal; uses Hugo's JSON output as a client-side search index
+
+### Image Resolution
+
+The `layouts/partials/featured-image.html` partial handles image paths:
+- Paths starting with `/` or `http` → used as-is (static or external)
+- Bare filenames → resolved as Hugo page resources (bundle images)
+- Falls back to `site.Params.default_image`
+
+Gallery arrays in project frontmatter may mix both patterns; the gallery template in `our-work/single.html` uses the same resolution logic.
 
 ---
 
@@ -155,7 +172,6 @@ Hugo resolves templates by section and type:
 
 - **Main branch:** `main` (production deployments)
 - **Preview branch:** `preview` (staging deployments)
-- **Active branch:** `tailwind-redesign` (current redesign work)
 - CI/CD triggers on pushes to `main` and `preview`
 
 ### Serving the Application
@@ -194,20 +210,24 @@ GitHub Actions workflow (`.github/workflows/cicd.yml`):
 - Brand colors: `red-brand` (#C32A26), `red-dark` (#9E2220)
 - Fonts: IBM Plex Serif (headings), IBM Plex Sans (body), IBM Plex Mono (code)
 - Max content width: `max-w-site` (1200px)
+- All containers (header, main, footer) use `mx-auto max-w-site px-6 lg:px-10` for consistent alignment
 - Use the `.label` class for metadata labels (dates, categories, taglines)
 - Use `.prose` class (from Typography plugin) for long-form Markdown content
 
 ### Templates
 - Shared UI goes in `layouts/partials/`
-- Custom page layouts go in `layouts/page/` and are matched by filename to `content/page/` slugs
+- Custom page layouts go in `layouts/page/` and are matched by `layout` field in frontmatter or by filename to `content/page/` slugs
 - Use `[x-cloak]` attribute on Alpine.js elements to prevent flash of unstyled content
+- Two-column layouts use `lg:w-2/3` + `lg:w-1/3` flex pattern (see blog single, our-story, graduate education)
 
 ### Content
-- Blog frontmatter: `title`, `date`, `slug`, `author_name`, `categories`, `draft`
-- Project frontmatter: `title`, `categories`, `featured_image`, `project_url`, `funders`, `gallery`, `featured_project`
+- Blog frontmatter: `title`, `date`, `slug`, `author_name`, `authors`, `categories`, `draft`, `lede` (optional custom summary; falls back to Hugo `.Summary`)
+- Blog categories: `Post`, `News` (News category hides author display)
+- Project frontmatter: `title`, `categories`, `featured_image`, `project_url`, `funders`, `gallery`, `featured_project`, `status`
 - Publication frontmatter: `title`, `pub_date`, `essay_author`, `essay_date`, `essay_publication_info`
 - Set `draft: true` to exclude content from production builds
-- Images go in `static/media/` organized by year/month
+- Prefer page bundle images (co-located with content) over `static/media/` for content-specific images
+- Organize `static/media/` by topic (`reports/`, `grad/`), not by date
 
 ### Accessibility
 - WCAG 2.1 AA target
@@ -220,11 +240,12 @@ GitHub Actions workflow (`.github/workflows/cicd.yml`):
 ## Notes for AI Agents
 
 ### Important Context
-- The site is mid-redesign on the `tailwind-redesign` branch — the Tailwind approach is the current direction, not legacy code
 - Goldmark renderer has `unsafe: true` enabled, so raw HTML in Markdown is intentional and expected
 - Homepage has Lorem ipsum placeholder text that will be replaced with final editorial copy
-- The `static/_redirects` file handles URL redirects (likely for Netlify-style hosting or similar)
+- The `static/_redirects` file handles URL redirects including `/our-work/` → `/projects/`
 - Docker build creates a symlink `/img → /assets/img` for backward compatibility with old WordPress image paths
+- The content section directory is `content/our-work/` but it is served at `/projects/` via `url:` override in `_index.md`
+- Social icons in `layouts/partials/social-icons.html` only render when a URL is configured
 
 ### When Making Changes
 - Run `npm run dev` to verify changes render correctly
@@ -232,13 +253,16 @@ GitHub Actions workflow (`.github/workflows/cicd.yml`):
 - Tailwind classes are purged based on `content` paths in `tailwind.config.js` — if adding templates in new directories, update the content array
 - The `data/menus.yaml` file drives all navigation — don't hardcode nav links in templates
 - Staff data lives in `data/people.yaml`, not in content files
+- Digital dissertations live in `data/dissertations.yaml`
+- When adding images for a specific content page, prefer adding to the page bundle over `static/`
 
 ### What to Avoid
 - Don't add JavaScript frameworks beyond Alpine.js — keep the JS footprint minimal
 - Don't use Hugo's built-in menu system — the site uses `data/menus.yaml` instead
 - Don't put styles outside of Tailwind utilities or `@layer` directives in `main.css` (exception: JS-generated DOM that Tailwind can't purge, like search results)
 - Don't change `hugo.yaml` `baseURL` for local development — Hugo server handles this automatically
+- Don't use date-based paths for new static media — use semantic folder names (e.g., `static/media/reports/`)
 
 ---
-*Last Updated: 2026-03-26*
+*Last Updated: 2026-03-30*
 *This document is maintained for AI agent context and onboarding.*
