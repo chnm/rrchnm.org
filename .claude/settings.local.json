@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(grep -rl ![ /Users/jheppler/work/chnm/rrchnm.org/content/posts/)",
-      "Bash(grep -rn [[0-9]+] /Users/jheppler/work/chnm/rrchnm.org/content/posts/)",
-      "WebFetch(domain:rrchnm.org)"
-    ]
-  }
-}
