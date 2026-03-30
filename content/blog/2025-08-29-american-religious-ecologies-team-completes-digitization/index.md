@@ -9,6 +9,7 @@ draft: false
 lastmod: '2025-08-28T15:57:51Z'
 slug: american-religious-ecologies-team-completes-digitization
 title: American Religious Ecologies Team Completes Digitization
+lede: After years of photographing, editing, and cataloging, the American Religious Ecologies team has uploaded every surviving schedule from the 1926 Census of Religious Bodies.
 tags:
 - Research + Tools
 - Teaching + Learning

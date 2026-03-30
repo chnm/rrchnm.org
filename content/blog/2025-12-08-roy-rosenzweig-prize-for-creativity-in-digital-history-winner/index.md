@@ -10,6 +10,7 @@ lastmod: '2025-12-08T14:19:18Z'
 slug: roy-rosenzweig-prize-for-creativity-in-digital-history-winner
 title: Roy Rosenzweig Prize for Creativity in Digital History Winner
 featured_image: image.png
+lede: "Congratulations to Envisioning Seneca Village!"
 crossposted:
   - url: "https://rrchnm.org"
     name: "rrchnm.org -- THIS IS A TEST CROSSPOST VIEW"
