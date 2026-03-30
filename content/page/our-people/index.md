@@ -8,6 +8,7 @@ slug: people
 title: Our People
 type: page
 url: /people/
-hero_image: /media/2025/03/2025-holiday-photo.jpg
+hero_image: /media/pages/our-people-hero.jpg
+hero_text: "Our team includes scholars, researchers, developers, programmers, designers, project managers, educators, multimedia producers, and graduate and undergraduate students. Our backgrounds include history, museum studies, computer science, graphic design, teaching, and journalism."
 ---
 
