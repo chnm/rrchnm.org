@@ -1,12 +1,12 @@
 <footer class="bg-stone-900 text-stone-300">
   <div class="mx-auto max-w-site px-6 lg:px-10 py-16 lg:py-20">
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
-      <div>
-        <div class="flex flex-col items-start gap-4 mb-4">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+      <div class="md:col-span-2">
+        <div class="flex items-center gap-6 mb-6">
           <a href="/" class="shrink-0"><img src="/img/logo.png" alt="{{ .Site.Title }}" class="h-12 w-auto"></a>
           <a href="https://historyarthistory.gmu.edu/" target="_blank" rel="noopener" class="shrink-0"><img src="/img/gmu-logo-light.png" alt="George Mason University Department of History and Art History" class="h-20 w-auto opacity-80 hover:opacity-100 transition-opacity"></a>
         </div>
-        <p class="text-sm leading-relaxed text-stone-400 mb-6">
+        <p class="text-sm leading-relaxed text-stone-400 mb-6 max-w-xl">
           RRCHNM uses digital media and computer technology to democratize history: to incorporate multiple voices, reach diverse audiences, and encourage popular participation in presenting and preserving the past.
         </p>
         {{/* Social icons */}}
@@ -14,11 +14,12 @@
           {{ partial "social-icons.html" (dict "Site" .Site "size" "w-5 h-5" "color" "text-stone-500 hover:text-white") }}
         </div>
       </div>
-      <div>
+      <div class="md:text-right">
         <p class="text-sm text-stone-400 leading-relaxed mb-4">
           George Mason University<br>
           4400 University Drive, MSN 1E7<br>
-          Fairfax, VA 22030
+          Fairfax, VA 22030<br>
+          <a x-data="{ u: 'chnm', d: 'gmu.edu' }" :href="'mailto:' + u + '@' + d" x-text="u + '@' + d" class="text-stone-400 hover:text-white transition-colors"></a>
         </p>
         <ul class="space-y-2 text-sm">
           <li><a href="{{ .Site.Params.newsletter_url }}" target="_blank" rel="noopener" class="text-stone-400 hover:text-white transition-colors">Newsletter</a></li>
