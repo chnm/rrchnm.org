@@ -17,6 +17,8 @@ funders:
 gallery:
 - "Children-and-Youth-in-History-1-scaled.jpg"
 project_url: "https://chnm.gmu.edu/cyh/"
+status:
+- active: false
 ---
 
 # Children and Youth in History

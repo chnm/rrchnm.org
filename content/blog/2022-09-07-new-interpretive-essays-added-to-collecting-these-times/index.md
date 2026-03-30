@@ -3,7 +3,7 @@ author_name: John Turner
 authors:
 - John Turner
 categories:
-- Essay
+- Post
 date: '2022-09-07T15:00:40Z'
 draft: false
 lastmod: '2022-09-07T15:06:57Z'

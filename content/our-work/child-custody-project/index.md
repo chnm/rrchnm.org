@@ -16,6 +16,8 @@ funders:
 gallery:
 - "Child-Custody-Project-1-scaled.jpg"
 project_url: "https://childcustodyproject.org/"
+status:
+- active: false
 ---
 
 # Child Custody Project

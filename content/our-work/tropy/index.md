@@ -4,7 +4,7 @@
 
 
 categories:
-- Data Driven History
+- Data-Driven History
 - Public History
 date: '2022-05-17T12:41:49Z'
 draft: false
@@ -19,6 +19,8 @@ gallery:
 - "/media/2022/05/Tropy-2-scaled.jpg"
 - "/media/2022/05/Tropy-3-1-scaled.jpg"
 project_url: "http://tropy.org"
+status:
+- active: false
 ---
 
 # Tropy

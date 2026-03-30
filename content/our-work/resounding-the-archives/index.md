@@ -15,6 +15,8 @@ gallery:
 - "Resounding-the-Archives-1-scaled.jpg"
 - "/media/2022/05/Resounding-the-Archives-2-scaled.jpg"
 project_url: "http://resoundingthearchives.org"
+status:
+- active: false
 ---
 
 # ReSounding the Archives

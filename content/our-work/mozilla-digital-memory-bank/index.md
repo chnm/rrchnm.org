@@ -16,6 +16,8 @@ funders:
 gallery:
 - "Mozilla-Digital-Memory-Bank-1-scaled.jpg"
 project_url: "http://mozillamemory.org"
+status:
+- active: false
 ---
 
 # Mozilla Digital Memory Bank

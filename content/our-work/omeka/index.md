@@ -1,8 +1,6 @@
 ---
-
-
 categories:
-- Data Driven History
+- Data-Driven History
 - Education
 - Public History
 date: '2022-05-17T10:03:24Z'
@@ -13,7 +11,7 @@ slug: omeka
 title: Omeka
 project_url: https://omeka.org
 status:
-    - active: true
+- active: false
 affiliates:
   - name: Sharon Leon
     role: Director

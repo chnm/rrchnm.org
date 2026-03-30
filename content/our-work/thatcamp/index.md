@@ -17,6 +17,8 @@ funders:
 gallery:
 - "That-Camp-1-scaled.jpg"
 project_url: "http://thatcamp.org"
+status:
+- active: false
 ---
 
 # THATCamp

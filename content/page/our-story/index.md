@@ -79,18 +79,3 @@ Thirty years ago, Roy Rosenzweig founded our Center with the goal of democratizi
 
 {{< support-btn >}}
 
-## Annual Reports
-
-- [2023–2024 Annual Report](/media/2024/10/RRCHNM-AR-2023-2024-DIGITAL-FINAL.pdf)
-- [2022–2023 Annual Report](/media/2024/10/RRCHNM_AnnualReport_2023.pdf)
-- [2021–2022 Annual Report](/media/2024/10/RRCHNM_AnnualReport_2022.pdf)
-
-## Contact Us
-
-Roy Rosenzweig Center for History and New Media
-Department of History and Art History
-George Mason University
-4400 University Drive, MSN 1E7
-Fairfax, Virginia 22030
-
-General Inquiries: [chnm@gmu.edu](mailto:chnm@gmu.edu)

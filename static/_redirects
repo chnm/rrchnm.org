@@ -3,3 +3,5 @@
 
 /argument-white-paper/ /portfolio-item/digital-history-argument-white-paper/ 301
 /affiliates-alumni /affiliates 301
+/our-work/ /projects/ 301
+/our-work/* /projects/:splat 301

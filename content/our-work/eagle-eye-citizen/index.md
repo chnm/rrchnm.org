@@ -19,6 +19,8 @@ gallery:
 - "/media/2022/03/EagleEyeCitizen-homepage-scaled.jpg"
 - "/media/2022/03/EagleEyeCitizen-logo-scaled.jpg"
 project_url: "https://eagleeyecitizen.org/"
+status:
+- active: false
 ---
 
 # Eagle Eye Citizen

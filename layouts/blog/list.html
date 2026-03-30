@@ -29,19 +29,27 @@
         <img src="{{ $img }}" alt="{{ $post.Title }}" loading="lazy" class="w-full aspect-[3/2] object-cover hover:scale-[1.03] transition-transform duration-300">
       </a>
       <div class="min-w-0">
+        {{ $isNews := false }}
+        {{ with .Params.categories }}{{ range . }}{{ if eq . "News" }}{{ $isNews = true }}{{ end }}{{ end }}{{ end }}
         <div class="flex items-center gap-3 mb-2 text-xs uppercase tracking-wide">
           <span class="text-stone-500">{{ .Date.Format "January 2, 2006" }}</span>
           {{ with .Params.categories }}
           {{ range . }}<span class="text-red-brand">{{ . }}</span>{{ end }}
           {{ end }}
+          {{ if not $isNews }}
           {{ with .Params.authors }}
           <span class="text-stone-500">{{ delimit . ", " }}</span>
+          {{ end }}
           {{ end }}
         </div>
         <h2 class="font-serif text-xl lg:text-2xl text-stone-900 mb-2">
           <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
         </h2>
-        {{ with .Params.lede }}<p class="text-stone-600 text-sm leading-relaxed line-clamp-3">{{ . }}</p>{{ end }}
+        {{ with .Params.lede }}
+        <p class="text-stone-600 text-sm leading-relaxed line-clamp-3">{{ . }}</p>
+        {{ else }}
+        <p class="text-stone-600 text-sm leading-relaxed line-clamp-3">{{ .Summary | plainify | truncate 200 }}</p>
+        {{ end }}
         <a href="{{ .RelPermalink }}" class="inline-block mt-3 text-sm font-semibold text-stone-900 hover:text-red-brand transition-colors" aria-label="Read more about {{ .Title }}">Read more &rarr;</a>
       </div>
     </div>

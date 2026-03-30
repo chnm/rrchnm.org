@@ -4,7 +4,7 @@
 
 
 categories:
-- Data Driven History
+- Data-Driven History
 date: '2022-05-16T17:41:52Z'
 draft: false
 featured_image: thumbnail-elections.jpg
@@ -18,6 +18,8 @@ gallery:
 - "/media/2022/05/Mapping-Early-American-Elections-2-scaled.jpg"
 - "/media/2022/05/Mapping-Early-American-Elections-3-scaled.jpg"
 project_url: "http://earlyamericanelections.org"
+status:
+- active: false
 ---
 
 # Mapping Early American Elections

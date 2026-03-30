@@ -10,7 +10,7 @@
       <nav aria-label="Breadcrumb" class="mb-4">
         <ol class="flex items-center text-sm text-white/60">
           <li><a href="/" class="hover:text-white transition-colors">Home</a></li>
-          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><a href="/our-work/" class="hover:text-white transition-colors">Our Work</a></li>
+          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><a href="/projects/" class="hover:text-white transition-colors">Our Projects</a></li>
           <li><span class="mx-2 text-white/30" aria-hidden="true">/</span></li>
         </ol>
       </nav>
@@ -92,7 +92,7 @@
           <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Categories</h3>
           <div class="flex flex-wrap gap-2">
             {{ range . }}
-            <a href="/our-work/?category={{ . | urlquery }}" class="text-sm bg-stone-100 text-stone-700 hover:bg-red-brand hover:text-white px-3 py-1 rounded-full transition-colors">{{ . }}</a>
+            <a href="/projects/?category={{ . | urlquery }}" class="text-sm bg-stone-100 text-stone-700 hover:bg-red-brand hover:text-white px-3 py-1 rounded-full transition-colors">{{ . }}</a>
             {{ end }}
           </div>
         </div>

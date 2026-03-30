@@ -9,7 +9,7 @@ project_url: https://denigmanuscript.org/
 lastmod: '2024-12-11T09:47:51Z'
 slug: the-denig-manuscript
 title: The Denig Manuscript
-featured_project: true
+featured_project: false
 gallery:
 ---
 

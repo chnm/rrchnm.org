@@ -38,16 +38,27 @@
     {{ end }}
   </div>
 
-  {{/* Project grid */}}
-  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-    {{ range .Pages }}
-    {{ $item := . }}
+  {{/* Split pages into active and inactive */}}
+  {{ $activePages := slice }}
+  {{ $inactivePages := slice }}
+  {{ range .Pages.ByTitle }}
     {{ $inactive := false }}
     {{ with .Params.status }}
       {{ range . }}
         {{ if isset . "active" }}{{ if not .active }}{{ $inactive = true }}{{ end }}{{ end }}
       {{ end }}
     {{ end }}
+    {{ if $inactive }}
+      {{ $inactivePages = $inactivePages | append . }}
+    {{ else }}
+      {{ $activePages = $activePages | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Active project grid */}}
+  <div class="grid grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-8">
+    {{ range $activePages }}
+    {{ $item := . }}
     <article
       class="group"
       x-show="matchesFilter({{ .Params.categories | jsonify }})"
@@ -58,17 +69,17 @@
         <img src="{{ . }}" alt="{{ $item.Title }}" loading="lazy" class="w-full aspect-[4/3] object-cover group-hover:scale-[1.03] transition-transform duration-300">
       </a>
       {{ end }}
-      <h3 class="font-serif text-lg text-stone-900 flex items-center gap-2">
+      <h3 class="font-serif text-lg text-stone-900">
         <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
-        {{ if $inactive }}<span class="text-xs font-sans font-medium text-stone-400 uppercase tracking-wide">Inactive</span>{{ end }}
       </h3>
       {{ with .Params.categories }}
-      <div class="mt-1 flex flex-wrap gap-1">
-        {{ range . }}
+      <div class="mt-1 flex flex-wrap gap-x-2 gap-y-1 items-center">
+        {{ range $i, $cat := . }}
+        {{ if $i }}<span class="text-stone-300">&middot;</span>{{ end }}
         <button
-          @click="filter = '{{ . }}'"
+          @click="filter = '{{ $cat }}'"
           class="text-xs text-stone-500 hover:text-red-brand uppercase tracking-wide cursor-pointer bg-transparent border-none p-0 transition-colors">
-          {{ . }}
+          {{ $cat }}
         </button>
         {{ end }}
       </div>
@@ -79,6 +90,46 @@
     </article>
     {{ end }}
   </div>
+
+  {{/* Inactive projects */}}
+  {{ with $inactivePages }}
+  <hr class="mt-24 mb-14 border-stone-200">
+  <div class="mb-10">
+    <h2 class="font-serif text-2xl text-stone-900">Past Projects</h2>
+    <p class="mt-2 text-sm text-stone-500">Projects that are no longer active.</p>
+  </div>
+  <div class="grid grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-8">
+    {{ range . }}
+    {{ $item := . }}
+    <article
+      class="group"
+      x-show="matchesFilter({{ .Params.categories | jsonify }})"
+      x-transition.opacity.duration.200ms>
+      {{ $img := partial "featured-image.html" . }}
+      {{ with $img }}
+      <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4">
+        <img src="{{ . }}" alt="{{ $item.Title }}" loading="lazy" class="w-full aspect-[4/3] object-cover group-hover:scale-[1.03] transition-transform duration-300 opacity-75">
+      </a>
+      {{ end }}
+      <h3 class="font-serif text-lg text-stone-900">
+        <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
+      </h3>
+      {{ with .Params.categories }}
+      <div class="mt-1 flex flex-wrap gap-x-2 gap-y-1 items-center">
+        {{ range $i, $cat := . }}
+        {{ if $i }}<span class="text-stone-300">&middot;</span>{{ end }}
+        <button
+          @click="filter = '{{ $cat }}'"
+          class="text-xs text-stone-500 hover:text-red-brand uppercase tracking-wide cursor-pointer bg-transparent border-none p-0 transition-colors">
+          {{ $cat }}
+        </button>
+        {{ end }}
+      </div>
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>
+  {{ end }}
 </div>
 
 <script>

@@ -16,6 +16,8 @@ gallery:
 - "/media/2022/04/For-Virginians-2-scaled.jpg"
 - "/media/2022/04/For-Virginians-3-scaled.jpg"
 project_url: "https://vagovernmentmatters.org/"
+status:
+- active: false
 ---
 
 # For Virginians: Government Matters

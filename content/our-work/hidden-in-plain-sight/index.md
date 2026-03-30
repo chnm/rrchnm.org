@@ -14,6 +14,8 @@ title: Hidden in Plain Sight
 gallery:
 - "Hidden-in-Plain-Sight-1-scaled.jpg"
 project_url: "http://hipshistory.org/"
+status:
+- active: false
 ---
 
 # Hidden in Plain Sight

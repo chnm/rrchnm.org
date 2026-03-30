@@ -3,7 +3,7 @@ author_name: Lauren Rever
 authors:
 - Lauren Rever
 categories:
-- Essay
+- Post
 date: '2025-05-13T09:15:00Z'
 draft: false
 lastmod: '2025-05-13T09:27:36Z'

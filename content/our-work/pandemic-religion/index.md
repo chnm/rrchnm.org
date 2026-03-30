@@ -13,6 +13,8 @@ title: Pandemic Religion
 gallery:
 - "Pandemic-Religion-4-scaled.jpg"
 project_url: "http://pandemicreligion.org"
+status:
+- active: false
 ---
 
 # Pandemic Religion

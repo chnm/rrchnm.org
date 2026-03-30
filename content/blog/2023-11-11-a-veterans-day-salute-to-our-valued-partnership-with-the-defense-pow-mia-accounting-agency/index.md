@@ -9,7 +9,6 @@ draft: false
 lastmod: '2023-11-11T11:32:22Z'
 slug: a-veterans-day-salute-to-our-valued-partnership-with-the-defense-pow-mia-accounting-agency
 title: A Veteran’s Day Salute to our Valued Partnership with the Defense POW/MIA Accounting
-  Agency
 tags:
 - Partnerships
 ---

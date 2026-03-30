@@ -1,10 +1,13 @@
 <footer class="bg-stone-900 text-stone-300">
   <div class="mx-auto max-w-site px-6 lg:px-10 py-16 lg:py-20">
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
       <div>
-        <a href="/" class="block mb-4"><img src="/img/logo.png" alt="{{ .Site.Title }}" class="h-10 w-auto"></a>
+        <div class="flex items-center gap-4 mb-4">
+          <a href="/" class="shrink-0"><img src="/img/logo.png" alt="{{ .Site.Title }}" class="h-10 w-auto"></a>
+          <a href="https://historyarthistory.gmu.edu/" target="_blank" rel="noopener" class="shrink-0"><img src="/img/gmu-logo-light.png" alt="George Mason University Department of History and Art History" class="h-10 w-auto opacity-80 hover:opacity-100 transition-opacity"></a>
+        </div>
         <p class="text-sm leading-relaxed text-stone-400 mb-6">
-          The Roy Rosenzweig Center for History and New Media at George Mason University uses digital media and technology to democratize history.
+          RRCHNM uses digital media and computer technology to democratize history: to incorporate multiple voices, reach diverse audiences, and encourage popular participation in presenting and preserving the past.
         </p>
         {{/* Social icons */}}
         <div class="flex items-center gap-4">
@@ -12,16 +15,6 @@
         </div>
       </div>
       <div>
-        <h3 class="font-serif text-lg text-white mb-4">Explore</h3>
-        <ul class="space-y-2 text-sm">
-          <li><a href="/our-story/" class="text-stone-400 hover:text-white transition-colors">About Us</a></li>
-          <li><a href="/our-work/" class="text-stone-400 hover:text-white transition-colors">Our Work</a></li>
-          <li><a href="/people/" class="text-stone-400 hover:text-white transition-colors">Our People</a></li>
-          <li><a href="/blog/" class="text-stone-400 hover:text-white transition-colors">Blog</a></li>
-        </ul>
-      </div>
-      <div>
-        <h3 class="font-serif text-lg text-white mb-4">Connect</h3>
         <p class="text-sm text-stone-400 leading-relaxed mb-4">
           George Mason University<br>
           4400 University Drive, MSN 1E7<br>

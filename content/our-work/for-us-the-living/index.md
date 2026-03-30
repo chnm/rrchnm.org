@@ -16,6 +16,8 @@ funders:
 gallery:
 - "For-Us-The-Living-1-scaled.jpg"
 project_url: "https://forustheliving.org/"
+status:
+- active: false
 ---
 
 # For Us The Living

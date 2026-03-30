@@ -14,6 +14,8 @@ gallery:
 - "Gulag-1-scaled.jpg"
 - "/media/2022/05/Gulag-2-scaled.jpg"
 project_url: "https://gulaghistory.org/index.html"
+status:
+- active: false
 ---
 
 # Gulag: Many Days, Many Lives

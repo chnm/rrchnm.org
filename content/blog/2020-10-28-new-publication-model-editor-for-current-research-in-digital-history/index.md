@@ -3,7 +3,7 @@ author_name: Lincoln Mullen
 authors:
 - Lincoln Mullen
 categories:
-- Essay
+- Post
 date: '2020-10-28T09:57:40Z'
 draft: false
 lastmod: '2021-02-19T14:49:42Z'

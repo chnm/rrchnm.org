@@ -4,7 +4,7 @@
 
 
 categories:
-- Data Driven History
+- Data-Driven History
 - Education
 - Public History
 date: '2022-05-17T13:17:50Z'
@@ -22,6 +22,8 @@ gallery:
 - "Zotero-1-scaled.jpg"
 - "/media/2022/05/Zotero-2-scaled.jpg"
 project_url: "http://www.zotero.org"
+status:
+- active: false
 ---
 
 # Zotero

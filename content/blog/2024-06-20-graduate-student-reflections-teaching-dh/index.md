@@ -3,7 +3,7 @@ author_name: Laura Brannan Fretwell
 authors:
 - Laura Brannan Fretwell
 categories:
-- Essay
+- Post
 date: '2024-06-20T10:15:44Z'
 draft: false
 lastmod: '2024-06-20T10:15:47Z'

@@ -15,10 +15,12 @@ funders:
 - "National Endowment for the Humanities"
 gallery:
 - "bracero-1-1-scaled.jpg"
-- "/media/2022/03/bracero-1-scaled.jpg"
-- "/media/2022/03/bracero-2-scaled.jpg"
-- "/media/2022/03/bracero-3-scaled.jpg"
+- "bracero-1-scaled.jpg"
+- "bracero-2-scaled.jpg"
+- "bracero-3-scaled.jpg"
 project_url: "http://braceroarchive.org"
+status:
+- active: false
 ---
 
 # Bracero History Archive

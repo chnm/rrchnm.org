@@ -3,7 +3,7 @@ author_name: Mills Kelly
 authors:
 - Mills Kelly
 categories:
-- Essay
+- Post
 date: '2025-02-13T10:29:49Z'
 draft: false
 lastmod: '2025-02-13T10:31:05Z'

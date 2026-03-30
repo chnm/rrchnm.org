@@ -3,7 +3,7 @@ author_name: RRCHNM
 authors:
 - RRCHNM
 categories:
-- Essay
+- Post
 date: '2025-02-10T10:50:48Z'
 draft: false
 lastmod: '2025-02-10T10:50:48Z'

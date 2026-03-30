@@ -20,6 +20,8 @@ gallery:
 - "/media/2022/05/Papers-of-the-War-Department-2-scaled.jpg"
 - "/media/2022/05/Papers-of-the-War-Department-3-scaled.jpg"
 project_url: "http://wardepartmentpapers.org"
+status:
+- active: false
 ---
 
 # Papers of the War Department 1784-1800

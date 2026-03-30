@@ -3,7 +3,7 @@ author_name: RRCHNM
 authors:
 - Lincoln Mullen
 categories:
-- Essay
+- Post
 date: '2025-04-11T10:00:00Z'
 draft: false
 lastmod: '2025-04-11T12:07:57Z'

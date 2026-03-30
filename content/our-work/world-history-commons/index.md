@@ -11,6 +11,7 @@ featured_image: WHC-thumbnail.jpg
 lastmod: '2022-05-17T13:05:53Z'
 slug: world-history-commons
 title: World History Commons
+featured_project: true
 funders:
 - "American Council of Learned Societies"
 - "National Endowment for the Humanities"

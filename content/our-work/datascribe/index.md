@@ -3,7 +3,7 @@
 
 
 categories:
-- Data Driven History
+- Data-Driven History
 - Public History
 date: '2022-04-06T16:15:27Z'
 draft: false
@@ -15,6 +15,8 @@ gallery:
 - "DataScribe-1-scaled.jpg"
 - "/media/2022/04/DataScribe-2-scaled.jpg"
 project_url: "https://datascribe.tech/"
+status:
+- active: false
 ---
 
 # DataScribe

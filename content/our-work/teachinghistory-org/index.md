@@ -11,6 +11,7 @@ featured_image: thumbnail-teaching-history.jpg
 lastmod: '2022-05-17T11:37:52Z'
 slug: teachinghistory-org
 title: Teachinghistory.org
+featured_project: true
 gallery:
 - "Teaching-History-1-scaled.jpg"
 - "/media/2022/05/Teaching-History-2-scaled.jpg"
