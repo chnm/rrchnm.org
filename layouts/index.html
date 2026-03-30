@@ -5,7 +5,7 @@
 {{ $featuredProjects := where $projects "Params.featured_project" true }}
 {{ $posts := where .Site.RegularPages "Section" "blog" }}
 <section class="-mx-6 lg:-mx-10 -mt-12 lg:-mt-16 mb-16 lg:mb-20 bg-white border-b border-stone-200" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw;">
-  <div class="px-6 lg:px-16 xl:px-24 py-12 lg:py-16 mx-auto max-w-[1600px]">
+  <div class="px-6 lg:px-10 py-12 lg:py-16 mx-auto max-w-site">
     <div class="grid grid-cols-1 lg:grid-cols-5 gap-10 lg:gap-16 items-start">
 
       {{/* Left — Identity lede (2/3) */}}
