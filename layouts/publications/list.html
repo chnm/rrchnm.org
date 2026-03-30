@@ -1,4 +1,11 @@
 {{ define "main" }}
+
+{{ with .Content }}
+<div class="prose prose-stone max-w-none mb-12">
+  {{ . }}
+</div>
+{{ end }}
+
 {{ $grouped := .Pages.GroupByParam "pub_date" "desc" }}
 
 <div class="flex flex-col lg:flex-row gap-10 lg:gap-16">
