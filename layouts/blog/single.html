@@ -27,22 +27,25 @@
 
     {{/* Main content */}}
     <div class="lg:w-2/3 min-w-0">
-      {{/* Crosspost notice */}}
-      {{ with .Params.crossposted }}
-      <div class="not-prose mb-8 bg-stone-50 border border-stone-200 rounded-md px-5 py-4 text-sm text-stone-600">
-        <span class="font-medium text-stone-700">Also published at</span>
-        {{ range $i, $cp := . }}{{ if $i }}, {{ end }}<a href="{{ $cp.url }}" target="_blank" rel="noopener" class="text-red-brand hover:text-red-dark transition-colors font-medium">{{ $cp.name | default $cp.url }}<svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-3.5 h-3.5 ml-0.5 mb-0.5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" /></svg></a>{{ end }}
-      </div>
-      {{ end }}
-
       <div class="prose prose-stone max-w-none">
         {{ .Content }}
       </div>
     </div>
 
     {{/* Sidebar */}}
+    {{ $isNews := false }}
+    {{ with .Params.categories }}{{ range . }}{{ if eq . "News" }}{{ $isNews = true }}{{ end }}{{ end }}{{ end }}
+    <hr class="lg:hidden border-stone-200">
     <aside class="lg:w-1/3">
       <div class="lg:sticky lg:top-8 space-y-8">
+
+        {{/* Crosspost notice */}}
+        {{ with .Params.crossposted }}
+        <div class="bg-stone-50 border border-stone-200 rounded-md px-5 py-4 text-sm text-stone-600">
+          <span class="font-medium text-stone-700">Also published at</span>
+          {{ range $i, $cp := . }}{{ if $i }}, {{ end }}<a href="{{ $cp.url }}" target="_blank" rel="noopener" class="text-red-brand hover:text-red-dark transition-colors font-medium">{{ $cp.name | default $cp.url }}<svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-3.5 h-3.5 ml-0.5 mb-0.5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" /></svg></a>{{ end }}
+        </div>
+        {{ end }}
 
         {{/* Date */}}
         <div>
@@ -50,12 +53,14 @@
           <p class="text-sm text-stone-700">{{ .Date.Format "January 2, 2006" }}</p>
         </div>
 
-        {{/* Author */}}
+        {{/* Author — hidden for News category */}}
+        {{ if not $isNews }}
         {{ with .Params.authors }}
         <div>
           <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Author</h3>
           <p class="text-sm text-stone-700">{{ delimit . ", " }}</p>
         </div>
+        {{ end }}
         {{ end }}
 
         {{/* Categories */}}
