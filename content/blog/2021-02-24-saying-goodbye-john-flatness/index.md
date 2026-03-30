@@ -9,10 +9,7 @@ draft: true
 lastmod: '2021-02-24T07:49:58Z'
 slug: saying-goodbye-john-flatness
 title: Saying Goodbye -- John Flatness
----
-draft: true
-
-If you've ever gone to the [Omeka](http://omeka.org) forums looking for help with a vexing problem, big or small, with your Omeka-based website, there's a pretty good chance that the response you received was from John Flatness (jflatnes in the forums). What you might not know is that the person who just gave you excellent advice and a solution to your problem also happens to be the lead developer on the project. John has worked at RRCHNM on the Omeka project since 2010 and has been the lead developer for many of those years, guiding the team of developers through multiple versions of [Omeka Classic](https://omeka.org/classic/) and now [Omeka S](https://omeka.org/s/).
+---If you've ever gone to the [Omeka](http://omeka.org) forums looking for help with a vexing problem, big or small, with your Omeka-based website, there's a pretty good chance that the response you received was from John Flatness (jflatnes in the forums). What you might not know is that the person who just gave you excellent advice and a solution to your problem also happens to be the lead developer on the project. John has worked at RRCHNM on the Omeka project since 2010 and has been the lead developer for many of those years, guiding the team of developers through multiple versions of [Omeka Classic](https://omeka.org/classic/) and now [Omeka S](https://omeka.org/s/).
 
 Like so many of our staff and students, John first encountered the work of the Center through a class project--in his case in the computer science program at Virginia Tech. That class project was to allow an Omeka site to expose its metadata using the OAI-PMH protocol and somehow or other his work caught the eye of our then creative lead, [Jeremy Boggs](https://scholarslab.lib.virginia.edu/people/jeremy-boggs/), and later Jim Safley. Before long, Jeremy and Jim were recruiting John to work on projects at the Center and so John became a part of the RRCHNM team even before he graduated from college in 2010.
 

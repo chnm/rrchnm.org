@@ -9,10 +9,7 @@ draft: true
 lastmod: '2021-02-23T09:43:53Z'
 slug: saying-goodbye-ken-albers
 title: Saying Goodbye -- Ken Albers
----
-draft: true
-
-Sixteen years ago, Ken Albers was a new doctoral student in history here at George Mason University. Part of his program included being assigned as a graduate research assistant at what was then known at the [Center for History and New Media](https://web.archive.org/web/20060215124557/http://chnm.gmu.edu/). In those days we were located in the beautiful Pohick Module, which, truth be told, was anything but beautiful. There are no longer any photos of Pohick online, but [this image](https://photo.gmu.edu/CampusBuildingsLandmarksandFac/Fairfax-Campus/i-SvqJDDK/A) will give you the general feel for the trailer we were in when Ken started.
+---Sixteen years ago, Ken Albers was a new doctoral student in history here at George Mason University. Part of his program included being assigned as a graduate research assistant at what was then known at the [Center for History and New Media](https://web.archive.org/web/20060215124557/http://chnm.gmu.edu/). In those days we were located in the beautiful Pohick Module, which, truth be told, was anything but beautiful. There are no longer any photos of Pohick online, but [this image](https://photo.gmu.edu/CampusBuildingsLandmarksandFac/Fairfax-Campus/i-SvqJDDK/A) will give you the general feel for the trailer we were in when Ken started.
 
 As unpleasant as that old trailer was, the CHNM that Ken encountered when he joined us was a place where almost anything was possible, where any good idea in digital history could be pursued. In Ken's case, the first thing he worked on was our original digital collecting project, [ECHO](http://echo.gmu.edu/), and his first DH task was writing annotations for the websites being added to the ECHO collection. Before long, Ken had transitioned to full time work at the Center. "As I continued to learn more and more about the mechanical end of digital history, I realized I could have a bigger impact on the field through my work on projects like [Omeka](http://omeka.org) than I could completing my doctorate," he says of his choice.
 

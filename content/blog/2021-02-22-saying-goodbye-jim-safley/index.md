@@ -9,10 +9,7 @@ draft: true
 lastmod: '2021-02-22T11:46:02Z'
 slug: saying-goodbye-jim-safley
 title: Saying Goodbye -- Jim Safley
----
-draft: true
-
-In 2002, Kelly Schrum, the long-time director of educational projects at RRCHNM, told a student in Mason's BA program in applied history that he should apply for a job that was opening up at the Center. That student was Jim Safley and until that moment, he had assumed he would find a job at a traditional archive or library. "I never considered a career in digital humanities given my technical inexperience, but I couldn't turn down the prospect of working with Roy Rosenzweig," Jim said of that moment 19 years ago.
+---In 2002, Kelly Schrum, the long-time director of educational projects at RRCHNM, told a student in Mason's BA program in applied history that he should apply for a job that was opening up at the Center. That student was Jim Safley and until that moment, he had assumed he would find a job at a traditional archive or library. "I never considered a career in digital humanities given my technical inexperience, but I couldn't turn down the prospect of working with Roy Rosenzweig," Jim said of that moment 19 years ago.
 
 We had recently launched the [September 11 Digital Archive](https://911digitalarchive.org/) and right out of the gate Jim was put in charge of trying to make sense of the rapidly growing collection of digital objects being deposited into the archive and implementing standards for organizing and preserving the collection. Little did he know when he started how important that work would become. When the Library of Congress decided to make the Archive the Library's first major acquisition of born-digital content related to the attacks of September 11, the standards Jim helped create became a template for future work by scholars working in digital collecting.
 

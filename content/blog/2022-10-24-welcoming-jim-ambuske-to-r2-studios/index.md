@@ -11,10 +11,7 @@ slug: welcoming-jim-ambuske-to-r2-studios
 title: Welcoming Jim Ambuske to R2 Studios
 tags:
 - R2 Studios
----
-draft: true
-
-We are excited to announce that [Dr. Jim Ambuske](http://www.jamespambuske.com/) has joined RRCHNM and [R2 Studios](https://www.r2studios.org/), RRCHNM's podcast studio. Jim is a historian of the American Revolution, Scotland, and the British Atlantic World and has directed several digital history projects. He received his Ph.D. in History from the University of Virginia in 2016.
+---We are excited to announce that [Dr. Jim Ambuske](http://www.jamespambuske.com/) has joined RRCHNM and [R2 Studios](https://www.r2studios.org/), RRCHNM's podcast studio. Jim is a historian of the American Revolution, Scotland, and the British Atlantic World and has directed several digital history projects. He received his Ph.D. in History from the University of Virginia in 2016.
 
 Jim joins us from The Washington Library’s Center for Digital History at George Washington’s Mount Vernon where he designed and executed several digital research and public history projects. In addition to co-creating and co-writing the eight-part podcast docuseries [*Intertwined: The Enslaved Community at George Washington’s Mount Vernon*](https://www.georgewashingtonpodcast.com/show/intertwined-the-enslaved-community-at-george-washingtons-mount-vernon-1/), he also hosted and produced the podcast [*Conversations at the Washington Library*](https://www.georgewashingtonpodcast.com/show/conversations/).
 
