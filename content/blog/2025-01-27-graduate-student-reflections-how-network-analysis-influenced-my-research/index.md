@@ -3,7 +3,7 @@ author_name: Caroline Greer
 authors:
 - Caroline Greer
 categories:
-- Essay
+- Post
 date: '2025-01-27T12:00:00Z'
 draft: false
 lastmod: '2025-01-27T11:12:51Z'

@@ -5,7 +5,7 @@ author_name: Brandan Buck
 authors:
 - Brandan Buck
 categories:
-- Essay
+- Post
 date: '2024-05-08T14:30:13Z'
 draft: false
 lastmod: '2024-05-09T13:14:27Z'

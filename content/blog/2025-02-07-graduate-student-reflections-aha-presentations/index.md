@@ -3,7 +3,7 @@ author_name: Rachel Whyte
 authors:
 - Rachel Whyte
 categories:
-- Essay
+- Post
 date: '2025-02-07T12:00:00Z'
 draft: false
 lastmod: '2025-02-03T15:06:46Z'

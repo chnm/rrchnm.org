@@ -3,7 +3,7 @@ author_name: Amanda Madden
 authors:
 - Amanda Madden
 categories:
-- Essay
+- Post
 date: '2023-10-18T10:34:04Z'
 draft: false
 lastmod: '2023-10-18T10:34:05Z'

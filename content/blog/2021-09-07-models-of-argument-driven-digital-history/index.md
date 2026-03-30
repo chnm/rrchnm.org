@@ -3,7 +3,7 @@ author_name: Stephen Robertson
 authors:
 - Stephen Robertson
 categories:
-- Essay
+- Post
 date: '2021-09-07T06:00:00Z'
 description: 'The Models of Argument-Driven Digital History website launched today:
   find it here. It contains a set of published journal articles annotated by their

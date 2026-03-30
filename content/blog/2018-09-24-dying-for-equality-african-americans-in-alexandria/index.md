@@ -4,7 +4,7 @@ authors:
 - "Brianna Nuñez"
 categories:
 - News
-- Essays
+- Posts
 date: '2018-09-24T14:47:20Z'
 draft: true
 lastmod: '2018-10-01T09:52:20Z'

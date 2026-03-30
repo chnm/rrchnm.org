@@ -9,7 +9,6 @@ draft: false
 lastmod: '2024-06-11T10:17:51Z'
 slug: antisemitism-u-s-a-podcast-receives-generous-support-from-the-david-bruce-smith-family-foundation
 title: Antisemitism, U.S.A. Podcast Receives Generous Support from the David Bruce
-  Smith Foundation
 tags:
 - R2 Studios
 ---

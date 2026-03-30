@@ -9,7 +9,6 @@ draft: false
 lastmod: '2022-07-25T09:47:13Z'
 slug: rrchnm-partners-with-winterthur-museum-to-present-pennsylvania-illuminated-manuscript
 title: RRCHNM Partners with Winterthur Museum to Present Pennsylvania Illuminated
-  Manuscript
 tags:
 - Partnerships
 ---
