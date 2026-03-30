@@ -8,7 +8,7 @@ slug: graduate-student-education
 title: Graduate Student Education
 type: page
 url: /graduate-student-education/
-hero_image: /media/2025/03/carline-grace-alexandra-savannah.jpg
+hero_image: /media/pages/graduate-education-hero.jpg
 ---
 
 <h3 class="pullquote">Graduate students lead innovation at RRCHNM.</h3>

@@ -12,7 +12,7 @@ slug: our-story
 title: Our Story
 type: page
 url: /our-story/
-hero_image: /media/2025/03/jp-dan-caroline.jpg
+hero_image: /media/pages/our-story-hero.jpg
 hero_text: "Our digital projects emerge from our engagement with the practice of history in universities, schools, libraries, archives, museums, and local communities."
 hero_button_text: "See what we've been up to →"
 hero_button_url: /blog/
@@ -24,7 +24,7 @@ Since 1994—under the founding direction of Roy Rosenzweig—the Roy Rosenzweig
 
 <h3 class="pullquote">Our digital projects emerge from our engagement with the practice of history in universities, schools, libraries, archives, museums, and local communities.</h3>
 
-{{< figure src="/media/2022/03/founder.jpg" align="right" alt="Mural of Roy Rosenzweig on display at RRCHNM’s office." caption="This mural of Roy, on display at RRCHNM’s office, was designed and created by George Mason University art student Khoi Le and friends." >}}
+{{< figure src="/media/pages/roy-rosenzweig-mural.jpg" align="right" alt="Mural of Roy Rosenzweig on display at RRCHNM’s office." caption="This mural of Roy, on display at RRCHNM’s office, was designed and created by George Mason University art student Khoi Le and friends." >}}
 
 They are shaped by collaborations with practitioners and audiences, and are produced by teams of researchers, developers, designers, and graduate and undergraduate students.
 
@@ -57,7 +57,7 @@ The Center's origins lay in an agreement between the American Social History Pro
 
 Michael O’Malley, who joined the Department the same semester that Roy launched the Center, became Roy’s main collaborator, and, in 1995, formally CHNM’s Associate Director. Elena Razlogova, who began a PhD at GMU in 1995, joined the Center as its first staff member, working ten hours a week. When the Department moved to Robinson Hall in 1997, CHNM expanded to two offices connected by a lobby area, which contained computers and a printer – not dedicated equipment for the Center, but available for general use by the Department. A postdoctoral fellow, Greg Brown, arrived in 1997, to work on Liberty, Equality, Fraternity. In 1998, three Graduate Research Assistants (GRAs) from the History Department joined the Center staff, together with a webmaster.
 
-{{< figure src="/media/2022/05/64e69411a42550695121d25bbcb98495.jpg" alt="CHNM wall signage showing the letters C, H, N, M and the full name Roy Rosenzweig Center for History and New Media." align="right" caption="The RRCHNM office signage." >}}
+{{< figure src="/media/pages/rrchnm-office-signage.jpg" alt="CHNM wall signage showing the letters C, H, N, M and the full name Roy Rosenzweig Center for History and New Media." align="right" caption="The RRCHNM office signage." >}}
 
 Three postdoctoral fellows and two faculty arrived in 2001, as well as two additional GRAs, doubling the staff, which doubled again the next year. Also in 2000, the NEH awarded the Center a challenge grant of $500,000, which it matched in 2001 to establish a $2 million endowment. To accommodate the new staff, in Fall 2001 the Center relocated from Robinson Hall to the Pohick Modules, a set of trailors apart from the History Department. In 2002, the Center was involved in the first of what would be a series of grants from the US Department of Education's Teaching American History (TAH) program, which opened new opportunities for collaborations with teachers. In 2002, CHNM was also awarded the first of a series of NEH-funded teaching grants that expanded the approach taken in History Matters to fields other than US history.
 

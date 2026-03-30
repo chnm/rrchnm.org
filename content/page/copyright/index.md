@@ -1,7 +1,7 @@
 ---
 date: '2009-05-07T16:11:15Z'
 draft: false
-featured_image: /media/2016/03/roy-bg-1.png
+featured_image: ""
 lastmod: '2022-07-06T16:30:05Z'
 slug: copyright
 title: Copyright
