@@ -16,8 +16,6 @@ funders:
 - "Andrew W. Mellon Foundation"
 gallery:
 - "Tropy-1-scaled.jpg"
-- "/media/2022/05/Tropy-2-scaled.jpg"
-- "/media/2022/05/Tropy-3-1-scaled.jpg"
 project_url: "http://tropy.org"
 status:
 - active: false

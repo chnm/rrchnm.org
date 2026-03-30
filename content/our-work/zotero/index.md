@@ -20,7 +20,6 @@ funders:
 - "Institute of Museum and Library Services"
 gallery:
 - "Zotero-1-scaled.jpg"
-- "/media/2022/05/Zotero-2-scaled.jpg"
 project_url: "http://www.zotero.org"
 status:
 - active: false

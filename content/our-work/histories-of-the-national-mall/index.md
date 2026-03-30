@@ -15,7 +15,6 @@ funders:
 - "National Endowment for the Humanities"
 gallery:
 - "Histories-of-the-National-Mall-1-scaled.jpg"
-- "/media/2022/05/Histories-of-the-National-Mall-2-1-scaled.jpg"
 project_url: "http://mallhistory.org"
 status:
 - active: false

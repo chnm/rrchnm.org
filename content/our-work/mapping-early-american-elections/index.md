@@ -15,8 +15,6 @@ funders:
 - "National Endowment for the Humanities"
 gallery:
 - "Mapping-Early-American-Elections-1-scaled.jpg"
-- "/media/2022/05/Mapping-Early-American-Elections-2-scaled.jpg"
-- "/media/2022/05/Mapping-Early-American-Elections-3-scaled.jpg"
 project_url: "http://earlyamericanelections.org"
 status:
 - active: false

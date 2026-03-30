@@ -24,7 +24,6 @@ funders:
   - National Endowment for the Humanities
 gallery:
 - "Omeka-1-scaled.jpg"
-- "/media/2022/05/Omeka-2-scaled.jpg"
 ---
 
 # Omeka

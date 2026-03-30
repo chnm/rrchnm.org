@@ -13,7 +13,6 @@ slug: datascribe
 title: DataScribe
 gallery:
 - "DataScribe-1-scaled.jpg"
-- "/media/2022/04/DataScribe-2-scaled.jpg"
 project_url: "https://datascribe.tech/"
 status:
 - active: false

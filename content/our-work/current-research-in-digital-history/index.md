@@ -10,7 +10,6 @@ title: Current Research In Digital History
 featured_project: false
 gallery:
 - "Current-Research-in-Digital-History-1-scaled.jpg"
-- "/media/2022/04/Current-Research-in-Digital-History-2-scaled.jpg"
 project_url: "https://crdh.rrchnm.org/"
 ---
 

@@ -13,7 +13,6 @@ slug: maritime-asia
 title: Maritime Asia
 gallery:
 - "Maritime-Asia-1-scaled.jpg"
-- "/media/2022/05/Maritime-Asia-2-scaled.jpg"
 project_url: "http://maritime-asia.org"
 status:
 - active: false

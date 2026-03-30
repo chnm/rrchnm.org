@@ -14,8 +14,6 @@ title: Teachinghistory.org
 featured_project: true
 gallery:
 - "Teaching-History-1-scaled.jpg"
-- "/media/2022/05/Teaching-History-2-scaled.jpg"
-- "/media/2022/05/Teaching-History-3-scaled.jpg"
 project_url: "http://teachinghistory.org"
 ---
 

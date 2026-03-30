@@ -13,7 +13,6 @@ slug: scripto
 title: Scripto
 gallery:
 - "Scripto-1-scaled.jpg"
-- "/media/2022/05/Scripto-2-scaled.jpg"
 project_url: "http://scripto.org"
 status:
 - active: false

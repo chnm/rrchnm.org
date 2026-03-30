@@ -12,7 +12,6 @@ slug: consolation-prize
 title: Consolation Prize
 gallery:
 - "Consolation-Prize-2-scaled.jpg"
-- "/media/2022/04/Consolation-Prize-3-scaled.jpg"
 project_url: "https://podcasts.rrchnm.org/show/consolation-prize/"
 status:
 - active: false

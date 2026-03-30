@@ -13,8 +13,6 @@ title: American Religious Ecologies
 featured_project: true
 gallery:
 - "ARE-2-scaled.jpg"
-- "/media/2022/04/ARE-3-scaled.jpg"
-- "/media/2022/04/American-Religious-Ecologies-1.png"
 project_url: "https://religiousecologies.org/"
 ---
 

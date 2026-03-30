@@ -16,8 +16,6 @@ funders:
 - "Monash University"
 gallery:
 - "amboyna-1-scaled.jpg"
-- "/media/2022/03/amboyna-2-scaled.jpg"
-- "/media/2022/03/amboyna-3-scaled.jpg"
 project_url: "http://amboyna.org"
 status:
 - active: false

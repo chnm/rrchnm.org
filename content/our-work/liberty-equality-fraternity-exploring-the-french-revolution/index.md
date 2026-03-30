@@ -16,8 +16,6 @@ funders:
 - "National Endowment for the Humanities"
 gallery:
 - "Liberty-Equality-Fraternity-1-scaled.jpg"
-- "/media/2022/05/Liberty-Equality-Fraternity-2-scaled.jpg"
-- "/media/2022/05/Liberty-Equality-Fraternity-3-scaled.jpg"
 project_url: "http://revolution.chnm.org/"
 status:
 - active: false

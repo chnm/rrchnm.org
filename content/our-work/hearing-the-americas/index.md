@@ -12,8 +12,6 @@ slug: hearing-the-americas
 title: Hearing the Americas
 gallery:
 - "HearingTheAmericas-1-scaled.jpg"
-- "/media/2023/04/HearingTheAmericas-homepage-scaled.jpg"
-- "/media/2023/04/timeline-scaled.jpg"
 project_url: "https://hearingtheamericas.org"
 ---
 

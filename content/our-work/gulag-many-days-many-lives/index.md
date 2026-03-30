@@ -12,7 +12,6 @@ slug: gulag-many-days-many-lives
 title: 'Gulag: Many Days, Many Lives'
 gallery:
 - "Gulag-1-scaled.jpg"
-- "/media/2022/05/Gulag-2-scaled.jpg"
 project_url: "https://gulaghistory.org/index.html"
 status:
 - active: false

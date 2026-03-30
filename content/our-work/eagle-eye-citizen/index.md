@@ -15,9 +15,6 @@ funders:
 - "Library of Congress"
 gallery:
 - "EagleEyeCitizen-Challenge-scaled.jpg"
-- "/media/2022/03/EagleEyeCitizen-Time-After-Time-scaled.jpg"
-- "/media/2022/03/EagleEyeCitizen-homepage-scaled.jpg"
-- "/media/2022/03/EagleEyeCitizen-logo-scaled.jpg"
 project_url: "https://eagleeyecitizen.org/"
 status:
 - active: false

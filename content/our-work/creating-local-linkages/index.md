@@ -16,7 +16,6 @@ funders:
 - "Institute of Museum and Library Services"
 gallery:
 - "Creating-Local-Linkages-1-scaled.jpg"
-- "/media/2022/04/Creating-Local-Linkages-2-scaled.jpg"
 project_url: "https://locallinkages.org/"
 status:
 - active: false

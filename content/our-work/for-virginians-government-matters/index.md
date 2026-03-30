@@ -13,8 +13,6 @@ slug: for-virginians-government-matters
 title: 'For Virginians: Government Matters'
 gallery:
 - "For-Virginians-1-scaled.jpg"
-- "/media/2022/04/For-Virginians-2-scaled.jpg"
-- "/media/2022/04/For-Virginians-3-scaled.jpg"
 project_url: "https://vagovernmentmatters.org/"
 status:
 - active: false
