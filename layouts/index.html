@@ -22,7 +22,7 @@
         <p class="mt-4 text-base text-stone-500 leading-relaxed max-w-2xl">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </p>
-        <div class="mt-6 flex items-center justify-between gap-4">
+        <div class="mt-6 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
           <div class="flex items-center gap-4">
             <a href="{{ .Site.Params.donate_url }}" target="_blank" rel="noopener" class="inline-block bg-red-brand text-white text-sm font-semibold px-5 py-2.5 rounded-md hover:bg-red-dark transition-colors">Support Our Work &rarr;</a>
             <a href="/our-story/" class="text-sm font-semibold text-stone-600 hover:text-red-brand transition-colors">About Us &rarr;</a>
@@ -35,9 +35,12 @@
 
       {{/* Right — The Latest (1/3) */}}
       <div class="lg:col-span-2 lg:border-l lg:border-stone-200 lg:pl-10">
-        <p class="text-xs font-semibold uppercase tracking-widest text-stone-400 mb-5">The Latest</p>
+        <div class="flex items-center justify-between mb-5">
+          <p class="text-xs font-semibold uppercase tracking-widest text-stone-400">The Latest</p>
+          <a href="/blog/" class="text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">All Posts &rarr;</a>
+        </div>
         <div class="space-y-5">
-          {{ range $i, $p := first 2 $posts }}
+          {{ range $i, $p := first 3 $posts }}
           {{ if $i }}<div class="border-t border-stone-100"></div>{{ end }}
           <a href="{{ .RelPermalink }}" class="group flex gap-3 items-start pt-{{ if $i }}5{{ else }}0{{ end }}">
             {{ $img := partial "featured-image.html" . }}
@@ -49,13 +52,9 @@
           </a>
           {{ end }}
         </div>
-        <div class="border-t border-stone-100 mt-5 pt-5">
-          <a href="/blog/" class="text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">All Posts &rarr;</a>
-        </div>
-
         {{/* Newsletter subscribe card */}}
         <div class="mt-6 bg-stone-900 rounded-lg px-5 py-6">
-          <p class="text-xs font-semibold uppercase tracking-widest text-stone-400 mb-2">Stay in the loop</p>
+          <p class="text-xs font-semibold uppercase tracking-widest text-stone-400 mb-2">Subscribe to our newsletter</p>
           <p class="text-sm text-stone-300 leading-relaxed mb-4">Get updates on our latest projects, events, and publications.</p>
           <a href="{{ .Site.Params.newsletter_url }}" target="_blank" rel="noopener" class="inline-block w-full text-center bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-4 py-2.5 rounded-md transition-colors">
             Subscribe &rarr;
@@ -67,47 +66,6 @@
   </div>
 </section>
 
-
-{{/* Our Work */}}
-<section class="mb-16 lg:mb-24">
-  <div class="flex items-end justify-between mb-10">
-    <div>
-      <p class="label text-red-brand mb-3">What We Do</p>
-      <h2 class="font-serif text-3xl lg:text-4xl text-stone-900">Our Work</h2>
-    </div>
-    <a href="/our-work/" class="hidden sm:inline-block text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
-      View all &rarr;
-    </a>
-  </div>
-  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-    {{ range first 9 $featuredProjects }}
-    {{ $item := . }}
-    <article class="group flex flex-col">
-      <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4 shrink-0" aria-hidden="true" tabindex="-1">
-        {{ $projImg := partial "featured-image.html" . }}
-        {{ if $projImg }}
-        <img src="{{ $projImg }}" alt="" loading="lazy" class="w-full aspect-square object-contain bg-stone-50 group-hover:scale-[1.03] transition-transform duration-300">
-        {{ else }}
-        <div class="w-full aspect-square bg-stone-100 flex items-center justify-center">
-          <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-stone-300" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5Zm10.5-11.25h.008v.008h-.008V8.25Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" /></svg>
-        </div>
-        {{ end }}
-      </a>
-      <h3 class="font-serif text-lg text-stone-900">
-        <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
-      </h3>
-      {{ with .Params.categories }}
-      <div class="mt-1">
-        {{ range . }}<a href="/our-work/?category={{ . | urlquery }}" class="text-xs text-stone-500 hover:text-red-brand uppercase tracking-wide transition-colors">{{ . }}</a>{{ end }}
-      </div>
-      {{ end }}
-    </article>
-    {{ end }}
-  </div>
-  <div class="mt-10 sm:hidden">
-    <a href="/our-work/" class="inline-block bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors">View All Projects</a>
-  </div>
-</section>
 
 {{/* Spotlight — pulls the most recent featured page from content/spotlight/ */}}
 {{ $spotlights := where (where .Site.RegularPages "Section" "spotlight") "Params.featured" true }}
@@ -131,28 +89,62 @@
 </section>
 {{ end }}
 
-{{/* Newsletter + Donate CTAs — side by side */}}
-<div class="mt-16 lg:mt-24 mb-8 grid grid-cols-1 md:grid-cols-2 gap-6">
-  <div class="bg-stone-900 rounded-lg px-8 py-10 flex flex-col">
-    <div class="flex-1">
-      <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-red-brand mb-4" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" /></svg>
-      <h2 class="font-serif text-2xl text-white mb-2">Stay in the loop</h2>
-      <p class="text-stone-400 text-sm leading-relaxed">Get updates on our latest projects, events, and publications delivered to your inbox.</p>
+{{/* Our Work */}}
+<section class="mb-16 lg:mb-24">
+  <div class="flex items-end justify-between mb-10">
+    <div>
+      <p class="label text-red-brand mb-3">What We Do</p>
+      <h2 class="font-serif text-3xl lg:text-4xl text-stone-900">Featured Projects</h2>
     </div>
-    <a href="{{ .Site.Params.newsletter_url }}" target="_blank" rel="noopener" class="inline-flex items-center gap-2 mt-6 bg-white hover:bg-stone-100 text-stone-900 text-sm font-semibold px-6 py-3 rounded-md transition-colors self-start">
-      Subscribe &rarr;
+    <a href="/projects/" class="hidden sm:inline-block text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
+      View all &rarr;
     </a>
   </div>
-  <div class="bg-stone-50 border border-stone-200 rounded-lg px-8 py-10 flex flex-col">
-    <div class="flex-1">
-      <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-red-brand mb-4" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z" /></svg>
-      <h2 class="font-serif text-2xl text-stone-900 mb-2">Support Our Work</h2>
-      <p class="text-stone-600 text-sm leading-relaxed">Your gift helps RRCHNM continue building free, open-access tools and resources that democratize history for everyone.</p>
-    </div>
-    <a href="{{ .Site.Params.donate_url }}" target="_blank" rel="noopener" class="inline-block mt-6 bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors self-start">
-      Donate Now &rarr;
-    </a>
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+    {{ range first 9 $featuredProjects }}
+    {{ $item := . }}
+    <article class="group flex flex-col">
+      <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4 shrink-0" aria-hidden="true" tabindex="-1">
+        {{ $projImg := partial "featured-image.html" . }}
+        {{ if $projImg }}
+        <img src="{{ $projImg }}" alt="" loading="lazy" class="w-full aspect-square object-contain bg-stone-50 group-hover:scale-[1.03] transition-transform duration-300">
+        {{ else }}
+        <div class="w-full aspect-square bg-stone-100 flex items-center justify-center">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-stone-300" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5Zm10.5-11.25h.008v.008h-.008V8.25Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" /></svg>
+        </div>
+        {{ end }}
+      </a>
+      <h3 class="font-serif text-lg text-stone-900">
+        <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
+      </h3>
+      {{ with .Params.categories }}
+      <div class="mt-1 flex flex-wrap gap-x-2 gap-y-1">
+        {{ range $i, $cat := . }}{{ if $i }}<span class="text-stone-300">&middot;</span>{{ end }}<a href="/projects/?category={{ $cat | urlquery }}" class="text-xs text-stone-500 hover:text-red-brand uppercase tracking-wide transition-colors">{{ $cat }}</a>{{ end }}
+      </div>
+      {{ end }}
+    </article>
+    {{ end }}
   </div>
-</div>
+  <div class="mt-10 sm:hidden">
+    <a href="/projects/" class="inline-block bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors">View All Projects</a>
+  </div>
+</section>
+
+{{/* CRDH Callout */}}
+<section class="mt-16 lg:mt-24 mb-8 bg-stone-50 border border-stone-200 rounded-lg overflow-hidden">
+  <div class="flex flex-col lg:flex-row">
+    <div class="lg:w-2/5 shrink-0">
+      <img src="/our-work/current-research-in-digital-history/Current-Research-in-Digital-History-1-scaled.jpg" alt="Current Research in Digital History" class="w-full h-full object-cover" loading="lazy">
+    </div>
+    <div class="px-8 py-10 lg:px-12 lg:py-12 flex flex-col justify-center">
+      <p class="text-xs font-semibold uppercase tracking-widest text-red-brand mb-3">The Latest in Digital History</p>
+      <h2 class="font-serif text-2xl lg:text-3xl text-stone-900 mb-4">Current Research in Digital History</h2>
+      <p class="text-stone-600 leading-relaxed">RRCHNM publishes <em>Current Research in Digital History</em>, an annual open-access, peer-reviewed publication featuring scholarly essays that offer arguments and interpretations grounded in digital history methods.</p>
+      <a href="https://crdh.rrchnm.org/" target="_blank" rel="noopener" class="inline-block mt-6 text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
+        Read CRDH &rarr;
+      </a>
+    </div>
+  </div>
+</section>
 
 {{ end }}
