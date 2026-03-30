@@ -19,7 +19,7 @@ title: Models of Argument-Driven Digital History
 
 The *Models of Argument-Driven Digital History* website launched today: [find it here](https://model-articles.rrchnm.org/). It contains a set of published journal articles annotated by their authors to highlight the use of digital methods to make historical arguments. The site is part of a larger project on which I have been collaborating with Lincoln Mullen since 2017, with the support of the Andrew W. Mellon Foundation, to encourage argument-driven digital history as a form of digital scholarship.
 
-The first element of the project was a workshop of digital historians that developed the white paper “[Digital History and Argument](digital-history-and-argument.RRCHNM.pdf)” (2017), which aimed
+The first element of the project was a workshop of digital historians that developed the white paper “[Digital History and Argument](/media/reports/digital-history-and-argument.pdf)” (2017), which aimed
 
 > to help bridge the argumentative practices of digital history and the broader historical profession. On the one hand, it aims to demonstrate to the wider historical discipline how digital history is already making arguments in differentforms than analog scholarship. On the other hand, it aims to help digital historians weave the scholarship they produce into historiographical conversations in the discipline
 
