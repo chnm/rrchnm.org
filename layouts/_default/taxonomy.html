@@ -2,7 +2,7 @@
 <div class="flex flex-wrap gap-3">
   {{ range .Pages }}
   <a href="{{ .RelPermalink }}" class="text-sm bg-stone-100 text-stone-700 hover:bg-red-brand hover:text-white px-4 py-2 rounded-full transition-colors">
-    {{ .Title }} <span class="text-stone-500 ml-1">({{ len .Pages }})</span>
+    {{ .Title }} <span class="text-stone-600 ml-1">({{ len .Pages }})</span>
   </a>
   {{ end }}
 </div>
