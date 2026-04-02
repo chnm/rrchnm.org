@@ -6,7 +6,7 @@
     <h2 class="font-serif text-xl text-stone-900 mb-4 pb-2 border-b border-stone-200">About</h2>
     <ul class="space-y-2 text-sm">
       <li><a href="/our-story/" class="text-stone-600 hover:text-red-brand transition-colors">Our Story</a></li>
-      {{ range where .Site.RegularPages "Section" "page" }}
+      {{ range where .Site.RegularPages.ByTitle "Section" "page" }}
       {{ if and (ne .RelPermalink "/our-story/") (ne .RelPermalink "/sitemap/") }}
       <li><a href="{{ .RelPermalink }}" class="text-stone-600 hover:text-red-brand transition-colors">{{ .Title }}</a></li>
       {{ end }}
@@ -15,7 +15,7 @@
   </div>
 
   {{/* People */}}
-  {{ $people := where .Site.RegularPages "Section" "people" }}
+  {{ $people := where .Site.RegularPages.ByTitle "Section" "people" }}
   {{ if $people }}
   <div>
     <h2 class="font-serif text-xl text-stone-900 mb-4 pb-2 border-b border-stone-200">People</h2>
@@ -29,7 +29,7 @@
   {{ end }}
 
   {{/* Projects */}}
-  {{ $projects := where .Site.RegularPages "Section" "our-work" }}
+  {{ $projects := where .Site.RegularPages.ByTitle "Section" "our-work" }}
   {{ if $projects }}
   <div>
     <h2 class="font-serif text-xl text-stone-900 mb-4 pb-2 border-b border-stone-200">Projects</h2>
@@ -43,7 +43,7 @@
   {{ end }}
 
   {{/* Publications */}}
-  {{ $pubs := where .Site.RegularPages "Section" "publications" }}
+  {{ $pubs := where .Site.RegularPages.ByTitle "Section" "publications" }}
   {{ if $pubs }}
   <div>
     <h2 class="font-serif text-xl text-stone-900 mb-4 pb-2 border-b border-stone-200">Publications</h2>
@@ -57,7 +57,7 @@
   {{ end }}
 
   {{/* Blog */}}
-  {{ $posts := where .Site.RegularPages "Section" "blog" }}
+  {{ $posts := where .Site.RegularPages.ByTitle "Section" "blog" }}
   {{ if $posts }}
   <div class="md:col-span-2 lg:col-span-2">
     <h2 class="font-serif text-xl text-stone-900 mb-4 pb-2 border-b border-stone-200">Blog <span class="text-sm text-stone-500 font-sans font-normal">({{ len $posts }} posts)</span></h2>
