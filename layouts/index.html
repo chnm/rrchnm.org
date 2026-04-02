@@ -27,7 +27,7 @@
             <a href="{{ .Site.Params.donate_url }}" target="_blank" rel="noopener" class="inline-block bg-red-brand text-white text-sm font-semibold px-5 py-2.5 rounded-md hover:bg-red-dark transition-colors">Support Our Work &rarr;</a>
             <a href="/our-story/" class="text-sm font-semibold text-stone-600 hover:text-red-brand transition-colors">About Us &rarr;</a>
           </div>
-          <div class="flex items-center gap-3">
+          <div class="flex items-center gap-3" role="list">
             {{ partial "social-icons.html" (dict "Site" .Site "size" "w-4 h-4" "color" "text-stone-400 hover:text-stone-700") }}
           </div>
         </div>
@@ -36,7 +36,7 @@
       {{/* Right — The Latest (1/3) */}}
       <div class="lg:col-span-2 lg:border-l lg:border-stone-200 lg:pl-10">
         <div class="flex items-center justify-between mb-5">
-          <p class="text-xs font-semibold uppercase tracking-widest text-stone-400">The Latest</p>
+          <p class="text-xs font-semibold uppercase tracking-widest text-stone-500">The Latest</p>
           <a href="/blog/" class="text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">All Posts &rarr;</a>
         </div>
         <div class="space-y-5">
@@ -44,10 +44,10 @@
           {{ if $i }}<div class="border-t border-stone-100"></div>{{ end }}
           <a href="{{ .RelPermalink }}" class="group flex gap-3 items-start pt-{{ if $i }}5{{ else }}0{{ end }}">
             {{ $img := partial "featured-image.html" . }}
-            <img src="{{ $img }}" alt="" loading="lazy" class="w-16 h-16 object-cover rounded shrink-0">
+            <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" class="w-16 h-16 object-cover rounded shrink-0">
             <div>
-              <h3 class="font-serif text-sm text-stone-900 leading-snug group-hover:text-red-brand transition-colors">{{ .Title }}</h3>
-              <span class="text-xs text-stone-400 mt-1 flex items-center gap-2">{{ .Date.Format "Jan 2, 2006" }}{{ with .Params.categories }}{{ range . }}<span class="bg-red-brand/10 text-red-brand px-1.5 py-0.5 rounded text-[10px] font-semibold uppercase">{{ . }}</span>{{ end }}{{ end }}</span>
+              <h2 class="font-serif text-sm font-normal text-stone-900 leading-snug group-hover:text-red-brand transition-colors">{{ .Title }}</h2>
+              <span class="text-xs text-stone-500 mt-1 flex items-center gap-2">{{ .Date.Format "Jan 2, 2006" }}{{ with .Params.categories }}{{ range . }}<span class="bg-red-brand/10 text-red-brand px-1.5 py-0.5 rounded text-[10px] font-semibold uppercase">{{ . }}</span>{{ end }}{{ end }}</span>
             </div>
           </a>
           {{ end }}
@@ -107,7 +107,7 @@
       <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4 shrink-0" aria-hidden="true" tabindex="-1">
         {{ $projImg := partial "featured-image.html" . }}
         {{ if $projImg }}
-        <img src="{{ $projImg }}" alt="" loading="lazy" class="w-full aspect-square object-contain bg-stone-50 group-hover:scale-[1.03] transition-transform duration-300">
+        <img src="{{ $projImg }}" alt="{{ .Title }}" loading="lazy" class="w-full aspect-square object-contain bg-stone-50 group-hover:scale-[1.03] transition-transform duration-300">
         {{ else }}
         <div class="w-full aspect-square bg-stone-100 flex items-center justify-center">
           <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-stone-300" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="m2.25 15.75 5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5 1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5Zm10.5-11.25h.008v.008h-.008V8.25Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" /></svg>
@@ -119,7 +119,7 @@
       </h3>
       {{ with .Params.categories }}
       <div class="mt-1 flex flex-wrap gap-x-2 gap-y-1">
-        {{ range $i, $cat := . }}{{ if $i }}<span class="text-stone-300">&middot;</span>{{ end }}<a href="/projects/?category={{ $cat | urlquery }}" class="text-xs text-stone-500 hover:text-red-brand uppercase tracking-wide transition-colors">{{ $cat }}</a>{{ end }}
+        {{ range $i, $cat := . }}{{ if $i }}<span class="text-stone-500" aria-hidden="true">&middot;</span>{{ end }}<a href="/projects/?category={{ $cat | urlquery }}" class="text-xs text-stone-500 hover:text-red-brand uppercase tracking-wide transition-colors">{{ $cat }}</a>{{ end }}
       </div>
       {{ end }}
     </article>
@@ -140,14 +140,14 @@
       <p class="text-xs font-semibold uppercase tracking-widest text-red-brand mb-3">The Latest in Digital History</p>
       <h2 class="font-serif text-2xl lg:text-3xl text-stone-900 mb-4">Current Research in Digital History</h2>
       <p class="text-stone-600 leading-relaxed">RRCHNM publishes <em>Current Research in Digital History</em>, an open-access, peer-reviewed journal. <em>CRDH</em> publishes scholarship in digital history that offers discipline-specific arguments and interpretations. Articles are published on a rolling basis as they are received and peer reviewed.</p>
-      <div class="flex gap-10">
-        <a href="https://crdh.rrchnm.org/" target="_blank" rel="noopener" class="inline-block mt-6 text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
+      <ul class="flex gap-10 list-none p-0 m-0">
+        <li><a href="https://crdh.rrchnm.org/" target="_blank" rel="noopener" class="inline-block mt-6 text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
           Read CRDH &rarr;
-        </a>
-        <a href="https://crdh.rrchnm.org/submissions/" target="_blank" rel="noopener" class="inline-block mt-6 text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
+        </a></li>
+        <li><a href="https://crdh.rrchnm.org/submissions/" target="_blank" rel="noopener" class="inline-block mt-6 text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">
           Submit to CRDH &rarr;
-        </a>
-      </div>
+        </a></li>
+      </ul>
     </div>
   </div>
 </section>
