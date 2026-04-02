@@ -36,7 +36,7 @@ The Funder Collaborative is composed of Lippman Kanfer Foundation for Living Tor
 
 Efforts to elevate Diversity, Equity, and Inclusion (DEI) are integral to both the web portal and oral history collecting campaign. Both entities seek to engage populations that are rarely included in this type of collecting and interpretation, lending valuable insights into a diverse range of Jewish pandemic experiences. Both projects will be working with DEI consultants and an advisory board in approaching this work with an inclusive lens and strategy.
 
-###
+---
 
 *Since 1994, the*[*Roy Rosenzweig Center for History and New Media*](https://rrchnm.org/)*has created websites and other digital media with the goal of democratizing history for scholarly, public, and educational audiences. RRCHNM brings together scholars, web developers and designers, and graduate and undergraduate students to accomplish that mission. In addition to democratizing history for the over two million people who visit its websites each year, RRCHNM is passionate about enabling the work of other institutions, especially through its ability to develop websites and software, host technical infrastructure, and manage projects and grants. RRCHNM is a research center at George Mason University, the largest public research university in Virginia and one of the most diverse universities in the United States.*
 
