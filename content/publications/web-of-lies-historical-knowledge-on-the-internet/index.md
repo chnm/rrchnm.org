@@ -16,13 +16,12 @@ pub_date: '2005'
 
 ### Contents
 
-- [Introduction](#w1)
-- [How Computer Scientists Differ from Humanists in their View of the Web](#w2)
-- [H-Bot, a History Software Agent](#w3)
-- [Testing H-Bot and the Web](#w4)
-- [Factualist History: H-Bot takes the National Assessment History Exam and Acquires Some New](#w5)
-- [Talents](#w5)
-- [Conclusion: Automatic Discovery and the Futures of the Past](#w6)
+- [Introduction](#introduction)
+- [How Computer Scientists Differ from Humanists in their View of the Web](#how-computer-scientists-differ-from-humanists-in-their-view-of-the-web)
+- [H-Bot, a History Software Agent](#h-bot-a-history-software-agent)
+- [Testing H-Bot and the Web](#testing-h-bot-and-the-web)
+- [Factualist History: H-Bot takes the National Assessment History Exam and Acquires Some New Talents](#factualist-history-h-bot-takes-the-national-assessment-history-exam-and-acquires-some-new-talents)
+- [Conclusion: Automatic Discovery and the Futures of the Past](#conclusion-automatic-discovery-and-the-futures-of-the-past)
 
 ---
 
