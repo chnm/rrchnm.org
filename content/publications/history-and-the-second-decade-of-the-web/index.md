@@ -36,7 +36,7 @@ come, with the means to understand the past better and more deeply.
 
 **Note**
 
-[1](#ref1) Routledge cannot be held responsible for the content or accuracy of the urls linked to from the online version of this article, which can be found at <http://www.tandf.co.uk/journals/titles/13642529.asp>
+[^1]: Routledge cannot be held responsible for the content or accuracy of the urls linked to from the online version of this article, which can be found at <http://www.tandf.co.uk/journals/titles/13642529.asp>
 
 References
 
