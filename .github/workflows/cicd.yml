@@ -8,7 +8,6 @@ on:
       - "preview"
 
 jobs:
-
   build-release:
     uses: chnm/.github/.github/workflows/hugo--build-release.yml@main
     secrets: inherit
