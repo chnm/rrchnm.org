@@ -16,6 +16,7 @@ jobs:
       container-registry: "ghcr.io"
       container-image-name: "rrchnm-website"
       hugo-context-root: "."
+      hugo-content-path: "/srv"
       hugo-devl-url: "https://hugo.chnm.gmu.edu"
       hugo-prod-url: "https://hugo.rrchnm.org"
 
