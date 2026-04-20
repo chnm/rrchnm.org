@@ -2,7 +2,7 @@
 {{ $color := .color | default "text-stone-400 hover:text-stone-700" }}
 {{ range .Site.Params.social }}
 {{ if .url }}
-<a href="{{ .url }}" target="_blank" rel="noopener me" class="{{ $color }} transition-colors" aria-label="{{ .name }}">
+<a href="{{ .url }}" target="_blank" rel="noopener me" class="{{ $color }} transition-colors" aria-label="{{ .name }} (opens in new window)">
   {{ if eq .icon "bluesky" }}
   <svg class="{{ $size }}" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.785 2.627 3.6 3.476 6.178 3.138-4.456.616-8.395 2.112-3.278 7.462C8.206 25.247 10.382 19.2 12 16.8c1.618 2.4 3.794 8.447 8.476 4.047 5.117-5.35 1.178-6.846-3.278-7.462 2.578.338 5.393-.511 6.178-3.138C23.622 9.418 24 4.458 24 3.768c0-.69-.139-1.86-.902-2.203-.659-.299-1.664-.621-4.3 1.24C16.046 4.747 13.087 8.686 12 10.8Z"/></svg>
   {{ else if eq .icon "linkedin" }}
