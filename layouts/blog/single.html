@@ -11,7 +11,7 @@
         <ol class="flex items-center text-sm text-white/60">
           <li><a href="/" class="hover:text-white transition-colors">Home</a></li>
           <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><a href="/blog/" class="hover:text-white transition-colors">Blog</a></li>
-          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span></li>
+          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><span aria-current="page">{{ $.Title }}</span></li>
         </ol>
       </nav>
       <h1 class="font-serif text-3xl lg:text-4xl text-white leading-tight max-w-3xl">{{ $.Title }}</h1>
@@ -43,7 +43,7 @@
         {{ with .Params.crossposted }}
         <div class="bg-stone-50 border border-stone-200 rounded-md px-5 py-4 text-sm text-stone-600">
           <span class="font-medium text-stone-700">Also published at</span>
-          {{ range $i, $cp := . }}{{ if $i }}, {{ end }}<a href="{{ $cp.url }}" target="_blank" rel="noopener" class="text-red-brand hover:text-red-dark transition-colors font-medium">{{ $cp.name | default $cp.url }}<svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-3.5 h-3.5 ml-0.5 mb-0.5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" /></svg></a>{{ end }}
+          {{ range $i, $cp := . }}{{ if $i }}, {{ end }}<a href="{{ $cp.url }}" target="_blank" rel="noopener" class="text-red-brand hover:text-red-dark transition-colors font-medium" aria-label="{{ $cp.name | default $cp.url }} (opens in new window)">{{ $cp.name | default $cp.url }}<svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-3.5 h-3.5 ml-0.5 mb-0.5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" /></svg></a>{{ end }}
         </div>
         {{ end }}
 

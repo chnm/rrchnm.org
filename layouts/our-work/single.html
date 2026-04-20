@@ -11,7 +11,7 @@
         <ol class="flex items-center text-sm text-white/60">
           <li><a href="/" class="hover:text-white transition-colors">Home</a></li>
           <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><a href="/projects/" class="hover:text-white transition-colors">Our Projects</a></li>
-          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span></li>
+          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><span aria-current="page">{{ $.Title }}</span></li>
         </ol>
       </nav>
       <h1 class="font-serif text-3xl lg:text-5xl text-white leading-tight max-w-3xl">{{ $.Title }}</h1>
@@ -47,8 +47,8 @@
             {{- $res := $.Resources.GetMatch . -}}
             {{- if $res -}}{{- $galImg = $res.RelPermalink -}}{{- end -}}
           {{- end -}}
-          <a href="{{ $galImg }}" target="_blank" class="block overflow-hidden rounded-lg">
-            <img src="{{ $galImg }}" alt="Project screenshot" loading="lazy" class="w-full aspect-[16/10] object-cover hover:scale-[1.03] transition-transform duration-300">
+          <a href="{{ $galImg }}" target="_blank" rel="noopener" class="block overflow-hidden rounded-lg" aria-label="View full-size image from {{ $.Title }} (opens in new window)">
+            <img src="{{ $galImg }}" alt="Screenshot from {{ $.Title }}" loading="lazy" class="w-full aspect-[16/10] object-cover hover:scale-[1.03] transition-transform duration-300">
           </a>
           {{ end }}
         </div>
@@ -79,9 +79,9 @@
         {{/* Visit project button */}}
         {{ with .Params.project_url }}
         <div>
-          <a href="{{ . }}" class="inline-flex items-center gap-2 bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-5 py-3 rounded-md transition-colors w-full justify-center" target="_blank" rel="noopener">
+          <a href="{{ . }}" class="inline-flex items-center gap-2 bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-5 py-3 rounded-md transition-colors w-full justify-center" target="_blank" rel="noopener" aria-label="Visit Project (opens in new window)">
             Visit Project
-            <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" /></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" /></svg>
           </a>
         </div>
         {{ end }}

@@ -46,8 +46,8 @@
             {{- $res := $page.Resources.GetMatch . -}}
             {{- if $res -}}{{- $thumbUrl = $res.RelPermalink -}}{{- end -}}
           {{- end -}}
-          <a href="{{ $href }}"{{ if $isExternal }} target="_blank" rel="noopener"{{ end }} class="shrink-0 block w-20 h-28 overflow-hidden rounded shadow-sm">
-            <img src="{{ $thumbUrl }}" alt="{{ $.Title }}" loading="lazy" class="w-full h-full object-cover">
+          <a href="{{ $href }}"{{ if $isExternal }} target="_blank" rel="noopener" aria-label="{{ $page.Title }} (opens in new window)"{{ end }} class="shrink-0 block w-20 h-28 overflow-hidden rounded shadow-sm">
+            <img src="{{ $thumbUrl }}" alt="{{ $page.Title }}" loading="lazy" class="w-full h-full object-cover">
           </a>
           {{ end }}
 
