@@ -6,6 +6,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      typographer:
+        disable: false
 
 pagination:
   pagerSize: 12
@@ -31,7 +34,7 @@ related:
 params:
   description: "Roy Rosenzweig Center for History and New Media at George Mason University"
   images:
-    - /img/default-blog.jpeg
+    - /img/founder.jpg
   default_image: "/img/default-blog.jpeg"
   donate_url: "https://securemason.gmu.edu/s/1564/GID2/16/19-giving.aspx?sid=1564&gid=2&pgid=7958&cid=1709&bledit=1&sort=1&dids=318.822.534&appealcode=26SS10"
   newsletter_url: "https://airtable.com/appCTQZLKPTyIa83B/shr4EDv3YKjl3NdZD"

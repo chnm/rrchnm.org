@@ -3,7 +3,7 @@
   {{ range .Paginator.Pages }}
   <article class="border-b border-stone-200 pb-8">
     <h2 class="font-serif text-2xl text-stone-900 mb-2">
-      <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
+      <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ partial "smartify.html" .Title }}</a>
     </h2>
     {{ with .Params.description }}<p class="text-stone-600 leading-relaxed">{{ . | truncate 200 }}</p>{{ end }}
   </article>

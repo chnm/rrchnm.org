@@ -13,7 +13,7 @@
           <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><span>Spotlight</span></li>
         </ol>
       </nav>
-      <h1 class="font-serif text-3xl lg:text-4xl text-white leading-tight max-w-3xl">{{ $.Title }}</h1>
+      <h1 class="font-serif text-3xl lg:text-4xl text-white leading-tight max-w-3xl">{{ partial "smartify.html" $.Title }}</h1>
       {{ with $.Params.lede }}
       <p class="text-lg text-white/80 leading-relaxed mt-4 max-w-2xl">{{ . }}</p>
       {{ end }}

@@ -17,7 +17,7 @@
           {{ end }}
         </div>
         <h2 class="font-serif text-xl lg:text-2xl text-stone-900 mb-2">
-          <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
+          <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ partial "smartify.html" .Title }}</a>
         </h2>
         {{ with .Params.description }}<p class="text-stone-600 text-sm leading-relaxed line-clamp-3">{{ . | truncate 200 }}</p>{{ end }}
         <a href="{{ .RelPermalink }}" class="inline-block mt-3 text-sm font-semibold text-stone-900 hover:text-red-brand transition-colors" aria-label="Read more about {{ .Title }}">Read more &rarr;</a>
