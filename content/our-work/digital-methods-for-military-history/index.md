@@ -6,7 +6,7 @@
 categories:
 - Education
 date: '2022-04-06T16:35:16Z'
-draft: false
+draft: true
 featured_image: thumbnail-MilitaryHistory.jpg
 lastmod: '2022-05-17T17:35:34Z'
 slug: digital-methods-for-military-history

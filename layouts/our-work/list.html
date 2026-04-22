@@ -70,7 +70,7 @@
       </a>
       {{ end }}
       <h3 class="font-serif text-lg text-stone-900">
-        <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
+        <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ partial "smartify.html" .Title }}</a>
       </h3>
       {{ with .Params.categories }}
       <div class="mt-1 flex flex-wrap gap-x-2 gap-y-1 items-center">
@@ -95,7 +95,7 @@
   {{ with $inactivePages }}
   <hr class="mt-24 mb-14 border-stone-200">
   <div class="mb-10">
-    <h2 class="font-serif text-2xl text-stone-900">Past Projects</h2>
+    <h2 class="font-serif text-2xl text-stone-900">Select Past Projects</h2>
     <p class="mt-2 text-sm text-stone-500">Projects that are no longer active.</p>
   </div>
   <div class="grid grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-8">
@@ -112,7 +112,7 @@
       </a>
       {{ end }}
       <h3 class="font-serif text-lg text-stone-900">
-        <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ .Title }}</a>
+        <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ partial "smartify.html" .Title }}</a>
       </h3>
       {{ with .Params.categories }}
       <div class="mt-1 flex flex-wrap gap-x-2 gap-y-1 items-center">
@@ -130,6 +130,12 @@
     {{ end }}
   </div>
   {{ end }}
+
+  {{/* Backlist link */}}
+  <div class="mt-16 text-center">
+    <p class="text-sm text-stone-500 mb-2">Looking for older projects?</p>
+    <a href="/backlist/" class="text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">View the full project backlist &rarr;</a>
+  </div>
 </div>
 
 <script>

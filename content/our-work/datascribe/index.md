@@ -6,7 +6,7 @@ categories:
 - Data-Driven History
 - Public History
 date: '2022-04-06T16:15:27Z'
-draft: false
+draft: true
 featured_image: thumbnail-datascribe.jpg
 lastmod: '2022-05-17T16:41:50Z'
 slug: datascribe

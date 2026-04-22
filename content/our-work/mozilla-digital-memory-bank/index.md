@@ -6,7 +6,7 @@
 categories:
 - Public History
 date: '2022-05-17T09:57:55Z'
-draft: false
+draft: true
 featured_image: thumbnail-mozilla.jpg
 lastmod: '2022-05-18T10:55:06Z'
 slug: mozilla-digital-memory-bank

@@ -6,7 +6,7 @@ categories:
 - Data-Driven History
 - Public History
 date: '2022-05-17T11:16:24Z'
-draft: false
+draft: true
 featured_image: thumbnail-scripto-3.jpg
 lastmod: '2022-05-17T11:19:57Z'
 slug: scripto

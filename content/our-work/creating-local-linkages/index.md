@@ -7,7 +7,7 @@ categories:
 - Education
 - Public History
 date: '2022-04-06T16:01:47Z'
-draft: false
+draft: true
 featured_image: thumbnail-creating-local-linkages.jpg
 lastmod: '2022-05-17T13:40:33Z'
 slug: creating-local-linkages

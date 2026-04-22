@@ -6,7 +6,7 @@
 categories:
 - Education
 date: '2022-04-06T16:42:00Z'
-draft: false
+draft: true
 featured_image: thumbnail-discover-diplomacy.jpg
 lastmod: '2022-11-17T11:11:36Z'
 slug: discover-diplomacy

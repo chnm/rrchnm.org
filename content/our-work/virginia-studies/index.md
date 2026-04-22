@@ -6,7 +6,7 @@
 categories:
 - Education
 date: '2022-05-17T12:58:34Z'
-draft: false
+draft: true
 featured_image: thumbnail-virginia-studies.jpg
 lastmod: '2022-05-17T12:58:34Z'
 slug: virginia-studies

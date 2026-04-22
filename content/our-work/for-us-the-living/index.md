@@ -6,7 +6,7 @@
 categories:
 - Education
 date: '2022-03-24T11:29:28Z'
-draft: false
+draft: true
 featured_image: thumbnail-for-us-the-living.jpg
 lastmod: '2022-05-18T10:40:03Z'
 slug: for-us-the-living
