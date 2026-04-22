@@ -1,0 +1,75 @@
+{{- $title := partial "smartify.html" .Title -}}
+{{- $siteName := .Site.Title -}}
+{{- $siteDesc := .Site.Params.description -}}
+
+{{/* Description: page description > lede > summary > site description */}}
+{{- $desc := .Params.description | default .Params.lede | default .Summary | default $siteDesc -}}
+{{- $desc = $desc | plainify | htmlUnescape | truncate 200 -}}
+
+{{/* Image: featured image > page images param > site default */}}
+{{- $image := "" -}}
+{{- $featImg := partial "featured-image.html" . -}}
+{{- if $featImg -}}
+  {{- $image = $featImg -}}
+{{- else if .Params.images -}}
+  {{- $image = index .Params.images 0 -}}
+{{- else -}}
+  {{- $image = "/img/founder.jpg" -}}
+{{- end -}}
+
+{{/* Make image URL absolute */}}
+{{- if and $image (not (hasPrefix $image "http")) -}}
+  {{- $image = printf "%s%s" .Site.BaseURL (strings.TrimPrefix "/" $image) -}}
+{{- end -}}
+
+{{/* Author */}}
+{{- $author := "" -}}
+{{- with .Params.author_name -}}
+  {{- $author = . -}}
+{{- else with .Params.authors -}}
+  {{- $author = delimit . ", " -}}
+{{- end -}}
+
+{{/* Type */}}
+{{- $type := "website" -}}
+{{- if .IsPage -}}
+  {{- $type = "article" -}}
+{{- end -}}
+
+{{/* Open Graph */}}
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:type" content="{{ $type }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ $siteName }}">
+<meta property="og:locale" content="en_US">
+{{- with $image }}
+<meta property="og:image" content="{{ . }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+{{- end }}
+{{- if .IsPage }}
+{{- with .Date }}
+<meta property="article:published_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
+{{- end }}
+{{- with .Lastmod }}
+<meta property="article:modified_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
+{{- end }}
+{{- with $author }}
+<meta property="article:author" content="{{ . }}">
+{{- end }}
+{{- with $.Params.categories }}{{ range . }}
+<meta property="article:section" content="{{ . }}">
+{{- end }}{{ end }}
+{{- with $.Params.tags }}{{ range . }}
+<meta property="article:tag" content="{{ . }}">
+{{- end }}{{ end }}
+{{- end }}
+
+{{/* Twitter Card */}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+{{- with $image }}
+<meta name="twitter:image" content="{{ . }}">
+{{- end }}
