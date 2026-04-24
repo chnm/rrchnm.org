@@ -8,11 +8,12 @@
   </div>
   {{ end }}
 
-  {{ $data := .Site.Data.backlist }}
-  {{/* Collect all unique tags */}}
+  {{ $data := where .Site.Data.projects "gallery" false }}
+  {{ $data = sort $data "title" }}
+  {{/* Collect all unique categories */}}
   {{ $allTags := slice }}
   {{ range $data }}
-    {{ range .tags }}
+    {{ range .categories }}
       {{ $allTags = $allTags | append . }}
     {{ end }}
   {{ end }}
@@ -20,7 +21,7 @@
 
   <div x-data="backlistFilter()">
     {{/* Filter bar */}}
-    <div class="flex flex-wrap gap-2 mb-8" role="group" aria-label="Filter projects by tag">
+    <div class="flex flex-wrap gap-2 mb-8" role="group" aria-label="Filter projects by category">
       <button
         @click="filter = ''"
         :aria-pressed="(filter === '').toString()"
@@ -46,7 +47,7 @@
           <tr class="border-b-2 border-stone-300">
             <th class="py-3 pr-4 font-semibold text-stone-900">Project</th>
             <th class="py-3 pr-4 font-semibold text-stone-900 hidden sm:table-cell">Years Active</th>
-            <th class="py-3 pr-4 font-semibold text-stone-900 hidden md:table-cell">Tags</th>
+            <th class="py-3 pr-4 font-semibold text-stone-900 hidden md:table-cell">Categories</th>
             <th class="py-3 font-semibold text-stone-900 text-right">Links</th>
           </tr>
         </thead>
@@ -55,7 +56,7 @@
           {{ $title := .title }}
           <tr
             class="border-b border-stone-200 hover:bg-stone-50 transition-colors"
-            x-show="matchesFilter({{ .tags | jsonify }})"
+            x-show="matchesFilter({{ .categories | jsonify }})"
             x-transition.opacity.duration.200ms>
             <td class="py-3 pr-4">
               <span class="font-medium text-stone-900">{{ .title }}</span>
@@ -64,7 +65,7 @@
             <td class="py-3 pr-4 text-stone-600 hidden sm:table-cell">{{ .years_active }}</td>
             <td class="py-3 pr-4 hidden md:table-cell">
               <div class="flex flex-wrap gap-1">
-                {{ range .tags }}
+                {{ range .categories }}
                 <button
                   @click="filter = '{{ . }}'"
                   class="text-xs bg-stone-100 text-stone-600 px-2 py-0.5 rounded-full uppercase tracking-wide cursor-pointer hover:text-red-brand transition-colors">

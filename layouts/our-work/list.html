@@ -6,10 +6,13 @@
 </div>
 {{ end }}
 
+{{ $projects := where .Site.Data.projects "gallery" true }}
+{{ $projects = sort $projects "title" }}
+
 {{/* Collect all unique categories */}}
 {{ $allCategories := slice }}
-{{ range .Pages }}
-  {{ with .Params.categories }}
+{{ range $projects }}
+  {{ with .categories }}
     {{ range . }}
       {{ $allCategories = $allCategories | append . }}
     {{ end }}
@@ -38,41 +41,27 @@
     {{ end }}
   </div>
 
-  {{/* Split pages into active and inactive */}}
-  {{ $activePages := slice }}
-  {{ $inactivePages := slice }}
-  {{ range .Pages.ByTitle }}
-    {{ $inactive := false }}
-    {{ with .Params.status }}
-      {{ range . }}
-        {{ if isset . "active" }}{{ if not .active }}{{ $inactive = true }}{{ end }}{{ end }}
-      {{ end }}
-    {{ end }}
-    {{ if $inactive }}
-      {{ $inactivePages = $inactivePages | append . }}
-    {{ else }}
-      {{ $activePages = $activePages | append . }}
-    {{ end }}
-  {{ end }}
-
-  {{/* Active project grid */}}
+  {{/* Single grid of all gallery projects */}}
   <div class="grid grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-8">
-    {{ range $activePages }}
+    {{ range $projects }}
     {{ $item := . }}
     <article
       class="group"
-      x-show="matchesFilter({{ .Params.categories | jsonify }})"
+      x-show="matchesFilter({{ .categories | jsonify }})"
       x-transition.opacity.duration.200ms>
-      {{ $img := partial "featured-image.html" . }}
-      {{ with $img }}
-      <a href="{{ $item.Params.project_url }}" class="block overflow-hidden rounded-lg mb-4" target="_blank" rel="noopener">
-        <img src="{{ . }}" alt="{{ $item.Title }}" loading="lazy" class="w-full aspect-[4/3] object-cover group-hover:scale-[1.03] transition-transform duration-300">
+      {{ with .image }}
+      <a href="{{ $item.url }}" class="block overflow-hidden rounded-lg mb-4" target="_blank" rel="noopener">
+        <img src="{{ . }}" alt="{{ $item.title }}" loading="lazy" class="w-full aspect-[4/3] object-cover group-hover:scale-[1.03] transition-transform duration-300">
       </a>
       {{ end }}
       <h3 class="font-serif text-lg text-stone-900">
-        <a href="{{ .Params.project_url }}" class="hover:text-red-brand transition-colors" target="_blank" rel="noopener">{{ partial "smartify.html" .Title }}</a>
+        {{ with .url }}
+        <a href="{{ . }}" class="hover:text-red-brand transition-colors" target="_blank" rel="noopener">{{ partial "smartify.html" $item.title }}</a>
+        {{ else }}
+        {{ partial "smartify.html" $item.title }}
+        {{ end }}
       </h3>
-      {{ with .Params.categories }}
+      {{ with .categories }}
       <div class="mt-1 flex flex-wrap gap-x-2 gap-y-1 items-center">
         {{ range $i, $cat := . }}
         {{ if $i }}<span class="text-stone-300">&middot;</span>{{ end }}
@@ -87,46 +76,6 @@
     </article>
     {{ end }}
   </div>
-
-  {{/* Inactive projects */}}
-  {{ with $inactivePages }}
-  <hr class="mt-24 mb-14 border-stone-200">
-  <div class="mb-10">
-    <h2 class="font-serif text-2xl text-stone-900">Select Past Projects</h2>
-    <p class="mt-2 text-sm text-stone-500">Projects that are no longer active.</p>
-  </div>
-  <div class="grid grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-8">
-    {{ range . }}
-    {{ $item := . }}
-    <article
-      class="group"
-      x-show="matchesFilter({{ .Params.categories | jsonify }})"
-      x-transition.opacity.duration.200ms>
-      {{ $img := partial "featured-image.html" . }}
-      {{ with $img }}
-      <a href="{{ $item.Params.project_url }}" class="block overflow-hidden rounded-lg mb-4" target="_blank" rel="noopener">
-        <img src="{{ . }}" alt="{{ $item.Title }}" loading="lazy" class="w-full aspect-[4/3] object-cover group-hover:scale-[1.03] transition-transform duration-300 opacity-75">
-      </a>
-      {{ end }}
-      <h3 class="font-serif text-lg text-stone-900">
-        <a href="{{ .Params.project_url }}" class="hover:text-red-brand transition-colors" target="_blank" rel="noopener">{{ partial "smartify.html" .Title }}</a>
-      </h3>
-      {{ with .Params.categories }}
-      <div class="mt-1 flex flex-wrap gap-x-2 gap-y-1 items-center">
-        {{ range $i, $cat := . }}
-        {{ if $i }}<span class="text-stone-300">&middot;</span>{{ end }}
-        <button
-          @click="filter = '{{ $cat }}'"
-          class="text-xs text-stone-500 hover:text-red-brand uppercase tracking-wide cursor-pointer bg-transparent border-none p-0 transition-colors">
-          {{ $cat }}
-        </button>
-        {{ end }}
-      </div>
-      {{ end }}
-    </article>
-    {{ end }}
-  </div>
-  {{ end }}
 
   {{/* Backlist link */}}
   <div class="mt-16 text-center">

@@ -29,14 +29,15 @@
   {{ end }}
 
   {{/* Projects */}}
-  {{ $projects := where .Site.RegularPages.ByTitle "Section" "our-work" }}
+  {{ $projects := sort .Site.Data.projects "title" }}
   {{ if $projects }}
   <div>
     <h2 class="font-serif text-xl text-stone-900 mb-4 pb-2 border-b border-stone-200">Projects</h2>
     <ul class="space-y-2 text-sm">
       <li><a href="/projects/" class="text-stone-600 hover:text-red-brand transition-colors font-medium">All Projects</a></li>
       {{ range $projects }}
-      <li><a href="{{ .Params.project_url }}" class="text-stone-600 hover:text-red-brand transition-colors" target="_blank" rel="noopener">{{ .Title }}</a></li>
+      {{ $title := .title }}
+      <li>{{ with .url }}<a href="{{ . }}" class="text-stone-600 hover:text-red-brand transition-colors" target="_blank" rel="noopener">{{ $title }}</a>{{ else }}<span class="text-stone-600">{{ $title }}</span>{{ end }}</li>
       {{ end }}
     </ul>
   </div>
