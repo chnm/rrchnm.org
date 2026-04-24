@@ -38,7 +38,7 @@
           <a href="/blog/" class="text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">All Posts &rarr;</a>
         </div>
         <div class="space-y-5">
-          {{ range $i, $p := first 4 $posts }}
+          {{ range $i, $p := first 3 $posts }}
           {{ if $i }}<div class="border-t border-stone-100"></div>{{ end }}
           <a href="{{ .RelPermalink }}" class="group flex gap-3 items-start pt-{{ if $i }}5{{ else }}0{{ end }}">
             {{ $img := partial "featured-image.html" . }}
