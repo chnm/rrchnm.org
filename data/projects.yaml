@@ -31,6 +31,17 @@
   categories:
     - "scholarly communication"
 
+- title: "American Jewish Life"
+  url: "https://americanjewishlife.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "public history"
+
 - title: "American Religious Ecologies"
   url: "https://religiousecologies.org/"
   mars_url: ~
@@ -64,6 +75,17 @@
   categories:
     - "public history"
     - "education"
+
+- title: "Braddock Heritage"
+  url: "http://braddockheritage.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "public history"
 
 - title: "Child Custody Project"
   url: "https://childcustodyproject.org/"
@@ -154,6 +176,17 @@
   categories:
     - "software"
 
+- title: "DC History Matters"
+  url: "http://dchistorymatters.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "public history"
+
 - title: "Death By Numbers"
   url: "https://deathbynumbers.org/"
   mars_url: ~
@@ -175,6 +208,28 @@
   image: "/media/projects/declaration-of-independence-by-translation/thumbnail-independence.jpg"
   categories:
     - "public history"
+
+- title: "Denig Manuscript"
+  url: "https://denigmanuscript.org/"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/the-denig-manuscript/The-Denig-Manuscript.png"
+  categories:
+    - "public history"
+
+- title: "Digital Campus"
+  url: "https://digitalcampus.tv"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "scholarly communication"
 
 - title: "Digital Methods for Military History"
   url: "https://dmmh.rrchnm.org/"
@@ -209,6 +264,17 @@
   categories:
     - "education"
 
+- title: "DoHistory"
+  url: "https://dohistory.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "education"
+
 - title: "Eagle Eye Citizen"
   url: "https://eagleeyecitizen.org/"
   mars_url: ~
@@ -242,6 +308,17 @@
   categories:
     - "education"
 
+- title: "Green Tunnel Podcast"
+  url: "https://podcasts.rrchnm.org/show/the-green-tunnel/"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/green-tunnel-podcast/GMU_Green-Tunnel-Podcast-Graphic-Final-01-2-01.jpg"
+  categories:
+    - "public history"
+
 - title: "Gulag: Many Days, Many Lives"
   url: "https://gulaghistory.org/"
   mars_url: ~
@@ -252,6 +329,17 @@
   image: "/media/projects/gulag-many-days-many-lives/thumbnail-gulag.jpg"
   categories:
     - "public history"
+
+- title: "Hacking the Academy"
+  url: "http://hackingtheacademy.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "scholarly communication"
 
 - title: "Harlem in Disorder"
   url: "https://harlemindisorder.org/"
@@ -285,6 +373,17 @@
   image: "/media/projects/hidden-in-plain-sight/thumbnail-hidden-in-plain-sight.jpg"
   categories:
     - "education"
+
+- title: "Historic Blenheim"
+  url: "https://historicblenheim.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "public history"
 
 - title: "Historical Thinking Matters"
   url: "http://historicalthinkingmatters.org"
@@ -329,6 +428,39 @@
   image: "/media/projects/hurricane-digital-memory-bank/thumbnail-hurricane.jpg"
   categories:
     - "public history"
+
+- title: "Imaging the French Revolution"
+  url: "https://revolution.chnm.org/imaging"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "public history"
+
+- title: "Journal of Digital Humanities"
+  url: "http://journalofdigitalhumanities.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "scholarly communication"
+
+- title: "La Sfera"
+  url: "https://sferaproject.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "data-driven history"
 
 - title: "Legal Modernism"
   url: "https://legalmodernism.org"
@@ -397,6 +529,39 @@
     - "education"
     - "public history"
 
+- title: "Martha Washington"
+  url: "http://marthawashington.us"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "education"
+
+- title: "Mathematical Humanists"
+  url: "https://mathhumanists.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "scholarly communication"
+
+- title: "Models of Argument-Driven Digital History"
+  url: "https://model-articles.rrchnm.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/model-articles/thumbnail.png"
+  categories:
+    - "scholarly communication"
+
 - title: "Mozilla Digital Memory Bank"
   url: "http://mozillamemory.org"
   mars_url: ~
@@ -408,6 +573,50 @@
   categories:
     - "public history"
 
+- title: "New Orleans Research Collaborative"
+  url: "https://nolaresearch.rrchnm.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "public history"
+
+- title: "Object of History"
+  url: "https://objectofhistory.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "education"
+
+- title: "Occupy Archive"
+  url: "https://occupyarchive.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "public history"
+
+- title: "Ohio Black Press"
+  url: "http://ohioblackpress.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "public history"
+
 - title: "Omeka"
   url: "https://omeka.org"
   mars_url: ~
@@ -418,6 +627,28 @@
   image: "/media/projects/omeka/thumbnail-omeka.jpg"
   categories:
     - "software"
+
+- title: "Open Source Shakespeare"
+  url: "http://www.opensourceshakespeare.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "public history"
+
+- title: "Out and About in Northern Virginia"
+  url: "https://outandaboutnova.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/out-and-about/image.png"
+  categories: 
+  - "public history"
 
 - title: "Pandemic Religion"
   url: "http://pandemicreligion.org"
@@ -441,6 +672,39 @@
   categories:
     - "public history"
 
+- title: "Pilbara Aboriginal Strike"
+  url: "http://pilbarastrike.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/pilbara/image.png"
+  categories: 
+  - "education"
+
+- title: "Preaching Goes Viral"
+  url: "https://preachinggoesviral.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "public history"
+
+- title: "PressForward"
+  url: "https://pressforward.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories:
+    - "software"
+
 - title: "ReSounding the Archives"
   url: "http://resoundingthearchives.org"
   mars_url: ~
@@ -451,6 +715,27 @@
   image: "/media/projects/resounding-the-archives/thumbnail-resounding-the-archives.jpg"
   categories:
     - "public history"
+
+- title: "RRCHNM @ 20"
+  url: "https://20.rrchnm.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "scholarly communication"
+
+- title: "Russian Perspectives on Islam"
+  url: "https://islamperspectives.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: ~
 
 - title: "Scripto"
   url: "http://scripto.org"
@@ -463,16 +748,60 @@
   categories:
     - "software"
 
-- title: "THATCamp"
-  url: "http://thatcamp.org"
+- title: "September 11 Digital Archive"
+  url: "http://911digitalarchive.org/"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/the-september-11-digital-archive/thumbnail-september11.jpg"
+  categories:
+    - "public history"
+
+- title: "Sonic Memorial Project"
+  url: "https://sonicmemorial.org"
   mars_url: ~
   years_active: ~
   active: false
   gallery: false
   featured_project: false
-  image: "/media/projects/thatcamp/thumbnail-THATCamp.jpg"
-  categories:
-    - "scholarly communication"
+  image: ~
+  categories: 
+  - "public history"
+
+- title: "Sustainable DH"
+  url: "https://sustainabledh.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "education"
+
+- title: "Teaching American History"
+  url: "https://chnm.gmu.edu/tah"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "education"
+
+- title: "Teaching Hidden History"
+  url: "https://teachinghiddenhistory.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "education"
 
 - title: "teachinghistory.org"
   url: "http://teachinghistory.org"
@@ -485,49 +814,27 @@
   categories:
     - "education"
 
-- title: "Denig Manuscript"
-  url: "https://denigmanuscript.org/"
+- title: "Thanks, Roy"
+  url: "https://thanksroy.org"
   mars_url: ~
   years_active: ~
   active: false
-  gallery: true
+  gallery: false
   featured_project: false
-  image: "/media/projects/the-denig-manuscript/The-Denig-Manuscript.png"
-  categories:
-    - "public history"
+  image: ~
+  categories: 
+  - "scholarly communication"
 
-- title: "Models of Argument-Driven Digital History"
-  url: "https://model-articles.rrchnm.org"
+- title: "THATCamp"
+  url: "http://thatcamp.org"
   mars_url: ~
   years_active: ~
   active: false
-  gallery: true
+  gallery: false
   featured_project: false
-  image: "/media/projects/model-articles/thumbnail.png"
+  image: "/media/projects/thatcamp/thumbnail-THATCamp.jpg"
   categories:
     - "scholarly communication"
-
-- title: "Green Tunnel Podcast"
-  url: "https://podcasts.rrchnm.org/show/the-green-tunnel/"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: true
-  featured_project: false
-  image: "/media/projects/green-tunnel-podcast/GMU_Green-Tunnel-Podcast-Graphic-Final-01-2-01.jpg"
-  categories:
-    - "public history"
-
-- title: "September 11 Digital Archive"
-  url: "http://911digitalarchive.org/"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: true
-  featured_project: false
-  image: "/media/projects/the-september-11-digital-archive/thumbnail-september11.jpg"
-  categories:
-    - "public history"
 
 - title: "Transatlantic Encounters"
   url: "https://transatlanticencounters.rrchnm.org/"
@@ -551,16 +858,16 @@
   categories:
     - "software"
 
-- title: "PressForward"
-  url: "https://pressforward.org"
+- title: "Virginia 400"
+  url: "https://va400.org"
   mars_url: ~
   years_active: ~
   active: false
   gallery: false
   featured_project: false
   image: ~
-  categories:
-    - "software"
+  categories: 
+  - "education"
 
 - title: "Virginia Studies"
   url: "http://virginiastudies.org"
@@ -573,6 +880,28 @@
   categories:
     - "education"
 
+- title: "Virginia's Lost AT"
+  url: "https://virginiaslostat.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/va-lost-at/image.png"
+  categories: 
+  - "public history"
+
+- title: "Women in World History"
+  url: "https://chnm.gmu.edu/wwh"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "education"
+
 - title: "World History Commons"
   url: "http://worldhistorycommons.org"
   mars_url: ~
@@ -583,6 +912,28 @@
   image: "/media/projects/world-history-commons/WHC-thumbnail.jpg"
   categories:
     - "education"
+
+- title: "World History Matters"
+  url: "http://worldhistorymatters.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "education"
+
+- title: "World History Sources"
+  url: "https://chnm.gmu.edu/worldhistorysources"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
+  categories: 
+  - "education"
 
 - title: "Worlds Turned Upside Down"
   url: "https://podcasts.rrchnm.org/show/worlds-turned-upside-down/"
@@ -616,354 +967,3 @@
   image: "/media/projects/zotero/thumbnail-zotero.jpg"
   categories:
     - "software"
-
-- title: "Russian Perspectives on Islam"
-  url: "https://islamperspectives.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: ~
-
-- title: "Occupy Archive"
-  url: "https://occupyarchive.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "public history"
-
-- title: "Virginia's Lost AT"
-  url: "https://virginiaslostat.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: true
-  featured_project: false
-  image: "/media/projects/va-lost-at/image.png"
-  categories: 
-  - "public history"
-
-- title: "Digital Campus"
-  url: "https://digitalcampus.tv"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "scholarly communication"
-
-- title: "Hacking the Academy"
-  url: "http://hackingtheacademy.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "scholarly communication"
-
-- title: "Journal of Digital Humanities"
-  url: "http://journalofdigitalhumanities.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "scholarly communication"
-
-- title: "New Orleans Research Collaborative"
-  url: "https://nolaresearch.rrchnm.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "public history"
-
-- title: "Braddock Heritage"
-  url: "http://braddockheritage.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "public history"
-
-- title: "DC History Matters"
-  url: "http://dchistorymatters.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "public history"
-
-- title: "Martha Washington"
-  url: "http://marthawashington.us"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "education"
-
-- title: "Women in World History"
-  url: "https://chnm.gmu.edu/wwh"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "education"
-
-- title: "World History Sources"
-  url: "https://chnm.gmu.edu/worldhistorysources"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "education"
-
-- title: "Teaching American History"
-  url: "https://chnm.gmu.edu/tah"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "education"
-
-- title: "World History Matters"
-  url: "http://worldhistorymatters.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "education"
-
-- title: "Teaching Hidden History"
-  url: "https://teachinghiddenhistory.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "education"
-
-- title: "Sustainable DH"
-  url: "https://sustainabledh.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "education"
-
-- title: "Pilbara Aboriginal Strike"
-  url: "http://pilbarastrike.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: true
-  featured_project: false
-  image: "/media/projects/pilbara/image.png"
-  categories: 
-  - "education"
-
-- title: "RRCHNM @ 20"
-  url: "https://20.rrchnm.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "scholarly communication"
-
-- title: "Thanks, Roy"
-  url: "https://thanksroy.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "scholarly communication"
-
-- title: "Preaching Goes Viral"
-  url: "https://preachinggoesviral.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "public history"
-
-- title: "American Jewish Life"
-  url: "https://americanjewishlife.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "public history"
-
-- title: "DoHistory"
-  url: "https://dohistory.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "education"
-
-- title: "Historic Blenheim"
-  url: "https://historicblenheim.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "public history"
-
-- title: "Ohio Black Press"
-  url: "http://ohioblackpress.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "public history"
-
-- title: "Object of History"
-  url: "https://objectofhistory.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "education"
-
-- title: "Virginia 400"
-  url: "https://va400.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "education"
-
-- title: "Sonic Memorial Project"
-  url: "https://sonicmemorial.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "public history"
-
-- title: "Mathematical Humanists"
-  url: "https://mathhumanists.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "scholarly communication"
-
-- title: "Open Source Shakespeare"
-  url: "http://www.opensourceshakespeare.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "public history"
-
-- title: "La Sfera"
-  url: "https://sferaproject.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "data-driven history"
-
-- title: "Out and About in Northern Virginia"
-  url: "https://outandaboutnova.org"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: true
-  featured_project: false
-  image: "/media/projects/out-and-about/image.png"
-  categories: 
-  - "public history"
-
-- title: "Imaging the French Revolution"
-  url: "https://revolution.chnm.org/imaging"
-  mars_url: ~
-  years_active: ~
-  active: false
-  gallery: false
-  featured_project: false
-  image: ~
-  categories: 
-  - "public history"
