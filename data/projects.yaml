@@ -374,6 +374,17 @@
   categories:
     - "data-driven history"
 
+- title: "Mapping Early Modern Violence"
+  url: "https://earlymodernviolence.org"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: false
+  image: "/media/projects/mapping-violence/mv-screenshot.png"
+  categories:
+    - "data-driven history"
+
 - title: "Maritime Asia"
   url: "http://maritime-asia.org"
   mars_url: ~
