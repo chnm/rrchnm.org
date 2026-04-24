@@ -26,7 +26,7 @@
         All
       </button>
       {{ range $allTags }}
-      <button @click="filter = '{{ . }}'" :aria-pressed="(filter === '{{ . }}').toString()" :class="filter === '{{ . }}' ? 'bg-red-brand text-white' : 'bg-stone-100 text-stone-700 uppercase hover:bg-stone-200'" class="text-sm px-4 py-1.5 rounded-full transition-colors cursor-pointer">
+      <button @click="filter = '{{ . }}'" :aria-pressed="(filter === '{{ . }}').toString()" :class="filter === '{{ . }}' ? 'bg-red-brand text-white' : 'bg-stone-100 text-stone-700 hover:bg-stone-200'" class="text-sm uppercase px-4 py-1.5 rounded-full transition-colors cursor-pointer">
         {{ . }}
       </button>
       {{ end }}

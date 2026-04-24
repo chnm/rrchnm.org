@@ -41,7 +41,7 @@
     <article class="group" x-show="matchesFilter({{ .categories | jsonify }})" x-transition.opacity.duration.200ms>
       {{ with .image }}
       <a href="{{ $item.url }}" class="block overflow-hidden rounded-lg mb-4" target="_blank" rel="noopener">
-        <img src="{{ . }}" alt="{{ $item.title }}" loading="lazy" class="w-full aspect-[4/3] object-cover group-hover:scale-[1.03] transition-transform duration-300">
+        <img src="{{ . }}" alt="{{ $item.title }}" loading="lazy" class="w-full aspect-square object-contain bg-stone-50 group-hover:scale-[1.03] transition-transform duration-300">
       </a>
       {{ end }}
       <h3 class="font-serif text-lg text-stone-900">
