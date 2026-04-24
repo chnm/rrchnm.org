@@ -1,0 +1,610 @@
+- title: "Amboyna Conspiracy Trial"
+  url: "http://amboyna.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/amboyna-conspiracy-trial/thumbnail-amboyna.jpg"
+  categories:
+    - "Education"
+    - "Public History"
+
+- title: "America's Public Bible"
+  url: "https://americaspublicbible.supdigital.org"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: true
+  image: "/media/projects/americas-public-bible/apbfinal.jpg"
+  categories:
+    - "Data-Driven History"
+
+- title: "American History Now"
+  url: ~
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: false
+  image: "/media/projects/american-history-now/thumbnail-AHN-1.jpg"
+  categories:
+    - "Education"
+    - "Public History"
+
+- title: "American Religious Ecologies"
+  url: "https://religiousecologies.org/"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: true
+  image: "/media/projects/american-religious-ecologies/thumbnail-ARE.jpg"
+  categories:
+    - "Data-Driven History"
+
+- title: "Antisemitism, U.S.A."
+  url: "https://podcasts.rrchnm.org/show/Antisemitism-USA/"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: false
+  image: "/media/projects/antisemitism-usa/AntiSemitism-USA.png"
+  categories:
+    - "Public History"
+
+- title: "Bracero History Archive"
+  url: "http://braceroarchive.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/bracero-history-archive/thumbnail-bracero-1.jpg"
+  categories:
+    - "Public History"
+
+- title: "Child Custody Project"
+  url: "https://childcustodyproject.org/"
+  mars_url: ~
+  years_active: "2016–2020"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/child-custody-project/thumbnail-child-custody-project-2.jpg"
+  categories:
+    - "Public History"
+
+- title: "Children and Youth in History"
+  url: "https://chnm.gmu.edu/cyh/"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/children-and-youth-in-history/thumbnail-children-and-youth-1.jpg"
+  categories:
+    - "Education"
+    - "Public History"
+
+- title: "Collecting These Times"
+  url: "https://collectingthesetimes.org/s/collecting-these-times/page/home"
+  mars_url: ~
+  years_active: "2020-2022"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/collecting-these-times/thumbnail-collecting-these-times.jpg"
+  categories:
+    - "Public History"
+
+- title: "Connecting Threads"
+  url: "https://www.connectingthreads.co.uk/"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: true
+  image: "/media/projects/connecting-threads/connecting-threads-01.jpg"
+  categories:
+    - "Data-Driven History"
+    - "Public History"
+
+- title: "Consolation Prize"
+  url: "https://podcasts.rrchnm.org/show/consolation-prize/"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/consolation-prize/consolation-prize-thumbnail.jpg"
+  categories:
+    - "Public History"
+
+- title: "Creating Local Linkages"
+  url: "https://locallinkages.org/"
+  mars_url: ~
+  years_active: "2012–2017"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/creating-local-linkages/thumbnail-creating-local-linkages.jpg"
+  categories:
+    - "Education"
+    - "Public History"
+
+- title: "Current Research In Digital History"
+  url: "https://crdh.rrchnm.org/"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: false
+  image: "/media/projects/current-research-in-digital-history/thumbnail-current-research-in-digital-history-v2.jpg"
+  categories:
+    - "Scholarly Communication"
+
+- title: "DataScribe"
+  url: "https://datascribe.tech/"
+  mars_url: ~
+  years_active: "2019–2022"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/datascribe/thumbnail-datascribe.jpg"
+  categories:
+    - "Data-Driven History"
+    - "Public History"
+
+- title: "Death By Numbers"
+  url: "https://deathbynumbers.org/"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: true
+  image: "/media/projects/death-by-numbers/thumbnail-death-by-numbers.jpg"
+  categories:
+    - "Data-Driven History"
+
+- title: "Declaration of Independence by Translation"
+  url: "https://chnm.gmu.edu/declaration/"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/declaration-of-independence-by-translation/thumbnail-independence.jpg"
+  categories:
+    - "Education"
+    - "Public History"
+
+- title: "Digital History & Argument white paper"
+  url: ~
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: false
+  image: "/media/projects/digital-history-argument-white-paper/thumbnail-whitepaper-1.jpg"
+  categories:
+    - "Education"
+    - "Public History"
+
+- title: "Digital Methods for Military History"
+  url: "https://dmmh.rrchnm.org/"
+  mars_url: ~
+  years_active: "2018–2021"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/digital-methods-for-military-history/thumbnail-MilitaryHistory.jpg"
+  categories:
+    - "Education"
+
+- title: "Digital Public Humanities Graduate Certificate"
+  url: "https://masononline.gmu.edu/programs/digital-public-humanities-graduate-certificate/"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: false
+  image: "/media/projects/digital-public-humanities-graduate-certificate/thumbnail-graduate-certificate.jpg"
+  categories:
+    - "Education"
+    - "Public History"
+
+- title: "Discover Diplomacy"
+  url: "https://diplomacy.state.gov/discover-diplomacy/simulations/"
+  mars_url: ~
+  years_active: "2014–2019"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/discover-diplomacy/thumbnail-discover-diplomacy.jpg"
+  categories:
+    - "Education"
+
+- title: "Eagle Eye Citizen"
+  url: "https://eagleeyecitizen.org/"
+  mars_url: ~
+  years_active: "2017–2020"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/eagle-eye-citizen/thumbnail-eagle-eye-citizen.jpg"
+  categories:
+    - "Education"
+
+- title: "For Us The Living"
+  url: "https://forustheliving.org/"
+  mars_url: ~
+  years_active: "2014–2018"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/for-us-the-living/thumbnail-for-us-the-living.jpg"
+  categories:
+    - "Education"
+
+- title: "For Virginians: Government Matters"
+  url: "https://vagovernmentmatters.org/"
+  mars_url: ~
+  years_active: "2012–2018"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/for-virginians-government-matters/thumbnail-virginians-government.jpg"
+  categories:
+    - "Education"
+
+- title: "Gulag: Many Days, Many Lives"
+  url: "https://gulaghistory.org/index.html"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/gulag-many-days-many-lives/thumbnail-gulag.jpg"
+  categories:
+    - "Public History"
+
+- title: "Harlem in Disorder"
+  url: "https://harlemindisorder.org/"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: true
+  image: "/media/projects/harlem-in-disorder/harlemfinalTRUE.jpg"
+  categories:
+    - "Data-Driven History"
+
+- title: "Hearing the Americas"
+  url: "https://hearingtheamericas.org"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: false
+  image: "/media/projects/hearing-the-americas/HearingTheAmericas.jpg"
+  categories:
+    - "Public History"
+
+- title: "Hidden in Plain Sight"
+  url: "http://hipshistory.org/"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/hidden-in-plain-sight/thumbnail-hidden-in-plain-sight.jpg"
+  categories:
+    - "Education"
+
+- title: "Historical Thinking Matters"
+  url: "http://historicalthinkingmatters.org"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: false
+  image: "/media/projects/historical-thinking-matters/thumbnail-history-matters.jpg"
+  categories:
+    - "Education"
+
+- title: "Histories of the National Mall"
+  url: "http://mallhistory.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/histories-of-the-national-mall/thumbnail-national-mall-5.jpg"
+  categories:
+    - "Public History"
+
+- title: "History and Culture Access Consortium"
+  url: "https://nmaahc.si.edu/connect/strategic-partnerships/hbcu-history-and-culture-access-consortium"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: true
+  image: "/media/projects/history-and-culture-access-consortium/hcac-logo-01.jpg"
+  categories:
+    - "Public History"
+
+- title: "Hurricane Digital Memory Bank"
+  url: "http://hurricanearchive.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/hurricane-digital-memory-bank/thumbnail-hurricane.jpg"
+  categories:
+    - "Public History"
+
+- title: "Legal Modernism"
+  url: "https://legalmodernism.org"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: true
+  image: "/media/projects/legal-modernism/thumbnail-LegalModernization.jpg"
+  categories:
+    - "Data-Driven History"
+
+- title: "Liberty, Equality, Fraternity: Exploring the French Revolution"
+  url: "http://revolution.chnm.org/"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/liberty-equality-fraternity-exploring-the-french-revolution/thumbnail-French-Revolution.jpg"
+  categories:
+    - "Public History"
+
+- title: "Making the History of 1989"
+  url: "http://chnm.gmu.edu/1989/"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/making-the-history-of-1989/thumbnail-1989.jpg"
+  categories:
+    - "Public History"
+
+- title: "Mapping Early American Elections"
+  url: "http://earlyamericanelections.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/mapping-early-american-elections/thumbnail-elections.jpg"
+  categories:
+    - "Data-Driven History"
+
+- title: "Maritime Asia"
+  url: "http://maritime-asia.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/maritime-asia/thumbnail-maritime.jpg"
+  categories:
+    - "Education"
+    - "Public History"
+
+- title: "Mozilla Digital Memory Bank"
+  url: "http://mozillamemory.org"
+  mars_url: ~
+  years_active: "2006–2008"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/mozilla-digital-memory-bank/thumbnail-mozilla.jpg"
+  categories:
+    - "Public History"
+
+- title: "Omeka"
+  url: "https://omeka.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/omeka/thumbnail-omeka.jpg"
+  categories:
+    - "Data-Driven History"
+    - "Education"
+    - "Public History"
+
+- title: "Pandemic Religion"
+  url: "http://pandemicreligion.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/pandemic-religion/thumbnail-pandemic-religion.jpg"
+  categories:
+    - "Public History"
+
+- title: "Papers of the War Department 1784-1800"
+  url: "http://wardepartmentpapers.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/papers-of-the-war-department-1784-1800-2/thumbnail-papers-of-the-war-department.jpg"
+  categories:
+    - "Public History"
+
+- title: "ReSounding the Archives"
+  url: "http://resoundingthearchives.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/resounding-the-archives/thumbnail-resounding-the-archives.jpg"
+  categories:
+    - "Public History"
+
+- title: "Scripto"
+  url: "http://scripto.org"
+  mars_url: ~
+  years_active: "2010–2022"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/scripto/thumbnail-scripto-3.jpg"
+  categories:
+    - "Data-Driven History"
+    - "Public History"
+
+- title: "THATCamp"
+  url: "http://thatcamp.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/thatcamp/thumbnail-THATCamp.jpg"
+  categories:
+    - "Education"
+    - "Public History"
+
+- title: "Teachinghistory.org"
+  url: "http://teachinghistory.org"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: true
+  image: "/media/projects/teachinghistory-org/thumbnail-teaching-history.jpg"
+  categories:
+    - "Education"
+
+- title: "The Denig Manuscript"
+  url: "https://denigmanuscript.org/"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: false
+  image: "/media/projects/the-denig-manuscript/The-Denig-Manuscript.png"
+  categories:
+    - "Public History"
+
+- title: "The Green Tunnel Podcast"
+  url: "https://podcasts.rrchnm.org/show/the-green-tunnel/"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/green-tunnel-podcast/GMU_Green-Tunnel-Podcast-Graphic-Final-01-2-01.jpg"
+  categories:
+    - "Public History"
+
+- title: "The September 11 Digital Archive"
+  url: "http://911digitalarchive.org/"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/the-september-11-digital-archive/thumbnail-september11.jpg"
+  categories:
+    - "Public History"
+
+- title: "Transatlantic Encounters"
+  url: "https://transatlanticencounters.rrchnm.org/"
+  mars_url: ~
+  years_active: "2016–2019"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/transatlantic-encounters/thumbnail-transatlantic-encounters.jpg"
+  categories:
+    - "Public History"
+
+- title: "Tropy"
+  url: "http://tropy.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/tropy/thumbnail-Tropy.jpg"
+  categories:
+    - "Data-Driven History"
+    - "Public History"
+
+- title: "Virginia Studies"
+  url: "http://virginiastudies.org"
+  mars_url: ~
+  years_active: "2009–2015"
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/virginia-studies/thumbnail-virginia-studies.jpg"
+  categories:
+    - "Education"
+
+- title: "World History Commons"
+  url: "http://worldhistorycommons.org"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: true
+  image: "/media/projects/world-history-commons/WHC-thumbnail.jpg"
+  categories:
+    - "Education"
+
+- title: "Worlds Turned Upside Down"
+  url: "https://podcasts.rrchnm.org/show/worlds-turned-upside-down/"
+  mars_url: ~
+  years_active: ~
+  active: true
+  gallery: true
+  featured_project: false
+  image: "/media/projects/worlds-turned-upside-down/Worlds_1080x1080.jpg"
+  categories:
+    - "Public History"
+
+- title: "Your Most Obedient & Humble Servant"
+  url: "https://podcasts.rrchnm.org/show/your-most-obedient-humble-servant/"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/your-most-obedient-humble-servant/R2_Your-Most-Obedient-Humble-Servant_Cover_1080x1080.jpeg"
+  categories:
+    - "Public History"
+
+- title: "Zotero"
+  url: "http://www.zotero.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/zotero/thumbnail-zotero.jpg"
+  categories:
+    - "Data-Driven History"
+    - "Education"
+    - "Public History"
