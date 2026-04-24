@@ -36,7 +36,7 @@
     <ul class="space-y-2 text-sm">
       <li><a href="/projects/" class="text-stone-600 hover:text-red-brand transition-colors font-medium">All Projects</a></li>
       {{ range $projects }}
-      <li><a href="{{ .RelPermalink }}" class="text-stone-600 hover:text-red-brand transition-colors">{{ .Title }}</a></li>
+      <li><a href="{{ .Params.project_url }}" class="text-stone-600 hover:text-red-brand transition-colors" target="_blank" rel="noopener">{{ .Title }}</a></li>
       {{ end }}
     </ul>
   </div>

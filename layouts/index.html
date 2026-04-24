@@ -105,7 +105,7 @@
     {{ $item := . }}
 
     <article class="group flex flex-col">
-      <a href="{{ $item.RelPermalink }}" class="block overflow-hidden rounded-lg mb-4 shrink-0" aria-hidden="true" tabindex="-1">
+      <a href="{{ $item.Params.project_url }}" class="block overflow-hidden rounded-lg mb-4 shrink-0" aria-hidden="true" tabindex="-1" target="_blank" rel="noopener">
         {{ $projImg := partial "featured-image.html" . }}
         {{ if $projImg }}
         <img src="{{ $projImg }}" alt="{{ .Title }}" loading="lazy" class="w-full aspect-square object-contain bg-stone-50 group-hover:scale-[1.03] transition-transform duration-300">
@@ -118,7 +118,7 @@
         {{ end }}
       </a>
       <h3 class="font-serif text-lg text-stone-900">
-        <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ partial "smartify.html" .Title }}</a>
+        <a href="{{ .Params.project_url }}" class="hover:text-red-brand transition-colors" target="_blank" rel="noopener">{{ partial "smartify.html" .Title }}</a>
       </h3>
       {{ with .Params.categories }}
       <div class="mt-1 flex flex-wrap gap-x-2 gap-y-1 items-center">
