@@ -18,7 +18,7 @@
   last_name: Armstrong
   job_title: Graduate Affiliate
   level: ~
-  picture: "/media/headshots/david-armstrong.png"
+  picture: "/media/headshots/david-armstrong.jpg"
   url: ~
   published: true
 
@@ -58,7 +58,7 @@
   last_name: Britt Farrell
   job_title: Graduate Affiliate
   level: ~
-  picture: "/media/headshots/cassandra-britt-farrell.jpg"
+  picture: "/media/headshots/cassandra-britt-farrell.jpeg"
   url: ~
   published: true
 
@@ -122,7 +122,7 @@
   last_name: Coleman
   job_title: Graduate Affiliate
   level: ~
-  picture: "/media/headshots/gail-coleman.png"
+  picture: "/media/headshots/gail-coleman.jpg"
   url: ~
   published: true
 
@@ -130,7 +130,7 @@
   last_name: Corey
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: "/media/headshots/shae-corey.png"
+  picture: "/media/headshots/shae-corey.jpg"
   url: ~
   published: true
 
@@ -194,7 +194,7 @@
   last_name: Hall
   job_title: Graduate Affiliate
   level: ~
-  picture: "/media/headshots/chapman-hall.png"
+  picture: "/media/headshots/chapman-hall.jpg"
   url: ~
   published: true
 
@@ -202,7 +202,7 @@
   last_name: Hammond
   job_title: Graduate Affiliate
   level: ~
-  picture: "/media/headshots/janet-hammond.jpg"
+  picture: "/media/headshots/janet-hammond.jpeg"
   url: ~
   published: true
 
@@ -210,7 +210,7 @@
   last_name: Hartweave
   job_title: Graduate Affiliate
   level: ~
-  picture: "/media/headshots/caitlin-hartweave.png"
+  picture: "/media/headshots/caitlin-hartweave.jpg"
   url: ~
   published: true
 
@@ -250,7 +250,7 @@
   last_name: Johnson
   job_title: Graduate Affiliate
   level: ~
-  picture: "/media/headshots/makayla-johnson.png"
+  picture: "/media/headshots/makayla-johnson.jpg"
   url: ~
   published: true
 
@@ -330,7 +330,7 @@
   last_name: Magoto
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: "/media/headshots/paige-magoto.png"
+  picture: "/media/headshots/paige-magoto.jpeg"
   url: ~
   published: true
 
@@ -370,7 +370,7 @@
   last_name: Mills
   job_title: Graduate Affiliate
   level: ~
-  picture: "/media/headshots/jennifer-mills.jpg"
+  picture: "/media/headshots/jennifer-mills.jpeg"
   url: ~
   published: true
 
@@ -386,7 +386,7 @@
   last_name: Murali
   job_title: Affiliate Faculty
   level: "Faculty & Emeritus"
-  picture: "/media/headshots/deepthi-murali.png"
+  picture: "/media/headshots/deepthi-murali.jpg"
   url: ~
   published: true
 
@@ -514,7 +514,7 @@
   last_name: Spencer
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: "/media/headshots/annabelle-spencer.jpg"
+  picture: "/media/headshots/annabelle-spencer.png"
   url: ~
   published: true
 
@@ -546,7 +546,7 @@
   last_name: Trinh
   job_title: Systems Administrator
   level: Professional Staff
-  picture: "/media/headshots/tony-trinh.jpg"
+  picture: "/media/headshots/tony-trinh.png"
   url: ~
   published: true
 
@@ -570,7 +570,7 @@
   last_name: Whyte
   job_title: Graduate Affiliate
   level: ~
-  picture: "/media/headshots/rachel-whyte.jpg"
+  picture: "/media/headshots/rachel-whyte.png"
   url: ~
   published: true
 
@@ -578,7 +578,7 @@
   last_name: Williams
   job_title: Graduate Affiliate
   level: ~
-  picture: "/media/headshots/ashleigh-williams.jpg"
+  picture: "/media/headshots/ashleigh-williams.jpeg"
   url: ~
   published: true
 
@@ -586,6 +586,6 @@
   last_name: Winters
   job_title: DPAA Postdoctoral Fellow
   level: Postdoctoral Fellows
-  picture: "/media/headshots/john-winters.png"
+  picture: "/media/headshots/john-winters.jpg"
   url: ~
   published: true
