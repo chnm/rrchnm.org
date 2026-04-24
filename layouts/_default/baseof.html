@@ -61,7 +61,7 @@
   </button>
 
   {{ partial "scripts.html" . }}
-  {{ $searchJS := resources.Get "js/fastsearch.js" | fingerprint }}
+  {{ $searchJS := resources.Get "js/fastsearch.js" | minify | fingerprint }}
   <script src="{{ $searchJS.RelPermalink }}"></script>
 </body>
 </html>
