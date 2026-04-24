@@ -9,10 +9,6 @@ project_url: "https://eagleeyecitizen.org/"
 status:
 - active: false
 featured_project: false
-funders:
-  - "Library of Congress"
-gallery:
-  - "EagleEyeCitizen-Challenge-scaled.jpg"
 ---
 
 # Eagle Eye Citizen

@@ -9,8 +9,6 @@ project_url: "https://denigmanuscript.org/"
 status:
 - active: true
 featured_project: false
-funders:
-gallery:
 ---
 
 # The Denig Manuscript

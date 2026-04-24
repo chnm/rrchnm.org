@@ -9,12 +9,6 @@ project_url: "http://wardepartmentpapers.org"
 status:
 - active: false
 featured_project: false
-funders:
-  - "American Council of Learned Societies"
-  - "National Endowment for the Humanities"
-  - "National Historical Publications and Records Commission"
-gallery:
-  - "Papers-of-the-War-Department-1-scaled.jpg"
 ---
 
 # Papers of the War Department 1784-1800

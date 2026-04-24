@@ -9,8 +9,6 @@ project_url: "https://harlemindisorder.org/"
 status:
 - active: true
 featured_project: true
-funders:
-gallery:
 ---
 
 # Harlem in Disorder

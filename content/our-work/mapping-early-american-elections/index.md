@@ -9,10 +9,6 @@ project_url: "http://earlyamericanelections.org"
 status:
 - active: false
 featured_project: false
-funders:
-  - "National Endowment for the Humanities"
-gallery:
-  - "Mapping-Early-American-Elections-1-scaled.jpg"
 ---
 
 # Mapping Early American Elections

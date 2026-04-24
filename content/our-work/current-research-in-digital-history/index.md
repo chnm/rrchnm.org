@@ -9,9 +9,6 @@ project_url: "https://crdh.rrchnm.org/"
 status:
 - active: true
 featured_project: false
-funders:
-gallery:
-  - "Current-Research-in-Digital-History-1-scaled.jpg"
 ---
 
 # Current Research In Digital History

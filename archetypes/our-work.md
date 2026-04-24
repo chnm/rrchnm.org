@@ -11,8 +11,6 @@ status:
   # when inactive, add:
   # - years_active: "2005-2012"
 featured_project: false
-funders:
-gallery:
 ---
 
 Project description here.

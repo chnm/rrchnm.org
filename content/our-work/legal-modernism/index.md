@@ -9,9 +9,6 @@ project_url: "https://legalmodernism.org"
 status:
 - active: true
 featured_project: true
-funders:
-gallery:
-  - "project-LegalModernization-scaled.jpg"
 ---
 
 # Legal Modernism

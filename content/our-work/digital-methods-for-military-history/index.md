@@ -9,10 +9,6 @@ project_url: "https://dmmh.rrchnm.org/"
 status:
 - active: false
 featured_project: false
-funders:
-  - "National Endowment for the Humanities"
-gallery:
-  - "Digital-Methods-for-Military-History-1-scaled.jpg"
 ---
 
 # Digital Methods for Military History

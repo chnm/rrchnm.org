@@ -9,9 +9,6 @@ project_url: "https://vagovernmentmatters.org/"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
-  - "For-Virginians-1-scaled.jpg"
 ---
 
 # For Virginians: Government Matters

@@ -9,10 +9,6 @@ project_url: "https://deathbynumbers.org/"
 status:
 - active: true
 featured_project: true
-funders:
-  - "National Science Foundation"
-gallery:
-  - "Death-By-Numbers-1-scaled.jpg"
 ---
 
 # Death By Numbers

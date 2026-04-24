@@ -10,9 +10,6 @@ project_url: "https://datascribe.tech/"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
-  - "DataScribe-1-scaled.jpg"
 ---
 
 # DataScribe

@@ -9,8 +9,6 @@ project_url: "https://podcasts.rrchnm.org/show/the-green-tunnel/"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
 ---
 
 # The Green Tunnel Podcast

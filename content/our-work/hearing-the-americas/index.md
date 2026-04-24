@@ -9,9 +9,6 @@ project_url: "https://hearingtheamericas.org"
 status:
 - active: true
 featured_project: false
-funders:
-gallery:
-  - "HearingTheAmericas-1-scaled.jpg"
 ---
 
 # Hearing the Americas

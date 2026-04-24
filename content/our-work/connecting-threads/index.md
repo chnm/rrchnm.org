@@ -10,8 +10,6 @@ project_url: "https://www.connectingthreads.co.uk/"
 status:
 - active: true
 featured_project: true
-funders:
-gallery:
 ---
 
 # Connecting Threads

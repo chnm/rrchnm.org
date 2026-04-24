@@ -10,9 +10,6 @@ project_url: "http://maritime-asia.org"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
-  - "Maritime-Asia-1-scaled.jpg"
 ---
 
 # Maritime Asia

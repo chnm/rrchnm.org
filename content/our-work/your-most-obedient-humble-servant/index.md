@@ -9,8 +9,6 @@ project_url: "https://podcasts.rrchnm.org/show/your-most-obedient-humble-servant
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
 ---
 
 # Your Most Obedient & Humble Servant

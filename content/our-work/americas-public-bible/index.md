@@ -9,9 +9,6 @@ project_url: "https://americaspublicbible.supdigital.org"
 status:
 - active: true
 featured_project: true
-funders:
-  - "National Endowment for the Humanities"
-gallery:
 ---
 
 # America's Public Bible

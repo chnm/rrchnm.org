@@ -9,8 +9,6 @@ project_url: "https://nmaahc.si.edu/connect/strategic-partnerships/hbcu-history-
 status:
 - active: true
 featured_project: true
-funders:
-gallery:
 ---
 
 # History and Culture Access Consortium

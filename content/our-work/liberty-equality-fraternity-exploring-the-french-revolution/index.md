@@ -9,11 +9,6 @@ project_url: "http://revolution.chnm.org/"
 status:
 - active: false
 featured_project: false
-funders:
-  - "Florence Gould Foundation"
-  - "National Endowment for the Humanities"
-gallery:
-  - "Liberty-Equality-Fraternity-1-scaled.jpg"
 ---
 
 # Liberty, Equality, Fraternity: Exploring the French Revolution

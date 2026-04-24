@@ -9,9 +9,6 @@ project_url: "https://transatlanticencounters.rrchnm.org/"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
-  - "Transatlantic-Encounters-1-scaled.jpg"
 ---
 
 # Transatlantic Encounters

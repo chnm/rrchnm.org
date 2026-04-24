@@ -9,9 +9,6 @@ project_url: "http://virginiastudies.org"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
-  - "Virginia-Studies-1-scaled.jpg"
 ---
 
 # Virginia Studies

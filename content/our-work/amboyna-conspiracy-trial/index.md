@@ -10,10 +10,6 @@ project_url: "http://amboyna.org"
 status:
 - active: false
 featured_project: false
-funders:
-  - "Monash University"
-gallery:
-  - "amboyna-1-scaled.jpg"
 ---
 
 # Amboyna Conspiracy Trial

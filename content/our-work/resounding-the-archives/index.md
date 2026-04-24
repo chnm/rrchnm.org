@@ -9,9 +9,6 @@ project_url: "http://resoundingthearchives.org"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
-  - "Resounding-the-Archives-1-scaled.jpg"
 ---
 
 # ReSounding the Archives

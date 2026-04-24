@@ -10,8 +10,6 @@ project_url: "https://masononline.gmu.edu/programs/digital-public-humanities-gra
 status:
 - active: true
 featured_project: false
-funders:
-gallery:
 ---
 
 # Digital Public Humanities Graduate Certificate

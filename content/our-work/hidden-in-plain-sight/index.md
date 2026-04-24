@@ -9,9 +9,6 @@ project_url: "http://hipshistory.org/"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
-  - "Hidden-in-Plain-Sight-1-scaled.jpg"
 ---
 
 # Hidden in Plain Sight

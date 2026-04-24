@@ -10,10 +10,6 @@ project_url: "http://thatcamp.org"
 status:
 - active: false
 featured_project: false
-funders:
-  - "Andrew W. Mellon Foundation"
-gallery:
-  - "That-Camp-1-scaled.jpg"
 ---
 
 # THATCamp

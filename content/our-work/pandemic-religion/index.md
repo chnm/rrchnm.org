@@ -9,9 +9,6 @@ project_url: "http://pandemicreligion.org"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
-  - "Pandemic-Religion-4-scaled.jpg"
 ---
 
 # Pandemic Religion

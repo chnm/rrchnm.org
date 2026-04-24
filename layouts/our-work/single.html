@@ -27,24 +27,6 @@
       <div class="prose prose-stone max-w-none">
         {{ .Content }}
       </div>
-
-      {{/* Gallery */}}
-      {{ with .Params.gallery }}
-      <div class="mt-10">
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          {{ range . }}
-          {{ $galImg := . }}
-          {{- if not (or (hasPrefix . "/") (hasPrefix . "http")) -}}
-            {{- $res := $.Resources.GetMatch . -}}
-            {{- if $res -}}{{- $galImg = $res.RelPermalink -}}{{- end -}}
-          {{- end -}}
-          <a href="{{ $galImg }}" target="_blank" rel="noopener" class="block overflow-hidden rounded-lg" aria-label="View full-size image from {{ $.Title }} (opens in new window)">
-            <img src="{{ $galImg }}" alt="Screenshot from {{ $.Title }}" loading="lazy" class="w-full aspect-[16/10] object-cover hover:scale-[1.03] transition-transform duration-300">
-          </a>
-          {{ end }}
-        </div>
-      </div>
-      {{ end }}
     </div>
 
     {{/* Sidebar */}}
@@ -86,18 +68,6 @@
             <a href="/projects/?category={{ . | urlquery }}" class="text-sm bg-stone-100 text-stone-700 hover:bg-red-brand hover:text-white px-3 py-1 rounded-full transition-colors">{{ . }}</a>
             {{ end }}
           </div>
-        </div>
-        {{ end }}
-
-        {{/* Funders */}}
-        {{ with .Params.funders }}
-        <div>
-          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Funded By</h3>
-          <ul class="space-y-1">
-            {{ range . }}
-            <li class="text-sm text-stone-700">{{ . }}</li>
-            {{ end }}
-          </ul>
         </div>
         {{ end }}
 

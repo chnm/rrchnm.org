@@ -9,13 +9,6 @@ project_url: "http://braceroarchive.org"
 status:
 - active: false
 featured_project: false
-funders:
-  - "National Endowment for the Humanities"
-gallery:
-  - "bracero-1-1-scaled.jpg"
-  - "bracero-1-scaled.jpg"
-  - "bracero-2-scaled.jpg"
-  - "bracero-3-scaled.jpg"
 ---
 
 # Bracero History Archive

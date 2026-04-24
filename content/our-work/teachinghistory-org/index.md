@@ -9,9 +9,6 @@ project_url: "http://teachinghistory.org"
 status:
 - active: true
 featured_project: true
-funders:
-gallery:
-  - "Teaching-History-1-scaled.jpg"
 ---
 
 # Teachinghistory.org

@@ -9,10 +9,6 @@ project_url: "https://forustheliving.org/"
 status:
 - active: false
 featured_project: false
-funders:
-  - "U.S. Department of Veterans"
-gallery:
-  - "For-Us-The-Living-1-scaled.jpg"
 ---
 
 # For Us The Living

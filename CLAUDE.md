@@ -21,7 +21,7 @@ Hugo Extended 0.154.5+ is required (for CSS processing).
 Content lives in `content/` with four main sections:
 
 - **blog/** — Blog posts (555+), frontmatter: `author_name`, `authors`, `categories`, `date`, `slug`, `draft`, `lede`
-- **our-work/** — Project pages (54+), served at `/projects/`. Canonical frontmatter, in this order, with every field always present (even if empty): `title`, `slug`, `draft`, `categories`, `featured_image`, `project_url`, `status`, `featured_project`, `funders`, `gallery`. URLs are double-quoted; empty lists stay as bare keys (`funders:` / `gallery:`). `status` list items live at column 0. New projects should be scaffolded from `archetypes/our-work.md`.
+- **our-work/** — Project pages (54+), served at `/projects/`. Canonical frontmatter, in this order, with every field always present (even if empty): `title`, `slug`, `draft`, `categories`, `featured_image`, `project_url`, `status`, `featured_project`. URLs are double-quoted. `status` list items live at column 0. New projects should be scaffolded from `archetypes/our-work.md`.
 - **publications/** — Research publications (54+), frontmatter: `essay_author`, `essay_date`, `pub_date`, `essay_publication_info`
 - **page/** — Static pages (about, contact, policies, education)
 - **spotlight/** — Featured spotlight content for homepage callout

@@ -9,11 +9,6 @@ project_url: "http://worldhistorycommons.org"
 status:
 - active: true
 featured_project: true
-funders:
-  - "American Council of Learned Societies"
-  - "National Endowment for the Humanities"
-gallery:
-  - "WHC-flyer-scaled-1.jpg"
 ---
 
 # World History Commons

@@ -9,9 +9,6 @@ project_url: "https://gulaghistory.org/index.html"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
-  - "Gulag-1-scaled.jpg"
 ---
 
 # Gulag: Many Days, Many Lives

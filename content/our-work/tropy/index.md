@@ -10,10 +10,6 @@ project_url: "http://tropy.org"
 status:
 - active: false
 featured_project: false
-funders:
-  - "Andrew W. Mellon Foundation"
-gallery:
-  - "Tropy-1-scaled.jpg"
 ---
 
 # Tropy

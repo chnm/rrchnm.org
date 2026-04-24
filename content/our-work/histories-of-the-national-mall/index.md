@@ -9,10 +9,6 @@ project_url: "http://mallhistory.org"
 status:
 - active: false
 featured_project: false
-funders:
-  - "National Endowment for the Humanities"
-gallery:
-  - "Histories-of-the-National-Mall-1-scaled.jpg"
 ---
 
 # Histories of the National Mall

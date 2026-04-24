@@ -9,8 +9,6 @@ project_url: "https://podcasts.rrchnm.org/show/Antisemitism-USA/"
 status:
 - active: true
 featured_project: false
-funders:
-gallery:
 ---
 
 # Antisemitism, U.S.A.: A History

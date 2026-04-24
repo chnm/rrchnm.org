@@ -9,10 +9,6 @@ project_url: "https://childcustodyproject.org/"
 status:
 - active: false
 featured_project: false
-funders:
-  - "Virginia Foundation for the Humanities"
-gallery:
-  - "Child-Custody-Project-1-scaled.jpg"
 ---
 
 # Child Custody Project

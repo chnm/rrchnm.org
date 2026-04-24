@@ -10,9 +10,6 @@ project_url: ""
 status:
 - active: true
 featured_project: false
-funders:
-  - "Una Chapman Cox Foundation"
-gallery:
 ---
 
 # American History Now

@@ -10,9 +10,6 @@ project_url: "https://chnm.gmu.edu/declaration/"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
-  - "declaration-of-independence-scaled.jpg"
 ---
 
 # Declaration of Independence by Translation

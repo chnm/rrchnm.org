@@ -9,11 +9,6 @@ project_url: "http://historicalthinkingmatters.org"
 status:
 - active: true
 featured_project: false
-funders:
-  - "Carnegie Corporation"
-  - "Hewlett Foundation"
-gallery:
-  - "historical-thinking-matters-scaled.jpg"
 ---
 
 # Historical Thinking Matters

@@ -11,13 +11,6 @@ project_url: "https://omeka.org"
 status:
 - active: false
 featured_project: false
-funders:
-  - "Andrew W. Mellon Foundation"
-  - "Institute of Museum and Library Services"
-  - "Samuel H. Kress Foundation"
-  - "National Endowment for the Humanities"
-gallery:
-  - "Omeka-1-scaled.jpg"
 ---
 
 # Omeka

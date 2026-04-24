@@ -10,10 +10,6 @@ project_url: "https://locallinkages.org/"
 status:
 - active: false
 featured_project: false
-funders:
-  - "Institute of Museum and Library Services"
-gallery:
-  - "Creating-Local-Linkages-1-scaled.jpg"
 ---
 
 # Creating Local Linkages

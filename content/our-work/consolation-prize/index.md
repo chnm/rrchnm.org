@@ -9,9 +9,6 @@ project_url: "https://podcasts.rrchnm.org/show/consolation-prize/"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
-  - "Consolation-Prize-2-scaled.jpg"
 ---
 
 # Consolation Prize

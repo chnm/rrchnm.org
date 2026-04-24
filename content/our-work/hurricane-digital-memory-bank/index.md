@@ -9,10 +9,6 @@ project_url: "http://hurricanearchive.org"
 status:
 - active: false
 featured_project: false
-funders:
-  - "Alfred P. Sloan Foundation"
-gallery:
-  - "Hurricane-Digital-Memory-Bank-1-scaled.jpg"
 ---
 
 # Hurricane Digital Memory Bank

@@ -9,11 +9,6 @@ project_url: "http://911digitalarchive.org/"
 status:
 - active: false
 featured_project: false
-funders:
-  - "Alfred P. Sloan Foundation"
-  - "National Park Service"
-gallery:
-  - "September-11-Digital-Archive-2-scaled.jpg"
 ---
 
 # The September 11 Digital Archive

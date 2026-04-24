@@ -9,8 +9,6 @@ project_url: "https://podcasts.rrchnm.org/show/worlds-turned-upside-down/"
 status:
 - active: true
 featured_project: false
-funders:
-gallery:
 ---
 
 # Worlds Turned Upside Down

@@ -9,10 +9,6 @@ project_url: "https://diplomacy.state.gov/discover-diplomacy/simulations/"
 status:
 - active: false
 featured_project: false
-funders:
-  - "United States Diplomacy Center"
-gallery:
-  - "Discover-Diplomacy-2-scaled.jpg"
 ---
 
 # Discover Diplomacy

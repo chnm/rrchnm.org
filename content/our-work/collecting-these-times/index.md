@@ -10,9 +10,6 @@ status:
 - active: false
 - years_active: "2020-2022"
 featured_project: false
-funders:
-gallery:
-  - "Collecting-These-Times-1-scaled.jpg"
 ---
 
 # Collecting These Times

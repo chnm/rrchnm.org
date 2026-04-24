@@ -9,9 +9,6 @@ project_url: "https://religiousecologies.org/"
 status:
 - active: true
 featured_project: true
-funders:
-gallery:
-  - "ARE-2-scaled.jpg"
 ---
 
 # American Religious Ecologies

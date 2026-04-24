@@ -11,13 +11,6 @@ project_url: "http://www.zotero.org"
 status:
 - active: false
 featured_project: false
-funders:
-  - "Alfred P. Sloan Foundation"
-  - "Andrew W. Mellon Foundation"
-  - "Corporation for Digital Scholarship"
-  - "Institute of Museum and Library Services"
-gallery:
-  - "Zotero-1-scaled.jpg"
 ---
 
 # Zotero

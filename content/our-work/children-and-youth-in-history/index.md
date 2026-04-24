@@ -10,10 +10,6 @@ project_url: "https://chnm.gmu.edu/cyh/"
 status:
 - active: false
 featured_project: false
-funders:
-  - "National Endowment for the Humanities"
-gallery:
-  - "Children-and-Youth-in-History-1-scaled.jpg"
 ---
 
 # Children and Youth in History

@@ -9,10 +9,6 @@ project_url: "http://chnm.gmu.edu/1989/"
 status:
 - active: false
 featured_project: false
-funders:
-  - "National Endowment for the Humanities"
-gallery:
-  - "Making-of-History-1-scaled.jpg"
 ---
 
 # Making the History of 1989

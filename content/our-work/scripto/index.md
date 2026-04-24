@@ -10,9 +10,6 @@ project_url: "http://scripto.org"
 status:
 - active: false
 featured_project: false
-funders:
-gallery:
-  - "Scripto-1-scaled.jpg"
 ---
 
 # Scripto

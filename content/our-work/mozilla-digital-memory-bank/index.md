@@ -9,10 +9,6 @@ project_url: "http://mozillamemory.org"
 status:
 - active: false
 featured_project: false
-funders:
-  - "Alfred P. Sloan Foundation"
-gallery:
-  - "Mozilla-Digital-Memory-Bank-1-scaled.jpg"
 ---
 
 # Mozilla Digital Memory Bank

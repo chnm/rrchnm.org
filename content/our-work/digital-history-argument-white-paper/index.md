@@ -10,9 +10,6 @@ project_url: ""
 status:
 - active: true
 featured_project: false
-funders:
-  - "Andrew W. Mellon Foundation"
-gallery:
 ---
 
 # Digital History & Argument white paper
