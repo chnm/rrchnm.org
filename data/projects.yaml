@@ -127,7 +127,7 @@
   active: true
   gallery: true
   featured_project: true
-  image: "/media/projects/connecting-threads/connecting-threads-01.jpg"
+  image: "/media/projects/connecting-threads/connecting-threads.png"
   categories:
     - "data-driven history"
     - "public history"
