@@ -1,6 +1,8 @@
 ---
 date: '2017-11-13T00:00:00Z'
 draft: false
+aliases:
+  - /argument-white-paper/
 authors:
   - "Arguing with Digital History working group"
 essay_date: November 2017
