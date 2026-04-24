@@ -10,7 +10,3 @@ status:
 - active: false
 featured_project: false
 ---
-
-# Histories of the National Mall
-
-Histories of the National Mall makes visible the rich past of the National Mall for its millions of on-site visitors through a website easily accessible by mobile phones that provides content and interpretation far superior to static guidebooks and existing mobile tours and applications. The National Council on Public History selected it as the Outstanding Public History Project for 2015.

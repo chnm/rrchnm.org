@@ -12,5 +12,3 @@ status:
   # - years_active: "2005-2012"
 featured_project: false
 ---
-
-Project description here.

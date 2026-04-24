@@ -11,7 +11,3 @@ status:
 - active: true
 featured_project: false
 ---
-
-# Digital Public Humanities Graduate Certificate
-
-The Digital Public Humanities Graduate Certificate is an online program that consists of three courses and a “virtual” summer internship with the Smithsonian Institution. The courses include synchronous online class sessions, synchronous individual meetings between student and instructor, and asynchronous modules. There are no textbooks, video lectures, or multiple-choice quizzes. Content consists of readings, short videos, interactive activities, and digital projects. The first course, “Introduction to Digital Humanities,” won a GMU Distance Education Award in 2015.

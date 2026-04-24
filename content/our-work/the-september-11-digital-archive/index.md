@@ -10,7 +10,3 @@ status:
 - active: false
 featured_project: false
 ---
-
-# The September 11 Digital Archive
-
-*The September 11 Digital Archive* collects, preserves, and presents the history of the September 11, 2001 attacks in New York, Virginia, and Pennsylvania. It has become the leading digital repository of material related to the events of 9/11/2001 and includes more than 150,000 first-hand accounts, emails, images, and other digital materials. The Archive was a collaboration between CHNM and the [American Social History Project/Center for Media and Learning](http://www.ashp.cuny.edu/) at the [City University of New York Graduate Center](http://www.gc.cuny.edu/).

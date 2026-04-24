@@ -11,8 +11,3 @@ status:
 - active: false
 featured_project: false
 ---
-
-# Tropy
-
-Tropy is a freely licensed and open-source software tool that allows researchers to collect and organize the digital photographs that they take in their research, add information to those photos individually or in bulk, using customizable templates, and export both photographs and associated information to other platforms.
-Tailor-made for researchers, Tropy also makes it possible to group photos into documents, annotate photos, add customs tags, and to search across the metadata fields, notes and tags to quickly find sources.

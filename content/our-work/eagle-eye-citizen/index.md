@@ -10,8 +10,3 @@ status:
 - active: false
 featured_project: false
 ---
-
-# Eagle Eye Citizen
-
-Eagle Eye Citizen engages middle and high school students in solving and creating interactive challenges about Congress, American history, civics, and government with Library of Congress primary sources in order to develop students’ civic understanding and historical thinking skills.
-Created by the Roy Rosenzweig Center for History and New Media at George Mason University, Eagle Eye Citizen is a Congress, Civic Participation, and Primary Sources Project and is supported by a grant from the Library of Congress.
