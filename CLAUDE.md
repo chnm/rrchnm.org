@@ -21,7 +21,7 @@ Hugo Extended 0.154.5+ is required (for CSS processing).
 Content lives in `content/` with four main sections:
 
 - **blog/** — Blog posts (555+), frontmatter: `author_name`, `authors`, `categories`, `date`, `slug`, `draft`, `lede`
-- **our-work/** — Project pages (57+), served at `/projects/`, frontmatter: `categories`, `featured_image`, `project_url`, `funders`, `gallery`, `featured_project`, `status`
+- **our-work/** — Section wrapper only. The list page at `/projects/` is rendered from `data/projects.yaml` (see "Data-Driven Configuration" below); `content/our-work/` contains just `_index.md` for the section metadata.
 - **publications/** — Research publications (54+), frontmatter: `essay_author`, `essay_date`, `pub_date`, `essay_publication_info`
 - **page/** — Static pages (about, contact, policies, education)
 - **spotlight/** — Featured spotlight content for homepage callout
@@ -32,7 +32,7 @@ Templates in `layouts/` follow Hugo conventions:
 - `layouts/index.html` — Homepage with spotlight, featured projects, latest posts, and CRDH callout
 - `layouts/{section}/single.html` and `list.html` — Section templates
 - `layouts/page/*.html` — Custom page layouts matched by filename to `content/page/` slugs
-- `layouts/our-work/list.html` — Project listing with Alpine.js category filtering, active/inactive separation
+- `layouts/our-work/list.html` — Project listing with Alpine.js category filtering (single grid, driven by `data/projects.yaml`)
 - `layouts/partials/` — Shared components (header, footer, nav, breadcrumbs, featured-image, social-icons)
 - `layouts/shortcodes/` — Custom Hugo shortcodes
 
@@ -41,6 +41,7 @@ Templates in `layouts/` follow Hugo conventions:
 YAML files in `data/` drive site structure:
 - `menus.yaml` — Navigation (top_nav, mobile_nav, footer)
 - `people.yaml` — Staff directory (rendered via `layouts/page/our-people.html`)
+- `projects.yaml` — Projects list (rendered via `layouts/our-work/list.html` at `/projects/` and, for `gallery: false` entries, via `layouts/page/backlist.html` at `/backlist/`). Fields: `title`, `url`, `mars_url`, `years_active`, `active`, `gallery`, `featured_project`, `image`, `categories`. Every entry lists every field (use `~` for empty). Sorted alphabetically by title. Images live under `/static/media/projects/<slug>/` and are referenced as `/media/projects/<slug>/<file>`.
 - `dissertations.yaml` — Digital dissertations list (rendered on graduate education page)
 - `footer.yaml` — Footer configuration
 
@@ -97,9 +98,8 @@ Static redirects configured in `static/_redirects`, including `/our-work/` → `
 
 ### Project Status
 
-Projects use a `status` field in frontmatter to indicate active/inactive state:
-```yaml
-status:
-- active: false
-```
-Inactive projects appear in a separate "Past Projects" section on the projects page.
+Each entry in `data/projects.yaml` carries two booleans:
+- `gallery` — `true` puts the project in the main `/projects/` grid (cards with image); `false` puts it in the simpler `/backlist/` table.
+- `active` — whether the project is currently running. `years_active` is populated (e.g. `"2016–2020"`) for past projects and left `~` otherwise.
+
+`featured_project: true` promotes a project to the homepage featured grid (pulls the first 9 by title).

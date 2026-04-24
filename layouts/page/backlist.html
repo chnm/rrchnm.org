@@ -8,32 +8,25 @@
   </div>
   {{ end }}
 
-  {{ $data := .Site.Data.backlist }}
-  {{/* Collect all unique tags */}}
+  {{ $data := where .Site.Data.projects "gallery" false }}
+  {{ $data = sort $data "title" }}
+  {{/* Collect all unique categories */}}
   {{ $allTags := slice }}
   {{ range $data }}
-    {{ range .tags }}
-      {{ $allTags = $allTags | append . }}
-    {{ end }}
+  {{ range .categories }}
+  {{ $allTags = $allTags | append . }}
+  {{ end }}
   {{ end }}
   {{ $allTags = $allTags | uniq | sort }}
 
   <div x-data="backlistFilter()">
     {{/* Filter bar */}}
-    <div class="flex flex-wrap gap-2 mb-8" role="group" aria-label="Filter projects by tag">
-      <button
-        @click="filter = ''"
-        :aria-pressed="(filter === '').toString()"
-        :class="filter === '' ? 'bg-red-brand text-white' : 'bg-stone-100 text-stone-700 hover:bg-stone-200'"
-        class="text-sm px-4 py-1.5 rounded-full transition-colors cursor-pointer">
+    <div class="flex flex-wrap gap-2 mb-8" role="group" aria-label="Filter projects by category">
+      <button @click="filter = ''" :aria-pressed="(filter === '').toString()" :class="filter === '' ? 'bg-red-brand text-white' : 'bg-stone-100 text-stone-700 hover:bg-stone-200'" class="text-sm px-4 py-1.5 rounded-full transition-colors cursor-pointer">
         All
       </button>
       {{ range $allTags }}
-      <button
-        @click="filter = '{{ . }}'"
-        :aria-pressed="(filter === '{{ . }}').toString()"
-        :class="filter === '{{ . }}' ? 'bg-red-brand text-white' : 'bg-stone-100 text-stone-700 hover:bg-stone-200'"
-        class="text-sm px-4 py-1.5 rounded-full transition-colors cursor-pointer">
+      <button @click="filter = '{{ . }}'" :aria-pressed="(filter === '{{ . }}').toString()" :class="filter === '{{ . }}' ? 'bg-red-brand text-white' : 'bg-stone-100 text-stone-700 uppercase hover:bg-stone-200'" class="text-sm px-4 py-1.5 rounded-full transition-colors cursor-pointer">
         {{ . }}
       </button>
       {{ end }}
@@ -46,17 +39,14 @@
           <tr class="border-b-2 border-stone-300">
             <th class="py-3 pr-4 font-semibold text-stone-900">Project</th>
             <th class="py-3 pr-4 font-semibold text-stone-900 hidden sm:table-cell">Years Active</th>
-            <th class="py-3 pr-4 font-semibold text-stone-900 hidden md:table-cell">Tags</th>
+            <th class="py-3 pr-4 font-semibold text-stone-900 hidden md:table-cell">Categories</th>
             <th class="py-3 font-semibold text-stone-900 text-right">Links</th>
           </tr>
         </thead>
         <tbody>
           {{ range $data }}
           {{ $title := .title }}
-          <tr
-            class="border-b border-stone-200 hover:bg-stone-50 transition-colors"
-            x-show="matchesFilter({{ .tags | jsonify }})"
-            x-transition.opacity.duration.200ms>
+          <tr class="border-b border-stone-200 hover:bg-stone-50 transition-colors" x-show="matchesFilter({{ .categories | jsonify }})" x-transition.opacity.duration.200ms>
             <td class="py-3 pr-4">
               <span class="font-medium text-stone-900">{{ .title }}</span>
               <span class="sm:hidden block text-xs text-stone-500 mt-0.5">{{ .years_active }}</span>
@@ -64,18 +54,20 @@
             <td class="py-3 pr-4 text-stone-600 hidden sm:table-cell">{{ .years_active }}</td>
             <td class="py-3 pr-4 hidden md:table-cell">
               <div class="flex flex-wrap gap-1">
-                {{ range .tags }}
-                <button
-                  @click="filter = '{{ . }}'"
-                  class="text-xs bg-stone-100 text-stone-600 px-2 py-0.5 rounded-full uppercase tracking-wide cursor-pointer hover:text-red-brand transition-colors">
+                {{ range .categories }}
+                <button @click="filter = '{{ . }}'" class="text-xs bg-stone-100 text-stone-600 px-2 py-0.5 rounded-full uppercase tracking-wide cursor-pointer hover:text-red-brand transition-colors">
                   {{ . }}
                 </button>
                 {{ end }}
               </div>
             </td>
             <td class="py-3 text-right whitespace-nowrap">
-              {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener" class="text-red-brand hover:text-red-dark transition-colors" aria-label="Visit {{ $title }} (opens in new window)">Website&nbsp;<svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-3 h-3 mb-0.5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" /></svg></a>{{ end }}
-              {{ with .mars_url }}<a href="{{ . }}" target="_blank" rel="noopener" class="ml-3 text-red-brand hover:text-red-dark transition-colors" aria-label="View in MARS (opens in new window)">MARS&nbsp;<svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-3 h-3 mb-0.5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" /></svg></a>{{ end }}
+              {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener" class="text-red-brand hover:text-red-dark transition-colors" aria-label="Visit {{ $title }} (opens in new window)">Website&nbsp;<svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-3 h-3 mb-0.5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
+                </svg></a>{{ end }}
+              {{ with .mars_url }}<a href="{{ . }}" target="_blank" rel="noopener" class="ml-3 text-red-brand hover:text-red-dark transition-colors" aria-label="View in MARS (opens in new window)">MARS&nbsp;<svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-3 h-3 mb-0.5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
+                </svg></a>{{ end }}
             </td>
           </tr>
           {{ end }}
@@ -86,14 +78,14 @@
 </div>
 
 <script>
-function backlistFilter() {
-  return {
-    filter: '',
-    matchesFilter(tags) {
-      if (!this.filter) return true;
-      return tags && tags.indexOf(this.filter) !== -1;
-    }
-  };
-}
+  function backlistFilter() {
+    return {
+      filter: '',
+      matchesFilter(tags) {
+        if (!this.filter) return true;
+        return tags && tags.indexOf(this.filter) !== -1;
+      }
+    };
+  }
 </script>
 {{ end }}
