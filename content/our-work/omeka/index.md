@@ -1,29 +1,23 @@
 ---
-categories:
-- Data-Driven History
-- Education
-- Public History
-date: '2022-05-17T10:03:24Z'
+title: "Omeka"
+slug: "omeka"
 draft: false
-featured_image: thumbnail-omeka.jpg
-lastmod: '2022-05-18T10:57:28Z'
-slug: omeka
-title: Omeka
-project_url: https://omeka.org
+categories:
+  - "Data-Driven History"
+  - "Education"
+  - "Public History"
+featured_image: "thumbnail-omeka.jpg"
+project_url: "https://omeka.org"
 status:
 - active: false
-affiliates:
-  - name: Sharon Leon
-    role: Director
-  - name: Jim Safley
-    role: Lead Developer
+featured_project: false
 funders:
-  - Andrew W. Mellon Foundation
-  - Institute of Museum and Library Services
-  - Samuel H. Kress Foundation
-  - National Endowment for the Humanities
+  - "Andrew W. Mellon Foundation"
+  - "Institute of Museum and Library Services"
+  - "Samuel H. Kress Foundation"
+  - "National Endowment for the Humanities"
 gallery:
-- "Omeka-1-scaled.jpg"
+  - "Omeka-1-scaled.jpg"
 ---
 
 # Omeka

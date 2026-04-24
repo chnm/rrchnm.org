@@ -1,21 +1,17 @@
 ---
-
-
-
-
-categories:
-- Education
-date: '2022-05-16T16:35:04Z'
+title: "Hidden in Plain Sight"
+slug: "hidden-in-plain-sight"
 draft: false
-featured_image: thumbnail-hidden-in-plain-sight.jpg
-lastmod: '2022-05-18T10:47:05Z'
-slug: hidden-in-plain-sight
-title: Hidden in Plain Sight
-gallery:
-- "Hidden-in-Plain-Sight-1-scaled.jpg"
+categories:
+  - "Education"
+featured_image: "thumbnail-hidden-in-plain-sight.jpg"
 project_url: "http://hipshistory.org/"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
+  - "Hidden-in-Plain-Sight-1-scaled.jpg"
 ---
 
 # Hidden in Plain Sight

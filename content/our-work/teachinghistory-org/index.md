@@ -1,20 +1,17 @@
 ---
-
-
-
-
-categories:
-- Education
-date: '2022-05-17T11:37:29Z'
+title: "Teachinghistory.org"
+slug: "teachinghistory-org"
 draft: false
-featured_image: thumbnail-teaching-history.jpg
-lastmod: '2022-05-17T11:37:52Z'
-slug: teachinghistory-org
-title: Teachinghistory.org
-featured_project: true
-gallery:
-- "Teaching-History-1-scaled.jpg"
+categories:
+  - "Education"
+featured_image: "thumbnail-teaching-history.jpg"
 project_url: "http://teachinghistory.org"
+status:
+- active: true
+featured_project: true
+funders:
+gallery:
+  - "Teaching-History-1-scaled.jpg"
 ---
 
 # Teachinghistory.org

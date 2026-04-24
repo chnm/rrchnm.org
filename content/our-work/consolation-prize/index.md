@@ -1,20 +1,17 @@
 ---
-
-
-
-categories:
-- Public History
-date: '2022-04-06T16:00:17Z'
+title: "Consolation Prize"
+slug: "consolation-prize"
 draft: false
-featured_image: consolation-prize-thumbnail.jpg
-lastmod: '2025-09-03T15:23:06Z'
-slug: consolation-prize
-title: Consolation Prize
-gallery:
-- "Consolation-Prize-2-scaled.jpg"
+categories:
+  - "Public History"
+featured_image: "consolation-prize-thumbnail.jpg"
 project_url: "https://podcasts.rrchnm.org/show/consolation-prize/"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
+  - "Consolation-Prize-2-scaled.jpg"
 ---
 
 # Consolation Prize

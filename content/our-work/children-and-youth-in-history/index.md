@@ -1,24 +1,19 @@
 ---
-
-
-
-
-categories:
-- Education
-- Public History
-date: '2022-04-06T15:55:15Z'
+title: "Children and Youth in History"
+slug: "children-and-youth-in-history"
 draft: false
-featured_image: thumbnail-children-and-youth-1.jpg
-lastmod: '2022-05-17T16:36:56Z'
-slug: children-and-youth-in-history
-title: Children and Youth in History
-funders:
-- "National Endowment for the Humanities"
-gallery:
-- "Children-and-Youth-in-History-1-scaled.jpg"
+categories:
+  - "Education"
+  - "Public History"
+featured_image: "thumbnail-children-and-youth-1.jpg"
 project_url: "https://chnm.gmu.edu/cyh/"
 status:
 - active: false
+featured_project: false
+funders:
+  - "National Endowment for the Humanities"
+gallery:
+  - "Children-and-Youth-in-History-1-scaled.jpg"
 ---
 
 # Children and Youth in History

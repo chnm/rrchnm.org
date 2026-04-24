@@ -1,18 +1,17 @@
 ---
-
-
-categories:
-- Data-Driven History
-- Public History
-date: '2024-02-12T17:02:37Z'
+title: "Connecting Threads"
+slug: "connecting-threads"
 draft: false
-featured_image: connecting-threads-01.jpg
-lastmod: '2024-02-12T17:02:37Z'
-slug: connecting-threads
-title: Connecting Threads
-featured_project: true
-gallery:
+categories:
+  - "Data-Driven History"
+  - "Public History"
+featured_image: "connecting-threads-01.jpg"
 project_url: "https://www.connectingthreads.co.uk/"
+status:
+- active: true
+featured_project: true
+funders:
+gallery:
 ---
 
 # Connecting Threads

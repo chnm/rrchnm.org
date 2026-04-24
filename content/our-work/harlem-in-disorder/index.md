@@ -1,17 +1,16 @@
 ---
-
-
-categories:
-- Data-Driven History
-date: '2024-05-09T16:35:26Z'
+title: "Harlem in Disorder"
+slug: "harlem-in-disorder"
 draft: false
-featured_image: harlemfinalTRUE.jpg
-lastmod: '2024-05-09T16:43:24Z'
-slug: harlem-in-disorder
-title: Harlem in Disorder
-featured_project: true
-gallery:
+categories:
+  - "Data-Driven History"
+featured_image: "harlemfinalTRUE.jpg"
 project_url: "https://harlemindisorder.org/"
+status:
+- active: true
+featured_project: true
+funders:
+gallery:
 ---
 
 # Harlem in Disorder

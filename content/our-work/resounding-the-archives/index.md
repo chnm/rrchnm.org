@@ -1,21 +1,17 @@
 ---
-
-
-
-
-categories:
-- Public History
-date: '2022-05-17T11:08:38Z'
+title: "ReSounding the Archives"
+slug: "resounding-the-archives"
 draft: false
-featured_image: thumbnail-resounding-the-archives.jpg
-lastmod: '2022-05-17T11:11:38Z'
-slug: resounding-the-archives
-title: ReSounding the Archives
-gallery:
-- "Resounding-the-Archives-1-scaled.jpg"
+categories:
+  - "Public History"
+featured_image: "thumbnail-resounding-the-archives.jpg"
 project_url: "http://resoundingthearchives.org"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
+  - "Resounding-the-Archives-1-scaled.jpg"
 ---
 
 # ReSounding the Archives

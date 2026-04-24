@@ -1,23 +1,18 @@
 ---
-
-
-
-
-categories:
-- Education
-date: '2022-04-06T16:35:16Z'
+title: "Digital Methods for Military History"
+slug: "digital-methods-for-military-history"
 draft: true
-featured_image: thumbnail-MilitaryHistory.jpg
-lastmod: '2022-05-17T17:35:34Z'
-slug: digital-methods-for-military-history
-title: Digital Methods for Military History
-funders:
-- "National Endowment for the Humanities"
-gallery:
-- "Digital-Methods-for-Military-History-1-scaled.jpg"
+categories:
+  - "Education"
+featured_image: "thumbnail-MilitaryHistory.jpg"
 project_url: "https://dmmh.rrchnm.org/"
 status:
 - active: false
+featured_project: false
+funders:
+  - "National Endowment for the Humanities"
+gallery:
+  - "Digital-Methods-for-Military-History-1-scaled.jpg"
 ---
 
 # Digital Methods for Military History

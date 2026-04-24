@@ -1,19 +1,17 @@
 ---
-
-
-
-categories:
-- Data-Driven History
-date: '2022-04-06T15:45:29Z'
+title: "American Religious Ecologies"
+slug: "american-religious-ecologies"
 draft: false
-featured_image: thumbnail-ARE.jpg
-lastmod: '2022-07-01T14:48:08Z'
-slug: american-religious-ecologies
-title: American Religious Ecologies
-featured_project: true
-gallery:
-- "ARE-2-scaled.jpg"
+categories:
+  - "Data-Driven History"
+featured_image: "thumbnail-ARE.jpg"
 project_url: "https://religiousecologies.org/"
+status:
+- active: true
+featured_project: true
+funders:
+gallery:
+  - "ARE-2-scaled.jpg"
 ---
 
 # American Religious Ecologies

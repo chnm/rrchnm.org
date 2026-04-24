@@ -1,18 +1,16 @@
 ---
-
-
-categories:
-- Public History
-date: '2024-01-19T14:59:22Z'
+title: "Your Most Obedient & Humble Servant"
+slug: "your-most-obedient-humble-servant"
 draft: false
-featured_image: R2_Your-Most-Obedient-Humble-Servant_Cover_1080x1080.jpeg
-lastmod: '2025-09-03T15:26:17Z'
-slug: your-most-obedient-humble-servant
-title: Your Most Obedient & Humble Servant
-gallery:
+categories:
+  - "Public History"
+featured_image: "R2_Your-Most-Obedient-Humble-Servant_Cover_1080x1080.jpeg"
 project_url: "https://podcasts.rrchnm.org/show/your-most-obedient-humble-servant/"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
 ---
 
 # Your Most Obedient & Humble Servant

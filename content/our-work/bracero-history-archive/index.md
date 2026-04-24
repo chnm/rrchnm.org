@@ -1,26 +1,21 @@
 ---
-
-
-
-
-categories:
-- Public History
-date: '2022-03-24T16:45:37Z'
+title: "Bracero History Archive"
+slug: "bracero-history-archive"
 draft: false
-featured_image: thumbnail-bracero-1.jpg
-lastmod: '2022-05-17T17:33:51Z'
-slug: bracero-history-archive
-title: Bracero History Archive
-funders:
-- "National Endowment for the Humanities"
-gallery:
-- "bracero-1-1-scaled.jpg"
-- "bracero-1-scaled.jpg"
-- "bracero-2-scaled.jpg"
-- "bracero-3-scaled.jpg"
+categories:
+  - "Public History"
+featured_image: "thumbnail-bracero-1.jpg"
 project_url: "http://braceroarchive.org"
 status:
 - active: false
+featured_project: false
+funders:
+  - "National Endowment for the Humanities"
+gallery:
+  - "bracero-1-1-scaled.jpg"
+  - "bracero-1-scaled.jpg"
+  - "bracero-2-scaled.jpg"
+  - "bracero-3-scaled.jpg"
 ---
 
 # Bracero History Archive

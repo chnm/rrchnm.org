@@ -1,24 +1,19 @@
 ---
-
-
-
-
-categories:
-- Education
-- Public History
-date: '2022-04-06T16:01:47Z'
+title: "Creating Local Linkages"
+slug: "creating-local-linkages"
 draft: true
-featured_image: thumbnail-creating-local-linkages.jpg
-lastmod: '2022-05-17T13:40:33Z'
-slug: creating-local-linkages
-title: Creating Local Linkages
-funders:
-- "Institute of Museum and Library Services"
-gallery:
-- "Creating-Local-Linkages-1-scaled.jpg"
+categories:
+  - "Education"
+  - "Public History"
+featured_image: "thumbnail-creating-local-linkages.jpg"
 project_url: "https://locallinkages.org/"
 status:
 - active: false
+featured_project: false
+funders:
+  - "Institute of Museum and Library Services"
+gallery:
+  - "Creating-Local-Linkages-1-scaled.jpg"
 ---
 
 # Creating Local Linkages

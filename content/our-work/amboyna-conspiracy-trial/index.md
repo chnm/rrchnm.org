@@ -1,24 +1,19 @@
 ---
-
-
-
-
-categories:
-- Education
-- Public History
-date: '2022-03-24T16:41:06Z'
+title: "Amboyna Conspiracy Trial"
+slug: "amboyna-conspiracy-trial"
 draft: false
-featured_image: thumbnail-amboyna.jpg
-lastmod: '2024-01-19T14:33:22Z'
-slug: amboyna-conspiracy-trial
-title: Amboyna Conspiracy Trial
-funders:
-- "Monash University"
-gallery:
-- "amboyna-1-scaled.jpg"
+categories:
+  - "Education"
+  - "Public History"
+featured_image: "thumbnail-amboyna.jpg"
 project_url: "http://amboyna.org"
 status:
 - active: false
+featured_project: false
+funders:
+  - "Monash University"
+gallery:
+  - "amboyna-1-scaled.jpg"
 ---
 
 # Amboyna Conspiracy Trial

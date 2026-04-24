@@ -1,16 +1,16 @@
 ---
-
-
-categories:
-- Public History
-date: '2024-05-09T16:56:09Z'
+title: "Antisemitism, U.S.A."
+slug: "antisemitism-usa"
 draft: false
-featured_image: AntiSemitism-USA.png
-lastmod: '2025-09-03T15:24:17Z'
-slug: antisemitism-usa
-title: Antisemitism, U.S.A.
-gallery:
+categories:
+  - "Public History"
+featured_image: "AntiSemitism-USA.png"
 project_url: "https://podcasts.rrchnm.org/show/Antisemitism-USA/"
+status:
+- active: true
+featured_project: false
+funders:
+gallery:
 ---
 
 # Antisemitism, U.S.A.: A History

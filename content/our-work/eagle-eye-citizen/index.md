@@ -1,23 +1,18 @@
 ---
-
-
-
-
-categories:
-- Education
-date: '2022-03-24T10:04:12Z'
+title: "Eagle Eye Citizen"
+slug: "eagle-eye-citizen"
 draft: true
-featured_image: thumbnail-eagle-eye-citizen.jpg
-lastmod: '2022-05-18T10:16:18Z'
-slug: eagle-eye-citizen
-title: Eagle Eye Citizen
-funders:
-- "Library of Congress"
-gallery:
-- "EagleEyeCitizen-Challenge-scaled.jpg"
+categories:
+  - "Education"
+featured_image: "thumbnail-eagle-eye-citizen.jpg"
 project_url: "https://eagleeyecitizen.org/"
 status:
 - active: false
+featured_project: false
+funders:
+  - "Library of Congress"
+gallery:
+  - "EagleEyeCitizen-Challenge-scaled.jpg"
 ---
 
 # Eagle Eye Citizen

@@ -1,23 +1,18 @@
 ---
-
-
-
-
-categories:
-- Public History
-date: '2022-04-06T15:52:17Z'
+title: "Child Custody Project"
+slug: "child-custody-project"
 draft: true
-featured_image: thumbnail-child-custody-project-2.jpg
-lastmod: '2022-05-17T17:08:35Z'
-slug: child-custody-project
-title: Child Custody Project
-funders:
-- "Virginia Foundation for the Humanities"
-gallery:
-- "Child-Custody-Project-1-scaled.jpg"
+categories:
+  - "Public History"
+featured_image: "thumbnail-child-custody-project-2.jpg"
 project_url: "https://childcustodyproject.org/"
 status:
 - active: false
+featured_project: false
+funders:
+  - "Virginia Foundation for the Humanities"
+gallery:
+  - "Child-Custody-Project-1-scaled.jpg"
 ---
 
 # Child Custody Project

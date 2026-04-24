@@ -1,20 +1,17 @@
 ---
-
-
-
-categories:
-- Public History
-date: '2022-05-17T10:23:58Z'
+title: "Pandemic Religion"
+slug: "pandemic-religion"
 draft: false
-featured_image: thumbnail-pandemic-religion.jpg
-lastmod: '2022-05-18T10:57:42Z'
-slug: pandemic-religion
-title: Pandemic Religion
-gallery:
-- "Pandemic-Religion-4-scaled.jpg"
+categories:
+  - "Public History"
+featured_image: "thumbnail-pandemic-religion.jpg"
 project_url: "http://pandemicreligion.org"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
+  - "Pandemic-Religion-4-scaled.jpg"
 ---
 
 # Pandemic Religion

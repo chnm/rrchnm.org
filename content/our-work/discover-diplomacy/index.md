@@ -1,23 +1,18 @@
 ---
-
-
-
-
-categories:
-- Education
-date: '2022-04-06T16:42:00Z'
+title: "Discover Diplomacy"
+slug: "discover-diplomacy"
 draft: true
-featured_image: thumbnail-discover-diplomacy.jpg
-lastmod: '2022-11-17T11:11:36Z'
-slug: discover-diplomacy
-title: Discover Diplomacy
-funders:
-- "United States Diplomacy Center"
-gallery:
-- "Discover-Diplomacy-2-scaled.jpg"
+categories:
+  - "Education"
+featured_image: "thumbnail-discover-diplomacy.jpg"
 project_url: "https://diplomacy.state.gov/discover-diplomacy/simulations/"
 status:
 - active: false
+featured_project: false
+funders:
+  - "United States Diplomacy Center"
+gallery:
+  - "Discover-Diplomacy-2-scaled.jpg"
 ---
 
 # Discover Diplomacy

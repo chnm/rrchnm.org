@@ -1,18 +1,18 @@
 ---
-categories:
-- Public History
-date: '2022-04-06T15:58:23Z'
+title: "Collecting These Times"
+slug: "collecting-these-times"
 draft: false
-featured_image: thumbnail-collecting-these-times.jpg
-lastmod: '2022-05-17T16:03:23Z'
-slug: collecting-these-times
-title: Collecting These Times
-status: 
-- active: false
-- years_active: 2020-2022
-gallery:
-- "Collecting-These-Times-1-scaled.jpg"
+categories:
+  - "Public History"
+featured_image: "thumbnail-collecting-these-times.jpg"
 project_url: "https://collectingthesetimes.org/s/collecting-these-times/page/home"
+status:
+- active: false
+- years_active: "2020-2022"
+featured_project: false
+funders:
+gallery:
+  - "Collecting-These-Times-1-scaled.jpg"
 ---
 
 # Collecting These Times

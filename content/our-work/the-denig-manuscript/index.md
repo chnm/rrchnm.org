@@ -1,15 +1,15 @@
 ---
-
-categories:
-- Public History
-date: '2024-11-20T09:37:52Z'
+title: "The Denig Manuscript"
+slug: "the-denig-manuscript"
 draft: false
-featured_image: The-Denig-Manuscript.png
-project_url: https://denigmanuscript.org/
-lastmod: '2024-12-11T09:47:51Z'
-slug: the-denig-manuscript
-title: The Denig Manuscript
+categories:
+  - "Public History"
+featured_image: "The-Denig-Manuscript.png"
+project_url: "https://denigmanuscript.org/"
+status:
+- active: true
 featured_project: false
+funders:
 gallery:
 ---
 

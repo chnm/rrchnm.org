@@ -1,28 +1,23 @@
 ---
-
-
-
-
-categories:
-- Data-Driven History
-- Education
-- Public History
-date: '2022-05-17T13:17:50Z'
+title: "Zotero"
+slug: "zotero"
 draft: false
-featured_image: thumbnail-zotero.jpg
-lastmod: '2023-08-31T09:26:28Z'
-slug: zotero
-title: Zotero
-funders:
-- "Alfred P. Sloan Foundation"
-- "Andrew W. Mellon Foundation"
-- "Corporation for Digital Scholarship"
-- "Institute of Museum and Library Services"
-gallery:
-- "Zotero-1-scaled.jpg"
+categories:
+  - "Data-Driven History"
+  - "Education"
+  - "Public History"
+featured_image: "thumbnail-zotero.jpg"
 project_url: "http://www.zotero.org"
 status:
 - active: false
+featured_project: false
+funders:
+  - "Alfred P. Sloan Foundation"
+  - "Andrew W. Mellon Foundation"
+  - "Corporation for Digital Scholarship"
+  - "Institute of Museum and Library Services"
+gallery:
+  - "Zotero-1-scaled.jpg"
 ---
 
 # Zotero

@@ -1,19 +1,17 @@
 ---
-
-
-
-categories:
-- Data-Driven History
-date: '2022-09-15T11:38:08Z'
+title: "Legal Modernism"
+slug: "legal-modernism"
 draft: false
-featured_image: thumbnail-LegalModernization.jpg
-lastmod: '2022-09-15T12:19:28Z'
-slug: legal-modernism
-title: Legal Modernism
-featured_project: true
-gallery:
-- "project-LegalModernization-scaled.jpg"
+categories:
+  - "Data-Driven History"
+featured_image: "thumbnail-LegalModernization.jpg"
 project_url: "https://legalmodernism.org"
+status:
+- active: true
+featured_project: true
+funders:
+gallery:
+  - "project-LegalModernization-scaled.jpg"
 ---
 
 # Legal Modernism

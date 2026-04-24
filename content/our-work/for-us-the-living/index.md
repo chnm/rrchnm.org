@@ -1,23 +1,18 @@
 ---
-
-
-
-
-categories:
-- Education
-date: '2022-03-24T11:29:28Z'
+title: "For Us The Living"
+slug: "for-us-the-living"
 draft: true
-featured_image: thumbnail-for-us-the-living.jpg
-lastmod: '2022-05-18T10:40:03Z'
-slug: for-us-the-living
-title: For Us The Living
-funders:
-- "U.S. Department of Veterans"
-gallery:
-- "For-Us-The-Living-1-scaled.jpg"
+categories:
+  - "Education"
+featured_image: "thumbnail-for-us-the-living.jpg"
 project_url: "https://forustheliving.org/"
 status:
 - active: false
+featured_project: false
+funders:
+  - "U.S. Department of Veterans"
+gallery:
+  - "For-Us-The-Living-1-scaled.jpg"
 ---
 
 # For Us The Living

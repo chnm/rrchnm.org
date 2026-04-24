@@ -1,21 +1,18 @@
 ---
-
-
-
-categories:
-- Education
-- Public History
-date: '2022-04-06T16:19:54Z'
+title: "Declaration of Independence by Translation"
+slug: "declaration-of-independence-by-translation"
 draft: false
-featured_image: thumbnail-independence.jpg
-lastmod: '2022-05-18T10:00:29Z'
-slug: declaration-of-independence-by-translation
-title: Declaration of Independence by Translation
-gallery:
-- "declaration-of-independence-scaled.jpg"
+categories:
+  - "Education"
+  - "Public History"
+featured_image: "thumbnail-independence.jpg"
 project_url: "https://chnm.gmu.edu/declaration/"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
+  - "declaration-of-independence-scaled.jpg"
 ---
 
 # Declaration of Independence by Translation

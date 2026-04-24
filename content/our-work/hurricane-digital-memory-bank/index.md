@@ -1,23 +1,18 @@
 ---
-
-
-
-
-categories:
-- Public History
-date: '2022-05-16T17:03:43Z'
+title: "Hurricane Digital Memory Bank"
+slug: "hurricane-digital-memory-bank"
 draft: false
-featured_image: thumbnail-hurricane.jpg
-lastmod: '2022-05-18T11:31:46Z'
-slug: hurricane-digital-memory-bank
-title: Hurricane Digital Memory Bank
-funders:
-- "Alfred P. Sloan Foundation"
-gallery:
-- "Hurricane-Digital-Memory-Bank-1-scaled.jpg"
+categories:
+  - "Public History"
+featured_image: "thumbnail-hurricane.jpg"
 project_url: "http://hurricanearchive.org"
 status:
 - active: false
+featured_project: false
+funders:
+  - "Alfred P. Sloan Foundation"
+gallery:
+  - "Hurricane-Digital-Memory-Bank-1-scaled.jpg"
 ---
 
 # Hurricane Digital Memory Bank

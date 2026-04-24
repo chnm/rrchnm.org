@@ -1,18 +1,17 @@
 ---
-
-
-
-categories:
-- Public History
-date: '2023-04-04T15:49:11Z'
+title: "Hearing the Americas"
+slug: "hearing-the-americas"
 draft: false
-featured_image: HearingTheAmericas.jpg
-lastmod: '2023-04-04T15:59:16Z'
-slug: hearing-the-americas
-title: Hearing the Americas
-gallery:
-- "HearingTheAmericas-1-scaled.jpg"
+categories:
+  - "Public History"
+featured_image: "HearingTheAmericas.jpg"
 project_url: "https://hearingtheamericas.org"
+status:
+- active: true
+featured_project: false
+funders:
+gallery:
+  - "HearingTheAmericas-1-scaled.jpg"
 ---
 
 # Hearing the Americas

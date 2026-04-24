@@ -1,24 +1,19 @@
 ---
-
-
-
-
-categories:
-- Education
-- Public History
-date: '2022-03-24T16:42:55Z'
+title: "THATCamp"
+slug: "thatcamp"
 draft: false
-featured_image: thumbnail-THATCamp.jpg
-lastmod: '2022-05-17T11:53:20Z'
-slug: thatcamp
-title: THATCamp
-funders:
-- "Andrew W. Mellon Foundation"
-gallery:
-- "That-Camp-1-scaled.jpg"
+categories:
+  - "Education"
+  - "Public History"
+featured_image: "thumbnail-THATCamp.jpg"
 project_url: "http://thatcamp.org"
 status:
 - active: false
+featured_project: false
+funders:
+  - "Andrew W. Mellon Foundation"
+gallery:
+  - "That-Camp-1-scaled.jpg"
 ---
 
 # THATCamp

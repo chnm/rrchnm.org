@@ -1,20 +1,17 @@
 ---
-
-
-
-categories:
-- Public History
-date: '2022-05-17T12:17:26Z'
+title: "Transatlantic Encounters"
+slug: "transatlantic-encounters"
 draft: true
-featured_image: thumbnail-transatlantic-encounters.jpg
-lastmod: '2022-05-18T10:58:22Z'
-slug: transatlantic-encounters
-title: Transatlantic Encounters
-gallery:
-- "Transatlantic-Encounters-1-scaled.jpg"
+categories:
+  - "Public History"
+featured_image: "thumbnail-transatlantic-encounters.jpg"
 project_url: "https://transatlanticencounters.rrchnm.org/"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
+  - "Transatlantic-Encounters-1-scaled.jpg"
 ---
 
 # Transatlantic Encounters

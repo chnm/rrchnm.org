@@ -1,21 +1,17 @@
 ---
-
-
-
-
-categories:
-- Education
-date: '2022-04-08T16:13:23Z'
+title: "For Virginians: Government Matters"
+slug: "for-virginians-government-matters"
 draft: true
-featured_image: thumbnail-virginians-government.jpg
-lastmod: '2022-05-17T14:06:48Z'
-slug: for-virginians-government-matters
-title: 'For Virginians: Government Matters'
-gallery:
-- "For-Virginians-1-scaled.jpg"
+categories:
+  - "Education"
+featured_image: "thumbnail-virginians-government.jpg"
 project_url: "https://vagovernmentmatters.org/"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
+  - "For-Virginians-1-scaled.jpg"
 ---
 
 # For Virginians: Government Matters

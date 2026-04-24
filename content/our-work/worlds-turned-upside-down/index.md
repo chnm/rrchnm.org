@@ -1,16 +1,16 @@
 ---
-
-
-categories:
-- Public History
-date: '2024-01-19T15:14:49Z'
+title: "Worlds Turned Upside Down"
+slug: "worlds-turned-upside-down"
 draft: false
-featured_image: Worlds_1080x1080.jpg
-lastmod: '2025-09-03T15:29:07Z'
-slug: worlds-turned-upside-down
-title: Worlds Turned Upside Down
-gallery:
+categories:
+  - "Public History"
+featured_image: "Worlds_1080x1080.jpg"
 project_url: "https://podcasts.rrchnm.org/show/worlds-turned-upside-down/"
+status:
+- active: true
+featured_project: false
+funders:
+gallery:
 ---
 
 # Worlds Turned Upside Down

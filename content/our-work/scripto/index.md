@@ -1,21 +1,18 @@
 ---
-
-
-
-categories:
-- Data-Driven History
-- Public History
-date: '2022-05-17T11:16:24Z'
+title: "Scripto"
+slug: "scripto"
 draft: true
-featured_image: thumbnail-scripto-3.jpg
-lastmod: '2022-05-17T11:19:57Z'
-slug: scripto
-title: Scripto
-gallery:
-- "Scripto-1-scaled.jpg"
+categories:
+  - "Data-Driven History"
+  - "Public History"
+featured_image: "thumbnail-scripto-3.jpg"
 project_url: "http://scripto.org"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
+  - "Scripto-1-scaled.jpg"
 ---
 
 # Scripto

@@ -1,23 +1,18 @@
 ---
-
-
-
-
-categories:
-- Public History
-date: '2022-05-16T16:51:26Z'
+title: "Histories of the National Mall"
+slug: "histories-of-the-national-mall"
 draft: false
-featured_image: thumbnail-national-mall-5.jpg
-lastmod: '2022-07-01T14:46:18Z'
-slug: histories-of-the-national-mall
-title: Histories of the National Mall
-funders:
-- "National Endowment for the Humanities"
-gallery:
-- "Histories-of-the-National-Mall-1-scaled.jpg"
+categories:
+  - "Public History"
+featured_image: "thumbnail-national-mall-5.jpg"
 project_url: "http://mallhistory.org"
 status:
 - active: false
+featured_project: false
+funders:
+  - "National Endowment for the Humanities"
+gallery:
+  - "Histories-of-the-National-Mall-1-scaled.jpg"
 ---
 
 # Histories of the National Mall

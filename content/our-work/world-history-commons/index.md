@@ -1,23 +1,19 @@
 ---
-
-
-
-
-categories:
-- Education
-date: '2022-05-17T13:03:49Z'
+title: "World History Commons"
+slug: "world-history-commons"
 draft: false
-featured_image: WHC-thumbnail.jpg
-lastmod: '2022-05-17T13:05:53Z'
-slug: world-history-commons
-title: World History Commons
+categories:
+  - "Education"
+featured_image: "WHC-thumbnail.jpg"
+project_url: "http://worldhistorycommons.org"
+status:
+- active: true
 featured_project: true
 funders:
-- "American Council of Learned Societies"
-- "National Endowment for the Humanities"
+  - "American Council of Learned Societies"
+  - "National Endowment for the Humanities"
 gallery:
-- "WHC-flyer-scaled-1.jpg"
-project_url: "http://worldhistorycommons.org"
+  - "WHC-flyer-scaled-1.jpg"
 ---
 
 # World History Commons

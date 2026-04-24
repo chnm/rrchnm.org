@@ -1,17 +1,16 @@
 ---
-
-
-categories:
-- Public History
-date: '2024-02-12T17:44:26Z'
+title: "History and Culture Access Consortium"
+slug: "history-and-culture-access-consortium"
 draft: false
-featured_image: hcac-logo-01.jpg
-lastmod: '2024-02-12T17:44:26Z'
-slug: history-and-culture-access-consortium
-title: History and Culture Access Consortium
-featured_project: true
-gallery:
+categories:
+  - "Public History"
+featured_image: "hcac-logo-01.jpg"
 project_url: "https://nmaahc.si.edu/connect/strategic-partnerships/hbcu-history-and-culture-access-consortium"
+status:
+- active: true
+featured_project: true
+funders:
+gallery:
 ---
 
 # History and Culture Access Consortium

@@ -1,21 +1,18 @@
 ---
-
-
-
-categories:
-- Data-Driven History
-- Public History
-date: '2022-04-06T16:15:27Z'
+title: "DataScribe"
+slug: "datascribe"
 draft: true
-featured_image: thumbnail-datascribe.jpg
-lastmod: '2022-05-17T16:41:50Z'
-slug: datascribe
-title: DataScribe
-gallery:
-- "DataScribe-1-scaled.jpg"
+categories:
+  - "Data-Driven History"
+  - "Public History"
+featured_image: "thumbnail-datascribe.jpg"
 project_url: "https://datascribe.tech/"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
+  - "DataScribe-1-scaled.jpg"
 ---
 
 # DataScribe

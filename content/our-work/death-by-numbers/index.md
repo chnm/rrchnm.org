@@ -1,22 +1,18 @@
 ---
-
-
-
-
-categories:
-- Data-Driven History
-date: '2022-04-06T16:17:01Z'
+title: "Death By Numbers"
+slug: "death-by-numbers"
 draft: false
-featured_image: thumbnail-death-by-numbers.jpg
-lastmod: '2022-05-17T16:19:45Z'
-slug: death-by-numbers
-title: Death By Numbers
+categories:
+  - "Data-Driven History"
+featured_image: "thumbnail-death-by-numbers.jpg"
+project_url: "https://deathbynumbers.org/"
+status:
+- active: true
 featured_project: true
 funders:
-- "National Science Foundation"
+  - "National Science Foundation"
 gallery:
-- "Death-By-Numbers-1-scaled.jpg"
-project_url: "https://deathbynumbers.org/"
+  - "Death-By-Numbers-1-scaled.jpg"
 ---
 
 # Death By Numbers

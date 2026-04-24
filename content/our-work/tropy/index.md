@@ -1,24 +1,19 @@
 ---
-
-
-
-
-categories:
-- Data-Driven History
-- Public History
-date: '2022-05-17T12:41:49Z'
+title: "Tropy"
+slug: "tropy"
 draft: false
-featured_image: thumbnail-Tropy.jpg
-lastmod: '2022-05-17T12:44:51Z'
-slug: tropy
-title: Tropy
-funders:
-- "Andrew W. Mellon Foundation"
-gallery:
-- "Tropy-1-scaled.jpg"
+categories:
+  - "Data-Driven History"
+  - "Public History"
+featured_image: "thumbnail-Tropy.jpg"
 project_url: "http://tropy.org"
 status:
 - active: false
+featured_project: false
+funders:
+  - "Andrew W. Mellon Foundation"
+gallery:
+  - "Tropy-1-scaled.jpg"
 ---
 
 # Tropy

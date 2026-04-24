@@ -1,21 +1,17 @@
 ---
-
-
-
-
-categories:
-- Education
-date: '2022-05-17T12:58:34Z'
+title: "Virginia Studies"
+slug: "virginia-studies"
 draft: true
-featured_image: thumbnail-virginia-studies.jpg
-lastmod: '2022-05-17T12:58:34Z'
-slug: virginia-studies
-title: Virginia Studies
-gallery:
-- "Virginia-Studies-1-scaled.jpg"
+categories:
+  - "Education"
+featured_image: "thumbnail-virginia-studies.jpg"
 project_url: "http://virginiastudies.org"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
+  - "Virginia-Studies-1-scaled.jpg"
 ---
 
 # Virginia Studies

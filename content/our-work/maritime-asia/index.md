@@ -1,21 +1,18 @@
 ---
-
-
-
-categories:
-- Education
-- Public History
-date: '2022-05-17T09:48:51Z'
+title: "Maritime Asia"
+slug: "maritime-asia"
 draft: false
-featured_image: thumbnail-maritime.jpg
-lastmod: '2022-05-17T09:48:51Z'
-slug: maritime-asia
-title: Maritime Asia
-gallery:
-- "Maritime-Asia-1-scaled.jpg"
+categories:
+  - "Education"
+  - "Public History"
+featured_image: "thumbnail-maritime.jpg"
 project_url: "http://maritime-asia.org"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
+  - "Maritime-Asia-1-scaled.jpg"
 ---
 
 # Maritime Asia

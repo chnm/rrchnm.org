@@ -1,16 +1,17 @@
 ---
-categories:
-- Scholarly Communication
-date: '2022-04-06T16:07:05Z'
+title: "Current Research In Digital History"
+slug: "current-research-in-digital-history"
 draft: false
-featured_image: thumbnail-current-research-in-digital-history-v2.jpg
-lastmod: '2022-07-01T15:16:58Z'
-slug: current-research-in-digital-history
-title: Current Research In Digital History
-featured_project: false
-gallery:
-- "Current-Research-in-Digital-History-1-scaled.jpg"
+categories:
+  - "Scholarly Communication"
+featured_image: "thumbnail-current-research-in-digital-history-v2.jpg"
 project_url: "https://crdh.rrchnm.org/"
+status:
+- active: true
+featured_project: false
+funders:
+gallery:
+  - "Current-Research-in-Digital-History-1-scaled.jpg"
 ---
 
 # Current Research In Digital History

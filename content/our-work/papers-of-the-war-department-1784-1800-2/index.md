@@ -1,25 +1,20 @@
 ---
-
-
-
-
-categories:
-- Public History
-date: '2022-05-17T10:51:19Z'
+title: "Papers of the War Department 1784-1800"
+slug: "papers-of-the-war-department-1784-1800-2"
 draft: false
-featured_image: thumbnail-papers-of-the-war-department.jpg
-lastmod: '2022-05-17T10:52:45Z'
-slug: papers-of-the-war-department-1784-1800-2
-title: Papers of the War Department 1784-1800
-funders:
-- "American Council of Learned Societies"
-- "National Endowment for the Humanities"
-- "National Historical Publications and Records Commission"
-gallery:
-- "Papers-of-the-War-Department-1-scaled.jpg"
+categories:
+  - "Public History"
+featured_image: "thumbnail-papers-of-the-war-department.jpg"
 project_url: "http://wardepartmentpapers.org"
 status:
 - active: false
+featured_project: false
+funders:
+  - "American Council of Learned Societies"
+  - "National Endowment for the Humanities"
+  - "National Historical Publications and Records Commission"
+gallery:
+  - "Papers-of-the-War-Department-1-scaled.jpg"
 ---
 
 # Papers of the War Department 1784-1800

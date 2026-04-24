@@ -1,18 +1,17 @@
 ---
-
-
-
-categories:
-- Education
-- Public History
-date: '2022-03-24T10:14:56Z'
+title: "American History Now"
+slug: "american-history-now"
 draft: false
-featured_image: thumbnail-AHN-1.jpg
-lastmod: '2022-05-18T09:49:24Z'
-slug: american-history-now
-title: American History Now
+categories:
+  - "Education"
+  - "Public History"
+featured_image: "thumbnail-AHN-1.jpg"
+project_url: ""
+status:
+- active: true
+featured_project: false
 funders:
-- "Una Chapman Cox Foundation"
+  - "Una Chapman Cox Foundation"
 gallery:
 ---
 

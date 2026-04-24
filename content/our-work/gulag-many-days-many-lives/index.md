@@ -1,20 +1,17 @@
 ---
-
-
-
-categories:
-- Public History
-date: '2022-05-16T16:12:14Z'
+title: "Gulag: Many Days, Many Lives"
+slug: "gulag-many-days-many-lives"
 draft: false
-featured_image: thumbnail-gulag.jpg
-lastmod: '2023-07-13T14:02:16Z'
-slug: gulag-many-days-many-lives
-title: 'Gulag: Many Days, Many Lives'
-gallery:
-- "Gulag-1-scaled.jpg"
+categories:
+  - "Public History"
+featured_image: "thumbnail-gulag.jpg"
 project_url: "https://gulaghistory.org/index.html"
 status:
 - active: false
+featured_project: false
+funders:
+gallery:
+  - "Gulag-1-scaled.jpg"
 ---
 
 # Gulag: Many Days, Many Lives

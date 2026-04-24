@@ -1,22 +1,19 @@
 ---
-
-
-
-
-categories:
-- Education
-date: '2022-05-16T16:45:08Z'
+title: "Historical Thinking Matters"
+slug: "historical-thinking-matters"
 draft: false
-featured_image: thumbnail-history-matters.jpg
-lastmod: '2022-05-18T10:47:26Z'
-slug: historical-thinking-matters
-title: Historical Thinking Matters
-funders:
-- "Carnegie Corporation"
-- "Hewlett Foundation"
-gallery:
-- "historical-thinking-matters-scaled.jpg"
+categories:
+  - "Education"
+featured_image: "thumbnail-history-matters.jpg"
 project_url: "http://historicalthinkingmatters.org"
+status:
+- active: true
+featured_project: false
+funders:
+  - "Carnegie Corporation"
+  - "Hewlett Foundation"
+gallery:
+  - "historical-thinking-matters-scaled.jpg"
 ---
 
 # Historical Thinking Matters

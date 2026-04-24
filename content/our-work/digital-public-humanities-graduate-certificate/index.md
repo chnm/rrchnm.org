@@ -1,17 +1,17 @@
 ---
-
-
-categories:
-- Education
-- Public History
-date: '2022-04-06T16:37:03Z'
+title: "Digital Public Humanities Graduate Certificate"
+slug: "digital-public-humanities-graduate-certificate"
 draft: false
-featured_image: thumbnail-graduate-certificate.jpg
-lastmod: '2025-05-20T13:58:31Z'
-slug: digital-public-humanities-graduate-certificate
-title: Digital Public Humanities Graduate Certificate
-gallery:
+categories:
+  - "Education"
+  - "Public History"
+featured_image: "thumbnail-graduate-certificate.jpg"
 project_url: "https://masononline.gmu.edu/programs/digital-public-humanities-graduate-certificate/"
+status:
+- active: true
+featured_project: false
+funders:
+gallery:
 ---
 
 # Digital Public Humanities Graduate Certificate
