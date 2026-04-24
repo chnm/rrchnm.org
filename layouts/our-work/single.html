@@ -15,9 +15,6 @@
         </ol>
       </nav>
       <h1 class="font-serif text-3xl lg:text-5xl text-white leading-tight max-w-3xl">{{ partial "smartify.html" $.Title }}</h1>
-      {{ with $.Params.intro_text }}
-      <p class="mt-3 text-base lg:text-lg text-white/80 leading-relaxed max-w-2xl">{{ . }}</p>
-      {{ end }}
     </div>
   </div>
   {{ end }}
@@ -27,12 +24,6 @@
 
     {{/* Main content */}}
     <div class="lg:w-2/3 min-w-0">
-      {{ if and .Params.intro_text (not $heroImg) }}
-      <div class="border-l-2 border-red-brand pl-6 mb-8">
-        <p class="text-lg text-stone-700 leading-relaxed">{{ .Params.intro_text }}</p>
-      </div>
-      {{ end }}
-
       <div class="prose prose-stone max-w-none">
         {{ .Content }}
       </div>
@@ -95,21 +86,6 @@
             <a href="/projects/?category={{ . | urlquery }}" class="text-sm bg-stone-100 text-stone-700 hover:bg-red-brand hover:text-white px-3 py-1 rounded-full transition-colors">{{ . }}</a>
             {{ end }}
           </div>
-        </div>
-        {{ end }}
-
-        {{/* Affiliates / People */}}
-        {{ with .Params.affiliates }}
-        <div>
-          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">People</h3>
-          <ul class="space-y-2">
-            {{ range . }}
-            <li class="text-sm">
-              <span class="text-stone-900 font-medium">{{ .name }}</span>
-              {{ with .role }}<span class="text-stone-500"> &middot; {{ . }}</span>{{ end }}
-            </li>
-            {{ end }}
-          </ul>
         </div>
         {{ end }}
 
