@@ -496,6 +496,17 @@
   categories:
     - "public history"
 
+- title: "Models of Argument-Driven Digital History"
+  url: "https://model-articles.rrchnm.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: true
+  featured_project: false
+  image: "/media/projects/model-articles/thumbnail.png"
+  categories:
+    - "scholarly communication"
+
 - title: "Green Tunnel Podcast"
   url: "https://podcasts.rrchnm.org/show/the-green-tunnel/"
   mars_url: ~
@@ -537,6 +548,17 @@
   gallery: false
   featured_project: false
   image: "/media/projects/tropy/thumbnail-Tropy.jpg"
+  categories:
+    - "software"
+
+- title: "PressForward"
+  url: "https://pressforward.org"
+  mars_url: ~
+  years_active: ~
+  active: false
+  gallery: false
+  featured_project: false
+  image: ~
   categories:
     - "software"
 
