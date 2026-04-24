@@ -4,4 +4,4 @@ url: /backlist/
 layout: backlist
 ---
 
-A complete list of past RRCHNM projects. For current and select past projects, visit our [Projects](/projects/) page.
+A list of RRCHNM projects which are retired or have moved elsewhere. See our [current projects](/projects/).
