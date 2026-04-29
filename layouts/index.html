@@ -25,9 +25,9 @@
             <a href="{{ .Site.Params.donate_url }}" target="_blank" rel="noopener" class="inline-block bg-red-brand text-white text-sm font-semibold px-5 py-2.5 rounded-md hover:bg-red-dark transition-colors">Support Our Work<span class="sr-only"> (opens in new window)</span> &rarr;</a>
             <a href="/our-story/" class="text-sm font-semibold text-stone-600 hover:text-red-brand transition-colors">About Us &rarr;</a>
           </div>
-          <div class="flex items-center gap-3" role="list">
+          <ul class="flex items-center gap-3 list-none p-0 m-0" role="list">
             {{ partial "social-icons.html" (dict "Site" .Site "size" "w-4 h-4" "color" "text-stone-400 hover:text-stone-700") }}
-          </div>
+          </ul>
         </div>
       </div>
 
