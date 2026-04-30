@@ -20,10 +20,6 @@ hero_button_url:
 
 {{< figure src="/media/pages/roy-rosenzweig-mural.jpg" align="right" alt="Mural of Roy Rosenzweig on display at RRCHNM’s office." caption="This mural of Roy, on display at RRCHNM’s office, was designed and created by George Mason University art student Khoi Le and friends." >}}
 
-You can keep the buttons, images, annual reports, etc. This text can completely replace the text on the about us page. 
-
--------  
-
 At the Roy Rosenzweig Center for History and New Media we use digital media and computer technology to democratize history: to incorporate multiple voices, reach diverse audiences, and encourage popular participation in presenting and preserving the past.
 
 We are a research center that is a part of the [Department of History and Art History](https://historyarthistory.gmu.edu) at George Mason University. 
@@ -35,18 +31,8 @@ RRCHNM has fulfilled our mission in many ways over the past three decades. The w
 - We create data-driven histories.
 - We train the next generation of digital historians through our PhD program, certificate in digital public history, and other graduate degrees.
 
-<div class="not-prose my-12">
-<div class="grid grid-cols-2 md:grid-cols-3 gap-3">
-  <img src="happy-hour-oct-2022.jpg" alt="RRCHNM happy hour, October 2022" class="rounded-lg w-full aspect-[4/3] object-cover">
-  <img src="katie-rae-alexandra-timmia-award-2025.jpg" alt="Katie, Rae, Alexandra, and Timmia at an award ceremony, April 2025" class="rounded-lg w-full aspect-[4/3] object-cover">
-  <img src="nates-presentation.jpg" alt="Nate's presentation" class="rounded-lg w-full aspect-[4/3] object-cover">
-  <img src="kristins-goodbye.jpg" alt="Team gathering for Kristin's goodbye" class="rounded-lg w-full aspect-[4/3] object-cover">
-  <img src="book-cake.jpg" alt="Book cake celebration" class="rounded-lg w-full aspect-[4/3] object-cover">
-  <img src="haha-kristin.jpg" alt="Kristin at RRCHNM" class="rounded-lg w-full aspect-[4/3] object-cover">
-</div>
-</div>
 
-### Our history
+### Our History
 
 <a href="https://thanksroy.org/"><button>Our Founder →</button></a>
 
@@ -67,5 +53,15 @@ Over the past three decades, our work has taken many different forms.
 
 Today RRCHNM continues to be focused on educational resources and public history, while adding an emphasis on data-driven and spatial histories. One cannot be like Roy Rosenzweig by imitating him, because Rosenzweig was not an imitator. We seek to carry on the legacy of our founder by creating meaningful histories in the media that are new in our time.
 
+<div class="not-prose my-12">
+<div class="grid grid-cols-2 md:grid-cols-3 gap-3">
+  <img src="happy-hour-oct-2022.jpg" alt="RRCHNM happy hour, October 2022" class="rounded-lg w-full aspect-[4/3] object-cover">
+  <img src="katie-rae-alexandra-timmia-award-2025.jpg" alt="Katie, Rae, Alexandra, and Timmia at an award ceremony, April 2025" class="rounded-lg w-full aspect-[4/3] object-cover">
+  <img src="nates-presentation.jpg" alt="Nate's presentation" class="rounded-lg w-full aspect-[4/3] object-cover">
+  <img src="kristins-goodbye.jpg" alt="Team gathering for Kristin's goodbye" class="rounded-lg w-full aspect-[4/3] object-cover">
+  <img src="book-cake.jpg" alt="Book cake celebration" class="rounded-lg w-full aspect-[4/3] object-cover">
+  <img src="haha-kristin.jpg" alt="Kristin at RRCHNM" class="rounded-lg w-full aspect-[4/3] object-cover">
+</div>
+</div>
 {{< support-btn >}}
 
