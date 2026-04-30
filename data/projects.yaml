@@ -286,6 +286,18 @@
   categories:
     - "education"
 
+- title: "Early Modern Mapathons"
+  url: "https://emm.rrchnm.org/"
+  mars_url: ~
+  years_active: "2025-2026"
+  active: true 
+  gallery: true 
+  featured_project: false 
+  image: "/media/projects/emm/emm.jpg"
+  categories:
+    - "education"
+
+
 - title: "For Us The Living"
   url: "https://forustheliving.org/"
   mars_url: ~

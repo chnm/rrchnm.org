@@ -9,6 +9,6 @@ title: Our People
 type: page
 url: /people/
 hero_image: /media/pages/our-people-hero.jpg
-hero_text: "Our team includes scholars, researchers, developers, programmers, designers, project managers, educators, multimedia producers, and graduate and undergraduate students. Our backgrounds include history, museum studies, computer science, graphic design, teaching, and journalism."
+hero_text: "Our team includes faculty, developers, technologists, graduate students and undergraduates, support staff, and postdocs. Drawing on many different skillsets, we all draw on the discipline of history."
 ---
 

@@ -102,7 +102,7 @@
 
   /* Pullquote — editorial highlight within prose */
   .pullquote {
-    @apply font-serif text-xl lg:text-2xl font-normal text-stone-900 leading-relaxed;
+    @apply font-serif text-xl md:text-2xl font-normal text-stone-900 leading-relaxed;
     @apply border-l-4 border-red-brand pl-6 my-10;
     @apply relative;
   }

@@ -6,7 +6,7 @@
   <div class="relative bg-stone-900 overflow-hidden -mt-12 lg:-mt-16 mb-10" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw;">
     <img src="{{ . }}" alt="{{ $.Title }}" class="absolute inset-0 w-full h-full object-cover {{ if not $.Params.featured_image }}object-[center_20%]{{ end }}">
     <div class="absolute inset-0 bg-gradient-to-r from-stone-900 via-stone-900/80 to-transparent"></div>
-    <div class="relative z-10 mx-auto max-w-site px-6 lg:px-10 py-16 lg:py-24 min-h-[300px] lg:min-h-[380px] flex flex-col justify-end">
+    <div class="relative z-10 mx-auto max-w-site px-6 md:px-8 lg:px-10 py-16 lg:py-24 min-h-[300px] md:min-h-[340px] lg:min-h-[380px] flex flex-col justify-end">
       <nav aria-label="Breadcrumb" class="mb-4">
         <ol class="flex items-center text-sm text-white/60">
           <li><a href="/" class="hover:text-white transition-colors">Home</a></li>
@@ -23,10 +23,10 @@
   {{ end }}
 
   {{/* Two-column layout: content (2/3) + sidebar (1/3) */}}
-  <div class="flex flex-col lg:flex-row gap-10 lg:gap-16">
+  <div class="flex flex-col md:flex-row gap-10 lg:gap-16">
 
     {{/* Main content */}}
-    <div class="lg:w-2/3 min-w-0">
+    <div class="md:w-2/3 min-w-0">
       <div class="prose prose-stone max-w-none">
         {{ .Content }}
       </div>
@@ -35,9 +35,9 @@
     {{/* Sidebar */}}
     {{ $isNews := false }}
     {{ with .Params.categories }}{{ range . }}{{ if eq . "News" }}{{ $isNews = true }}{{ end }}{{ end }}{{ end }}
-    <hr class="lg:hidden border-stone-200">
-    <aside class="lg:w-1/3">
-      <div class="lg:sticky lg:top-8 space-y-8">
+    <hr class="md:hidden border-stone-200">
+    <aside class="md:w-1/3">
+      <div class="md:sticky md:top-8 space-y-8">
 
         {{/* Crosspost notice */}}
         {{ with .Params.crossposted }}
