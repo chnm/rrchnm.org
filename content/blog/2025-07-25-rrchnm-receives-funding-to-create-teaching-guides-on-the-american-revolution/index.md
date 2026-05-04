@@ -24,12 +24,12 @@ The new set of guides will be published on [Teachinghistory.org](https://teachin
 
 ---
 
-{{< figure src="LOGOSLOC-1024x379.jpg" >}}
+{{< figure src="LOGOSLOC-1024x379.jpg" alt="Logo for the Library of Congress Teaching with Primary Sources program, featuring bold black and orange typography on a white background. This alt text was written by a generative AI." >}}
 **About the Teaching with Primary Sources Grant Program**
 
 Since 2006, Congress has appropriated funds to the Teaching with Primary Sources (TPS) program to establish and fund a consortium of organizations working to incorporate “the digital collections of the Library of Congress into educational curricula.” Each year, members of the [TPS Consortium](https://www.loc.gov/programs/teachers/about-this-program/teaching-with-primary-sources-partner-program/tps-consortium/) support tens of thousands of learners to build knowledge, engagement and critical thinking skills with items from the Library’s collections.
 
-{{< figure src="AHA_logo_clr-1024x461.png" >}}
+{{< figure src="AHA_logo_clr-1024x461.png" alt="Logo of the American Historical Association, rendered in dark navy text with teal accent lines intersecting the letters on a white background. This alt text was written by a generative AI." >}}
 **About the American Historical Association**
 
 The American Historical Association creates a community for historians of varying specializations through institutes, providing resources for students, offering grants and career opportunities, and hosting an annual meeting for historians to share their work. For more information about the American Historical Association, please visit their website: [www.historians.org](https://www.historians.org/)

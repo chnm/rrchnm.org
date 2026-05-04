@@ -84,6 +84,10 @@ check-links: build
     done
     @echo "Done."
 
+# Generate alt text for images missing it (requires Ollama + llava)
+alt-text *FLAGS:
+    python3 scripts/generate-alt-text.py {{FLAGS}}
+
 # Verify the site builds without errors
 verify:
     hugo --minify 2>&1 | tail -10

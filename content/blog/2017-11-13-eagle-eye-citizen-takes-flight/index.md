@@ -11,7 +11,7 @@ slug: eagle-eye-citizen-takes-flight
 title: Eagle Eye Citizen takes flight!
 ---
 
-{{< figure src="eagleeye.png" >}}The Roy Rosenzweig Center for History and New Media is proud to announce the launch of [Eagle Eye Citizen,](https://eagleeyecitizen.org/) a Congress, Civic Participation, and Primary Sources Project supported by a grant from the Library of Congress.
+{{< figure src="eagleeye.png" alt="Logo for Eagle Eye Citizen featuring bold serif and sans-serif text alongside a stylized blue eye icon with a star pupil. This alt text was written by a generative AI." >}}The Roy Rosenzweig Center for History and New Media is proud to announce the launch of [Eagle Eye Citizen,](https://eagleeyecitizen.org/) a Congress, Civic Participation, and Primary Sources Project supported by a grant from the Library of Congress.
 Eagle Eye Citizen engages middle and high school students in solving and creating interactive challenges about Congress, American history, civics, and government with Library of Congress primary sources in order to develop students' civic understanding and historical thinking skills.
 **Engaging Challenges**
 RRCHNM conceptualized three challenge types for students and teachers to solve and create:

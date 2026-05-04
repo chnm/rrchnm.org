@@ -20,7 +20,7 @@ We are grateful to acknowledge a second NEH grant in support of our *[American R
 
 At the start of the twentieth century, Congress authorized the U.S. Census Bureau to survey the nation’s “religious bodies.” For five decades, the Bureau partnered with religious organizations to identify hundreds of thousands of individual congregations across the country. Though the Census Bureau conducted several censuses of religion, only for the 1926 Census of Religious Bodies are the original schedules, or forms, preserved.
 
-{{< figure src="6baddb3ea702a94bec95b1a777da8e62fb80a005-2-scaled.jpg" >}}
+{{< figure src="6baddb3ea702a94bec95b1a777da8e62fb80a005-2-scaled.jpg" alt="A filled-out 1926 United States Census of Religious Bodies schedule for a Seventh Day Adventist church in Lewiston, Maine, showing membership counts, church buildings, expenditures, and pastor information. This alt text was written by a generative AI." >}}
 
 A schedule from the 1926 Census of Religious Bodies, showing a Seventh Day Adventist congregation in Maine.
 

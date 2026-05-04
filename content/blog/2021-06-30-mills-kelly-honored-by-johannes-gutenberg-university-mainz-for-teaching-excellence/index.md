@@ -19,4 +19,4 @@ The president of the university, Prof. Dr. Georg Krausch, said (in translation),
 
 A [fuller story](https://nachrichten.idw-online.de/2021/06/18/mills-kelly-traeger-des-gutenberg-teaching-awards-besucht-die-jgu/) about Kelly's award is available on the JGU website.
 
-{{< figure src="newsimage351588-scaled-1-683x1024.jpg" >}}
+{{< figure src="newsimage351588-scaled-1-683x1024.jpg" alt="A smiling man with short gray hair and glasses holds a navy blue folder bearing an official university seal, standing outdoors in front of a stone building. This alt text was written by a generative AI." >}}

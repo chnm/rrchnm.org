@@ -23,7 +23,7 @@ It's been a great ride these past three years bringing this show from an idea I 
 
 You can help us with our final episode. It will be about the future of the AT, not its past, and we’d like to hear from you about what *you* think about the future of this remarkable trail. We’ve set up a voicemail link on over on [r2studios.org](https://www.r2studios.org/show/the-green-tunnel/) where you can leave us your thoughts on the future of the trail. To fit as many voicemails as possible into our final episode, we're asking that you try to limit your message to about 30 seconds.
 
-{{< figure src="voicemail.png" >}}
+{{< figure src="voicemail.png" alt="A voicemail recording prompt overlays The Green Tunnel podcast website, asking visitors to share their hopes for the future of the AT for an upcoming episode. This alt text was written by a generative AI." >}}
 
 Click "Send a Voicemail" on the right side of the website to generate the voicemail pop-up. Than, click "Start Recording" to leave your message.
 

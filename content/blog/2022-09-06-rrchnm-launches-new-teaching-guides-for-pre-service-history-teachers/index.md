@@ -20,7 +20,7 @@ RRCHNM is proud to announce the launch of four new resources for pre-service tea
 
 Now more than ever teaching history is fraught and these resources acknowledge the particular difficulty prospective history teachers face in teaching potentially emotional topics. The guides provide activities centered on analyzing primary sources and model the historian’s approach of understanding people in the past through evidence they left behind — to include the words they used, the songs they sang, the buildings they built, and many other sources.
 
-{{< figure src="MormonJourneyMap.jpg" >}}
+{{< figure src="MormonJourneyMap.jpg" alt="An 1846–1847 illustrated panoramic map titled \"Route of the Mormon Pioneers from Nauvoo to Great Salt Lake,\" depicting the westward trail through mountains and plains with wagon trains, encampments, and Native American tipis along the route. This alt text was written by a generative AI." >}}
 
 Mormon Journey Map featured in the teaching guide [Mormons and Westward Expansion](https://teachinghistory.org/teaching-materials/teaching-guides/25870).
 

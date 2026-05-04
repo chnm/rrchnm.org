@@ -19,7 +19,7 @@ From March 19th to March 21st, 2025, the German Historical Institute (GHI) in Wa
 
 Designed as a forum, the conference prompted attendees to share what opportunities, problems, and concerns arise while “documenting the now.” To allow space for unstructured creativity after long days of conferencing, the GHI team and I also arranged a zine-making workshop in which attendees crafted and exhibited their own mini magazines (just for fun!). As a first-time attendee to the DH conference, I was especially struck by how each presenter chose and justified different methodologies to achieve their project goals. The self-management evident in the still-emerging field reminded me of a Do-It-Yourself ethos usually applied to art and music. Scholars, practitioners, and activists discussed the following topics while sharing their experiences tackling real-time archiving.
 
-{{< figure src="DH_Con_1-scaled.jpg" >}}
+{{< figure src="DH_Con_1-scaled.jpg" alt="Conference participants seated at tables examine printed materials, with craft supplies including scissors, markers, and colorful papers spread across the workspace in a bright, formal room. This alt text was written by a generative AI." >}}
 
 Lauren Rever leading a zine-making workshop
 
@@ -35,7 +35,7 @@ With participants working in various countries, including Brazil, Ukraine, Switz
 
 A prominent topic was the unwitting research subject whose social media, emails, text messages, or forum comments were scraped by researchers or otherwise uploaded to collections. Milligan shared that he could – with little effort – find the identity of those posting hate speech on and after 9/11. European-based scholars wondered what the privacy expectations were for group text chains while evaluating the spread of wartime dis/misinformation on the messaging platform Telegram. While scholars shared their approaches to privacy, few fundamental solutions were reached on this concern.
 
-{{< figure src="DH_Con_2-1-scaled.jpg" >}}
+{{< figure src="DH_Con_2-1-scaled.jpg" alt="A presenter stands at a GHI podium before a seated audience, with a projected slide titled \"Exploring Digital Terror: Using the September 11 Digital Archive for Historical Research\" from the University of Waterloo. This alt text was written by a generative AI." >}}
 
 Ian Milligan in his keynote address
 

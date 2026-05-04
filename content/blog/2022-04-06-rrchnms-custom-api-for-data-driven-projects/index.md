@@ -17,7 +17,7 @@ We have a lot of datasets in play for RRCHNM’s projects. Some of the spatial d
 
 The version of record for these datasets is typically a PostgreSQL database. We use a relational database for—well—all the reasons everyone else uses relational databases. In particular, we value the strong guarantees a database provides about the data being strongly typed and well structured. We find it useful to be able to access the exact same data via, say, R for data analysis and a web application for display. And of course, there is the ability to query and index the data, combine datasets through joins, provide shared access, and so forth. PostgreSQL is not an exciting choice; it may very well be the least exciting choice imaginable. But rock solid and boring is a great place to be for critical infrastructure.
 
-{{< figure src="Data-API.png" >}}
+{{< figure src="Data-API.png" alt="A database table displaying religious denomination records with columns for id, denomination_id, name, family_census, and family_arda, listing groups such as Adventist bodies, Baptist bodies, and Other Groups. This alt text was written by a generative AI." >}}
 
 An example of what some of the data looks like from the American Religious Ecologies project. It might not look like much, but we had to reverse engineer and entire federal census in order to create it.
 
@@ -29,7 +29,7 @@ That still leaves the problem of getting the data out of the database and into t
 - It should be easily extensible as we add new projects, and it should not require us to reinvent the wheel every time we start a new project. Rather, it should let us use existing data and functionality (such as the AHCB dataset I mentioned) across projects.
 - And, if the need arises, it should allow the browser to write back to the database.
 
-{{< figure src="Data-API-2.png" >}}
+{{< figure src="Data-API-2.png" alt="A JSON API response listing RRCHNM data endpoints, with fields for name, path, and purpose describing routes for populated places, Presbyterian statistics, and Religious Bodies Census denomination data. This alt text was written by a generative AI." >}}
 
 JSON from the data API. It’s not exciting, but if it’s what you need, it’s very useful.
 

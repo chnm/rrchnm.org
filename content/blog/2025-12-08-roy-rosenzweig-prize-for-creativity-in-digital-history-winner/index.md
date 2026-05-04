@@ -18,7 +18,7 @@ crossposted:
 
 Congratulations to [Envisioning Seneca Village](https://envisioningsenecavillage.github.io/) on being selected as the 2025 winner of the [American Historical Association’s Roy Rosenzweig Prize for Creativity in Digital History!](https://www.historians.org/award-grant/roy-rosenzweig-prize-for-creativity-in-digital-history/#:~:text=2023,2014)
 
-{{< figure src="image.png" >}}
+{{< figure src="image.png" alt="A three-dimensional aerial map rendering of Manhattan's Central Park West neighborhood, showing numbered historic sites, roads, and landscape features laid out on a flat surface. This alt text was written by a generative AI." >}}
 
 Envisioning Seneca Village is a project depicting what this significant nineteenth-century village might have looked like in the spring of 1855, about two years before it was destroyed by the City of New York to build Central Park. It features an interactive 3D model, a non-interactive tour through the 3D model (A Tour through the Visualization), a printable PDF guide with maps (A Map-based Tour), and supplementary materials. The project is anchored in extensive scholarship and aims to make the village’s history visible to a wide audience.
 

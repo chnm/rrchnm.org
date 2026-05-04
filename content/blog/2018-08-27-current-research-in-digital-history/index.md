@@ -12,7 +12,7 @@ slug: current-research-in-digital-history
 title: Current Research in Digital History
 ---
 
-{{< figure src="CRDH-2.png" >}}
+{{< figure src="CRDH-2.png" alt="Cover of the journal *Current Research in Digital History 2018*, volume 1, featuring bold black typography over a faded historical street map. This alt text was written by a generative AI." >}}
 The inaugural issue of RRCHNM's new annual open-access, peer-reviewed publication [*Current Research in Digital History*](https://crdh.rrchnm.org/) is now live. The issue was edited by Lincoln Mullen and Stephen Robertson, with crucial input from a program committee consisting of Kalani Craig, Jessica Marie Johnson, Michelle Moravec, and Scott Weingart. Editorial Assistant Greta Swain worked throughout the summer to prepare the essays for online publication, in a platform designed by Kim Ngyuen and Ken Alpers that allows for interactive visualizations, data and code appendices and other features not typically available from humanities journals.
 
 The primary [aim](https://crdh.rrchnm.org/about/) of *Current Research in Digital History*is to encourage and publish scholarship in digital history that offers discipline-specific arguments and interpretations. By featuring short essays, it also seeks to provide an opportunity to make arguments on the basis of ongoing research in larger projects.

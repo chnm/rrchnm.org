@@ -14,7 +14,7 @@ tags:
 title: Current Research in Digital History 2019
 ---
 
-{{< figure src="cover-color.jpg" >}}
+{{< figure src="cover-color.jpg" alt="Cover of the Current Research in Digital History 2019 volume, featuring bold black serif text over a faint map of Europe with a blue network graph of connected nodes. This alt text was written by a generative AI." >}}
 
 Today RRCHNM is publishing the second annual issue of our open-access, peer-reviewed publication [*Current Research in Digital History*](https://crdh.rrchnm.org/). This issue features [13 essays](https://crdh.rrchnm.org/volume/2019/) on topics ranging from [Catholic enslavers in early Maryland](https://crdh.rrchnm.org/dev/essays/v02-09-networks-of-piety-and-slavery/), [women’s activism in the 1970s Black Arts Movement](https://crdh.rrchnm.org/dev/essays/v02-13-for-the-love-of-people/), and [a social network analysis of the Colored Conventions](https://crdh.rrchnm.org/dev/essays/v02-02-a-committee-of-the-whole/), to [Latter-day Saints of black-African descent](https://crdh.rrchnm.org/dev/essays/v02-03-century-of-black-mormons/), [nineteenth-century postmistresses](https://crdh.rrchnm.org/dev/essays/v02-08-women-and-federal-officeholding/), and [African American Freedom Colonies in Texas](https://crdh.rrchnm.org/dev/essays/v02-06-black-placemaking-in-texas/).
 

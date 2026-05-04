@@ -27,11 +27,11 @@ Many cultural heritage institutions, including RRCHNM, use [Omeka S](https://ome
 
 For example, an institution could add an unobtrusive banner at the top of the page, requesting that users support the site by enabling web monetization and providing a link with an explanation. Users can sign up for a [Coil account](https://coil.com/) to enable streaming payments.
 
-{{< figure src="Screen-Shot-2021-03-09-at-5.19.15-PM-2.png" >}}
+{{< figure src="Screen-Shot-2021-03-09-at-5.19.15-PM-2.png" alt="A banner from an Omeka S site titled \"Web Monetization Testing\" with a support message above it that highlights the phrase \"web monetization\" in yellow. This alt text was written by a generative AI." >}}
 
 Users who already had Web Monetization enabled would then be able start sending automatic payments to the site whenever they browsed it. It is also possible to configure the module so that users with Web Monetization enabled will start donating automatically.
 
-{{< figure src="Screen-Shot-2021-03-09-at-5.21.04-PM-1.png" >}}
+{{< figure src="Screen-Shot-2021-03-09-at-5.21.04-PM-1.png" alt="A web monetization banner prompting visitors to support the site through microdonations, with a yellow \"Start donating\" button, above a black navigation bar for an Omeka S site titled \"Web Monetization Testing. This alt text was written by a generative AI." >}}
 
 The module offers a number of customization options, and it has been integrated into commonly used Omeka S themes.
 

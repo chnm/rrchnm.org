@@ -15,7 +15,7 @@ tags:
 
 The start of the academic year at RRCHNM also means the return of many of our graduate students. This week RRCHNM welcomed [twenty-five graduate research assistants or graduate affiliates](https://rrchnm.org/our-people/).
 
-{{< figure src="First-Day-Fall-2022-scaled.jpg" >}}
+{{< figure src="First-Day-Fall-2022-scaled.jpg" alt="A group of approximately 25 people pose together in a modern office lounge, many wearing masks, with remote participants visible on a large display screen behind them. This alt text was written by a generative AI." >}}
 
 RRCHNM on the first day of classes.
 

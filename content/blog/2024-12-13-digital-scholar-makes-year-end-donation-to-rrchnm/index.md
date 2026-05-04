@@ -17,4 +17,4 @@ We are pleased to announce a generous end-of-year donation from our friends and 
 
 We at RRCHNM are grateful for the ongoing support from Digital Scholar and their suite of software and services that make modern methods for research, publishing, and cultural heritage work possible.
 
-{{< figure src="digital-scholar-logo.png" >}}
+{{< figure src="digital-scholar-logo.png" alt="The wordmark \"Digital Scholar\" in bold black sans-serif type, with the letter I in \"Digital\" and the letter O in \"Scholar\" highlighted in blue. This alt text was written by a generative AI." >}}
