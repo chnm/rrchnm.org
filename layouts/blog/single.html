@@ -1,5 +1,6 @@
 {{ define "main" }}
 <article>
+  {{ partial "coins.html" . }}
   {{/* Featured image as hero with title overlay */}}
   {{ $hero := partial "featured-image.html" . }}
   {{ with $hero }}
