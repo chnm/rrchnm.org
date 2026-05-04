@@ -20,3 +20,5 @@ But a PhD isn’t just about learning from others or working with them. A PhD is
 As a relatively young university, GMU has fewer fellowships for graduate students than we would like. But when given the time to focus on their research, our PhD students have created digital scholarship that leads the field. In particular, our PhD students have led the field in creating [digital dissertations](/graduate-student-education/). 
 
 The Alumni and Friends Fellowship aims to provide a summer fellowship for graduate students creating digital dissertations. Our fundraising goal is $250,000 in an endowed fund. Thanks to a generous lead gift by Carol Lasser, Gary Kornblith, and Simon Kornblith, we have been able to open this campaign. Gifts by our alumni and friends will enable our PhD students to continue leading the field by creating groundbreaking digital scholarship.
+
+{{< support-btn text="Donate Now →" >}}
