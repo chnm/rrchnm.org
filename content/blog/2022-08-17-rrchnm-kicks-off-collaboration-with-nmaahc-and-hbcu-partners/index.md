@@ -11,6 +11,7 @@ slug: rrchnm-kicks-off-collaboration-with-nmaahc-and-hbcu-partners
 title: RRCHNM Kicks Off Collaboration With NMAAHC and HBCU Partners
 tags:
 - Partnerships
+featured_image: IMG_4574-1-1024x772.jpeg
 ---
 
 This year the team at RRCHNM began a unique collaboration with the [National Museum of African American History and Culture](https://nmaahc.si.edu/) (NMAAHC) and five HBCU partners. The [HBCU History, Culture, and Access Consortium](https://nmaahc.si.edu/connect/strategic-partnerships/hbcu-history-and-culture-access-consortium) (HCAC) brings together NMAAHC and the archives of [Tuskegee University](https://www.tuskegee.edu/libraries/archives), the [Margaret Walker Center](https://www.jsums.edu/margaretwalkercenter/) at Jackson State University, the [Meek-Eaton Black Archives Research Center & Museum](https://www.famu.edu/academics/libraries/mark-eaton-black-archives-research-center-and-museum/index.php) at Florida A&M University, the [University Museum](http://www.tsu.edu/academics/colleges-and-schools/colabs/vpa/museum.html) at Texas Southern University, and the [University Art Museum](https://www.cau.edu/art-museum/index.html) at Clark Atlanta University.

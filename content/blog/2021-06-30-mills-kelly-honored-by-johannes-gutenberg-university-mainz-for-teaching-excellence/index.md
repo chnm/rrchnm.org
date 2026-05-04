@@ -9,6 +9,7 @@ draft: false
 lastmod: '2021-06-30T13:34:56Z'
 slug: mills-kelly-honored-by-johannes-gutenberg-university-mainz-for-teaching-excellence
 title: Mills Kelly honored by Johannes Gutenberg University Mainz for teaching excellence
+featured_image: newsimage351588-scaled-1-683x1024.jpg
 ---
 
 Mills Kelly, the executive director of RRCHNM and a leading expert on the scholarship of teaching and learning for history, has been an [honored guest](https://nachrichten.idw-online.de/2021/06/18/mills-kelly-traeger-des-gutenberg-teaching-awards-besucht-die-jgu/) at Johannes Gutenberg University Mainz the past two weeks. Kelly has been in residence at the university, and has been honored in a ceremony signing the university's Golden Book. The reception celebrated Kelly's previous receipt of the Gutenberg Teaching Award, which was rescheduled due to the COVID-19 pandemic.

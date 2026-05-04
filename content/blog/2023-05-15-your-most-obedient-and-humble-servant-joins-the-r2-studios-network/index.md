@@ -13,6 +13,7 @@ slug: your-most-obedient-and-humble-servant-joins-the-r2-studios-network
 title: Your Most Obedient & Humble Servant Joins the R2 Studios Network
 tags:
 - R2 Studios
+featured_image: YMOHS_logo-1024x1024.png
 ---
 
 #### This post is cross-posted on [r2studios.org](https://www.r2studios.org/blog/your-most-obedient-humble-servant-joins-the-r2-studios-network/) with further details about the announcement.

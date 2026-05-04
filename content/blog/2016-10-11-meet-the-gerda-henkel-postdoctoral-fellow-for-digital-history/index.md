@@ -9,6 +9,7 @@ draft: true
 lastmod: '2016-09-27T11:43:07Z'
 slug: meet-the-gerda-henkel-postdoctoral-fellow-for-digital-history
 title: Meet the Gerda Henkel Postdoctoral Fellow for Digital History
+featured_image: toth.jpg
 ---
 
 ![Gabor Toth](toth.jpg)In early September, the German Historical Institute, Washington, DC and the Roy Rosenzweig Center for History and New Media welcomed Gabor M. Toth, Assistant Professor at the University of Passau, as the first Gerda Henkel postdoctoral fellow in digital history. This fellowship is intended to support junior scholars working in the field of digital history.

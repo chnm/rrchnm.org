@@ -9,6 +9,7 @@ draft: false
 lastmod: '2023-11-01T13:29:24Z'
 slug: talking-to-the-dead-spiritualists-and-seances
 title: 'Talking to the Dead: Spiritualists and Seances'
+featured_image: JPG_digitool_126485_Fox-sisters.jpg
 ---
 
 During my time working on the *[American Religious Ecologies](https://religiousecologies.org/)* project I became focused on female ministers and other types of religious leadership that appear in the Census. This interest aligns well with my dissertation research, [which focuses on female preachers in the nineteenth century](http://carolinegreer.com/greer-research/silent-on-slavery/) and their bodily experiences, analyzing even earlier examples of successful female religious leadership.

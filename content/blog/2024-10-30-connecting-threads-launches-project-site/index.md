@@ -9,6 +9,7 @@ draft: false
 lastmod: '2024-10-30T10:19:08Z'
 slug: connecting-threads-launches-project-site
 title: Connecting Threads Launches Project Site
+featured_image: CT-Symposium-Group-Photo.jpg
 ---
 
 On October 11, 2024, the [*Connecting Threads* project launched its website](https://connectingthreads.co.uk/) and celebrated the conclusion of the first phase of the project with a public symposium at the Victoria & Albert Museum in London. *Connecting Threads* is a collaborative digital history project dedicated to amplifying the contributions of Indian weavers and African Caribbean consumers to global histories of dress. Drawing on the work of an interdisciplinary team of researchers, the project re-examined the history of the Madras handkerchief, an internationally popular dress accessory made of brightly coloured checked cotton, produced in coastal southeastern India and used by diverse cultures across the Global South. In the recently completed first phase of the project, we examined the influence of the Madras handkerchief on 18th and 18th century dress, particularly in the context of their use in the Greater Caribbean Region including coastal southeastern United States.

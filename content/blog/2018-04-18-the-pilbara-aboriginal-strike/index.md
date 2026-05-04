@@ -9,6 +9,7 @@ draft: true
 lastmod: '2018-04-18T09:49:47Z'
 slug: the-pilbara-aboriginal-strike
 title: The Pilbara Aboriginal Strike
+featured_image: Mustering-300x91.jpg
 ---
 
 The Roy Rosenzweig Center for History and New Media is proud to announce a new international project in collaboration with scholars in Australia, **The** **Pilbara Aboriginal Strike** website. Working with Bain Attwood, a scholar of Australian history and settler colonialism at Monash University, and Anne Scrimgeour, a scholar of Aboriginal history, this digital project will be part of the first major scholarly study to examine one of the most important events in Australia’s post-war history: the Pilbara Aboriginal strike of 1946.

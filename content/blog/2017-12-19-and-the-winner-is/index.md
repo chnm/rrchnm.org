@@ -9,6 +9,7 @@ draft: true
 lastmod: '2017-12-19T16:21:56Z'
 slug: and-the-winner-is
 title: And the winner is...
+featured_image: twitter-post-contest-winner2-300x150.png
 ---
 
 The Roy Rosenzweig Center for History and New Media is h{{< figure src="twitter-post-contest-winner2.png" alt="Eagle Eye Citizen Contest Winer" >}}appy to announce that Emily O’Connell from Battle Ground Academy in Franklin, TN is the winner of the Eagle Eye Citizen student challenge making contest.

@@ -12,6 +12,7 @@ title: RRCHNM Launches New Teaching Guides for Pre-Service History Teachers
 tags:
 - Teaching + Learning
 - Partnerships
+featured_image: MormonJourneyMap-1024x337.jpg
 ---
 
 #### Funded by the Library of Congress, the four teaching guides will support new prospective teachers teaching the history of religion and will be available on [Teachinghistory.org](https://teachinghistory.org/teaching-materials/teaching-guides).

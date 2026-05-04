@@ -11,6 +11,7 @@ slug: new-publication-model-editor-for-current-research-in-digital-history
 tags:
 - crdh
 title: New Publication Model, Editor for Current Research in Digital History
+featured_image: Screen-Shot-2020-10-27-at-9.54.28-PM-1024x557.png
 ---
 
 For the past three years, the Roy Rosenzweig Center for History and New Media has been publishing a peer-reviewed journal, *Current Research in Digital History*. Over those three years, our mission for *CRDH*has been consistent. We think that digital history needs more scholarship that makes [interpretative or argumentative claims](https://rrchnm.org/argument-white-paper/) within specific fields of history. Digital history methods, in other words, ought to produce new historical insights, and those new historical insights ought to be shared with, say, scholars of American legal history or of Ottoman culture. *CRDH* exists to provide a home for—or sometimes a waypoint to—such scholarship. We publish short-form essays of about 3,000 words. We have built a platform which we will continue to expand that can host whatever kind of digital history content an author can imagine. We publish the articles open access. And we envision this as a place where scholars can either write up the interpretative aspects of a digital history project or publish a brief version of an idea that they will develop more fully elsewhere. Part of that is that we publish quickly: less than a year from submission through peer review to publication, and faster if we can.

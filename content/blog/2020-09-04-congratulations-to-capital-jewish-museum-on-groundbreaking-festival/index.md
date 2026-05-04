@@ -13,6 +13,7 @@ tags:
 - Pandemic Religion
 - partners
 title: Congratulations to Capital Jewish Museum on Groundbreaking Festival
+featured_image: CJM-FB-EVENT-Banner.png
 ---
 
 Over the course of the COVID-19 pandemic, RRCHNM has been collaborating with a series of partners on its [Pandemic Religion](https://pandemicreligion.org/) and [American Jewish Life](https://pandemicreligion.org/s/american-jewish-life/) project. We have been very fortunate to have had the chance to work with these partners to collect and preserve sources about the impact the pandemic is having on American religion.

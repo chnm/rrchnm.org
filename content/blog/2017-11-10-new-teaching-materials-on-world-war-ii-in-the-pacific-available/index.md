@@ -9,6 +9,7 @@ draft: true
 lastmod: '2017-11-10T13:33:05Z'
 slug: new-teaching-materials-on-world-war-ii-in-the-pacific-available
 title: New teaching materials on World War II in the Pacific available
+featured_image: DSC_0700-300x199.jpg
 ---
 
 The Roy Rosenzweig Center for History and New Media is proud to announce the launch of new materials related to World War II in the Pacific on the award-winning website [*Understanding Sacrifice*](https://abmceducation.org/), created in partnership with [National History Day](https://nhd.org/) ®(NHD) for the [American Battle Monuments Commission](https://www.abmc.gov/) (ABMC) and the VA [National Cemetery Administration](https://www.cem.va.gov/) (NCA) .

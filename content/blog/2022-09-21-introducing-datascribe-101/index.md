@@ -11,6 +11,7 @@ slug: introducing-datascribe-101
 title: Introducing DataScribe 101
 tags:
 - Research + Tools
+featured_image: DataScribe-Fall-Announcement-1024x576.jpg
 ---
 
 #### Fall workshops hosted by the DataScribe project team will further support user exploration of DataScribe 101's capabilities.

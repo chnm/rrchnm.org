@@ -9,6 +9,7 @@ draft: true
 lastmod: '2019-08-19T09:00:47Z'
 slug: maritime-asia-war-and-trade-launch
 title: 'Maritime Asia: War and Trade Launch'
+featured_image: maritime-asia-homepage-300x201.png
 ---
 
 RRCHNM is excited to announce the launch of [*Maritime Asia: War and Trade*](https://maritime-asia.org/), an international collaboration with Adam Clulow at Monash University/University of Texas at Austin and Xing Hang at Brandeis University. This digital world history project explores the fierce rivalry between the Dutch East India Company and the Zheng maritime network as they fought for control over key trades and sea routes. 

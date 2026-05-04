@@ -9,6 +9,7 @@ draft: false
 lastmod: '2020-07-23T14:49:27Z'
 slug: american-jewish-life-a-pandemic-religion-project
 title: 'American Jewish Life: A Pandemic Religion Project'
+featured_image: Screen-Shot-2020-07-23-at-11.23.40-AM.png
 ---
 
 Today the Roy Rosenzweig Center for History and New Media is launching *American Jewish Life*, a digital collecting project that will document and interpret the experiences of individuals and communities during the COVID-19 pandemic. Part of the Center's larger *[Pandemic Religion](https://pandemicreligion.org/)* project, *American Jewish Life*has been created in partnership with the [Breman Museum](https://www.thebreman.org/); the [Capital Jewish Museum](https://capitaljewishmuseum.org/); the [Goldring/Woldenberg Institute of Southern Jewish Life](https://www.isjl.org/);  [Hebrew Theological College](http://www.htc.edu/); the [Houston Jewish History Archive at Rice University](https://jewishstudies.rice.edu/houston-jewish-history-archive); and [Yeshiva University](https://library.yu.edu/locations/archives). The six Jewish institutions who have partnered with *American Jewish Life* are broadly representative of the geographic and theological diversity of American Judaism.  

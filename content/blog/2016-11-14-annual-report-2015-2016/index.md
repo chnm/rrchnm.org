@@ -9,6 +9,7 @@ draft: true
 lastmod: '2017-02-08T18:23:59Z'
 slug: annual-report-2015-2016
 title: Annual Report 2015-2016
+featured_image: RRCHNM_AR-233x300.jpg
 ---
 
 ![igorj2.sg-host_ar](RRCHNM_AR-233x300.jpg)To keep friends and supporters of RRCHNM better informed about our ongoing work, this year we inaugurated a short annual report. Produced in collaboration with the Development Office of College of Humanities and Social Sciences, the report was mailed out in late October.

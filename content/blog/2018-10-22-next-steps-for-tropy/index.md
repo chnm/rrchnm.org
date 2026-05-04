@@ -11,6 +11,7 @@ slug: next-steps-for-tropy
 tags:
 - wip
 title: Next Steps for Tropy
+featured_image: tropy-sticker.jpg
 ---
 
 ![](tropy-sticker.jpg)We're delighted to announce the funding of a second phase of development for [Tropy](http://tropy.org), the free and open-source software that helps humanities researchers use digital images gathered from archives.

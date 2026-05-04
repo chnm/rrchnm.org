@@ -11,6 +11,7 @@ lastmod: '2018-02-05T17:02:55Z'
 slug: igorj2.sg-host-uses-state-department-grant-to-create-diplomatic-simulations-for-the-classroom
 title: RRCHNM uses State Department grant to create diplomatic simulations for the
   classroom
+featured_image: MongoliaSimulationIMG_2562-copy-300x193.jpg
 ---
 
 {{< figure src="MongoliaSimulationIMG_2562-copy.jpg" alt="Visiting Mongolian students worked to resolve an international HIV/AIDS crisis in the imaginary countries of Daymar and Lateen during a diplomacy in Action simulation at the Arlington Campus. Photo courtesy of Chris Preperato." caption="Visiting Mongolian students worked to resolve an international HIV/AIDS crisis in the imaginary countries of Daymar and Lateen during a Diplomacy in Action simulation at Mason's Arlington Campus. Photo courtesy of Chris Preperato." >}}

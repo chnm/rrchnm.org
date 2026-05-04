@@ -9,6 +9,7 @@ draft: true
 lastmod: '2019-05-06T15:15:59Z'
 slug: papers-of-the-war-department-1784-1800-relaunch
 title: Papers of the War Department 1784-1800 Relaunch
+featured_image: Screen-Shot-2019-05-06-at-2.41.56-PM.png
 ---
 
 The [*Papers of the War Department 1784-1800*](http://wardepartmentpapers.org/) digital editorial project has officially relaunched with a fully redesigned user experience. This project began in 1993, when Ted Crackel and a team of researchers worked for nearly a decade to piece together the records of the War Office that burned in 1800, destroying everything inside. You can read more about the history of the War Department [here](http://wardepartmentpapers.org/s/home/page/about). In 2006, RRCHNM took over the project, and moved the collection from CD-ROM to the web. In 2011, RRCHNM developed *Scripto*, a community transcription tool that allows users to transcribe the over 40,000 items in the collection.

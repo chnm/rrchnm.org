@@ -11,6 +11,7 @@ slug: rrchnm-partners-with-winterthur-museum-to-present-pennsylvania-illuminated
 title: RRCHNM Partners with Winterthur Museum to Present Pennsylvania Illuminated
 tags:
 - Partnerships
+featured_image: 2020-0011_19-1024x501.jpg
 ---
 
 RRCHNM is happy to announce a partnership with the Winterthur Museum, Garden, and Library to present the history of a fascinating and unique eighteenth-century American manuscript.

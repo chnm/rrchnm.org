@@ -10,15 +10,14 @@ lastmod: '2024-08-27T11:32:10Z'
 slug: deepthi-murali-and-jason-heppler-receive-neh-funding-for-connecting-threads-project
 title: Deepthi Murali and Jason Heppler Receive NEH Funding for Connecting Threads
   Project
+featured_image: Little_Marie_on_Nekys_Arm_1838_by_N.P._Holbech-224x300.jpg
 ---
 
 Deepthi Murali and Jason Heppler of the Roy Rosenzweig Center for History and New Media ([RRCHNM](https://rrchnm.org/)) has received a [National Endowment for the Humanities](https://www.neh.gov/) (NEH), [Digital Humanities Advancement Grant](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants) (Level II) of $138, 256 in support of the ongoing global textile history project [*Connecting Threads: Digitally Connecting Collections, Expanding Public Engagement*](http://www.connectingthreads.co.uk).
 
 [Connecting Threads](https://rrchnm.org/portfolio-item/connecting-threads/) is a collaborative digital history project dedicated to amplifying the contributions of Indian weavers and Afro-Caribbean consumers to global histories of dress. Drawing on the work of an interdisciplinary team of researchers, the project in its first phase examined the history of the Madras handkerchief, an internationally popular dress accessory made of brightly coloured checked cotton.
 
-{{< figure src="Little_Marie_on_Nekys_Arm_1838_by_N.P._Holbech-scaled.jpg" alt="A black woman from the Danish West Indies wearing a madras headscarf and holding a white child." >}}
-
-Little Marie on Neky's Arm, 1838, by Neils Peter Holbech.
+{{< figure src="Little_Marie_on_Nekys_Arm_1838_by_N.P._Holbech-scaled.jpg" alt="A black woman from the Danish West Indies wearing a madras headscarf and holding a white child."  caption="Little Marie on Neky's Arm, 1838, by Neils Peter Holbech." >}}
 
 The project explores the influence of Madras handkerchiefs on 18th and 19th century dress, tracing it from its origins in South India to the fashion capitals of the Greater Caribbean through to the industrial manufacturing centers of Europe. This digital project includes archival and material sources from over 12 archives and museum collections creating a network of institutional data and scholarship on these textiles.
 

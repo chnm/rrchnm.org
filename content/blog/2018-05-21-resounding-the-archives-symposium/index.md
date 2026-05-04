@@ -10,6 +10,7 @@ draft: true
 lastmod: '2018-05-23T07:53:29Z'
 slug: resounding-the-archives-symposium
 title: ReSounding the Archives Symposium
+featured_image: resounding-1024x623.png
 ---
 
 On Tuesday, April 24, the first ReSounding the Archives Symposium was held in the Garden Room of the Colonnade Club at the University of Virginia. This event culminated the first year of work on the [ReSounding the Archives](https://rrchnm.org/news/resounding-the-archives) digital project that seeks to bring historic sheet music back to life through contemporary recordings and contextual essays. 

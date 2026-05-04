@@ -9,6 +9,7 @@ draft: true
 lastmod: '2018-09-12T15:10:55Z'
 slug: resounding-the-archives
 title: ReSounding the Archives
+featured_image: color_190.gif
 ---
 
 The Roy Rosenzweig Center for History and New Media (RRCHNM) received a [4-VA Research Grant](http://4-va.org) to fund the digital project, **ReSounding the Archives**.

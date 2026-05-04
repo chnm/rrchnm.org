@@ -9,6 +9,7 @@ draft: true
 lastmod: '2016-09-08T16:01:10Z'
 slug: collections-continue-to-grow-in-september-11th-digital-archive
 title: Collections Continue to Grow in September 11th Digital Archive
+featured_image: 911-collectionhighlight-300x223.jpg
 ---
 
 The fifteenth anniversary of the attacks on September 11, 2001 is upon us. We see that the legacy of those events continues to live on in current political debates, foreign and domestic policy-making, as well as for the families who lost loved ones on that day and in the conflicts that followed.

@@ -12,6 +12,7 @@ tags:
 - COVID-19
 - Pandemic Religion
 title: Pandemic Religion Project to Document Changes in American Religion
+featured_image: Screen-Shot-2020-04-20-at-12.54.09-PM-1024x738.png
 ---
 
 As the world undergoes wrenching changes—some temporary, some permanent—in response to the COVID-19 pandemic, religious communities in the United States have also been deeply affected. Many have hastily moved services online: a change which has been influenced by the hugely varying liturgical, theological, legal, and financial resources available to different groups. Of course a few religious groups have made it into the news by challenging government-mandated shutdowns. Some people are attending online services at communities that are not local and of which they are not members, perhaps to share an experience with family from whom they are distant. Others are finding their religious community in relatively new forms, such as Facebook groups. As the pandemic more seriously affects older people, religious communities have grappled with their ministry to the elderly and to the sick. The pandemic has disproportionately killed racial minorities and left them disproportionately unemployed: Black religious traditions are [no exception](https://www.washingtonpost.com/religion/2020/04/19/church-of-god-in-christ-pentecostal-coronavirus-kills-bishops/). These changes have happened at the same time that Jews have celebrated Passover, Christians have celebrated Easter, and right before Muslims celebrate Ramadan.

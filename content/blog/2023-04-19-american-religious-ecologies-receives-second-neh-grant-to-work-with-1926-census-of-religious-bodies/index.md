@@ -14,15 +14,14 @@ tags:
 - religion
 title: American Religious Ecologies Receives Second NEH Grant to Work with 1926 Census
   of Religious Bodies
+featured_image: 6baddb3ea702a94bec95b1a777da8e62fb80a005-2-797x1024.jpg
 ---
 
 We are grateful to acknowledge a second NEH grant in support of our *[American Religious Ecologies](https://religiousecologies.org)* project. The National Endowment for the Humanities [announced this week](https://www.neh.gov/news/neh-announces-3563-million-258-humanities-projects-nationwide) that RRCHNM will receive a Humanities Collections and Reference Resources grant for $350,000 to continue our work with the 1926 Census of Religious Bodies for the next three years. This new grant follow on our previous award, also from the HCRR program in the NEH's Division of Preservation and Access, which was received in 2019.
 
 At the start of the twentieth century, Congress authorized the U.S. Census Bureau to survey the nation’s “religious bodies.” For five decades, the Bureau partnered with religious organizations to identify hundreds of thousands of individual congregations across the country. Though the Census Bureau conducted several censuses of religion, only for the 1926 Census of Religious Bodies are the original schedules, or forms, preserved.
 
-{{< figure src="6baddb3ea702a94bec95b1a777da8e62fb80a005-2-scaled.jpg" >}}
-
-A schedule from the 1926 Census of Religious Bodies, showing a Seventh Day Adventist congregation in Maine.
+{{< figure src="6baddb3ea702a94bec95b1a777da8e62fb80a005-2-scaled.jpg"  caption="A schedule from the 1926 Census of Religious Bodies, showing a Seventh Day Adventist congregation in Maine." >}}
 
 These schedules are a rich source of information about American religious institutions in the early twentieth century. They contain a wealth of information about each congregation, including its membership by age and sex, its expenditures on buildings and missions, its minister’s name and whether he or she had gone to seminary, and its denominational affiliation, which the Census Bureau cataloged into 213 different groups. The schedules also include the location of the congregations, usually by county and city or town, and in many cases the street address as well.
 

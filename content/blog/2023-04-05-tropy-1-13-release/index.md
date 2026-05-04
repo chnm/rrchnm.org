@@ -11,6 +11,7 @@ slug: tropy-1-13-release
 title: Tropy 1.13 Release
 tags:
 - Research + Tools
+featured_image: Tropy-Project.png
 ---
 
 The Tropy team is pleased to announce the release of [Tropy 1.13](http://tropy.org). In addition to several performance and user interface improvements (see [full release notes here](https://github.com/tropy/tropy/releases/tag/v1.13.0)), this release introduces the new standard project type. In standard projects, all imported images are copied into a bundled project folder, which can be moved around freely or shared with other devices without having to consolidate photos. Users can opt to continue working with the previous project type, which is now called an “advanced” project. Users may also convert their projects into standard projects if they wish. For more details, see the latest [Tropy blog post](https://tropy.org/blog/new-project-types-in-tropy-1-13).

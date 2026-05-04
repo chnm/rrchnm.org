@@ -11,6 +11,7 @@ slug: rrchnm-launches-new-teaching-guides-for-pre-service-history-teachers-2
 title: RRCHNM Launches New Teaching Guides for Pre-Service History Teachers 
 tags:
 - Teaching + Learning
+featured_image: HousingStrugglePoster.jpg
 ---
 
 *Funded by the Library of Congress, these four teaching guides will support new prospective teachers teaching post-1970s U.S. history and civics and will be available on [Teachinghistory.org](https://teachinghistory.org/teaching-materials/teaching-guides).*

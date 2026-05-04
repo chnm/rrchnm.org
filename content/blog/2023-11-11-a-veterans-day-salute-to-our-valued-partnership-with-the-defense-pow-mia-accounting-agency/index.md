@@ -11,6 +11,7 @@ slug: a-veterans-day-salute-to-our-valued-partnership-with-the-defense-pow-mia-a
 title: A Veteran’s Day Salute to our Valued Partnership with the Defense POW/MIA Accounting
 tags:
 - Partnerships
+featured_image: DPAA-1-1024x681.png
 ---
 
 This Veteran’s Day, we at the Roy Rosenzweig Center for History and New Media (RRCHNM) would like to highlight the incredible work of the Defense POW/MIA Accounting Agency (DPAA). The mission of the [DPAA](https://www.dpaa.mil/Our-Missing/Past-Conflicts/) is to provide the fullest possible accounting for American personnel lost in foreign conflicts going back to World War II, with the ultimate goal of finding these lost personnel, completing their stories, and bringing them back to their families and loved ones, thus bringing closure to them and to the nation. Such a monumental effort requires an army of professionals working tirelessly across the globe, including administrators, military personnel, historians, archeologists, doctors, scientists, and field specialists.

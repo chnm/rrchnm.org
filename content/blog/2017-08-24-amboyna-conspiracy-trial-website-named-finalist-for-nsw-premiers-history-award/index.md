@@ -10,6 +10,7 @@ draft: true
 lastmod: '2017-08-24T21:13:12Z'
 slug: amboyna-conspiracy-trial-website-named-finalist-for-nsw-premiers-history-award
 title: Amboyna Conspiracy Trial Website Named Finalist for NSW Premier’s History Award
+featured_image: amboyna-300x187.png
 ---
 
 {{< figure src="https://rrchnm.org/uncategorized/amboyna-conspiracy-trial-website-named-finalist-for-nsw-premiers-history-award/attachment/amboyna-5/" >}}The [Amboyna Conspiracy Trial](http://amboyna.org), an interactive teaching resource focused on one of the most famous legal cases of the early modern period, is a finalist for the Australian [NSW Premier’s History Awards](http://www.sl.nsw.gov.au/nsw-premiers-history-awards) [Multimedia History Prize](http://www.sl.nsw.gov.au/multimedia-history-prize).

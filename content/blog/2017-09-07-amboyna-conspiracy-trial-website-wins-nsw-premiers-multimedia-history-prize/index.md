@@ -10,6 +10,7 @@ draft: true
 lastmod: '2017-09-07T12:22:24Z'
 slug: amboyna-conspiracy-trial-website-wins-nsw-premiers-multimedia-history-prize
 title: Amboyna Conspiracy Trial Website Wins NSW Premier’s Multimedia History Prize
+featured_image: 4879_NSW-Premiers-History-Awards-2017_Sticker-Winner-300x300.jpg
 ---
 
 {{< figure src="https://rrchnm.org/news/amboyna-conspiracy-trial-website-wins-nsw-premiers-multimedia-history-prize/attachment/4879_nsw-premiers-history-awards-2017_sticker-winner/" alt="NSW Premier's History Award Logo" >}}

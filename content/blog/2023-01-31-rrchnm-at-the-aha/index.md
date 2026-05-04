@@ -9,6 +9,7 @@ draft: false
 lastmod: '2023-01-31T11:47:57Z'
 slug: rrchnm-at-the-aha
 title: RRCHNM at the AHA
+featured_image: HTA-Poster-3-1024x768.jpg
 ---
 
 The first week of January 2023 was quite a week for the team at RRCHNM. Close to twenty of us were at the annual meeting of the American Historical Association in Philadelphia, presenting papers, taking part in round tables, and showing off work at poster sessions. Our fantastic graduate students made up a significant share of all the research posters presented at the conference.
@@ -29,9 +30,7 @@ Hernán is a digital historian and a sports historian whose research focuses on 
 
 Hayley Madl was on the program twice, presenting her poster “Reintroducing Religion into the Classroom,” which she worked on in collaboration with Nate Sleeter*,* and taking part in the roundtable “Pieces of Podcasting You Don’t Know About but Should.” At the roundtable, Hayley discussed how important accessible show notes and transcripts are to reaching diverse audiences for historical podcasts.
 
-{{< figure src="Hayley-Poster-2.jpeg" alt="Hayley Madl standing in front of her poster \"Reintroducing Religion into the Classroom\" at the AHA poster session." >}}
-
-Hayley Madl presenting her poster "Reintroducing Religion into the Classroom" at the AHA.
+{{< figure src="Hayley-Poster-2.jpeg" alt="Hayley Madl standing in front of her poster \"Reintroducing Religion into the Classroom\" at the AHA poster session."  caption="Hayley Madl presenting her poster 'Reintroducing Religion into the Classroom' at the AHA." >}}
 
 A very large team of folks from RRCHNM presented a poster on their work on the Religious Ecologies project: “Mapping American Congregations Using the 1926 Census of Religious Bodies.” In particular, two of our graduate students—Caroline Greer and Rachel Birch showed of their work on converting spatial data gathered in the project into interactive maps.
 

@@ -9,6 +9,7 @@ draft: false
 lastmod: '2022-10-04T17:27:10Z'
 slug: rrchnms-custom-api-for-data-driven-projects
 title: RRCHNM's Custom API for Data-Driven Projects
+featured_image: Data-API-1024x532.png
 ---
 
 RRCHNM is a shop that is more and more working on computational history and historical data visualization. But we are also first and foremost a web shop: ever since Roy Rosenzweig saw the potential of the internet and left CD ROMs behind, we’ve been committed to delivering history via people’s web browsers. Those two commitments are becoming increasingly compatible. For example, Ben Schmidt has written persuasively about the next decade of data programming [happening in the browser via JavaScript](https://benschmidt.org/post/2020-01-15/2020-01-15-webgpu/). But combining data analysis and the web takes work. In this blog post, I want to explain how we are solving one aspect of that challenge via our custom data API.
@@ -29,9 +30,7 @@ That still leaves the problem of getting the data out of the database and into t
 - It should be easily extensible as we add new projects, and it should not require us to reinvent the wheel every time we start a new project. Rather, it should let us use existing data and functionality (such as the AHCB dataset I mentioned) across projects.
 - And, if the need arises, it should allow the browser to write back to the database.
 
-{{< figure src="Data-API-2.png" >}}
-
-JSON from the data API. It’s not exciting, but if it’s what you need, it’s very useful.
+{{< figure src="Data-API-2.png"  caption="JSON from the data API. It's not exciting, but if it's what you need, it's very useful." >}}
 
 Our solution was to create a custom data API for RRCHNM projects, which we call Apiary. (Yes, we know other projects use that name, but this is just our internal codename.) The API is written in Go, a simple but powerful language well suited for our needs here. The API is containerized using Docker, for ease of deployment. The API essentially consists of a thin, fairly minimal application that provides the necessary boilerplate to set up a database connection, a web server, and so forth. Then individual endpoints that provide specific datasets are added as handlers. Adding a new dataset or view on a dataset is thus as straightforward as writing a new function in Go. But since those handlers fall into a few different types, in most instance the main work of adding a new endpoint is writing a new SQL query.
 

@@ -13,6 +13,7 @@ tags:
 - Research + Tools
 - Teaching + Learning
 - Events
+featured_image: DH_Con_1-1024x683.jpg
 ---
 
 From March 19th to March 21st, 2025, the German Historical Institute (GHI) in Washington, DC hosted the Seventh Conference on Digital Humanities and Digital History. The conference theme, real-time history, drew on Roy Rosenzweig’s call to action that historians need to directly address the methodological potential and risks of the digital age.
@@ -35,9 +36,7 @@ With participants working in various countries, including Brazil, Ukraine, Switz
 
 A prominent topic was the unwitting research subject whose social media, emails, text messages, or forum comments were scraped by researchers or otherwise uploaded to collections. Milligan shared that he could – with little effort – find the identity of those posting hate speech on and after 9/11. European-based scholars wondered what the privacy expectations were for group text chains while evaluating the spread of wartime dis/misinformation on the messaging platform Telegram. While scholars shared their approaches to privacy, few fundamental solutions were reached on this concern.
 
-{{< figure src="DH_Con_2-1-scaled.jpg" >}}
-
-Ian Milligan in his keynote address
+{{< figure src="DH_Con_2-1-scaled.jpg"  caption="Ian Milligan in his keynote address" >}}
 
 Former RRCHNM Director of Strategic Initiatives Sheila Brennan recommended that attendees looking for guidance consult the [Association of Internet Researchers'](https://aoir.org/ethics/) ethics guidelines.
 

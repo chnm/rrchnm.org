@@ -12,6 +12,7 @@ tags:
 - DataScribe
 - wip
 title: 'From Historical Sources to Datasets: A Preview of DataScribe'
+featured_image: datascribe-focus-300x143.png
 ---
 
 **Updated November 11: The [beta release](https://github.com/chnm/Datascribe-module/releases/tag/v1.0.0-beta) is now available for [download (zip file)](https://github.com/chnm/Datascribe-module/releases/download/v1.0.0-beta/Datascribe-1.0.0-beta.zip).**

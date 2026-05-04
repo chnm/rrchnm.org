@@ -11,6 +11,7 @@ slug: track-our-latest-code-commits
 tags:
 - wip
 title: Track our latest code commits
+featured_image: mark-github-150x150.png
 ---
 
 ![mark-github](mark-github-150x150.png)To see the ongoing work on RRCHNM's software development projects, you can visit their GitHub repositories:

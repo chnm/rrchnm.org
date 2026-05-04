@@ -9,6 +9,7 @@ draft: true
 lastmod: '2016-10-17T08:01:23Z'
 slug: the-amboyna-conspiracy-trial-website
 title: The Amboyna Conspiracy Trial Website
+featured_image: Amboyna-300x266.png
 ---
 
 The [Roy Rosenzweig Center for History and New Media](https://rrchnm.org) is pleased to introduce [The Amboyna Conspiracy Trial](http://amboyna.org)website*,* an interactive teaching resource focused on one of the most famous legal cases of the early modern period.

@@ -16,6 +16,7 @@ tags:
 - Pandemic Religion
 title: 'Collecting These Times: RRCHNM Gathers and Interprets COVID-19’s Impact on
   American Judaism'
+featured_image: Beth_Or_Chavurah_Hanukkah-1024x640.jpg
 ---
 
 *by Anne Reynolds*

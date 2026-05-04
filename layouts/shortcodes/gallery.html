@@ -1,0 +1,20 @@
+{{- /* Gallery shortcode: wraps child content in a responsive grid.
+    Usage:
+      {{< gallery >}}
+        {{< figure src="image1.jpg" alt="..." caption="..." >}}
+        {{< figure src="image2.jpg" alt="..." caption="..." >}}
+      {{< /gallery >}}
+
+    Optional params:
+      cols - number of columns on desktop (default: 2)
+*/ -}}
+{{ $cols := .Get "cols" | default "2" }}
+{{ $gridClass := "grid-cols-1 sm:grid-cols-2" }}
+{{ if eq $cols "3" }}
+  {{ $gridClass = "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3" }}
+{{ else if eq $cols "4" }}
+  {{ $gridClass = "grid-cols-1 sm:grid-cols-2 lg:grid-cols-4" }}
+{{ end }}
+<div class="grid {{ $gridClass }} gap-4 my-8 [&>figure]:my-0">
+  {{ .Inner }}
+</div>

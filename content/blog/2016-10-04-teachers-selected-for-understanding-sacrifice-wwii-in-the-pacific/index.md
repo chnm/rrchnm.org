@@ -9,6 +9,7 @@ draft: true
 lastmod: '2016-10-04T16:05:24Z'
 slug: teachers-selected-for-understanding-sacrifice-wwii-in-the-pacific
 title: 'Teachers Selected for Understanding Sacrifice: WWII in the Pacific'
+featured_image: understandingsacrifice-logo-300x94.jpg
 ---
 
 {{< figure src="understandingsacrifice-logo.jpg" alt="understandingsacrifice-logo" >}}

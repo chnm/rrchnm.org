@@ -9,6 +9,7 @@ draft: true
 lastmod: '2018-09-27T09:40:05Z'
 slug: teaching-history-refresh
 title: Teaching History Refresh
+featured_image: teaching-history-homepage-300x230.png
 ---
 
 The Roy Rosenzweig Center for History and New Media is pleased to announce the launch of the updated [**Teaching History**](https://teachinghistory.org/) website. 

@@ -11,6 +11,7 @@ slug: current-research-in-digital-history-2020
 tags:
 - crdh
 title: Current Research in Digital History 2020
+featured_image: crdh-2020-cover-233x300.jpg
 ---
 
 Today RRCHNM is publishing the third issue of our open-access, peer-reviewed publication [*Current Research in Digital History*](https://crdh.rrchnm.org/). This issue features [six essays](https://crdh.rrchnm.org/volume/2020/) on topics ranging from the [Student Nonviolent Coordinating Committee’s (SNCC) national network-based infrastructure](https://crdh.rrchnm.org/essays/v03-01-bridge-between-two-worlds/), [maritime mobility in mid-nineteenth century Puget Sound](https://crdh.rrchnm.org/essays/v03-03-mapping-commercial-currents/), and [reimagined regional identities of Colorado and New Mexico’s San Luis Valley](https://crdh.rrchnm.org/essays/v03-06-tale-of-three-valleys/), to [women’s key roles as mediators in Ottoman-Algerian socio-political networks](https://crdh.rrchnm.org/essays/v03-05-silent-no-more/), a [critique of History’s (formerly The History Channel) nominally historical programing](https://crdh.rrchnm.org/essays/v03-02-whats-on-history/), and the ["news(paper) diets" served up to early-twentieth-century American readers](https://crdh.rrchnm.org/essays/v03-04-news-diets/).

@@ -10,6 +10,7 @@ draft: true
 lastmod: '2018-09-17T09:49:45Z'
 slug: resounding-the-archives-has-launched
 title: ReSounding the Archives has launched!
+featured_image: ReSounding_Poster-150x150.jpg
 ---
 
 {{< figure src="ReSounding_home.png" alt="ReSounding the Archive website" >}}

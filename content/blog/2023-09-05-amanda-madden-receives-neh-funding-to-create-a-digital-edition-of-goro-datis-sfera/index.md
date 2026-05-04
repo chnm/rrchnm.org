@@ -10,6 +10,7 @@ lastmod: '2023-09-05T12:08:11Z'
 slug: amanda-madden-receives-neh-funding-to-create-a-digital-edition-of-goro-datis-sfera
 title: Amanda Madden Receives NEH Funding to Create a Digital Edition of Goro Dati’s
   Sfera
+featured_image: la-sefra.png
 ---
 
 [Amanda Madden](https://historyarthistory.gmu.edu/people/amadden8) of the Roy Rosenzweig Center for History and New Media ([RRCHNM](https://rrchnm.org/)), in collaboration with [Carrie Beneš](https://www.ncf.edu/directory/carrie-e-benes/) of New College of Florida, [Laura Ingallinella](https://www.italianstudies.utoronto.ca/people/directories/all-faculty/laura-ingallinella) of the University of Toronto, and independent scholar [Laura Morreale](https://middleagesforeducators.princeton.edu/people/laura-morreale), have been awarded a major grant as part of the [National Endowment for the Humanities](https://www.neh.gov/)’ [Scholarly Editions and Translations program](https://www.neh.gov/grants/research/scholarly-editions-and-translations-grants). This grant will facilitate collaboration among a team of scholars to complete the[*La Sfera* Project](https://sites.google.com/ncf.edu/sfera-project/home), an open-access multimedia edition of Goro Dati’s fifteenth-century poem *La sfera* (*The Globe*).

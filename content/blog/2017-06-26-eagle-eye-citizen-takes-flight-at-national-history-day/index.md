@@ -10,6 +10,7 @@ draft: true
 lastmod: '2017-08-30T16:08:25Z'
 slug: eagle-eye-citizen-takes-flight-at-national-history-day
 title: Eagle Eye Citizen takes flight at National History Day
+featured_image: NHD-EEC-winner-255x300.jpg
 ---
 
 What happens when you combine more than 3,000 students who love history with an online challenge-making contest using primary sources from the Library of Congress and then sweeten the pot with a $50 Amazon gift card? That is what we wanted to find out at the National History Day® (NHD) Contest held June 11-June 15, 2017, at University of Maryland, College Park.

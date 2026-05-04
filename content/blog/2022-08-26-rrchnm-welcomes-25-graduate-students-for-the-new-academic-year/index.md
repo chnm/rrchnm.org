@@ -11,13 +11,12 @@ slug: rrchnm-welcomes-25-graduate-students-for-the-new-academic-year
 title: RRCHNM Welcomes 25 Graduate Students for the new Academic Year
 tags:
 - About RRCHNM
+featured_image: First-Day-Fall-2022-1024x768.jpg
 ---
 
 The start of the academic year at RRCHNM also means the return of many of our graduate students. This week RRCHNM welcomed [twenty-five graduate research assistants or graduate affiliates](https://rrchnm.org/our-people/).
 
-{{< figure src="First-Day-Fall-2022-scaled.jpg" >}}
-
-RRCHNM on the first day of classes.
+{{< figure src="First-Day-Fall-2022-scaled.jpg"  caption="RRCHNM on the first day of classes." >}}
 
 Graduate students are a critical part of the work that RRCHNM creates, and RRCHNM is in turn core to the experience of many of the graduate students in [GMU's Department of History and Art History](https://historyarthistory.gmu.edu/).
 

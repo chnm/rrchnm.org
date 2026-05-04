@@ -12,6 +12,7 @@ title: Celebrating Women's History Month
 tags:
 - Research + Tools
 - Teaching + Learning
+featured_image: AUSA-Show-Art.jpg
 ---
 
 Since RRCHNM’s founding in the 1990s, we have been committed to highlighting the contributions women made in the past. One of our first projects was a CD-ROM version of the textbook *Who Built America?* which grew out of efforts to reinterpret American history from “the bottom up”—drawing on studies of workers, women, consumers, farmers, African Americans, and immigrants—that has helped transform our understanding of the past. This textbook highlighted perspectives often neglected in traditional teachings of American history, including women’s history.

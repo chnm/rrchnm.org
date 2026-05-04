@@ -9,6 +9,7 @@ draft: true
 lastmod: '2018-04-05T15:24:20Z'
 slug: veterans-legacy-program-contract-awarded-to-igorj2.sg-host
 title: Veterans Legacy Program contract awarded to RRCHNM
+featured_image: Alexandria-National-Cemetery-3-300x200.jpg
 ---
 
 {{< figure src="Alexandria-National-Cemetery-3.jpg" alt="Alexandria National Cemetery site visit" caption="RRCHNM students receive a tour of Alexandria National Cemetery with James Sanders, Director of the Quantico and Alexandria National Cemeteries. Photo credit: Chris Preperato" >}}

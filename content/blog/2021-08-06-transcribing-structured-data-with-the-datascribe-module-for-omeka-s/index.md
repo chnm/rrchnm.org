@@ -12,6 +12,7 @@ draft: false
 lastmod: '2022-03-25T21:59:46Z'
 slug: transcribing-structured-data-with-the-datascribe-module-for-omeka-s
 title: Transcribing Structured Data with the DataScribe Module for Omeka S
+featured_image: image-1.jpeg
 ---
 
 by Janet Hammond
@@ -52,9 +53,7 @@ Figure 5. This screenshot displays the portal that appears when individuals clic
 
 If the Guidelines lacks necessary instructions, transcribers can make personalized notes to the reviewer (Figure 6).  This feature avoids the need to toggle back and forth between messages over email, Slack, or other systems and the transcription page. People can also “flag” the record by checking the box next to “Needs review.”
 
-{{< figure src="image-1.png" alt="screenshot of DataScribe interface showing where to insert transcriber notes" >}}
-
-Figure 6. This screenshot shows where transcribers can add notes or check the box, “Needs review.”
+{{< figure src="image-1.png" alt="screenshot of DataScribe interface showing where to insert transcriber notes"  caption="Figure 6. This screenshot shows where transcribers can add notes or check the box, 'Needs review.'" >}}
 
 Successful organization of historical data not only benefits from a tailor-made transcription form but continued flexibility for transcribers to uniquely respond. DataScribe offers “flexible structure” for the project leads to craft the model and for the participants to fill it out.
 

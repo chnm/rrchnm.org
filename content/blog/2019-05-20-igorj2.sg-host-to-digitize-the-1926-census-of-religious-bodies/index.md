@@ -13,6 +13,7 @@ tags:
 - religion
 - wip
 title: RRCHNM to Digitize the 1926 Census of Religious Bodies
+featured_image: Sample-schedule-from-Candler-NC-781x1024.png
 ---
 
 The Roy Rosenzweig Center for History and New Media is pleased to announce that it has received a three-year grant from the [National Endowment for the Humanities](https://www.neh.gov) to support *Mapping American Religious Ecologies.* The generous funding comes from the Humanities Collections and Reference Resources program within the NEH’s Division of Preservation and Access.

@@ -9,6 +9,7 @@ draft: true
 lastmod: '2018-08-07T15:02:13Z'
 slug: omeka-s-1-0-beta-release
 title: Omeka S 1.0 Beta Release
+featured_image: omeka-s-stickermule-3x3-300x300.png
 ---
 
 {{< figure src="omeka-s-stickermule-3x3.png" alt="Omeka S Logo" >}}The Roy Rosenzweig Center for History and New Media at George Mason University is pleased to announce the public beta release of [***Omeka S* (1.0)**](http://omeka.org/s/), the next-generation, open source web-publishing platform that is fully integrated into the scholarly communications ecosystem and designed to serve the needs of medium to large institutional users who wish to launch, monitor, and upgrade many sites from a single installation.

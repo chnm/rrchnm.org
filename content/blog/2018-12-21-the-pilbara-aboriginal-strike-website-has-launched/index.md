@@ -9,6 +9,7 @@ draft: true
 lastmod: '2018-12-21T10:40:23Z'
 slug: the-pilbara-aboriginal-strike-website-has-launched
 title: The Pilbara Aboriginal Strike Website Has Launched
+featured_image: pilbara-homepage-1024x846.png
 ---
 
 The Roy Rosenzweig Center for History and New Media is excited to announce the launch of a new digital history project, [The Pilbara Aboriginal Strike](http://www.pilbarastrike.org/). Working with two scholars in Australia, Bain Attwood at Monash University and historian Anne Scrimgeour, this project brings together the rich and multi-layered history of the strike that began in the Pilbara region of Western Australia in 1946. Fighting for better wages and working conditions within a settler colonial system, the strike ultimately resulted in positive changes for the Aboriginal community, as well as influencing nationwide advocacy for Aboriginal rights. The website is part of the first major scholarly study of the strike as one of the most important, yet often overlooked, events in Australia’s indigenous history. 

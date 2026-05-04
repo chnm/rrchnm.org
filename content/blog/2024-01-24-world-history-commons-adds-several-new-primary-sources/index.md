@@ -11,6 +11,7 @@ slug: world-history-commons-adds-several-new-primary-sources
 title: World History Commons Adds Several New Primary Sources
 tags:
 - Teaching + Learning
+featured_image: Picture1.jpg
 ---
 
 *World History Commons* recently prioritized adding primary sources from lesser-covered regions and time periods to give a more thorough overview of world history for educators to pull from. As the Project Associate heading this endeavor, I focused my efforts on ancient and post-classical Oceania, North/Central America, South America, and Sub-Saharan Africa.

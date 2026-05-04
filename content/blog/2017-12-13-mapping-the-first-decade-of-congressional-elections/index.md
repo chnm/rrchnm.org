@@ -9,6 +9,7 @@ draft: true
 lastmod: '2017-12-13T11:20:46Z'
 slug: mapping-the-first-decade-of-congressional-elections
 title: Mapping the First Decade of Congressional Elections
+featured_image: MD1-2-3Congresses-300x60.jpg
 ---
 
 {{< figure src="MD1-2-3Congresses-300x60.jpg" caption="Shifting votes for parties in the first three Congressional elections in Maryland." >}} Districts flip, party affiliations change, and populations and geographies shift. These and other changes are visible in [Mapping Early American Election](http://earlyamericanelections.org/)'s first release of over 70 maps visualizing county voting returns by state from the first five U.S. Congressional elections. The project will regularly release additional Congressional maps through the nineteenth Congress in early 2018.

@@ -14,6 +14,7 @@ tags:
 - Public History
 - Smithsonian
 title: NMAAHC/HBCU History and Culture Access Consortium
+featured_image: a5454da6-d4b1-4f44-aed3-6cbae875a2d9.png
 ---
 
 We are very proud to announce that the Roy Rosenzweig Center for History and New Media will be playing a lead role in the *HBCU History and Culture Access Consortium* announced today. The Consortium brings together the [National Museum of African American History and Culture](https://nmaahc.si.edu/) and five Historically Black Colleges and Universities with the goal of making public the riches of the special collections and archives at these five institutions: Tuskegee University, Clark Atlanta University, Jackson State University, Florida A&M University, Texas Southern University.

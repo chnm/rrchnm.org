@@ -10,6 +10,7 @@ lastmod: '2024-05-14T10:35:08Z'
 slug: aha-survey-finds-rrchnms-teachinghistory-org-and-history-matters-to-be-top-resources-for-k-12-teachers
 title: AHA Survey Finds RRCHNM’s Teachinghistory.org and History Matters to be Top
   Resources for K-12 Teachers
+featured_image: Fig1.Resources-1024x628.png
 ---
 
 A [recent survey](https://www.historians.org/research-and-publications/perspectives-on-history/may-2024/whats-being-taught-mapping-the-landscape-of-us-history-education) of K-12 social studies teachers by the American Historical Association finds that [Teachinghistory.org](http://teachinghistory.org) remains a frequently used resource with 56 percent reporting that they used the site. Funded by the Department of Education from 2008 to 2012 and directed by former Director of Educational projects Kelly Schrum, Teachinghistory.org (initially known as the National History Education Clearinghouse) is a central online location for accessing high-quality resources in K-12 U.S. history education.

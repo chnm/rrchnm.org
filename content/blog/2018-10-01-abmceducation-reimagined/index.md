@@ -11,6 +11,7 @@ draft: true
 lastmod: '2018-10-01T09:59:02Z'
 slug: abmceducation-reimagined
 title: ABMCEducation Reimagined
+featured_image: COPYActivity-Image-300x300.jpg
 ---
 
 The Roy Rosenzweig Center for History and New Media has recently completed revisions to

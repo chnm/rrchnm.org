@@ -11,6 +11,7 @@ slug: production-now-underway-for-worlds-turned-upside
 title: Production Now Underway For Worlds Turned Upside
 tags:
 - R2 Studios
+featured_image: Worlds-Turned-Upside-Down_small-1024x1024.png
 ---
 
 #### This post is cross-posted on [r2studios.org](https://www.r2studios.org/blog/production-now-underway-for-worlds-turned-upside-down/) with further details about the announcement.

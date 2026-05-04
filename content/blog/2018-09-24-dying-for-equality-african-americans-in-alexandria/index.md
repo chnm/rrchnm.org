@@ -10,6 +10,7 @@ draft: true
 lastmod: '2018-10-01T09:52:20Z'
 slug: dying-for-equality-african-americans-in-alexandria
 title: 'Dying for Equality: African Americans in Alexandria'
+featured_image: Copy-of-USCT-Restored-600JPEG102-300x300.jpg
 ---
 
 > {{< figure src="Copy-of-USCT-Restored-600JPEG102.jpg" caption="United States Colored Troops in Alexandria, Virginia. Source: Private collection of [Charles Joyce](https://blogs.lib.ku.edu/spencer/tag/charles-joyce/); used with permission." >}}

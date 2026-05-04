@@ -9,6 +9,7 @@ draft: true
 lastmod: '2016-09-06T11:25:06Z'
 slug: a-new-website-for-igorj2.sg-host
 title: A New Website for RRCHNM
+featured_image: 4ead565fef1c56d88ffcd9c2f4f385bc-150x150.png
 ---
 
 Today we're officially launching a redesigned website for RRCHNM. We're also taking the opportunity to move it to an updated url: igorj2.sg-host.com.

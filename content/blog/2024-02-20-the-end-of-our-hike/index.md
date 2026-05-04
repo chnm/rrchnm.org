@@ -11,6 +11,7 @@ slug: the-end-of-our-hike
 title: The End of Our Hike
 tags:
 - R2 Studios
+featured_image: voicemail.png
 ---
 
 Every hike has a beginning, a middle, and an end. Some are short, some are long. In the case of the Appalachian Trail, one of those hikes can last less than an hour, or it can stretch almost 2,200 miles. On October 5, 2021, the team at RRCHNM's [R2 Studios](https://www.r2studios.org/) began *our* journey through the history of America’s most iconic long distance hiking trail with episode one of *[The Green Tunnel](https://www.r2studios.org/show/the-green-tunnel/)* [p](https://www.r2studios.org/show/the-green-tunnel/)[odcast](https://www.r2studios.org/show/the-green-tunnel/). Over the past three years we’ve made more than 40 episodes of original content on this complex history and our listeners have downloaded those episodes more than 160,000 times.

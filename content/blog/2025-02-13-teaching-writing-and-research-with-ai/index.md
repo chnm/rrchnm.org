@@ -13,6 +13,7 @@ tags:
 - Research + Tools
 - Teaching + Learning
 - Generative AI
+featured_image: Danish-postcard.jpg
 ---
 
 When Chat GPT first appeared in November 2022, the almost universal reaction in the humanities community could be summed up in one word – Yikes! Almost without warning this new tool seemed ready to make it incredibly easy for students to “write” essays using prompts that took no more than a minute to produce and then, if they were crafty, another 30 minutes to modify a bit so that it wasn’t quite so obvious that the essay had been written by a large language model (LLM).
@@ -37,9 +38,7 @@ Instead of shaking my finger at my students and telling them they better not use
 
 Increasingly, LLMs are becoming very useful tools for humanities researchers. I am currently working on a biography of a Danish-American immigrant. This past summer I was in Denmark for research and with the help of an MA student at the University of Aarhus I assembled a collection of more than 50 local news stories about this individual. I also met one of his descendants and gathered another two dozen or so letters and postcards he wrote home from the US.
 
-{{< figure src="Danish-postcard.jpg" alt="Image of a postcard written in Danish" >}}
-
-Postcard in Danish
+{{< figure src="Danish-postcard.jpg" alt="Image of a postcard written in Danish"  caption="Postcard in Danish" >}}
 
 All of that text was in Danish. I don’t speak Danish and I’m not going to learn it. But Chat GPT knows it and did an extraordinarily good job (I fact checked it with a native Danish speaker) translating all of that text to English, including some very difficult handwriting. What I especially appreciated was the way that Chat GPT offered up possible variations in its translation in case the most likely version wasn’t correct (it was).
 

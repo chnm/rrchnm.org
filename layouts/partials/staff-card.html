@@ -1,7 +1,20 @@
 <div class="flex flex-col">
   {{ if .picture }}
-  <img src="{{ .picture }}" alt="Photo of {{ .first_name }} {{ .last_name }}" loading="lazy"
-    class="w-full aspect-square object-cover rounded-lg bg-stone-100">
+  {{ $src := .picture }}
+  {{ $img := resources.Get (strings.TrimLeft "/" $src) }}
+  {{ if $img }}
+    {{ $resized := $img.Fill "400x400 Center" }}
+    {{ $webp := $resized.Process "webp" }}
+    <picture>
+      <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+      <img src="{{ $resized.RelPermalink }}" alt="Photo of {{ .first_name }} {{ .last_name }}" loading="lazy"
+        width="400" height="400"
+        class="w-full aspect-square object-cover rounded-lg bg-stone-100">
+    </picture>
+  {{ else }}
+    <img src="{{ $src }}" alt="Photo of {{ .first_name }} {{ .last_name }}" loading="lazy"
+      class="w-full aspect-square object-cover rounded-lg bg-stone-100">
+  {{ end }}
   {{ else }}
   <div class="w-full aspect-square rounded-lg bg-stone-100" role="img" aria-label="No photo available for {{ .first_name }} {{ .last_name }}"></div>
   {{ end }}

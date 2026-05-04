@@ -11,6 +11,7 @@ lastmod: '2018-09-10T16:15:52Z'
 slug: learn-local-think-national-connecting-alexandria-national-cemetery-to-american-history
 title: 'Learn Local, Think National: Connecting Alexandria National Cemetery to American
   History'
+featured_image: Research-Group-Image-300x200.jpg
 ---
 
 “They didn’t even spell out her name!”  This outraged exclamation from an 11th grader at T.C. Williams High School made me absurdly happy.  Why?  Because against all odds I had somehow managed to interest a high schooler in the story of women buried Alexandria National Cemetery (ANC).  And the student was outraged!  I couldn’t be more thrilled.

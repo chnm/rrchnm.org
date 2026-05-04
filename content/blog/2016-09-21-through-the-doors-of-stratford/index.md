@@ -9,6 +9,7 @@ draft: true
 lastmod: '2017-02-08T18:20:32Z'
 slug: through-the-doors-of-stratford
 title: Through the Doors of Stratford
+featured_image: Stratford1-300x252.jpg
 ---
 
 [Arlington Public Schools](https://www.apsva.us/) and the [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu/) (CHNM) at George Mason University are proud to announce a collaborative project called *Through the Doors of Stratford*. This series of online modules will allow Arlington government and history students to explore their community’s role in the complex history of school desegregation.

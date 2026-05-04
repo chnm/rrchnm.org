@@ -10,6 +10,7 @@ lastmod: '2018-09-12T14:59:13Z'
 slug: discovering-the-links-helping-students-piece-together-a-story-from-alexandria-national-cemetery
 title: 'Discovering the Links: Helping Students Piece Together a Story from Alexandria
   National Cemetery'
+featured_image: Booth_Pursuers3-300x225.jpg
 ---
 
 Just after midnight on April 24, 1865, the *Massachusetts*, a side-wheel steamer carrying some 300 soldiers, collided with the *Black Diamond*, a small propeller boat anchored in the lower Potomac River. The *Massachusetts* struck the *Diamond* mid-ship, throwing soldiers overboard by the shear force of the collision. The *Diamond* took on water rapidly, reportedly sinking in three minutes, while the *Massachusetts* also sustained damage and struggled to stay afloat. All told, over sixty men from the *Massachusetts* and four crewmen of the *Diamond* were lost. Hailed by newspapers as a “sad and terrible disaster,” this tragedy was one of the worst riverboat accidents up until that time, receiving not only local, but also national media attention.

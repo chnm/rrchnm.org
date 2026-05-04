@@ -9,6 +9,7 @@ draft: true
 lastmod: '2017-11-13T10:31:37Z'
 slug: eagle-eye-citizen-takes-flight
 title: Eagle Eye Citizen takes flight!
+featured_image: eagleeye.png
 ---
 
 {{< figure src="eagleeye.png" >}}The Roy Rosenzweig Center for History and New Media is proud to announce the launch of [Eagle Eye Citizen,](https://eagleeyecitizen.org/) a Congress, Civic Participation, and Primary Sources Project supported by a grant from the Library of Congress.
