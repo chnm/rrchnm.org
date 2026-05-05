@@ -12,7 +12,7 @@ slug: our-story
 title: Our Story
 type: page
 url: /our-story/
-hero_image: /media/pages/our-story-hero.jpg
+hero_image: /media/pages/our-story-hero.jpeg
 hero_text: Our team includes faculty, developers, technologists, graduate students and undergraduates, support staff, and postdocs. Drawing on many different skillsets, we all draw on the discipline of history. 
 hero_button_text: 
 hero_button_url: 

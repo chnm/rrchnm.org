@@ -8,7 +8,7 @@ slug: graduate-student-education
 title: Graduate Student Education
 type: page
 url: /graduate-student-education/
-hero_image: /media/pages/graduate-education-hero.jpg
+hero_image: /media/pages/graduate-education-hero.jpeg
 hero_text: "We train the next generation of digital historians through our graduate programs. GMU’s Ph.D. program is second to none in digital history, and it shows in the success of our graduates in public and academic history, libraries, archives, museums, research centers, education, and more cultural heritage institutions throughout the county."
 ---
 
