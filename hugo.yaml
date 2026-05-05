@@ -88,8 +88,11 @@ params:
     - name: Facebook
       url: "https://www.facebook.com/rrchnm/"
       icon: facebook
+    - name: GitHub
+      url: "https://github.com/chnm"
+      icon: github
     - name: Mastodon
-      url: 
+      url:
       icon: mastodon
 
 outputs:
