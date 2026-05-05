@@ -1,5 +1,4 @@
 ---
-author_name: Nate Sleeter
 authors:
 - Nate Sleeter
 categories:

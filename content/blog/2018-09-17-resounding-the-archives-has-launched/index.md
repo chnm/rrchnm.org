@@ -1,5 +1,4 @@
 ---
-author_name: Jessica Dauterive
 authors:
 - "Jessica Dauterive"
 categories:

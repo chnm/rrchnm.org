@@ -1,5 +1,4 @@
 ---
-author_name: Sheila Brennan
 authors:
 - "Sheila Brennan"
 categories:

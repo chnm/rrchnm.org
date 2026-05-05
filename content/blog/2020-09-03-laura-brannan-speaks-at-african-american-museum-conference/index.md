@@ -1,5 +1,4 @@
 ---
-author_name: Mills Kelly
 authors:
 - "Mills Kelly"
 categories:

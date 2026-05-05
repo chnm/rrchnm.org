@@ -1,5 +1,4 @@
 ---
-author_name: Dan Cohen
 authors:
 - "Dan Cohen"
 categories:

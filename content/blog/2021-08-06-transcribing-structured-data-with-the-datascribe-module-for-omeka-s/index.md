@@ -1,5 +1,4 @@
 ---
-author_name: Janet Hammond
 authors:
 - Janet Hammond
 categories:

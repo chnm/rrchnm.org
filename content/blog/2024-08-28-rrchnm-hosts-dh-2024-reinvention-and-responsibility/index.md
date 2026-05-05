@@ -1,5 +1,4 @@
 ---
-author_name: Luz A. Giraldo Mueller
 authors:
 - "Luz A. Giraldo Mueller"
 categories:

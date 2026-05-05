@@ -1,5 +1,4 @@
 ---
-author_name: Savannah Scott
 authors:
 - Savannah Scott
 categories:

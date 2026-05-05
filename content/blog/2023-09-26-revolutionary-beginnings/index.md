@@ -1,5 +1,4 @@
 ---
-author_name: Jim Ambuske
 authors:
 - Jim Ambuske
 categories:

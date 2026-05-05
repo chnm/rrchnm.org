@@ -11,9 +11,5 @@
   {{- range . -}}
     {{- $coins = $coins | append "rft.creator" . -}}
   {{- end -}}
-{{- else -}}
-  {{- with $.Params.author_name -}}
-    {{- $coins = $coins | append "rft.creator" . -}}
-  {{- end -}}
 {{- end -}}
 <span class="Z3988" title="{{ querify $coins }}"></span>

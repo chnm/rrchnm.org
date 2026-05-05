@@ -1,5 +1,4 @@
 ---
-author_name: Deepthi Murali
 authors:
 - "Deepthi Murali"
 categories:

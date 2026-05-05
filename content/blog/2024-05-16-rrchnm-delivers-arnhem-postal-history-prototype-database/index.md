@@ -1,5 +1,4 @@
 ---
-author_name: Kristin Jacobsen
 authors:
 - "Kristin Jacobsen"
 categories:

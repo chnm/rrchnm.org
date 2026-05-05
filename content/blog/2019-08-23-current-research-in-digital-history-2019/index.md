@@ -1,5 +1,4 @@
 ---
-author_name: Greta Swain
 authors:
 - "Greta Swain"
 categories:

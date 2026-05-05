@@ -1,5 +1,4 @@
 ---
-author_name: Amanda Madden
 authors:
 - Amanda Madden
 categories:

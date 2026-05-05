@@ -2,7 +2,6 @@
 aliases:
 - /news/a-new-look-and-improved-accessibility-and-stability-for-the-september-11-digital-archive/
 - /news/a-new-look-and-improved-accessibility-and-stability-for-the-september-11-digital-archive/
-author_name: Sharon Leon
 authors:
 - "Sharon Leon"
 categories:

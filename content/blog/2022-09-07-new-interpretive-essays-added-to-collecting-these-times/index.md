@@ -1,5 +1,4 @@
 ---
-author_name: John Turner
 authors:
 - John Turner
 categories:

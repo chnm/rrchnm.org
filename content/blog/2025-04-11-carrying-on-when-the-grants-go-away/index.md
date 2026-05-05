@@ -1,5 +1,4 @@
 ---
-author_name: RRCHNM
 authors:
 - Lincoln Mullen
 categories:

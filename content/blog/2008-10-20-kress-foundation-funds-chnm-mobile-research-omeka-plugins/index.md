@@ -1,5 +1,4 @@
 ---
-author_name: Tom Scheinfeldt
 authors:
 - "Tom Scheinfeldt"
 categories:

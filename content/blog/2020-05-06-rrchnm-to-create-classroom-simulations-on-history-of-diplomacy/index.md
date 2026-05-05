@@ -1,7 +1,6 @@
 ---
 aliases:
 - /uncategorized/igorj2.sg-host-to-create-classroom-simulations-on-history-of-diplomacy/
-author_name: Nate Sleeter
 authors:
 - Nate Sleeter
 categories:

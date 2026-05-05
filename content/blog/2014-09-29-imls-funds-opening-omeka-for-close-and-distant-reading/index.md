@@ -1,5 +1,4 @@
 ---
-author_name: Sharon Leon
 authors:
 - "Sharon Leon"
 categories:

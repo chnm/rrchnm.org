@@ -1,7 +1,6 @@
 ---
 aliases:
 - /news/mills-kelly-named-executive-director-of-igorj2.sg-host/
-author_name: Lincoln Mullen
 authors:
 - "Lincoln Mullen"
 categories:

@@ -1,5 +1,4 @@
 ---
-author_name: Gwendolyn White
 authors:
 - "Gwendolyn White"
 categories:

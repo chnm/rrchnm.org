@@ -1,5 +1,4 @@
 ---
-author_name: Lincoln Mullen
 authors:
 - "Lincoln Mullen"
 categories:

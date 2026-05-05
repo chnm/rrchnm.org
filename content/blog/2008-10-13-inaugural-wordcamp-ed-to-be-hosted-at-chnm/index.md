@@ -2,7 +2,6 @@
 aliases:
 - /news/inaugural-wordcamped-to-be-hosted-at-chnm/
 - /news/inaugural-wordcamped-to-be-hosted-at-chnm/
-author_name: Tom Scheinfeldt
 authors:
 - "Tom Scheinfeldt"
 categories:

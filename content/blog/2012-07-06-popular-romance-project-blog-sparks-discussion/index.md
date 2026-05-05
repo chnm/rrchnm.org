@@ -2,7 +2,6 @@
 aliases:
 - /news/1769/
 - /news/1769/
-author_name: RRCHNM
 authors:
 - "RRCHNM"
 categories:

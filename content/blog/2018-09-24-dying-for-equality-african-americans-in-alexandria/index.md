@@ -1,5 +1,4 @@
 ---
-author_name: Brianna Nuñez
 authors:
 - "Brianna Nuñez"
 categories:

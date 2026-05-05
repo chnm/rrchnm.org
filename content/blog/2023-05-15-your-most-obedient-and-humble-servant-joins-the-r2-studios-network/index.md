@@ -1,7 +1,6 @@
 ---
 aliases:
 - /news/your-most-humble-and-obedient-servant-joins-the-r2-studios-network/
-author_name: Jeanette Patrick
 authors:
 - Jeanette Patrick
 categories:

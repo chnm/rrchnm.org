@@ -1,7 +1,6 @@
 ---
 aliases:
 - /collecting-and-exhibiting/igorj2.sg-host-and-covid-19/
-author_name: Mills Kelly
 authors:
 - Mills Kelly
 categories:

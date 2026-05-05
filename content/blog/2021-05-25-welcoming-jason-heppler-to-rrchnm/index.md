@@ -1,7 +1,6 @@
 ---
 aliases:
 - /news/welcoming-jason-heppler-to-igorj2.sg-host/
-author_name: Lincoln Mullen
 authors:
 - "Lincoln Mullen"
 categories:

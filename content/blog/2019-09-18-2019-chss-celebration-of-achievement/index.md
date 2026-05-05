@@ -1,5 +1,4 @@
 ---
-author_name: Daniel Howlett
 authors:
 - "Daniel Howlett"
 categories:

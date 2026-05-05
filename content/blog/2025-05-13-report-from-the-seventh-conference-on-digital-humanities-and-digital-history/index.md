@@ -1,5 +1,4 @@
 ---
-author_name: Lauren Rever
 authors:
 - Lauren Rever
 categories:

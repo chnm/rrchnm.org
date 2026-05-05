@@ -24,9 +24,7 @@
 
 {{/* Author */}}
 {{- $author := "" -}}
-{{- with .Params.author_name -}}
-  {{- $author = . -}}
-{{- else with .Params.authors -}}
+{{- with .Params.authors -}}
   {{- $author = delimit . ", " -}}
 {{- end -}}
 

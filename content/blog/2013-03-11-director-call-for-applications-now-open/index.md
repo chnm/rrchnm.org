@@ -1,5 +1,4 @@
 ---
-author_name: Sean Takats
 authors:
 - "Sean Takats"
 categories:

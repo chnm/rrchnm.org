@@ -1,5 +1,4 @@
 ---
-author_name: Jeny Martinez
 authors:
 - "Jeny Martinez"
 categories:

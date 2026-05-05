@@ -1,5 +1,4 @@
 ---
-author_name: Jennifer Rosenfeld
 authors:
 - "Jennifer Rosenfeld"
 categories:

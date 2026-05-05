@@ -1,5 +1,4 @@
 ---
-author_name: Jessica Otis
 authors:
 - "Jessica Otis"
 categories:

@@ -1,5 +1,4 @@
 ---
-author_name: Paige Magoto
 authors:
 - "Paige Magoto"
 categories:
