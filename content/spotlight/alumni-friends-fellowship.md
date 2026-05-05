@@ -8,7 +8,7 @@ tags:
 - graduate education
 link_text: "Learn About the Fellowship"
 lede: "The RRCHNM Alumni & Friends Fellowship supports PhD students at George Mason University who are working on digital dissertations. When fundraising for this endowed fellowship is complete, it will fund a summer fellowship in perpetuity."
-featured_image: /img/founder.jpg
+featured_image: /img/founder-narrow.png
 ---
 
 Over one hundred PhD students in history from GMU have graduated and gone on to careers as professors and teachers, librarians and archivists, museum professionals and civil servants, software developers and business leaders, among many other careers. They have brought RRCHNM‘s unique combination of digital methods and historical research with them.
