@@ -6,15 +6,24 @@
 {{- $desc := .Params.description | default .Params.lede | default .Summary | default $siteDesc -}}
 {{- $desc = $desc | plainify | htmlUnescape | truncate 200 -}}
 
-{{/* Image: featured image > page images param > site default */}}
+{{/* Image: page featured image > page images param > site default social image */}}
 {{- $image := "" -}}
-{{- $featImg := partial "featured-image.html" . -}}
-{{- if $featImg -}}
-  {{- $image = $featImg -}}
-{{- else if .Params.images -}}
-  {{- $image = index .Params.images 0 -}}
-{{- else -}}
-  {{- $image = "/img/founder.jpg" -}}
+{{- with .Params.featured_image -}}
+  {{- if or (hasPrefix . "/") (hasPrefix . "http") -}}
+    {{- $image = . -}}
+  {{- else -}}
+    {{- $res := $.Resources.GetMatch . -}}
+    {{- if $res -}}
+      {{- $image = $res.RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $image -}}
+  {{- if .Params.images -}}
+    {{- $image = index .Params.images 0 -}}
+  {{- else if .Site.Params.images -}}
+    {{- $image = index .Site.Params.images 0 -}}
+  {{- end -}}
 {{- end -}}
 
 {{/* Make image URL absolute */}}

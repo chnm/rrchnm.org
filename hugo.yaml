@@ -72,7 +72,7 @@ menus:
       weight: 6
 
 params:
-  description: "Roy Rosenzweig Center for History and New Media at George Mason University"
+  description: "RRCHNM creates open educational resources for K–12 history, turns historical sources into datasets and visualizations, and crafts compelling historical narratives."
   images:
     - /img/founder.jpg
   default_image: "/img/default-blog.jpeg"
