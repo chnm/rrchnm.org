@@ -33,7 +33,7 @@ related:
 
 menus:
   main:
-    - name: About
+    - name: About Us
       url: /our-story/
       weight: 1
     - name: People
@@ -52,7 +52,7 @@ menus:
       url: /graduate-student-education/
       weight: 6
   mobile:
-    - name: About
+    - name: About Us
       url: /our-story/
       weight: 1
     - name: People
