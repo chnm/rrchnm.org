@@ -34,7 +34,7 @@
     {{ if .HasChildren }}
     <button @click="open = !open" class="flex items-center justify-between w-full px-5 py-3 text-sm font-medium text-stone-900 bg-transparent border-none cursor-pointer" :aria-expanded="open.toString()">
       {{ .Name }}
-      <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 text-stone-400 transition-transform duration-200" :class="open ? 'rotate-180' : ''" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" /></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 text-stone-500 transition-transform duration-200" :class="open ? 'rotate-180' : ''" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" /></svg>
     </button>
     <ul x-show="open" x-collapse x-cloak class="bg-stone-50 border-t border-stone-100">
       {{ range .Children }}
