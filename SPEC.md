@@ -58,7 +58,7 @@ This is a public, read-only website with no user accounts or authentication. All
 
 ### Content Publishing
 - Blog posts with `draft: true` are excluded from production builds
-- Blog posts require: `title`, `date`, `slug`, and `author_name`
+- Blog posts require: `title`, `date`, `slug`, and `authors`
 - Blog posts in the "News" category hide author attribution in list and single views
 - Blog post summaries use custom `lede` field if set, otherwise Hugo's auto-generated `.Summary`
 - Projects with `featured_project: true` appear on the homepage (up to 9)
@@ -68,7 +68,7 @@ This is a public, read-only website with no user accounts or authentication. All
 - Social media icons only render when a URL is configured in `hugo.yaml`
 
 ### Navigation
-- Navigation menus are defined in `data/menus.yaml` (top_nav, mobile_nav, footer)
+- Navigation menus (`main`, `mobile`) are defined in `hugo.yaml` under `menus:`
 - Primary sections: People, Projects, Publications, Blog, Graduate Education
 
 ### Display Rules

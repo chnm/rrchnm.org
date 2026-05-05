@@ -20,7 +20,7 @@ Hugo Extended 0.154.5+ is required (for CSS processing).
 
 Content lives in `content/` with four main sections:
 
-- **blog/** — Blog posts (555+), frontmatter: `author_name`, `authors`, `categories`, `date`, `slug`, `draft`, `lede`
+- **blog/** — Blog posts (555+), frontmatter: `authors`, `categories`, `date`, `slug`, `draft`, `lede`
 - **our-work/** — Section wrapper only. The list page at `/projects/` is rendered from `data/projects.yaml` (see "Data-Driven Configuration" below); `content/our-work/` contains just `_index.md` for the section metadata.
 - **publications/** — Research publications (54+), frontmatter: `essay_author`, `essay_date`, `pub_date`, `essay_publication_info`
 - **page/** — Static pages (about, contact, policies, education)
@@ -39,11 +39,9 @@ Templates in `layouts/` follow Hugo conventions:
 ### Data-Driven Configuration
 
 YAML files in `data/` drive site structure:
-- `menus.yaml` — Navigation (top_nav, mobile_nav, footer)
 - `people.yaml` — Staff directory (rendered via `layouts/page/our-people.html`)
 - `projects.yaml` — Projects list (rendered via `layouts/our-work/list.html` at `/projects/` and, for `gallery: false` entries, via `layouts/page/backlist.html` at `/backlist/`). Fields: `title`, `url`, `mars_url`, `years_active`, `active`, `gallery`, `featured_project`, `image`, `categories`. Every entry lists every field (use `~` for empty). Sorted alphabetically by title. Images live under `/static/media/projects/<slug>/` and are referenced as `/media/projects/<slug>/<file>`.
 - `dissertations.yaml` — Digital dissertations list (rendered on graduate education page)
-- `footer.yaml` — Footer configuration
 
 ### Image Handling
 
@@ -52,6 +50,8 @@ Images use a dual approach handled by `layouts/partials/featured-image.html`:
 - **Static assets** — Shared images in `static/img/` (site assets) and `static/media/` (content images), referenced by absolute path (e.g., `/media/reports/file.pdf`)
 
 The `featured-image.html` partial auto-detects which type: paths starting with `/` or `http` are used as-is; otherwise resolved as page resources. Gallery templates use the same logic.
+
+Staff headshot images live in `assets/media/headshots/` (not `static/`) so Hugo can process and resize them. They are referenced in `data/people.yaml` via the `picture` field (e.g., `/media/headshots/donna-baker.jpg`).
 
 Prefer page bundle resources for project/content-specific images. Use `static/` for shared assets (logos, default images, PDFs). Organize `static/media/` by topic (e.g., `reports/`, `grad/`), not by date.
 
@@ -90,6 +90,7 @@ Key settings in `hugo.yaml`:
 - Pagination: 12 items per page
 - Taxonomies: categories and tags
 - JSON output on homepage for search index
+- Navigation menus (`main`, `mobile`, `footer`) defined in `menus:` section
 - Social media links in `params.social` (conditionally rendered — URL must be present)
 
 ### URL Redirects

@@ -73,7 +73,9 @@ The dev server runs at `http://localhost:1313/` with live reload.
 rrchnm.org/
 ├── assets/
 │   ├── css/main.css          # Tailwind entry point (@layer base/components/utilities)
-│   └── js/                   # JavaScript modules
+│   ├── js/                   # JavaScript modules
+│   └── media/
+│       └── headshots/        # Staff headshot images (Hugo-processed)
 ├── content/
 │   ├── blog/                 # Blog posts (Markdown + YAML frontmatter)
 │   ├── our-work/             # Project pages (served at /projects/)
@@ -81,10 +83,8 @@ rrchnm.org/
 │   ├── spotlight/            # Featured spotlight content
 │   └── page/                 # Static pages (about, contact, etc.)
 ├── data/
-│   ├── menus.yaml            # Navigation menus (top_nav, mobile_nav, footer)
 │   ├── people.yaml           # Staff directory
-│   ├── dissertations.yaml    # Digital dissertations for grad education page
-│   └── footer.yaml           # Footer configuration
+│   └── dissertations.yaml    # Digital dissertations for grad education page
 ├── layouts/
 │   ├── _default/             # Base templates (baseof, list, single)
 │   ├── blog/                 # Blog templates
@@ -164,6 +164,8 @@ The `layouts/partials/featured-image.html` partial handles image paths:
 
 Gallery arrays in project frontmatter may mix both patterns; the gallery template in `our-work/single.html` uses the same resolution logic.
 
+Staff headshot images live in `assets/media/headshots/` (not `static/`) so Hugo can process and resize them. They are referenced in `data/people.yaml` via the `picture` field (e.g., `/media/headshots/donna-baker.jpg`).
+
 ---
 
 ## Development Workflow
@@ -221,7 +223,7 @@ GitHub Actions workflow (`.github/workflows/cicd.yml`):
 - Two-column layouts use `lg:w-2/3` + `lg:w-1/3` flex pattern (see blog single, our-story, graduate education)
 
 ### Content
-- Blog frontmatter: `title`, `date`, `slug`, `author_name`, `authors`, `categories`, `draft`, `lede` (optional custom summary; falls back to Hugo `.Summary`)
+- Blog frontmatter: `title`, `date`, `slug`, `authors`, `categories`, `draft`, `lede` (optional custom summary; falls back to Hugo `.Summary`)
 - Blog categories: `Post`, `News` (News category hides author display)
 - Project frontmatter: `title`, `categories`, `featured_image`, `project_url`, `funders`, `gallery`, `featured_project`, `status`
 - Publication frontmatter: `title`, `pub_date`, `essay_author`, `essay_date`, `essay_publication_info`
@@ -251,14 +253,14 @@ GitHub Actions workflow (`.github/workflows/cicd.yml`):
 - Run `just dev` to verify changes render correctly
 - Hugo templates use Go template syntax (`{{ }}`) — not Jinja, Handlebars, etc.
 - Tailwind classes are purged based on `content` paths in `tailwind.config.js` — if adding templates in new directories, update the content array
-- The `data/menus.yaml` file drives all navigation — don't hardcode nav links in templates
+- Navigation menus (`main`, `mobile`) are defined in `hugo.yaml` under `menus:` — don't hardcode nav links in templates
 - Staff data lives in `data/people.yaml`, not in content files
 - Digital dissertations live in `data/dissertations.yaml`
 - When adding images for a specific content page, prefer adding to the page bundle over `static/`
 
 ### What to Avoid
 - Don't add JavaScript frameworks beyond Alpine.js — keep the JS footprint minimal
-- Don't use Hugo's built-in menu system — the site uses `data/menus.yaml` instead
+- Navigation uses Hugo's built-in menu system configured in `hugo.yaml`
 - Don't put styles outside of Tailwind utilities or `@layer` directives in `main.css` (exception: JS-generated DOM that Tailwind can't purge, like search results)
 - Don't change `hugo.yaml` `baseURL` for local development — Hugo server handles this automatically
 - Don't use date-based paths for new static media — use semantic folder names (e.g., `static/media/reports/`)

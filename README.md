@@ -86,7 +86,7 @@ status:
 
 ### Updating Navigation
 
-Edit `data/menus.yaml` to change navigation links. Do not hardcode nav links in templates.
+Edit the `menus:` section in `hugo.yaml` to change navigation links. Do not hardcode nav links in templates.
 
 ### Updating Staff
 

@@ -290,7 +290,7 @@ Staff information is managed in `data/people.yaml`, not in content files. Each p
 
 ## Navigation
 
-Site navigation is configured in `data/menus.yaml`. Changes to navigation structure should be coordinated with the development team.
+Site navigation is configured in the `menus:` section of `hugo.yaml`. Changes to navigation structure should be coordinated with the development team.
 
 ---
 
