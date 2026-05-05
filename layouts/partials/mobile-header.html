@@ -12,6 +12,6 @@
     </div>
   </div>
   <nav id="mobile-nav" class="mobile-nav hidden absolute top-16 left-0 right-0 bg-white border-t border-stone-200 shadow-lg z-50 max-h-[80vh] overflow-y-auto" role="navigation" aria-label="Mobile menu">
-    {{ partial "nav-menu.html" (dict "items" .Site.Data.menus.mobile_nav.items "depth" 0 "mobile" true) }}
+    {{ partial "nav-menu.html" (dict "items" .Site.Menus.mobile "depth" 0 "mobile" true) }}
   </nav>
 </header>

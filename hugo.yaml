@@ -31,6 +31,46 @@ related:
     - name: date
       weight: 5
 
+menus:
+  main:
+    - name: About
+      url: /our-story/
+      weight: 1
+    - name: People
+      url: /people/
+      weight: 2
+    - name: Projects
+      url: /projects/
+      weight: 3
+    - name: Publications
+      url: /publications/
+      weight: 4
+    - name: Blog
+      url: /blog/
+      weight: 5
+    - name: Graduate Education
+      url: /graduate-student-education/
+      weight: 6
+  mobile:
+    - name: About
+      url: /our-story/
+      weight: 1
+    - name: People
+      url: /people/
+      weight: 2
+    - name: Projects
+      url: /projects/
+      weight: 3
+    - name: Publications
+      url: /publications/
+      weight: 4
+    - name: Blog
+      url: /blog/
+      weight: 5
+    - name: Graduate Education
+      url: /graduate-student-education/
+      weight: 6
+
 params:
   description: "Roy Rosenzweig Center for History and New Media at George Mason University"
   images:
