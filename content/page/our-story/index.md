@@ -34,9 +34,9 @@ RRCHNM has fulfilled our mission in many ways over the past three decades. The w
 
 ### Our History
 
-<a href="https://thanksroy.org/"><button>Our Founder →</button></a>
-
 RRCHNM was founded by the visionary historian [Roy Rosenzweig](https://en.wikipedia.org/wiki/Roy_Rosenzweig) (1950–2007). Rosenzweig was a labor historian and social historian who recognized early on the power of digital media, and especially of the World Wide Web, to democratize history. He founded the Center for History and New Media at George Mason University in 1994. Under his direction, the center created early digital history projects including  the CD-ROM edition of _Who Built America?_ (1993 and 1995, in partnership with the American Social History Project), _Liberty, Equality, Fraternity_ (1997), and _History Matters_ (1998). Rosenzweig also wrote widely about digital history, including in books such as _The Presence of the Past_ (1998, with David Thelen), _Digital History_ (2006, with Dan Cohen), and the essays collected in _Clio Wired_ (2011).
+
+{{< button href="https://thanksroy.org/" text="Our Founder" >}}
 
 An inveterate collaborator, Rosenzweig had a vision for digital history that led to the creation of CHNM, but also to the broader acceptance of digital history and digital humanities. In time, many centers for digital scholarship would spring up at universities and colleges across the United States and the world. However, CHNM was—and remains—practically unique for being housed within the Department of History and Art History instead of a library or other institution, and it retains its focus on history rather than the humanities writ large. 
 
