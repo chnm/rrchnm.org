@@ -28,6 +28,6 @@ RRCHNM has been building digital history projects since 1994. Some of our earlie
 
 We welcome feedback on the accessibility of our websites and projects. If you encounter a barrier or have suggestions for improvement, please let us know.
 
-{{< button href="#" text="Submit an Accessibility Report" alttext="This button takes you to an Airtable form to submit an accessibility report. If you encounter errors with the form, please email your report directly to us at chnm@gmu.edu." >}}
+{{< button href="https://airtable.com/appOs5RPBtYZi0L5X/pagd8GxC6upYwLgOc/form" text="Submit an Accessibility Issue" alttext="This button takes you to an Airtable form to submit an accessibility report. If you encounter errors with the form, please email your report directly to us at chnm@gmu.edu." >}}
 
 This statement was last updated on 30 April 2026.
