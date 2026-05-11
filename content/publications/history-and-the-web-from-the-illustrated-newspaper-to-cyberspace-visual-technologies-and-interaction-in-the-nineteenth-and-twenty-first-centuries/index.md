@@ -1,0 +1,234 @@
+---
+date: '2016-07-12T02:23:52Z'
+draft: false
+essay_author: Joshua Brown
+authors:
+- "Joshua Brown"
+essay_date: June 2004
+essay_publication_info: This article was originally published in <em>Rethinking History</em>, Vol. 8, No. 2, June 2004.
+lastmod: '2016-07-12T02:23:52Z'
+slug: history-and-the-web-from-the-illustrated-newspaper-to-cyberspace-visual-technologies-and-interaction-in-the-nineteenth-and-twenty-first-centuries
+title: 'History and the Web, From the Illustrated Newspaper to Cyberspace: Visual Technologies and Interaction in the Nineteenth and Twenty-First Centuries'
+pub_date: '2004'
+---
+
+This article is a self-critical, historically informed progress report to assess ways that different forms of visual media admit and frustrate public expression and education. Reviewing more than a decade of digital projects produced by the American Social History Project and its collaborators, I consider ways that the design of visual digital projects may provide opportunities for active learning on the part of users and a renewed dialogue between new media producers and consumers. Some of the clues to creative interactivity in the new visual media of the present may be found by referring back 150 years to the visual technol-ogies of the past.
+
+Keywords: Digital history; Immersive; Narrative; Database
+
+'Historical understanding is like a vision, or rather like an evocation of images.' This insight by the great historian Johan Huizinga taps the essence of historical inquiry (Huizinga 1968, p. 269). Our consciousness of the past is inextricably bound by pictures. From Emmanuel Leutze's mythopoeic painting Washington Crossing the Delaware (<http://www.metmuseum.org/explore/gw/el_gw_bigimage.htm>) to Timothy O'Sullivan's grim photographs of Civil War carnage (<http://www.geh.org/ne/mismi3/topofimage>) to Lewis Hine's affirmative portraits of immigrants arriving at Ellis Island (<http://www.geh.org/fm/lwhprints/htmlsrc2/topofimage>), our under-standing of history coalesces into images the significance and meaning of which we may know or, more often and alarmingly, not know. Yet the orientation of US historical scholarship–not to mention teaching– remains resolutely textual. Even American studies, the practitioners of which pride themselves on their use of transdisciplinary approaches and eclectic sources, continues to a surprising extent to ignore visual evidence so rich in information about past relationships, beliefs and behaviour (with the notable exception of the growing but still ill-defined field of visual culture studies). While seemingly every history and American studies book now published has its obligatory clutch of half-tone illustrations tipped into its binding or scattered through its pages, those pictures are usually extra-neous to the author's thesis and argument.
+
+The ramifications of this puzzling anti-ocular bias have grown in significance as we enter into the new representational, pedagogical and epistemological realm of digital media. History and American studies scholars can no longer avoid the issue, if for no other reason than the exponential increase in pictorial archival resources now offered on the World Wide Web for both scholarship and teaching. Occasionally dipping one's scholarly big toe into the murky waters of the Web to test out resources–or to get one's students to do so–will no longer suffice. As someone who has studied visual media in the past and has also worked in a number of its twentieth and twenty-first-century formats, I am intensely aware of the perpetual challenge of bridging the gulf between producers and users. I am equally aware that this challenge is set against the overall triumph of the spectacle, which has, with significant but ephemeral challenges, characterized public visual media since the late nineteenth century. We stand at a crossroads in the development of digital media: in the face of the rapid consolidation and privatization of information, coupled with new methods of fetishizing appearances and pacifying gazes, the World Wide Web still offers us a forum and laboratory for adventurous, rigorous and accessible creative and intellectual work (Debord 1994; Schiller 1999; on anti-ocular bias see Stafford 1997, p. 86).
+
+This paper will be a self-critical, historically informed progress report to assess ways in which different forms of visual media admit and frustrate public expression and education. To address this challenge, this paper's orientation will be couched in somewhat personal terms–or personally collaborative terms, in that new media work largely defies one authorial hand, voice or vision. I will look at digital projects that I have co-produced to consider ways in which the design of visual digital projects may provide opportunities for active learning on the part of users, and a renewed dialogue between new media producers and 'consumers'. As I will show, some of the clues to creative interactivity in the new visual media of the present may be found by referring back 150 years to the visual technologies of the past.
+
+**Multimedia Scrapbooks**
+
+In her influential 1997 study Hamlet on the Holodeck: The Future of Narrative in Cyberspace, Janet Murray (of Georgia Tech's Graduate Program in Information Design and Technology) observes that the application of new media is still in a developmental stage. Much like early narrative film or, as they were called, 'photoplays', with their orientation towards the theatrical proscenium, digital programmes' references are to preceding media. This is most apparent in the metaphors we use on the World Wide Web: we access a webpage; we scroll down that page; we consult (lapsing into culinary literature) a menu, and so on. But, as Murray elaborates, the references to earlier media extend beyond semantics. Most new media programs are characterized by a 'derivative mindset' that affects their cognitive design and functionality. Rather than coherent works, they operate as (in Murray's term) 'multimedia scrapbooks' composed of a compendium of linked older forms (whether text, image, film or audio) (Murray 1997, pp. 65-68).
+
+On reflection, Murray's scrapbook analogy is overdrawn. In practice, digital multimedia, especially in educational new technology, usually involves a hierarchy of media in which text still plays a predominant role (Cubitt 2000, pp. 168-172). Certainly, it was the prospect of creating the 'first electronic history book' that drew my colleagues and myself into the digital realm fourteen years ago when CD-ROMs were only first being introduced and a comparative trickle of traffic coursed over the World Wide Web.
+
+In 1990, the American Social History Project was in the process of completing Who Built America?, an ambitious two-volume social history of the USA, when we were approached by the Voyager Company, a visionary new media publisher, with an irresistible proposition. Would we consider transforming our comprehensive history of working people in the nation's economy, politics, culture and society into a new, as yet not fully conceived digital format? Three years later, Who Built America? From the Centennial Celebration of 1876 to the Great War of 1914 (<http://web.gc.cuny.edu/ashp/RH/wba1a.htm>) was released in Macintosh format (Voyager's vision failed to comprehend Microsoft's voraciousness, requiring a subsequent complete reworking of the disk for Windows, published in 1996) (Figure 1).The CD-ROM focused on only four chapters of the book covering the forty years bridging the nineteenth and twentieth centuries, which allowed us to work with several different media without having to confront many of the expenses and issues of copyright. Furthermore, four chapters were about all we could fit on to one CD-ROM at the time (Rosenzweig, Brier & Brown 1993).
+
+[![Figure 1 Who Built America? 1 (1876-1914) CD-ROM Cover.](http://chnm.gmu.edu/images/brown_fig1.jpg)](http://chnm.gmu.edu/images/brown_fig1.jpg)
+
+**Figure 1** Who Built America? 1 (1876-1914) CD-ROM Cover.
+
+That said, the contrast between the informational capacity of a book compared to a CD-ROM was startling. The original four chapters of the book comprised 226 pages of text, 85 half-tone illustrations and 41 brief documents. The Who Built America? CD-ROM, in addition to chapter pages, contained 5000 pages of documents; 700 images; 75 charts, graphs, maps and games; four-and-a-half hours of voices, sounds and music from the period; and 45 minutes of film.
+
+[![Figure 2 Who Built America? 1 (1876-1914) CD-ROM Basic Page.](http://chnm.gmu.edu/images/brown_fig2.jpg)](http://chnm.gmu.edu/images/brown_fig2.jpg)
+
+**Figure 2** Who Built America? 1 (1876-1914) CD-ROM Basic Page.
+
+The hybrid or–to use Janet Murray's term–scrapbook nature of this first digital effort was, for us and the disk's many users (Voyager sold some 110,000 copies), its greatest attraction. The modest Hypercard format preserved the look of a book (Figure 2, <http://web.gc.cuny.edu/ashp/RH/wba1b.htm>), while special features, which we called 'excursions' (because they were side-trips off the main text narrative) linked together different types of primary sources. For example, in an excursion called 'The Railroad Spans America' (<http://web.gc.cuny.edu/ashp/RH/wba1c.htm>), documents, films, news illustrations, songs and oral history interviews deline-ated the impact of the railroad on Gilded Age American society and culture (Figure 3). Perhaps the most popular feature of the CD-ROM was the Resource Index (<http://web.gc.cuny.edu/ashp/RH/wba1d.htm>), a proto-database that allowed users to locate the various media on the disk by title, media type and topic and, in the process, devise their own structure of reading and learning (Figure 4). Now, a decade later, with the exponential growth of the World Wide Web and concomitant increase in online multi-media archives (for example, the Library of Congress's American Memory site offers more than seven million digital items), it is already hard to convey the intellectual excitement that was engendered by such links, providing access to many types of information that were hithero cloistered in specialized libraries (Rosenzweig & Brier 1993; Rosenzweig et al . 1995).
+
+[![Figure 3 Who Built America? 1 (1876-1914) CD-ROM 'Excursion'](http://chnm.gmu.edu/images/brown_fig3.jpg)](http://chnm.gmu.edu/images/brown_fig3.jpg)
+
+**Figure 3** Who Built America? 1 (1876-1914) CD-ROM 'Excursion'
+
+In short, our first venture into the digital realm proved to be a resounding success. For one thing, it was actually profitable–a feat that would never be repeated–but, more importantly, it proved to us that new technology was a challenging and creative arena for historical scholarship that also offered clear benefits for teaching. We embarked on other digital projects, many in collaboration with the Center for History and New Media, which long-time colleague and Who Built America? co-author Roy Rosenzweig founded at George Mason University in 1994. A second Who Built America? (<http://web.gc.cuny.edu/ashp/RH/wba2.htm>) covered the era of the two World Wars; it benefited from the increased capacity of CD-ROMs to contain more and different types of information while still retaining the original's book-like demeanour (Figure 5). Liberty, Equality, Fraternity (<http://www.chnm.gmu.edu/revolution>), a CD-ROM (and later Web) collaboration with the Museum of the French Revolution in Vizille, France, also used a multimedia hybrid book format both to tell the story of the French Revolution and provide access to resources previously inaccessible to non-experts (Figure 6). By the late 1990s we began to shift our focus to the Internet as the bandwidth and programming limitations that had previously hampered developing programs on the World Wide Web were being rapidly resolved. Our History Matters website ([http://history matters.gmu.edu](http://historymatters.gmu.edu)), dedicated to making sense out of the morass of history materials offered online, and to providing innovative multimedia resources for teaching the US past, now registers about 50,000 visits a month (Figure 7). Designed to assist teachers and students in a variety of educational settings and levels, the site relinquished the book-like simulcrum of our earlier efforts–in particular, a narrative that ran through our previous programs, anchoring otherwise disparate types of information–in favour of a richly diverse and easily searchable database (Figure 8,<http://historymatters.gmu.edu/search.php>) (see also Rosenzweig, Brown, Brier et al . 2000; Hunt & Censer 2001; Schrum 2001; Weis 2001).[^2]
+
+[![Figure 4 Who Built America? 1 (1876-1914) CD-ROM Resource Index.](http://chnm.gmu.edu/images/brown_fig4.jpg)](http://chnm.gmu.edu/images/brown_fig4.jpg)
+
+**Figure 4** Who Built America? 1 (1876-1914) CD-ROM Resource Index.
+
+[![Figure 5 Who Built America? 2 (1914-1946) CD-ROM Basic Page](http://chnm.gmu.edu/images/brown_fig5.jpg)](http://chnm.gmu.edu/images/brown_fig5.jpg)
+
+**Figure 5** Who Built America? 2 (1914-1946) CD-ROM Basic Page
+
+[![Figure 6 Liberty, Equality, Fraternity Website Home Page.](http://chnm.gmu.edu/images/brown_fig6.jpg)](http://chnm.gmu.edu/images/brown_fig6.jpg)
+
+**Figure 6** Liberty, Equality, Fraternity Website Home Page.
+
+With History Matters we reached a sort of plateau in our digital work. Its database structure, seemingly antithetical to narrative, offered online users a flexible tool for locating and accessing information; but it also revealed a limitation in digital multimedia work (and educational multimedia in particular). Despite the optimistic declarations of digital futurists about the eventual convergence of different media, multimedia has failed to coalesce into a new form and still operates as a fragmented collection of different types of information. This fragmentation might be considered merely indicative of new media's postmodern sensibility, resisting the totalizing meta-narratives of previous modernist forms–but only if we ignore the immersive properties of digital media. (On the divergence of database and narrative forms in new media, see Manovich 2001, pp. 218-221.)
+
+[![Figure 7 History Matters Home Page.](http://chnm.gmu.edu/images/brown_fig7.jpg)](http://chnm.gmu.edu/images/brown_fig7.jpg)
+
+**Figure 7** History Matters Home Page.
+
+[![Figure 8 History Matters Search Page.](http://chnm.gmu.edu/images/brown_fig8.jpg)](http://chnm.gmu.edu/images/brown_fig8.jpg)
+
+**Figure 8** History Matters Search Page.
+
+According to Janet Murray, 'two properties help to make digital creations seem as explorable and extensive as the actual world, making up much of what we mean when we say that cyberspace is immersive .' One of these immersive properties, extensively exploited in educational new media, is encyclopedic–the realm of the database. The other is embedded in the very concept of navigation and has been enacted in the creation of believable three-dimensional virtual environments: digital media's unique ability to represent and explore the dimension of space. Web-based and CD-ROM educational programs may offer the public rich archival resources, but it is commercial interactive programs that have successfully combined data and narrative with the interrogation of space (Manovich 2001, pp. 244ff; Murray 1997, pp. 71, 79-90).
+
+Indeed, it was the best-known CD-ROM of the 1990s, Myst (1993), with its investigation of a detailed and strangely depopulated landscape, that prompted the next phase of our digital work. And although Myst 's leisurely and focused investigation of its deserted, classically futuristic terrain was a welcome relief from the rapid-pulse virtual massacres of programs such as Doom, Myst also pointed to a significant flaw in most 3-D explorations: an utter disregard for intellectual content.
+
+**Navigating Virtual Space**
+
+As in all history, chronology can mask process, and our foray into virtual three-dimensionality hardly took a linear path. In 1994 we started work on a new media project structured as a spatial exploration, tentatively entitled Landscapes in Time. In the heady moment when Myst 's popularity and our own Who Built America? CD-ROM's success seemed to auger a burgeoning commercial market for creative and experimental digital programs, we were determined to address a general audience interested in history. In hindsight, it is now apparent that we were sadly deluded–at least in terms of the commercial viability of 'serious' 3-D (and, therefore, inherently expensive) digital projects. The mid-1990s did see the publication of 3-D programs such as Qin: Tomb of the Middle Kingdom (1996), a content-rich archaeo-logical fantasy game about the first Emperor of China, financed by Time Warner. However, even as we were developing our own 3-D approach, that particular digital bubble burst and private support for such big-budget CD-ROM ventures quickly vanished. We realized that the only way to get even nominal funding for combining historical inquiry with the immersive and interactive would be by defining the project as more traditionally educational, focused on the classroom (with the hope that, by extension, we might reach a larger public).[^3]
+
+While the notion of our primary audience shifted in the face of economic reality, the goal of the 3-D investigation of a reconstructed virtual landscape remained consistent: greater understanding of a particular historical era. What we could not immediately resolve was a compelling way to merge navigation and narrative. Early on we settled on the convention of time-travel, situating the user in an unfamiliar historical setting in which she would have to orient herself while embarking on the first stage of exploration. There was no end to interesting historical places to re-create and themes to address–but the plot of the exploration evaded us, which required the motivation of a historically accurate puzzle to solve or challenges to overcome that were also true to a specific place and time.
+
+P. T. Barnum's American Museum (Figure 9, <http://chnm.gmu.edu/lostmuseum/lm/16/>) turned out to offer the combination we were seeking. From 1841 to its fiery demise in 1865, the American Museum was a focal point for entertainment and education in New York City as well as a continual locus for national controversy and debate. For present-day audiences it was a largely unknown, fascinating and significant place to explore with a self-contained narrative and an actual unresolved mystery: Who burned it down?[^4]
+
+Working in Softimage, a wire-frame 3-D modelling program, and the flexible animation and navigation features offered by Flash, a prototype website called The Lost Museum: Exploring Antebellum Life and Culture (<http://www.lostmuseum.cuny.edu>) finally went public in 2000. Entering the site (<www.lostmuseum.cuny.edu/barnum.html>), users encounter the Museum's main room after the building has closed for the day, where they can engage with its various exhibits and attractions, experiencing its mixture of entertainment and education that would influence popular institutions up to the present (Figure 10). At the same time, they also can look for evidence pointing to possible causes of the fire that destroyed the building in July 1865. Moving through the American Museum's different environments and attractions, users search for one of a number of possible 'arsonists' who might have set the fire. These suspects represent some of the political organizations and social groups that contended for power, repre-sentation and rights in antebellum and Civil War America–for example, abolitionists (anti-slavery activists) and Copperheads (northern supporters of the Civil War Confederacy). In the process of searching for clues that point to these and other suspects, users also learn information about how P. T. Barnum and his museum expressed and exploited the compromises and conflicts of the mid-nineteenth century.
+
+[![Figure 9 Barnum's American Museum, Corner of Broadway and Ann Street, c. 1858.](http://chnm.gmu.edu/images/brown_fig9.jpg)](http://chnm.gmu.edu/images/brown_fig9.jpg)
+
+**Figure 9** Barnum's American Museum, Corner of Broadway and Ann Street, c. 1858.
+
+[![Figure 10 View of The Lost Museum 's 'Second Salon' or 'Picture Gallery'.](http://chnm.gmu.edu/images/brown_fig10.jpg)](http://chnm.gmu.edu/images/brown_fig10.jpg)
+
+**Figure 10** View of The Lost Museum 's 'Second Salon' or 'Picture Gallery'.
+
+[![Figure 11 The 'Belle of Richmond'.](http://chnm.gmu.edu/images/brown_fig11.jpg)](http://chnm.gmu.edu/images/brown_fig11.jpg)
+
+**Figure 11** The 'Belle of Richmond'.
+
+For example, virtual visitors might approach the platform located on the Broadway side of the Museum and notice a strange bearded wax figure wearing a calico dress (Figure 11, <http://www.lostmuseum.cuny.edu/barnum.html>). If they read the descriptive plaque next to the figure, they will discover that this exhibit was entitled the 'Belle of Richmond' and that the mannequin represented 'Mr. Jefferson Davis, former President of the late Confederate States of America, in the condition in which he was captured by the 4th Michigan Cavalry at Irwinsville, Georgia, on May 10, 1865'. The threatening message that is subsequently revealed beneath the plaque's sign–a play on the song 'We'll Hang Jeff Davis from a Sour Apple Tree', a favourite of Union soldiers–suggests that one possible cause of the fire were Copperheads who were outraged by Barnum's derisive exhibition. In fact, after the Museum was destroyed, the New York Times reported that Barnum blamed the destruction on 'Southern incendiaries'.
+
+Our intention at this stage of the project was to immerse present-day visitors in this virtual historical environment where all the information they obtained derived from the exploration itself. Emulating 3-D games such as Myst and Doom, The Lost Museum took users on a seamless, self-contained narrative journey, preserving (as best as we could given the technical limitations of online technology) an illusion of visiting another place in another time. On the other hand, The Lost Museum transcended commercial 3-D explorations' vapid content while also rejecting the fragmentation of data-bases and the derivative hybridity or scrapbook orientation of most multi-media.
+
+That was our intention. We quickly learned, however, that we had fallen into a pattern that is seemingly intrinsic to the spatial interactive game approach. Instead of expanding the historical imagination of users and promoting their active inquiry, we had actually limited the choices open to them, in particular curtailing their ability to make informational linkages and to draw their own conclusions. In short, the narrative outcomes were preordained, confirming only the predominance of designers over users–as demonstrated by 'test' audiences of teachers and students who gleefully clicked on different 3-D exhibits but professed utter bewilderment about the significance of what they found. (On the coercive power of the multi-media designer, see Cubitt 2000, pp. 167-168.)
+
+**Irreconcilable Differences**
+
+Our problem essentially involved a discrepancy in how we envisioned accessing information. In an effort to devise a method that merged a compelling visual narrative of the past with active inquiry–trying to come up with a new sensibility to match a new medium–we had encountered a major cognitive obstacle in digital work. As University of Chicago art historian Barbara Maria Stafford has pointed out, there are actually two types of digital information, or approaches to organizing collections of information: 'one type lends itself to integration, the other to linkage.' The distinction, Stafford argues, is crucial. The difference between systematically blending or collapsing individual characteristics (analogous to a seamless, immersive interactive virtual environment like The Lost Museum exploration) and maintaining separate entities that may be connected or rearranged (such as the fragmented multimedia scrapbook) has far-reaching repercussions. In the former case, the immersive, its 'operations have become amalgamated and thus covert', preventing users 'from perceiving how combinations have been artificially contrived', while the latter is 'an assemblage whose man-made gatherings remain overt, and so available for public scrutiny'. In Stafford's estimation, the immersive fosters passive spectatorship while the assemblage promotes active looking (Stafford 1997, p. 73).[^5]
+
+If Stafford's analysis is correct–and our test experience seems to support her conclusions–what are the alternatives available to us? Must we accept this irreconcilable dichotomy of approaches and the notion that active inquiry and true interactivity can be preserved only in fragments derivative of earlier media? Barbara Stafford turned to art history to bolster her endorsement of the virtues of the overt assemblage, citing the eighteenth-century cabinet or chamber of curiosities, with its eclectic collection of objects and artefacts prompting contemporary users to discover for them-selves significant relationships among incongruous objects (Stafford 1997, pp. 74-75). In a similar fashion, let us jump backward briefly to Barnum's own time to consider an earlier visual technology to see if we might find a means to solve this daunting bifurcation of form and content, narrative and inquiry.
+
+**Interactivity in the Nineteenth Century**
+
+With the perfection of the wood-engraved block at the close of the eighteenth century, for the first time pictures could be placed alongside moveable type and the scope of American print culture expanded to include a universe of visual information. The pace was at first tentative, but by the mid-nineteenth century the popular pictorial landscape had changed utterly. Nowhere was this more evident than in the proliferation of topical imagery published in the nineteenth-century weekly illustrated press– exemplified in Frank Leslie's Illustrated Newspaper and Harper's Weekly (Figure 12, <http://web.gc.cuny.edu/ashp/RH/flin.htm>). Emerging out of the transformation in time and space created in the wake of the railroad and telegraph, this particular print revolution disseminated news, cartoon, scientific, cultural, aesthetic, fashion and other forms of visual information to a previously picture-starved public across the USA and at a previously unimaginable speed (often within days of events).[^6]
+
+In a manner reminiscent of current 'dystopian' views of the Internet, nineteenth-century pundits predicted a decline in cultural standards caused by this proliferation of cheap pictures. More interesting to us is a less recognized yet crucial aspect. The illustrated weeklies were an arena for contending representations of nineteenth-century life; their wood-engraved pictures–which would not be supplanted by photographs until the perfection of the half-tone process at the turn of the twentieth century–were as changeable and volatile as the times they depicted, their meanings buffeted by crisis and mitigated by ways of producing and viewing far different from the present. [^7]
+
+[![Figure 12 Frank Leslie's Illustrated Newspaper, 16 August 1873.](http://chnm.gmu.edu/images/brown_fig12.jpg)](http://chnm.gmu.edu/images/brown_fig12.jpg)
+
+**Figure 12** Frank Leslie's Illustrated Newspaper, 16 August 1873.
+
+[![Figure 13 'An Evening Scene in Madison Park.–The ](http://chnm.gmu.edu/images/brown_fig13.jpg)](http://chnm.gmu.edu/images/brown_fig13.jpg)
+
+**Figure 13** 'An Evening Scene in Madison Park.–The "Tramps" Free Lodging-place', Frank Leslie's Illustrated Newspaper, 21 July 1877, p. 341.
+
+Amidst the crises and conflicts of the post-Civil War era, the popular Frank Leslie's Illustrated Newspaper could display wholly contradictory representations of the same controversial event in the same issue, or subsequent issues. For example, during 1877, in the midst of the worst economic depression up to that time, Leslie's offered its readers pictures warning of the homeless who were taking over the city's parks (Figure 13, <http://web.gc.cuny.edu/ashp/RH/flin2.htm>). 'The . . . tramp', announced an editorial, 'is a dangerous element in society, and ought to be dealt with accordingly.' But this portrait of the unregenerate, dangerous poor invading the city was contradicted in other pictures. Among the homeless poor pictured leaving the shelter of a New York City police precinct-house (Figure 14, <http://www.ashp.cuny.edu/jaas/jaasfig23.htm>), Leslie's commented that: 'It has been noticed . . . that among the applicants for lodgings at the stations an unusually large number represents a class of men and women unaccustomed to such dormitories.[^8]
+
+[![Figure 14 'New York City.–Early Morning at a Police Station–Turning out the Vagrant Night Lodgers', Frank Leslie's Illustrated Newspaper, 10 February 1877, p. 377.](http://chnm.gmu.edu/images/brown_fig14.jpg)](http://chnm.gmu.edu/images/brown_fig14.jpg)
+
+**Figure 14** 'New York City.–Early Morning at a Police Station–Turning out the Vagrant Night Lodgers', Frank Leslie's Illustrated Newspaper, 10 February 1877, p. 377.
+
+Leslie's publication of such conflicting perspectives was due to an unusual set of relations and circumstances that heightened the interactivity of its illustrations. Because of the high cost of running an illustrated newspaper and the necessity to retain a base of subscribers (which was the financial foundation of US periodicals until advertising took over at the turn of the century), editors tried to encompass the different perspectives and interpretations of the papers' broad readership. This, however, was an increasingly difficult task, since American life was persistently disrupted by waves of depression, corporate greed, political corruption, class and ethnic conflict, and racial violence. What is more, the very production of wood-engraved news images involved a haphazard and lengthy technological process–from the eyewitness artist's sketch, to intermediary teams of office editors, artists and engravers–that undermined a singular, not to mention consistent, vision.
+
+The process behind this visual medium was thus riddled with fissures that admitted mediation from both the producers of pictorial news and its readers–or, if you will, an imperfect but permeable 'transaction' between the designer side and a diverse user side. However we describe it, this interaction resulted in unpredictable pictorial depictions of controversial news and an often surprising range of interpretations. I should also point out that the interactivity extended to individual (and group) viewing of the pictorial press images, where readers would scan through the compendium of illustrations that filled the sixteen pages of a pictorial paper depicting diverse and often arbitrarily placed subjects and representations. These readers both retrieved visual information from the illustrations and tested the veracity of the depictions, drawing on supporting or contradictory information they had gained from other sources. This creative tension and interactivity would end at the turn of the century with the perfection of the half-tone, altering the production side of the social equation, while adver-tisers came to influence the content of pictorial news instead of subscribers.
+
+If Frank Leslie's and its competitors resemble any other cultural entity in the mid-nineteenth century it is Barnum's American Museum. In one site, Barnum attracted a new audience that ranged from the working-class frequenters of Bowery sideshows and 'blood and thunder' theatre to genteel families in search of 'respectable' edification. In an urban culture characterized by increasing difference–in taste, in subject and in audience–Barnum constructed an institution where, in one place, diverse constituencies could gather if not intermingle. Similarly, Leslie's and Barnum's, within their respective established institutional settings, both operated as collections of often disparate materials and information that visitors or viewers pored over to find connections, to rearrange and restage to meet their own social, intellectual, and leisure purposes. (See also Stafford 1997, pp. 74-76, for correspondence between cabinets of curiosities (Wunderkammer) and digital visual media.)
+
+We seem to have come full circle. Although we were engaged in reconstruct-ing Barnum's American Museum, we had managed to inadvertently remove the dialectic that made that institution–and its two-dimensional analogue, the illustrated newspaper–operate successfully in the nineteenth century. By extension, we had also failed to work with that same creative tension between producers and users 150 years later.
+
+As the process behind the success of those earlier media suggest, the solution cannot lie in favouring one side of the social equation over the other, or in passively accepting the new media dichotomy between assemblage and narrative. In the case of The Lost Museum, we went back to the virtual drawing-board to reconsider the structure of the website. How could we maintain a visual narrative and yet also allow users to intervene in that narrative, to create their own pedagogical pathways and intellectual connections?
+
+Puzzling over this, it was clear that one problem with our earlier approach was the self-contained nature of the 3-D exploration. Our test users had avidly explored our nineteenth-century virtual space and yet their conclusions were arbitrary and reductive. Relying on the impressions made by their brief encounters with the Museum's exhibits and objects, they succeeded in solving a mystery–finding a likely arsonist–but with little understanding of the social, political and cultural context that might motivate one group or another to destroy the Museum. In short, we had withheld crucial information without which a creative interplay within a narrative could not take place.
+
+Our solutions were perhaps not elegant (and, at the time of writing, are still being tweaked, twisted and supplemented), but I think they do provide users with the means to make the sort of linkages the original Museum offered. An Archive feature (<http://chnm.gmu.edu/lostmuseum/searchlm.php>), a straightforward, searchable database that can be accessed either during the exploration or separately, offers users the possibility to obtain supplementary information about individual exhibits and their larger meanings that nineteenth-century museum visitors would have known (Figure 15). For example, those visitors intrigued or confused by the Belle of Richmond (<http://chnm.gmu.edu/lostmuseum/belle/>), can learn about the controversy surrounding the story of Jefferson Davis' capture, in contemporary print sources as well as cartoons and illustrations. Thus present-day visitors can glimpse the 'actual' ensemble in which Davis was said to have been disguised (<http://chnm.gmu.edu/lostmuseum/lm/79/>), seeing contextual evidence that was in fact disseminated widely at the time to the press and public by the War Department (Figure 16). Other features in the works include an interactive notebook that will assist users in record-ing clues about the fire mystery as well as access to brief contextual Flash movies providing background about arson suspects.
+
+[![Figure 15 The Lost Museum's Archive Home Page.](http://chnm.gmu.edu/images/brown_fig15.jpg)](http://chnm.gmu.edu/images/brown_fig15.jpg)
+
+**Figure 15** The Lost Museum's Archive Home Page.
+
+'Given the welter of electronic media and the pull of virtuality,' Barbara Stafford has proposed, 'the imagist of the twenty-first century will have to force homogeneous data to exhibit its heterogeneity . . . to induce merged information to behave as if it were linked' (Stafford 1997, p. 77). Stafford's prescription is instructive, if posed in unduly combative terms. I hope The Lost Museum indicates a way that history and American studies scholars may start to conceive of the digital realm as a visual medium that can embrace new methods of telling stories and evaluating those stories, that can draw a wide range of users into an investigation of the past while accommodating and inspiring diverse ways of thinking about history. As we have learned, the challenges we face in making new visual technology operate in a truly interactive manner have their analogues in old visual technologies. Looking forward, we need also to look back.
+
+[![Figure 16 'The Clothes in Which Davis Disguised Himself', Harper's Weekly, June 1865](http://chnm.gmu.edu/images/brown_fig16.jpg)](http://chnm.gmu.edu/images/brown_fig16.jpg)
+
+**Figure 16** 'The Clothes in Which Davis Disguised Himself', Harper's Weekly, June 1865
+
+.
+
+**Acknowledgements**
+
+This article expands on a paper I presented in a session on 'Technology and Society' at the Japanese Association for American Studies' annual meeting at Meiji University, Tokyo, in June 2002. I want to thank my gracious hosts in Japan as well as my colleagues in the American Studies Association for this unusual opportunity to reflect on more than a decade of digital work. This 'reminiscence' was fuelled by years of collaboration, and whatever insights it contains were gleaned from the efforts of Pennee Bender, Steve
+
+Brier, Ellen Noonan, Mike O'Malley, Roy Rosenzweig, Fritz Umbach, Andrea Vasquez, and other friends and colleagues at the American Social History Project at the City University of New York Graduate Center and the Center for History and New Media at George Mason University.
+
+Author Bio:
+Notes
+
+[^1]: Routledge cannot be held responsible for the content or accuracy of the urls linked from the online version of this article; which can be found at <http://www.tandf.co.uk/journals/titles/13642529.asp>
+
+[^2]: <http://chnm.gmu.edu/revolution/>; History Matters: The U.S. Survey Course on the Web: <http://historymatters.gmu.edu>.
+
+[^3]: These observations were prompted by Roy Rosenzweig's better memory and astute comments on the original draft of this article.
+
+[^4]: Since Neil Harris' seminal study Humbug: The Art of P. T. Barnum (1973), a new generation of scholarship has explored the many facets of Barnum and his American Museum's influence on US culture, including Adams, E Pluribus Barnum: The Great Showman and the Making of U.S. Popular Culture (1997); Buckley, 'To the Opera House: Culture and Society in New York City, 1820-1860' (1984); Cook, The Arts of Deception: Playing with Fraud in the Age of Barnum (2000); and Reiss, The Showman and the Slave: Race, Death, and Memory in Barnum's America (2001).
+
+[^5]: Moreover, as Stafford notes, the covert blending of new media–as opposed to its overt mixing–suggests it has been 'devised by an unseen someone or something' (the hidden hand of the designer I noted above), which only 'reinforces the more generalized suspicion that images are inherently tricking or duplicitous by nature' (p. 77).
+
+[^6]: For a comparison between the communication revolutions of the nineteenth and late twentieth centuries, see Standage 1999; see also Schivelbusch 1979, and Harvey 1988.
+
+[^7]: This section summarizes some of my argument in Beyond the Lines (Brown 2002).
+
+[^8]: 'The tramp nuisance', Frank Leslie's Illustrated Newspaper, 5 August 1876, pp. 354-355; 'An evening scene in Madison Park.–The "tramps" free lodging-place', Frank Leslie's Illustrated Newspaper, 21 July 1877, p. 341; Fernando Miranda (del.), 'New York City.–Early morning at a police station–Turning out the vagrant night lodgers', Frank Leslie's Illustrated Newspaper, 10 February 1877, p. 377 (engraving), p. 379 (description).
+
+**References**
+
+Adams, B. (1997) *E Pluribus Barnum: The Great Showman and the Making of U.S. Popular Culture*, University of Minnesota Press, Minneapolis.
+
+Brown, J. (2002) *Beyond the Lines: The Pictorial Press, Everyday Life, and the Crisis of Gilded Age America*, University of California Press, Berkeley
+
+Buckley, P. (1984) *To the Opera House: culture and society in New York City, 1820-1960*, Ph.D. dissertation, State University of New York at Stony Brook.
+
+Cook, J. W. (2000) *The Arts of Deception: Playing with Fraud in the Age of Barnum*, Harvard University Press, Cambridge, MA.
+
+Cubitt, S. (2000) *'Multimedia' in Unspun: Key Concepts for Understanding the World Wide Web*, ed. T. Swiss, New York University Press, New York.
+
+Debord, G. (1994) *The Society of the Spectacle*, Zone Books, New York.
+
+Harris, N. (1973) *Humbug: The Art of P.T. Barnum*, University of Chicago Press, Chicago, IL.
+
+Harvey, D. (1988) *The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change*, Blackwell, Oxford.
+
+*History Matters: The U.S. Survey Course on the Web*. Available at http://history matters.gmu.edu.
+
+Huizinga, J. (1968) *My path to history in Dutch Civilization in the Seventeenth Century and Other Essays*, Collins, London.
+
+Hunt, L. & Censer, J. (2001) *Liberty, Equality, Fraternity: Exploring the French Revolution*, Pennsylvania State University Press, University Park. Available at http:// chnm.gmu.edu/revolution/.
+
+Manovich, L. (2001) *The Language of New Media*, MIT Press, Cambridge, MA.
+
+Murray, J. H. (1997) *Hamlet on the Holodeck: The Future of Narrative in Cyberspace*, MIT Press, Cambridge, MA.
+
+*Myst* (1993) Broderbund.
+
+*Qin: Tomb of the Middle Kingdom* (1996) Time Warner Electronic Publishing.
+
+Reiss, B. (2001) *The Showman and the Slave: Race, Death, and Memory in Barnum's America*, Harvard University Press, Cambridge, MA.
+
+Rosenzweig, R. & Brier, S. (1993) 'Why read a history book on a computer? Putting *Who Built America?* on CD-ROM', *History Microcomputer Review*, vol. 9, pp. 9-14.
+
+Rosenzweig, R., Brier, S. & Brown, J. (1993) *Who Built America? From the Centennial Celebration of 1876 to the Great War of 1914*, Voyager Press, Santa Monica, CA.
+
+Rosenzweig, R., Brown, J. & Brier, S. (1995) 'New media, old politics', *History Micro-computer Review*, vol. 11, pp. 53-58.
+
+Rosenzweig, R., Brown, J. & Brier, S. (2000) *Who Built America? From the Great War of 1914 to the Dawn of the Atomic Age*, Worth, New York.
+
+Schiller, D. (1999) *Digital Capitalism: Networking the Global Market System*, MIT Press, Cambridge, MA.
+
+Schivelbusch, W. (1979) *The Railway Journey: The Industrialization of Time and Space in the Nineteenth Century*, Urizen, New York.
+
+Schrum, K. (2001) 'Making history on the Web matter in the classroom', *History Teacher*, vol. 34, pp. 327-338.
+
+Stafford, B. M. (1997) *Good Looking: Essays on the Virtue of Images*, MIT Press, Cambridge, MA.
+
+Standage, T. (1999) *The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's Online Pioneers*, Berkley Books, New York.
+
+Weis, T. (2001) 'Evaluating websites for history teachers: using History Matters in a graduate seminar', *History Teacher*, vol. 34, pp. 345-352.

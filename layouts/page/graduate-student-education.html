@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+<div class="flex flex-col md:flex-row gap-10 lg:gap-16">
+
+  {{/* Main content (2/3) */}}
+  <div class="md:w-2/3 min-w-0">
+    <article class="prose prose-stone prose-lg max-w-none">
+      {{ .Content }}
+    </article>
+
+    <img src="/media/grad/data-working-group.jpeg" alt="RRCHNM graduate students, faculty, and staff working together around a table." class="rounded-lg w-full mt-10" loading="lazy">
+  </div>
+
+  {{/* Sidebar (1/3) */}}
+  <aside class="md:w-1/3">
+    <div class="md:sticky md:top-8 space-y-8">
+
+      {{/* DH Certificate */}}
+      <div class="bg-stone-50 border border-stone-200 rounded-lg p-6">
+        <h3 class="font-serif text-lg text-stone-900 mb-2">Digital Public Humanities Certificate</h3>
+        <p class="text-sm text-stone-600 leading-relaxed mb-4">A 15-credit online program with an internship component for graduate students seeking formalized training in digital methods.</p>
+        <a href="https://historyarthistory.gmu.edu/programs/la-cerg-dph" class="inline-block w-full text-center bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-5 py-2.5 rounded-md transition-colors">Learn About the Certificate &rarr;</a>
+      </div>
+
+      {{/* History Department */}}
+      <div class="bg-stone-50 border border-stone-200 rounded-lg p-6">
+        <h3 class="font-serif text-lg text-stone-900 mb-2">Department of History &amp; Art History</h3>
+        <p class="text-sm text-stone-600 leading-relaxed mb-4">Explore graduate programs in history at George Mason University.</p>
+        <a href="https://historyarthistory.gmu.edu/" target="_blank" rel="noopener" class="inline-block w-full text-center border border-stone-300 hover:border-stone-400 text-stone-700 text-sm font-semibold px-5 py-2.5 rounded-md transition-colors" aria-label="Visit the Department (opens in new window)">Visit the Department &rarr;</a>
+      </div>
+
+      {{/* Contact */}}
+      <div class="bg-stone-50 border border-stone-200 rounded-lg p-6">
+        <h3 class="font-serif text-lg text-stone-900 mb-2">Questions?</h3>
+        <p class="text-sm text-stone-600 leading-relaxed">Reach out to learn more about graduate opportunities at RRCHNM.</p>
+        <p class="text-sm mt-3"><a href="mailto:chnm@gmu.edu" class="text-red-brand hover:text-red-dark transition-colors font-medium">chnm@gmu.edu</a></p>
+      </div>
+
+    </div>
+  </aside>
+
+</div>
+
+{{/* Digital Dissertations callout */}}
+<section class="mt-16 lg:mt-24 mb-8 bg-stone-50 border border-stone-200 rounded-lg overflow-hidden">
+  <div class="px-8 py-10 lg:px-12 lg:py-12">
+    <p class="text-xs font-semibold uppercase tracking-widest text-red-brand mb-3">Select Digital Dissertations</p>
+    <h2 class="font-serif text-2xl lg:text-3xl text-stone-900 mb-4">Innovative Scholarship by Our Graduates</h2>
+    <p class="text-stone-600 leading-relaxed max-w-3xl mb-8">Instead of writing a traditional monograph, graduate students at RRCHNM learn the skills that allow them to create digital dissertations.</p>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      {{ range .Site.Data.dissertations }}
+      <a href="{{ .url }}" target="_blank" rel="noopener" class="group block bg-white border border-stone-200 rounded-lg p-5 hover:border-red-brand/30 transition-colors" aria-label="{{ .title }} by {{ .author }} (opens in new window)">
+        <p class="font-serif text-stone-900 group-hover:text-red-brand transition-colors leading-snug">{{ .title }}</p>
+        <p class="text-sm text-stone-500 mt-2">{{ .author }}</p>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

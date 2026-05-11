@@ -1,0 +1,34 @@
+name: "[rrchnm.org] Build, Release, Deploy"
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+      - "preview"
+
+jobs:
+  build-release:
+    uses: chnm/.github/.github/workflows/hugo--build-release.yml@main
+    secrets: inherit
+    with:
+      container-registry: "ghcr.io"
+      container-image-name: "rrchnm-website"
+      hugo-context-root: "."
+      hugo-content-path: "/srv"
+      hugo-devl-url: "https://hugo.chnm.gmu.edu"
+      hugo-prod-url: "https://rrchnm.org"
+
+      build-artifact-name: "rrchnm-website"
+      release-tag-name-type: "iso"
+
+      website-devl-fqdn: "hugo.chnm.gmu.edu"
+      website-prod-fqdn: "rrchnm.org"
+
+  deploy:
+    uses: chnm/.github/.github/workflows/docker--deploy.yml@main
+    needs: [build-release]
+    secrets: inherit
+    with:
+      website-devl-fqdn: "hugo.chnm.gmu.edu"
+      website-prod-fqdn: "rrchnm.org"

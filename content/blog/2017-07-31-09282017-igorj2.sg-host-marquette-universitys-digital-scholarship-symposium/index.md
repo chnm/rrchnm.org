@@ -1,0 +1,17 @@
+---
+authors:
+- "Stephen Robertson"
+categories:
+- Events
+date: '2017-07-31T17:37:03Z'
+draft: true
+event_start_date: '20170928'
+featured_image: social-250.jpg
+lastmod: '2017-07-31T17:37:03Z'
+slug: 09282017-igorj2.sg-host-marquette-universitys-digital-scholarship-symposium
+tags:
+- RRCHNM@
+title: '09/28/2017: RRCHNM @ Marquette University''s Digital Scholarship Symposium'
+---
+
+Sheila Brennan and Sharon Leon are leading a workshop, "Digital Scholarship and Community Engagement," at [Marquette University's Digital Scholarship Symposium](https://www.eventbrite.com/e/marquette-university-digital-scholarship-symposium-2017-tickets-34120137249?_ga=2.227064216.407601242.1501536659-1353366093.1501536659), on September 29, 9.30-11.30am, at Raynor Memorial Libraries.

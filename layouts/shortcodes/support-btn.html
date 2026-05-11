@@ -1,0 +1,5 @@
+{{- /* Support Our Work button — centered, links to donate_url from site params */ -}}
+{{- $text := .Get "text" | default "Support Our Work →" -}}
+<div class="not-prose my-10 text-center">
+  <a href="{{ .Site.Params.donate_url }}" target="_blank" rel="noopener" class="inline-block bg-red-brand hover:bg-red-dark !text-white !no-underline text-sm font-semibold px-8 py-3 rounded-md transition-colors" aria-label="{{ $text }} (opens in new window)">{{ $text }}</a>
+</div>

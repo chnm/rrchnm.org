@@ -1,0 +1,20 @@
+{{ define "main" }}
+<article>
+  <div class="flex flex-col md:flex-row gap-8 mb-10">
+    {{ with .Params.picture }}
+    <div class="shrink-0">
+      <img src="{{ . }}" alt="{{ $.Title }}" class="w-48 h-48 object-cover rounded-lg">
+    </div>
+    {{ end }}
+    <div>
+      <h1 class="font-serif text-3xl lg:text-4xl text-stone-900 mb-2">{{ partial "smartify.html" .Title }}</h1>
+      {{ with .Params.job_title }}
+      <p class="text-red-brand font-medium">{{ . }}</p>
+      {{ end }}
+    </div>
+  </div>
+  <div class="prose prose-stone max-w-3xl">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

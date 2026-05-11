@@ -1,0 +1,61 @@
+{{ define "main" }}
+{{/* Hero banner */}}
+<div class="relative bg-stone-900 overflow-hidden -mt-12 lg:-mt-16 mb-10" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw;">
+  <img src="/img/founder.jpg" alt="Colorful mural of Roy Rosenzweig located within the Roy Rosenzweig Center for History and New Media" class="absolute inset-0 w-full h-full object-cover object-[center_10%]">
+  <div class="absolute inset-0 bg-gradient-to-r from-stone-900 via-stone-900/80 to-transparent"></div>
+  <div class="relative z-10 mx-auto max-w-site px-6 md:px-8 lg:px-10 py-16 lg:py-24 min-h-[200px] md:min-h-[230px] lg:min-h-[260px] flex flex-col justify-end">
+    <nav aria-label="Breadcrumb" class="mb-4">
+      <ol class="flex items-center text-sm text-white/60">
+        <li><a href="/" class="hover:text-white transition-colors">Home</a></li>
+        <li><span class="mx-2 text-white/30" aria-hidden="true">/</span></li>
+      </ol>
+    </nav>
+    <h1 class="font-serif text-3xl lg:text-4xl text-white">Blog</h1>
+    <a href="/blog/index.xml" class="inline-flex items-center gap-1.5 text-sm text-white/60 hover:text-white transition-colors mt-3">
+      <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12.75 19.5v-.75a7.5 7.5 0 0 0-7.5-7.5H4.5m0-6.75h.75c7.87 0 14.25 6.38 14.25 14.25v.75M6 18.75a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z" /></svg>
+      RSS Feed
+    </a>
+  </div>
+</div>
+
+{{/* Post list */}}
+<div class="space-y-10">
+  {{ range .Paginator.Pages }}
+  {{ $post := . }}
+  <article class="border-b border-stone-200 pb-10">
+    {{ partial "coins.html" . }}
+    <div class="flex flex-col md:flex-row gap-6">
+      <a href="{{ $post.RelPermalink }}" class="shrink-0 block overflow-hidden rounded-lg md:w-56">
+        {{ $img := partial "featured-image.html" . }}
+        <img src="{{ $img }}" alt="{{ $post.Title }}" loading="lazy" class="w-full aspect-[3/2] object-cover hover:scale-[1.03] transition-transform duration-300">
+      </a>
+      <div class="min-w-0">
+        {{ $isNews := false }}
+        {{ with .Params.categories }}{{ range . }}{{ if eq . "News" }}{{ $isNews = true }}{{ end }}{{ end }}{{ end }}
+        <div class="flex items-center gap-3 mb-2 text-xs uppercase tracking-wide">
+          <span class="text-stone-500">{{ .Date.Format "January 2, 2006" }}</span>
+          {{ with .Params.categories }}
+          {{ range . }}<span class="text-red-brand">{{ . }}</span>{{ end }}
+          {{ end }}
+          {{ if not $isNews }}
+          {{ with .Params.authors }}
+          <span class="text-stone-500">{{ delimit . ", " }}</span>
+          {{ end }}
+          {{ end }}
+        </div>
+        <h2 class="font-serif text-xl lg:text-2xl text-stone-900 mb-2">
+          <a href="{{ .RelPermalink }}" class="hover:text-red-brand transition-colors">{{ partial "smartify.html" .Title }}</a>
+        </h2>
+        {{ with .Params.lede }}
+        <p class="text-stone-600 text-sm leading-relaxed line-clamp-3">{{ . }}</p>
+        {{ else }}
+        <p class="text-stone-600 text-sm leading-relaxed line-clamp-3">{{ .Summary | plainify | truncate 200 }}</p>
+        {{ end }}
+        <a href="{{ .RelPermalink }}" class="inline-block mt-3 text-sm font-semibold text-stone-900 hover:text-red-brand transition-colors" aria-label="Read more about {{ .Title }}">Read more &rarr;</a>
+      </div>
+    </div>
+  </article>
+  {{ end }}
+</div>
+{{ template "_internal/pagination.html" . }}
+{{ end }}

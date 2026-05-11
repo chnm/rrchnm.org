@@ -1,0 +1,18 @@
+---
+authors:
+- "Stephen Robertson"
+categories:
+- Events
+date: '2019-01-28T10:18:00Z'
+draft: true
+event_start_date: '20190227'
+featured_image: Screen-Shot-2019-01-28-at-10.17.33-AM.png
+lastmod: '2019-01-28T10:27:40Z'
+slug: 02-27-2019-igorj2.sg-host-workshop-on-quantitative-analysis-and-the-digital-turn-in-historical-studies
+tags:
+- RRCHNM@
+title: '02/27/2019: RRCHNM @ Workshop on Quantitative Analysis and the Digital Turn
+  in Historical Studies'
+---
+
+Lincoln Mullen will be presenting “Finding Biblical Quotations in Historical Newspaper Corpora" at the [Workshop on Quantitative Analysis and the Digital Turn in Historical Studies](http://www.fields.utoronto.ca/activities/18-19/historial-studies) at the University of Toronto's Fields Institute on February 27, 2019

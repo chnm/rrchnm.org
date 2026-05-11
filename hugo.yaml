@@ -6,20 +6,96 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      typographer:
+        disable: false
 
 pagination:
   pagerSize: 12
 
 permalinks:
-  posts: "/:slug/"
+  blog: "/blog/:slug/"
 
 taxonomies:
   category: categories
   tag: tags
 
+related:
+  includeNewer: true
+  threshold: 80
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 10
+    - name: date
+      weight: 5
+
+menus:
+  main:
+    - name: About Us
+      url: /our-story/
+      weight: 1
+    - name: People
+      url: /people/
+      weight: 2
+    - name: Projects
+      url: /projects/
+      weight: 3
+    - name: Publications
+      url: /publications/
+      weight: 4
+    - name: Blog
+      url: /blog/
+      weight: 5
+    - name: Graduate Education
+      url: /graduate-student-education/
+      weight: 6
+  mobile:
+    - name: About Us
+      url: /our-story/
+      weight: 1
+    - name: People
+      url: /people/
+      weight: 2
+    - name: Projects
+      url: /projects/
+      weight: 3
+    - name: Publications
+      url: /publications/
+      weight: 4
+    - name: Blog
+      url: /blog/
+      weight: 5
+    - name: Graduate Education
+      url: /graduate-student-education/
+      weight: 6
+
 params:
-  description: "Roy Rosenzweig Center for History and New Media at George Mason University"
+  description: "RRCHNM creates open educational resources for K–12 history, turns historical sources into datasets and visualizations, and crafts compelling historical narratives."
+  images:
+    - /img/founder.jpg
+  default_image: "/img/default-blog.jpeg"
+  donate_url: "https://securemason.gmu.edu/s/1564/GID2/16/19-giving.aspx?sid=1564&gid=2&pgid=7958&cid=1709&bledit=1&sort=1&dids=318.822.534&appealcode=26SS10"
+  newsletter_url: "https://airtable.com/appCTQZLKPTyIa83B/shr4EDv3YKjl3NdZD"
+  social:
+    - name: Bluesky
+      url: "https://bsky.app/profile/rrchnm.bsky.social"
+      icon: bluesky
+    - name: LinkedIn
+      url: "https://www.linkedin.com/company/roy-rosenzweig-center-for-history-and-new-media/mycompany/"
+      icon: linkedin
+    - name: Facebook
+      url: "https://www.facebook.com/rrchnm/"
+      icon: facebook
+    - name: GitHub
+      url: "https://github.com/chnm"
+      icon: github
+    - name: Mastodon
+      url:
+      icon: mastodon
 
 outputs:
   home:
     - HTML
+    - JSON

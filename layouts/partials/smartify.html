@@ -1,0 +1,1 @@
+{{- return (. | markdownify | replaceRE "(?s)^<p>(.*)</p>\\s*$" "$1" | safeHTML) -}}

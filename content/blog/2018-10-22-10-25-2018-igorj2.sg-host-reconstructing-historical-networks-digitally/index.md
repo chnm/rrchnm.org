@@ -1,0 +1,17 @@
+---
+authors:
+- "Stephen Robertson"
+categories:
+- Events
+date: '2018-10-22T12:57:13Z'
+draft: true
+event_start_date: '20181025'
+featured_image: GHI.png
+lastmod: '2018-10-22T12:57:13Z'
+slug: 10-25-2018-igorj2.sg-host-reconstructing-historical-networks-digitally
+tags:
+- RRCHNM@
+title: '10/25/2018: RRCHNM @ Reconstructing Historical Networks Digitally'
+---
+
+Jessica Otis will be presenting "Six Degrees of Francis Bacon: Gender, Social Network Analysis, and Early Modern Britain" at [Reconstructing Historical Networks Digitally: New Approaches, Opportunities and Epistemological Implications of Social Network Analysis](https://www.ghi-dc.org/events-conferences/event-history/2018/conferences/3rd-ghi-digital-humanities-and-digital-history-conf.html?L=0), the Third Annual German Historical Institute Conference on Digital Humanities and Digital History, in Washington, DC, on October 26, 2018.

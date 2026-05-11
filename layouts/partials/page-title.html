@@ -1,9 +1,38 @@
 {{ if .Title }}
-<div class="page-title-banner">
-  <div class="-inner">
-    <div class="-content container">
-      <h1 class="-title entry-title">{{ .Title }}</h1>
+
+{{ $heroImage := .Params.hero_image | default .Site.Params.default_image }}
+{{ $isDefault := not .Params.hero_image }}
+{{/* Hero image variant — full width with overlay */}}
+<div class="relative bg-stone-900 overflow-hidden" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw;">
+  <img src="{{ $heroImage }}" alt="" class="absolute inset-0 w-full h-full object-cover {{ if $isDefault }}object-[center_20%]{{ end }}">
+  <div class="absolute inset-0 bg-gradient-to-r from-stone-900 via-stone-900/80 to-transparent"></div>
+  <div class="relative z-10 mx-auto max-w-site px-6 md:px-8 lg:px-10 py-12 lg:py-16 min-h-[340px] md:min-h-[380px] lg:min-h-[420px] flex flex-col justify-between">
+    {{/* Top — breadcrumb + title */}}
+    <div>
+      <nav aria-label="Breadcrumb" class="mb-6">
+        <ol class="flex items-center text-sm text-white/60">
+          <li><a href="/" class="hover:text-white transition-colors">Home</a></li>
+          {{ if and .Parent (ne .Parent.RelPermalink "/") (ne .Parent.Section "page") }}
+          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><a href="{{ .Parent.RelPermalink }}" class="hover:text-white transition-colors">{{ .Parent.Title }}</a></li>
+          {{ end }}
+          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><span aria-current="page">{{ partial "smartify.html" .Title }}</span></li>
+        </ol>
+      </nav>
+      <h1 class="font-serif text-4xl lg:text-5xl xl:text-6xl text-white leading-tight max-w-3xl">{{ partial "smartify.html" .Title }}</h1>
     </div>
+
+    {{/* Bottom — optional description + button */}}
+    {{ if or .Params.hero_text .Params.hero_button_text }}
+    <div>
+      {{ with .Params.hero_text }}
+      <p class="text-base lg:text-lg text-white/80 leading-relaxed max-w-2xl">{{ . }}</p>
+      {{ end }}
+      {{ if .Params.hero_button_text }}
+      <a href="{{ .Params.hero_button_url | default .RelPermalink }}" class="inline-block mt-4 bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors">{{ .Params.hero_button_text }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
   </div>
 </div>
+
 {{ end }}

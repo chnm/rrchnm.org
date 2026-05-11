@@ -1,0 +1,92 @@
+{{ define "main" }}
+
+{{ with .Content }}
+<div class="prose prose-stone max-w-none mb-12">
+  {{ . }}
+</div>
+{{ end }}
+
+{{ $projects := where .Site.Data.projects "gallery" true }}
+{{ $projects = sort $projects "title" }}
+
+{{/* Collect all unique categories */}}
+{{ $allCategories := slice }}
+{{ range $projects }}
+{{ with .categories }}
+{{ range . }}
+{{ $allCategories = $allCategories | append . }}
+{{ end }}
+{{ end }}
+{{ end }}
+{{ $allCategories = $allCategories | uniq | sort }}
+
+<div x-data="projectFilter()" x-init="init()">
+  {{/* Filter bar */}}
+  <div class="flex flex-wrap gap-2 mb-10" role="group" aria-label="Filter projects by category">
+    <button @click="filter = ''" :aria-pressed="(filter === '').toString()" :class="filter === '' ? 'bg-red-brand text-white' : 'bg-stone-100 text-stone-700 hover:bg-stone-200'" class="text-sm uppercase px-4 py-1.5 rounded-full transition-colors cursor-pointer">
+      All
+    </button>
+    {{ range $allCategories }}
+    <button @click="filter = '{{ . }}'" :aria-pressed="(filter === '{{ . }}').toString()" :class="filter === '{{ . }}' ? 'bg-red-brand text-white' : 'bg-stone-100 text-stone-700 hover:bg-stone-200'" class="text-sm uppercase px-4 py-1.5 rounded-full transition-colors cursor-pointer">
+      {{ . }}
+    </button>
+    {{ end }}
+  </div>
+
+  {{/* Single grid of all gallery projects */}}
+  <div class="grid grid-cols-2 md:grid-cols-3 gap-4 sm:gap-8">
+    {{ range $projects }}
+    {{ $item := . }}
+
+    <article class="group" x-show="matchesFilter({{ .categories | jsonify }})" x-transition.opacity.duration.200ms>
+      {{ with .image }}
+      <a href="{{ $item.url }}" class="block overflow-hidden rounded-lg mb-4" target="_blank" rel="noopener">
+        <img src="{{ . }}" alt="{{ $item.title }}" loading="lazy" class="w-full aspect-square object-contain bg-stone-50 group-hover:scale-[1.03] transition-transform duration-300">
+      </a>
+      {{ end }}
+      <h3 class="font-serif text-lg text-stone-900">
+        {{ with .url }}
+        <a href="{{ . }}" class="hover:text-red-brand transition-colors" target="_blank" rel="noopener">{{ partial "smartify.html" $item.title }}</a>
+        {{ else }}
+        {{ partial "smartify.html" $item.title }}
+        {{ end }}
+      </h3>
+      {{ with .categories }}
+      <div class="mt-1 flex flex-wrap gap-x-2 gap-y-1 items-center">
+        {{ range $i, $cat := . }}
+        {{ if $i }}<span class="text-stone-300">&middot;</span>{{ end }}
+        <button @click="filter = '{{ $cat }}'" class="text-xs text-stone-500 hover:text-red-brand uppercase tracking-wide uppercase cursor-pointer bg-transparent border-none p-0 transition-colors">
+          {{ $cat }}
+        </button>
+        {{ end }}
+      </div>
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>
+
+  {{/* Backlist link */}}
+  <div class="mt-16 text-center">
+    <p class="text-sm text-stone-500 mb-2">Looking for older projects?
+      <a href="/backlist/" class="text-sm font-semibold text-red-brand hover:text-red-dark transition-colors">View our backlist of projects &rarr;</a>
+    </p>
+  </div>
+</div>
+
+<script>
+  function projectFilter() {
+    return {
+      filter: '',
+      init() {
+        var params = new URLSearchParams(window.location.search);
+        var cat = params.get('category');
+        if (cat) this.filter = cat;
+      },
+      matchesFilter(categories) {
+        if (!this.filter) return true;
+        return categories && categories.indexOf(this.filter) !== -1;
+      }
+    };
+  }
+</script>
+{{ end }}

@@ -1,0 +1,122 @@
+{{ define "main" }}
+<article>
+  {{ partial "coins.html" . }}
+  {{/* Featured image as hero with title overlay */}}
+  {{ $hero := partial "featured-image.html" . }}
+  {{ with $hero }}
+  <div class="relative bg-stone-900 overflow-hidden -mt-12 lg:-mt-16 mb-10" style="margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); width: 100vw;">
+    <img src="{{ . }}" alt="{{ $.Title }}" class="absolute inset-0 w-full h-full object-cover {{ if not $.Params.featured_image }}object-[center_20%]{{ end }}">
+    <div class="absolute inset-0 bg-gradient-to-r from-stone-900 via-stone-900/80 to-transparent"></div>
+    <div class="relative z-10 mx-auto max-w-site px-6 md:px-8 lg:px-10 py-16 lg:py-24 min-h-[300px] md:min-h-[340px] lg:min-h-[380px] flex flex-col justify-end">
+      <nav aria-label="Breadcrumb" class="mb-4">
+        <ol class="flex items-center text-sm text-white/60">
+          <li><a href="/" class="hover:text-white transition-colors">Home</a></li>
+          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><a href="/blog/" class="hover:text-white transition-colors">Blog</a></li>
+          <li><span class="mx-2 text-white/30" aria-hidden="true">/</span><span aria-current="page">{{ partial "smartify.html" $.Title }}</span></li>
+        </ol>
+      </nav>
+      <h1 class="font-serif text-3xl lg:text-4xl text-white leading-tight max-w-3xl">{{ partial "smartify.html" $.Title }}</h1>
+      {{ with $.Params.lede }}
+      <p class="text-lg text-white/80 leading-relaxed mt-4 max-w-2xl">{{ . }}</p>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  {{/* Two-column layout: content (2/3) + sidebar (1/3) */}}
+  <div class="flex flex-col md:flex-row gap-10 lg:gap-16">
+
+    {{/* Main content */}}
+    <div class="md:w-2/3 min-w-0">
+      <div class="prose prose-stone max-w-none">
+        {{ .Content }}
+      </div>
+    </div>
+
+    {{/* Sidebar */}}
+    {{ $isNews := false }}
+    {{ with .Params.categories }}{{ range . }}{{ if eq . "News" }}{{ $isNews = true }}{{ end }}{{ end }}{{ end }}
+    <hr class="md:hidden border-stone-200">
+    <aside class="md:w-1/3">
+      <div class="md:sticky md:top-8 space-y-8">
+
+        {{/* Crosspost notice */}}
+        {{ with .Params.crossposted }}
+        <div class="bg-stone-50 border border-stone-200 rounded-md px-5 py-4 text-sm text-stone-600">
+          <span class="font-medium text-stone-700">Also published at</span>
+          {{ range $i, $cp := . }}{{ if $i }}, {{ end }}<a href="{{ $cp.url }}" target="_blank" rel="noopener" class="text-red-brand hover:text-red-dark transition-colors font-medium" aria-label="{{ $cp.name | default $cp.url }} (opens in new window)">{{ $cp.name | default $cp.url }}<svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-3.5 h-3.5 ml-0.5 mb-0.5" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" /></svg></a>{{ end }}
+        </div>
+        {{ end }}
+
+        {{/* Date */}}
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Published</h3>
+          <p class="text-sm text-stone-700">{{ .Date.Format "January 2, 2006" }}</p>
+        </div>
+
+        {{/* Author — hidden for News category */}}
+        {{ if not $isNews }}
+        {{ with .Params.authors }}
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Author</h3>
+          <p class="text-sm text-stone-700">{{ delimit . ", " }}</p>
+        </div>
+        {{ end }}
+        {{ end }}
+
+        {{/* Categories */}}
+        {{ with .Params.categories }}
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Categories</h3>
+          <div class="flex flex-wrap gap-2">
+            {{ range . }}
+            <span class="text-xs bg-stone-100 text-stone-700 px-3 py-1 rounded-full uppercase">{{ . }}</span>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+
+        {{/* Tags */}}
+        {{ with .Params.tags }}
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Tags</h3>
+          <div class="flex flex-wrap gap-2">
+            {{ range . }}
+            <span class="text-xs bg-stone-100 text-stone-700 px-3 py-1 rounded-full uppercase">{{ . }}</span>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+
+        {{/* Related Posts */}}
+        {{ $related := .Site.RegularPages.Related . | first 4 }}
+        {{ with $related }}
+        <div>
+          <h3 class="text-xs font-semibold uppercase tracking-widest text-stone-500 mb-3">Related Posts</h3>
+          <ul class="space-y-3">
+            {{ range . }}
+            <li>
+              <a href="{{ .RelPermalink }}" class="group block">
+                <p class="text-sm text-stone-900 font-medium leading-snug group-hover:text-red-brand transition-colors">{{ partial "smartify.html" .Title }}</p>
+                <p class="text-xs text-stone-500 mt-0.5">{{ .Date.Format "January 2, 2006" }}</p>
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+
+        {{/* RSS Feed */}}
+        <div>
+          <a href="/blog/index.xml" class="inline-flex items-center gap-2 text-sm text-stone-500 hover:text-red-brand transition-colors">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12.75 19.5v-.75a7.5 7.5 0 0 0-7.5-7.5H4.5m0-6.75h.75c7.87 0 14.25 6.38 14.25 14.25v.75M6 18.75a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z" /></svg>
+            RSS Feed
+          </a>
+        </div>
+
+      </div>
+    </aside>
+
+  </div>
+</article>
+{{ end }}

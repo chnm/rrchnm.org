@@ -1,0 +1,23 @@
+{{/*
+  Returns a resized featured image URL when the source is a page resource.
+  Falls back to the unresized URL for static/remote paths or missing resources.
+
+  Usage: {{ partial "featured-image-resized.html" (dict "page" . "width" 128 "height" 128) }}
+  Returns: image URL string
+*/}}
+{{- $page := .page -}}
+{{- $width := .width | default 128 -}}
+{{- $height := .height | default 128 -}}
+{{- $img := $page.Site.Params.default_image -}}
+{{- with $page.Params.featured_image -}}
+  {{- if or (hasPrefix . "/") (hasPrefix . "http") -}}
+    {{- $img = . -}}
+  {{- else -}}
+    {{- $res := $page.Resources.GetMatch . -}}
+    {{- if $res -}}
+      {{- $resized := $res.Fill (printf "%dx%d Center" $width $height) -}}
+      {{- $img = $resized.RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $img -}}

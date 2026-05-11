@@ -1,9 +1,49 @@
-{{/* Site CSS */}}
-<link rel="stylesheet" href="/styles.css">
+{{/* Fonts */}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Serif:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+{{/* Site CSS — processed by PostCSS / Tailwind */}}
+{{ $css := resources.Get "css/main.css" }}
+{{ $css = $css | css.PostCSS }}
+{{ if hugo.IsProduction }}
+  {{ $css = $css | minify | fingerprint }}
+{{ end }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}"{{ if hugo.IsProduction }} integrity="{{ $css.Data.Integrity }}"{{ end }}>
+
+{{/* Alpine.js */}}
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
 
 {{/* Favicon */}}
-<link rel="icon" type="image/png" href="/img/logo.png">
+<link rel="icon" type="image/png" href="/img/favicon.png">
+
+{{/* RSS autodiscovery */}}
+{{ with .OutputFormats.Get "rss" -}}
+  {{ printf `<link rel=%q type=%q href=%q title=%q>` "alternate" .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+
+{{/* Open Graph & Twitter Cards */}}
+{{ partial "social-meta.html" . }}
 
 {{/* Meta */}}
-{{ with .Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+<meta name="referrer" content="strict-origin-when-cross-origin">
+{{- $desc := .Params.description | default .Summary | default .Site.Params.description -}}
+{{ with $desc }}<meta name="description" content="{{ . | plainify | truncate 160 }}">{{ end }}
 <link rel="canonical" href="{{ .Permalink }}">
+
+{{/* Analytics */}}
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://stats.rrchnm.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->

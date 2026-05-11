@@ -1,0 +1,17 @@
+---
+authors:
+- "Stephen Robertson"
+categories:
+- Events
+date: '2016-11-22T10:49:27Z'
+draft: true
+event_start_date: '20161018'
+featured_image: eagleeye.png
+lastmod: '2017-02-23T13:34:22Z'
+slug: __trashed-12
+tags:
+- '@RRCHNM'
+title: '10/18/2016: Project Workshop @ RRCHNM'
+---
+
+A project workshop on [Eagle Eye Citizen](https://rrchnm.org/eagle-eye-citizen/) will be held in the Center lounge from 12.00pm to 1.30pm.

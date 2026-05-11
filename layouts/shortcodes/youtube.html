@@ -1,0 +1,12 @@
+{{- /* YouTube embed shortcode: {{< youtube "URL or ID" >}} */ -}}
+{{- $input := .Get 0 -}}
+{{- $url := $input -}}
+{{- if not (findRE `https?://` $input) -}}
+  {{- $url = printf "https://www.youtube.com/watch?v=%s" $input -}}
+{{- end -}}
+{{- $embedUrl := partial "youtube-embed-url.html" $url -}}
+<div class="not-prose my-8">
+  <div class="relative w-full aspect-video rounded-lg overflow-hidden bg-stone-900">
+    <iframe src="{{ $embedUrl }}" title="YouTube video player" class="absolute inset-0 w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  </div>
+</div>

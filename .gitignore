@@ -1,1 +1,6 @@
-static/media
+node_modules/
+public/
+.hugo_build.lock
+resources/_gen/
+.claude/
+a11y-report.json

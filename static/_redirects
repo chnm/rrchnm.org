@@ -1,5 +1,6 @@
 # Redirects generated from WordPress Redirection plugin
 # Format: source target status
 
-/argument-white-paper/ /portfolio-item/digital-history-argument-white-paper/ 301
 /affiliates-alumni /affiliates 301
+/our-work/ /projects/ 301
+/our-work/* /projects/ 301
