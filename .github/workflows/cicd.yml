@@ -17,13 +17,13 @@ jobs:
       hugo-context-root: "."
       hugo-content-path: "/srv"
       hugo-devl-url: "https://hugo.chnm.gmu.edu"
-      hugo-prod-url: "https://hugo.rrchnm.org"
+      hugo-prod-url: "https://rrchnm.org"
 
       build-artifact-name: "rrchnm-website"
       release-tag-name-type: "iso"
 
       website-devl-fqdn: "hugo.chnm.gmu.edu"
-      website-prod-fqdn: "hugo.rrchnm.org"
+      website-prod-fqdn: "rrchnm.org"
 
   deploy:
     uses: chnm/.github/.github/workflows/docker--deploy.yml@main
@@ -31,4 +31,4 @@ jobs:
     secrets: inherit
     with:
       website-devl-fqdn: "hugo.chnm.gmu.edu"
-      website-prod-fqdn: "hugo.rrchnm.org"
+      website-prod-fqdn: "rrchnm.org"
