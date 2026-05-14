@@ -7,7 +7,7 @@ authors:
 essay_date: July 2005
 essay_publication_info: This article was originally published in <em>Social Science Computer Review</em>, Vol. 23 No. 2, Summer 2005 206-220, reprinted here with permission.
 lastmod: '2016-07-12T02:25:59Z'
-slug: american-digital-history-2
+slug: american-digital-history
 title: American Digital History
 pub_date: '2005'
 ---
