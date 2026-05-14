@@ -1,3 +1,18 @@
+{{- /*
+  Button shortcode: renders a centered call-to-action button.
+
+  Usage:
+    {{< button href="https://example.com" text="Read More" >}}
+
+  Params:
+    href     - link URL (default: "#")
+    text     - button label (default: "Learn More")
+    alttext  - custom aria-label text (default: same as text)
+    external - "true"/"false", opens in new tab with icon (default: "true")
+
+  Example with internal link:
+    {{< button href="/about/" text="About Us" external="false" >}}
+*/ -}}
 {{- $href := .Get "href" | default "#" -}}
 {{- $text := .Get "text" | default "Learn More" -}}
 {{- $alttext := .Get "alttext" | default "" -}}

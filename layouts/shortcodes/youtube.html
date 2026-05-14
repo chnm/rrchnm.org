@@ -1,4 +1,12 @@
-{{- /* YouTube embed shortcode: {{< youtube "URL or ID" >}} */ -}}
+{{- /*
+  YouTube embed shortcode: responsive 16:9 video player.
+
+  Usage:
+    {{< youtube "dQw4w9WgXcQ" >}}
+    {{< youtube "https://www.youtube.com/watch?v=dQw4w9WgXcQ" >}}
+
+  Accepts either a YouTube video ID or a full URL.
+*/ -}}
 {{- $input := .Get 0 -}}
 {{- $url := $input -}}
 {{- if not (findRE `https?://` $input) -}}
