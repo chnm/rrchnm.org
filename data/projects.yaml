@@ -420,7 +420,7 @@
     - "public history"
 
 - title: "History and Culture Access Consortium"
-  url: "https://nmaahc.si.edu/connect/strategic-partnerships/hbcu-history-and-culture-access-consortium"
+  url: "https://hbcudigitalarchive.org/"
   mars_url: ~
   years_active: ~
   active: true
@@ -429,6 +429,7 @@
   image: "/media/projects/history-and-culture-access-consortium/hcac-logo-01.jpg"
   categories:
     - "public history"
+    - "education"
 
 - title: "Hurricane Digital Memory Bank"
   url: "http://hurricanearchive.org"
