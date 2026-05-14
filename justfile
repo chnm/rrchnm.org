@@ -9,7 +9,7 @@ default:
 
 # Start the dev server with live reload
 dev:
-    hugo server --buildDrafts --navigateToChanged
+    hugo server --buildDrafts --buildFuture --navigateToChanged
 
 # Start the dev server (published content only, no drafts)
 serve:
