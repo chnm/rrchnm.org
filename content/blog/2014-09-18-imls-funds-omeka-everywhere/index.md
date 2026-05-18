@@ -5,7 +5,6 @@ categories:
 - News
 date: '2014-09-18T10:46:55Z'
 draft: true
-lastmod: '2014-09-18T10:46:55Z'
 slug: imls-funds-omeka-everywhere
 title: IMLS Funds Omeka Everywhere
 ---

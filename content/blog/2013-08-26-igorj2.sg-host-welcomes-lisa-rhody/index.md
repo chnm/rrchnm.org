@@ -5,7 +5,6 @@ categories:
 - News
 date: '2013-08-26T14:12:00Z'
 draft: true
-lastmod: '2013-08-26T14:12:00Z'
 slug: igorj2.sg-host-welcomes-lisa-rhody
 title: RRCHNM Welcomes Lisa Rhody
 ---

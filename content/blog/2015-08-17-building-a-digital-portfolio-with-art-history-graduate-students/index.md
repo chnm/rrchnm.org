@@ -5,7 +5,6 @@ categories:
 - News
 date: '2015-08-17T10:51:20Z'
 draft: true
-lastmod: '2015-08-17T10:51:20Z'
 slug: building-a-digital-portfolio-with-art-history-graduate-students
 title: Building a Digital Portfolio with Art History Graduate Students
 ---

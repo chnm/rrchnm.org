@@ -5,14 +5,13 @@ categories:
 - News
 date: '2025-07-25T08:00:00Z'
 draft: false
-lastmod: '2025-07-24T13:44:26Z'
 slug: rrchnm-receives-funding-to-create-teaching-guides-on-the-american-revolution
 title: RRCHNM Receives Funding to Create Teaching Guides on the American Revolution
 featured_image: LOGOSLOC-1024x379.jpg
 tags:
-- Teaching + Learning
-- Events
-- Partnerships
+- teaching + learning
+- events
+- partnerships
 ---
 
 ### Funded through the American Historical Association as part of the Library of Congress Teaching with Primary Sources Program, the teaching guides will support history educators in teaching a more comprehensive and complete history of American independence.

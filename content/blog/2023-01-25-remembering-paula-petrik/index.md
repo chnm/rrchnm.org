@@ -5,7 +5,6 @@ categories:
 - Post
 date: '2023-01-25T13:00:00Z'
 draft: false
-lastmod: '2023-01-25T13:22:49Z'
 slug: remembering-paula-petrik
 title: Remembering Paula Petrik
 featured_image: Petrik_Paula-1-150x150.jpg

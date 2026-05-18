@@ -5,11 +5,10 @@ categories:
 - News
 date: '2023-09-26T12:00:40Z'
 draft: false
-lastmod: '2024-03-07T10:54:16Z'
 slug: revolutionary-beginnings
 title: Revolutionary Beginnings
 tags:
-- R2 Studios
+- r2 studios
 ---
 
 We all know how the American Revolution ends, but do we really understand its beginnings?

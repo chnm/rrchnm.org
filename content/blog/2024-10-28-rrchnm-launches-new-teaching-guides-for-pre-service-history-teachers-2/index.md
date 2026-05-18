@@ -5,11 +5,10 @@ categories:
 - News
 date: '2024-10-28T10:00:00Z'
 draft: false
-lastmod: '2024-10-28T10:18:07Z'
 slug: rrchnm-launches-new-teaching-guides-for-pre-service-history-teachers-2
 title: RRCHNM Launches New Teaching Guides for Pre-Service History Teachers 
 tags:
-- Teaching + Learning
+- teaching + learning
 featured_image: HousingStrugglePoster.jpg
 ---
 

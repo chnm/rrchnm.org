@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-10-19T11:43:14Z'
 draft: true
-event_start_date: '20171114'
 featured_image: James_final_2_mq.width-300.jpg
-lastmod: '2017-11-09T16:48:38Z'
 slug: 11142017-james-smithies-kings-digital-lab-igorj2.sg-host
 tags:
-- '@RRCHNM'
+- rrchnm
 title: '11/14/2017: James Smithies (King''s Digital Lab) @ RRCHNM'
 ---
 

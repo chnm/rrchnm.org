@@ -5,12 +5,10 @@ categories:
 - News
 date: '2021-01-08T10:13:08Z'
 draft: false
-event_start_date: '20210110'
-lastmod: '2021-01-08T10:14:15Z'
 slug: jessica-mack-clah-2021
 tags:
 - conference
-- Events
+- events
 title: Jessica Mack @ CLAH 2021
 ---
 

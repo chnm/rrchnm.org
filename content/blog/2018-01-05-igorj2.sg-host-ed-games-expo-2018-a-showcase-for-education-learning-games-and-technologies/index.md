@@ -5,11 +5,9 @@ categories:
 - Events
 date: '2018-01-05T16:28:44Z'
 draft: true
-event_start_date: '20180108'
-lastmod: '2018-01-05T16:28:44Z'
 slug: igorj2.sg-host-ed-games-expo-2018-a-showcase-for-education-learning-games-and-technologies
 tags:
-- RRCHNM@
+- rrchnm
 title: 'RRCHNM @ ED Games Expo 2018: A Showcase for Education Learning Games and Technologies'
 ---
 

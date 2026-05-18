@@ -5,7 +5,6 @@ categories:
 - News
 date: '2012-10-31T09:42:13Z'
 draft: true
-lastmod: '2012-10-31T09:42:13Z'
 slug: participad-new-wordpress-plugin
 title: 'Participad: A New Wordpress Plugin'
 ---

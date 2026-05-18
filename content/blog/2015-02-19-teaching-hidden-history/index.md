@@ -5,7 +5,6 @@ categories:
 - News
 date: '2015-02-19T14:45:24Z'
 draft: true
-lastmod: '2015-02-19T14:45:24Z'
 slug: teaching-hidden-history
 title: Teaching Hidden History
 ---

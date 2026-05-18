@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2019-01-28T11:00:33Z'
 draft: true
-event_start_date: '20190309'
 featured_image: Screen-Shot-2019-01-28-at-10.55.15-AM.png
-lastmod: '2019-01-28T13:03:14Z'
 slug: 03-09-2019-current-research-in-digital-history-2019
 tags:
-- '@RRCHNM'
+- rrchnm
 title: '03/09/2019: Current Research in Digital History 2019 @ RRCHNM'
 ---
 

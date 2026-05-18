@@ -5,7 +5,6 @@ categories:
 - News
 date: '2024-05-16T08:55:14Z'
 draft: false
-lastmod: '2024-05-16T08:55:16Z'
 slug: rrchnm-delivers-arnhem-postal-history-prototype-database
 title: RRCHNM Delivers Arnhem Postal History Prototype Database
 ---

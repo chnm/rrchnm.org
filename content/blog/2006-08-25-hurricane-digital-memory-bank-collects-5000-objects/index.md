@@ -5,7 +5,6 @@ categories:
 - News
 date: '2006-08-25T11:18:10Z'
 draft: true
-lastmod: '2006-08-25T11:18:10Z'
 slug: hurricane-digital-memory-bank-collects-5000-objects
 title: Hurricane Digital Memory Bank Collects 5,000 Objects
 ---

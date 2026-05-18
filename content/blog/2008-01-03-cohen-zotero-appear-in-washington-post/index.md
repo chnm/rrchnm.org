@@ -5,7 +5,6 @@ categories:
 - News
 date: '2008-01-03T15:15:41Z'
 draft: true
-lastmod: '2016-08-10T17:44:09Z'
 slug: cohen-zotero-appear-in-washington-post
 title: Cohen, Zotero appear in Washington Post
 ---

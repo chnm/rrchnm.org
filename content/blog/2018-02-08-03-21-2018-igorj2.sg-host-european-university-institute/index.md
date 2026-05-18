@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-02-08T10:03:33Z'
 draft: true
-event_start_date: '20180321'
 featured_image: logo-eui.png
-lastmod: '2018-02-08T10:03:33Z'
 slug: 03-21-2018-igorj2.sg-host-european-university-institute
 tags:
-- RRCHNM@
+- rrchnm
 title: '03/21/2018: RRCHNM @ European University Institute'
 ---
 

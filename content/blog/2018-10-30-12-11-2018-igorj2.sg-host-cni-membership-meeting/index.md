@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-10-30T11:18:43Z'
 draft: true
-event_start_date: '20181211'
 featured_image: CNI.jpeg
-lastmod: '2018-10-30T11:18:43Z'
 slug: 12-11-2018-igorj2.sg-host-cni-membership-meeting
 tags:
-- RRCHNM@
+- rrchnm
 title: '12/11/2018: RRCHNM @ CNI Membership Meeting'
 ---
 

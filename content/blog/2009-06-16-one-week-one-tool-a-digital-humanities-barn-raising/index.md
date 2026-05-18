@@ -5,12 +5,11 @@ categories:
 - News
 date: '2009-06-16T14:18:11Z'
 draft: true
-lastmod: '2009-06-16T14:18:11Z'
 slug: one-week-one-tool-a-digital-humanities-barn-raising
 tags:
-- IATDH
-- NEH
-- One Week One Tool
+- iatdh
+- neh
+- one week one tool
 title: 'One Week, One Tool: A Digital Humanities Barn Raising'
 ---
 

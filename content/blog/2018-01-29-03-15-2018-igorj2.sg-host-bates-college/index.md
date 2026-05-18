@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-01-29T17:24:07Z'
 draft: true
-event_start_date: '20180315'
 featured_image: bates.college.logo_.bobcat-800x445.jpeg
-lastmod: '2018-01-29T17:24:07Z'
 slug: 03-15-2018-igorj2.sg-host-bates-college
 tags:
-- RRCHNM@
+- rrchnm
 title: '03/15/2018: RRCHNM @ Bates College'
 ---
 

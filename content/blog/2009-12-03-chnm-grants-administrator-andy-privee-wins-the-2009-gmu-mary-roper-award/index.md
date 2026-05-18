@@ -5,12 +5,11 @@ categories:
 - News
 date: '2009-12-03T15:37:41Z'
 draft: true
-lastmod: '2009-12-03T15:37:41Z'
 slug: chnm-grants-administrator-andy-privee-wins-the-2009-gmu-mary-roper-award
 tags:
 - '2009'
-- CHNM
-- Mary Roper Award
+- chnm
+- mary roper award
 title: CHNM Grants Administrator Andy Privee Wins the 2009 GMU Mary Roper Award
 ---
 

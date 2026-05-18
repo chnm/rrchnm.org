@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2019-03-20T17:40:47Z'
 draft: true
-event_start_date: '20190718'
 featured_image: Screen-Shot-2019-03-20-at-5.39.38-PM.png
-lastmod: '2019-06-18T13:17:03Z'
 slug: 07-18-2019-igorj2.sg-host-shear
 tags:
-- RRCHNM@
+- rrchnm
 title: '07/18/2019: RRCHNM @ SHEAR'
 ---
 

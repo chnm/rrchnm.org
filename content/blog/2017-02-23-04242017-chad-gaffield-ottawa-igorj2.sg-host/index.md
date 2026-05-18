@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-02-23T13:28:23Z'
 draft: true
-event_start_date: '20170424'
 featured_image: c2a9jessicadeeks_2014-10-08_mcgillmag_chadgaffield_0076-alt.jpg
-lastmod: '2017-02-23T13:28:23Z'
 slug: 04242017-chad-gaffield-ottawa-igorj2.sg-host
 tags:
-- '@RRCHNM'
+- rrchnm
 title: '04/24/2017: Chad Gaffield (Ottawa) @ RRCHNM'
 ---
 

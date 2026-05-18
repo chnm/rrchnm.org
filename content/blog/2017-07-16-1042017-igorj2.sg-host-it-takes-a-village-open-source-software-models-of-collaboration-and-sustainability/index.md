@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-07-16T17:01:13Z'
 draft: true
-event_start_date: '20171004'
 featured_image: LYRASIS_Logo.png
-lastmod: '2017-07-27T11:11:08Z'
 slug: 1042017-igorj2.sg-host-it-takes-a-village-open-source-software-models-of-collaboration-and-sustainability
 tags:
-- RRCHNM@
+- rrchnm
 title: '10/4/2017 RRCHNM @ It Takes a Village: Open Source Software Models of Collaboration
   and Sustainability'
 ---

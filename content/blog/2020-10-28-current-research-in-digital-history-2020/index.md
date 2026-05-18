@@ -5,7 +5,6 @@ categories:
 - News
 date: '2020-10-28T09:55:18Z'
 draft: false
-lastmod: '2020-10-28T11:37:15Z'
 slug: current-research-in-digital-history-2020
 tags:
 - crdh

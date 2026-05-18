@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2019-01-28T10:30:46Z'
 draft: true
-event_start_date: '20190419'
 featured_image: Screen-Shot-2019-01-28-at-10.26.41-AM.png
-lastmod: '2019-01-28T10:38:04Z'
 slug: 04-17-2019-igorj2.sg-host-shakespeare-association-of-america-meeting
 tags:
-- RRCHNM@
+- rrchnm
 title: '04/17/2019: RRCHNM @ Shakespeare Association of America Meeting'
 ---
 

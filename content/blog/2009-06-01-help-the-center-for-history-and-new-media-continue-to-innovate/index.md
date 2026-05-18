@@ -5,13 +5,12 @@ categories:
 - News
 date: '2009-06-01T14:59:16Z'
 draft: true
-lastmod: '2009-06-01T14:59:16Z'
 slug: help-the-center-for-history-and-new-media-continue-to-innovate
 tags:
 - '2009'
 - challenge grant
 - fundraising
-- NEH
+- neh
 title: Help the Center for History and New Media Innovate - Updated!
 ---
 

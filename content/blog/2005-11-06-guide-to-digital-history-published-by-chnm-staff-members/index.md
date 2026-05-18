@@ -5,7 +5,6 @@ categories:
 - News
 date: '2005-11-06T11:05:28Z'
 draft: true
-lastmod: '2005-11-06T11:05:28Z'
 slug: guide-to-digital-history-published-by-chnm-staff-members
 title: Guide to Digital History Published by CHNM Staff Members
 ---

@@ -6,7 +6,6 @@ categories:
 date: '2017-10-24T13:04:17Z'
 draft: true
 featured_image: tropy-sticker.jpg
-lastmod: '2017-10-24T13:07:06Z'
 slug: tropy-1-0-release
 title: Tropy 1.0 Release
 ---

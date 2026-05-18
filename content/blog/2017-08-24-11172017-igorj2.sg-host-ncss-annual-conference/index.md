@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-08-24T16:53:34Z'
 draft: true
-event_start_date: '20171117'
 featured_image: NCSS.jpg
-lastmod: '2017-08-24T16:57:11Z'
 slug: 11172017-igorj2.sg-host-ncss-annual-conference
 tags:
-- RRCHNM@
+- rrchnm
 title: '11/17/2017: RRCHNM @ NCSS Annual Conference'
 ---
 

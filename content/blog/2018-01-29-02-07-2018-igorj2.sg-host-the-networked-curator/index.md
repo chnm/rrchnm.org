@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-01-29T17:13:01Z'
 draft: true
-event_start_date: '20180207'
 featured_image: networked-curator.jpeg
-lastmod: '2018-01-29T17:13:01Z'
 slug: 02-07-2018-igorj2.sg-host-the-networked-curator
 tags:
-- RRCHNM@
+- rrchnm
 title: '02/07/2018: RRCHNM @ The Networked Curator'
 ---
 

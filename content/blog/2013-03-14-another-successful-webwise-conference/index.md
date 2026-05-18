@@ -5,7 +5,6 @@ categories:
 - News
 date: '2013-03-14T13:16:45Z'
 draft: true
-lastmod: '2013-03-14T13:16:45Z'
 slug: another-successful-webwise-conference
 title: Another Successful WebWise Conference
 ---

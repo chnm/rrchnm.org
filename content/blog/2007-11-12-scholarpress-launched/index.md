@@ -5,7 +5,6 @@ categories:
 - News
 date: '2007-11-12T21:14:38Z'
 draft: true
-lastmod: '2016-08-10T17:44:33Z'
 slug: scholarpress-launched
 title: ScholarPress Launched
 ---

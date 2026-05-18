@@ -5,11 +5,10 @@ categories:
 - News
 date: '2023-02-17T09:00:00Z'
 draft: false
-lastmod: '2023-03-01T11:03:18Z'
 slug: production-now-underway-for-worlds-turned-upside
 title: Production Now Underway For Worlds Turned Upside
 tags:
-- R2 Studios
+- r2 studios
 featured_image: Worlds-Turned-Upside-Down_small-1024x1024.png
 ---
 

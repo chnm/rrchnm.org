@@ -5,7 +5,6 @@ categories:
 - News
 date: '2017-12-19T16:20:35Z'
 draft: true
-lastmod: '2017-12-19T16:21:56Z'
 slug: and-the-winner-is
 title: And the winner is...
 featured_image: twitter-post-contest-winner2-300x150.png

@@ -5,11 +5,9 @@ categories:
 - Events
 date: '2019-09-20T11:23:52Z'
 draft: true
-event_start_date: '20191010'
-lastmod: '2019-09-20T11:24:30Z'
 slug: 10-10-2019-igorj2.sg-host-religion-in-place
 tags:
-- RRCHNM@
+- rrchnm
 title: '10/10/2019: RRCHNM @ Religion in Place'
 ---
 

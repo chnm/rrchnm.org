@@ -5,7 +5,6 @@ categories:
 - News
 date: '2013-07-01T12:07:58Z'
 draft: true
-lastmod: '2013-07-01T12:07:58Z'
 slug: post-doc-opportunity-with-pressforward
 title: Post-Doc Opportunity with PressForward
 ---

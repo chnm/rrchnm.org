@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-06-12T16:48:11Z'
 draft: true
-event_start_date: '20180622'
 featured_image: omeka-s-stickermule-3x3.png
-lastmod: '2018-06-12T16:49:05Z'
 slug: 06-22-18-omeka-s-workshop-igorj2.sg-host
 tags:
-- '@RRCHNM'
+- rrchnm
 title: '06/22/2018: Omeka S Workshop @ RRCHNM'
 ---
 

@@ -5,7 +5,6 @@ categories:
 - News
 date: '2021-04-23T13:37:31Z'
 draft: false
-lastmod: '2021-04-23T13:37:31Z'
 slug: come-work-with-us
 title: Come Work With Us!
 ---

@@ -5,7 +5,6 @@ categories:
 - News
 date: '2006-03-30T11:11:45Z'
 draft: true
-lastmod: '2016-08-10T17:49:08Z'
 slug: mason-basketball-digital-memory-bank
 title: Mason Basketball Digital Memory Bank
 ---

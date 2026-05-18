@@ -5,7 +5,6 @@ categories:
 - News
 date: '2015-08-11T10:36:40Z'
 draft: true
-lastmod: '2015-08-11T10:36:40Z'
 slug: igorj2.sg-host-goes-to-europe-for-wwii-field-study
 title: RRCHNM Goes to Europe for WWII Field Study
 ---

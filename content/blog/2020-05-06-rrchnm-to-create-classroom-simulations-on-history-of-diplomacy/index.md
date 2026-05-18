@@ -7,7 +7,6 @@ categories:
 - News
 date: '2020-05-06T11:00:16Z'
 draft: false
-lastmod: '2022-08-10T10:42:25Z'
 slug: rrchnm-to-create-classroom-simulations-on-history-of-diplomacy
 title: RRCHNM to Create Classroom Simulations on History of Diplomacy
 ---

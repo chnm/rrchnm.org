@@ -5,12 +5,11 @@ categories:
 - Post
 date: '2025-02-10T10:50:48Z'
 draft: false
-lastmod: '2025-02-10T10:50:48Z'
 slug: celebrating-black-history-month
 title: Celebrating Black History Month
 tags:
-- Research + Tools
-- Teaching + Learning
+- research + tools
+- teaching + learning
 featured_image: Dr._Carter_G._Woodson_1875-1950_Carter_G._Woodson_Home_National_Historic_Site_1915._18f7565bf62142c0ad7fff83701ca5f6.jpg
 ---
 

@@ -8,7 +8,6 @@ categories:
 date: '2019-08-27T12:15:48Z'
 draft: true
 featured_image: GEWMYD7c.jpg
-lastmod: '2022-08-10T10:10:51Z'
 slug: mills-kelly-named-executive-director-of-rrchnm
 title: Mills Kelly Named Executive Director of RRCHNM
 ---

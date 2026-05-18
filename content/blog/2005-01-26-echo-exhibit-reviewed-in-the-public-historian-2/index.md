@@ -5,7 +5,6 @@ categories:
 - News
 date: '2005-01-26T09:34:20Z'
 draft: true
-lastmod: '2005-01-26T09:34:20Z'
 slug: echo-exhibit-reviewed-in-the-public-historian-2
 title: Echo exhibit reviewed in The Public Historian
 ---

@@ -8,7 +8,6 @@ categories:
 - News
 date: '2010-02-16T13:20:45Z'
 draft: true
-lastmod: '2010-02-16T13:20:45Z'
 slug: rosenzweig-forum-returns-negotiating-the-cultural-turns-subjectivity-sustainability-and-authority-in-the-digital-humanities
 title: 'Rosenzweig Forum Returns – Negotiating the Cultural Turn(s): Subjectivity,
   Sustainability, and Authority in the Digital Humanities'

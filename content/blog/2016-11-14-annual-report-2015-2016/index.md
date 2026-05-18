@@ -5,7 +5,6 @@ categories:
 - News
 date: '2016-11-14T10:45:37Z'
 draft: true
-lastmod: '2017-02-08T18:23:59Z'
 slug: annual-report-2015-2016
 title: Annual Report 2015-2016
 featured_image: RRCHNM_AR-233x300.jpg

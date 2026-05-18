@@ -6,7 +6,6 @@ categories:
 date: '2019-08-23T02:00:31Z'
 draft: true
 featured_image: cover-color.jpg
-lastmod: '2019-08-23T12:06:44Z'
 slug: current-research-in-digital-history-2019
 tags:
 - crdh

@@ -5,11 +5,10 @@ categories:
 - News
 date: '2023-04-05T12:00:00Z'
 draft: false
-lastmod: '2023-04-04T17:08:36Z'
 slug: tropy-1-13-release
 title: Tropy 1.13 Release
 tags:
-- Research + Tools
+- research + tools
 featured_image: Tropy-Project.png
 ---
 

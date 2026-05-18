@@ -5,7 +5,6 @@ categories:
 - News
 date: '2023-01-04T09:00:00Z'
 draft: false
-lastmod: '2023-01-04T11:14:41Z'
 slug: connect-with-rrchnm-at-aha23
 title: Connect with RRCHNM at AHA23
 ---

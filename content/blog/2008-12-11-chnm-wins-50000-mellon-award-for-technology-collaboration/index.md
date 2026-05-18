@@ -5,7 +5,6 @@ categories:
 - News
 date: '2008-12-11T21:11:41Z'
 draft: true
-lastmod: '2008-12-11T21:11:41Z'
 slug: chnm-wins-50000-mellon-award-for-technology-collaboration
 title: CHNM wins $50,000 Mellon Award for Technology Collaboration
 ---

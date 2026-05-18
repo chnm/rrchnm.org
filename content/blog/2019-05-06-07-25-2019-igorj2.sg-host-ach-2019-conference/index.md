@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2019-05-06T12:20:39Z'
 draft: true
-event_start_date: '20190725'
 featured_image: Screen-Shot-2019-05-06-at-12.17.56-PM.png
-lastmod: '2019-06-18T13:16:25Z'
 slug: 07-25-2019-igorj2.sg-host-ach-2019-conference
 tags:
-- RRCHNM@
+- rrchnm
 title: '07/25/2019: RRCHNM @ ACH 2019 Conference'
 ---
 

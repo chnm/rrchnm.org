@@ -5,10 +5,9 @@ categories:
 - News
 date: '2021-03-09T16:11:23Z'
 draft: false
-lastmod: '2021-08-05T19:52:37Z'
 slug: collecting-these-times-american-jewish-experiences-of-the-pandemic-invites-communities-to-contribute-to-collections-documenting-jewish-life-during-pandemic
 tags:
-- Collecting These Times
+- collecting these times
 title: 'Collecting These Times: American Jewish Experiences of the Pandemic Invites
   Communities to Contribute to Collections Documenting Jewish Life During Pandemic'
 ---

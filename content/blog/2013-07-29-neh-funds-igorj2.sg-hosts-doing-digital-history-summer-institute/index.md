@@ -5,7 +5,6 @@ categories:
 - News
 date: '2013-07-29T06:36:55Z'
 draft: true
-lastmod: '2013-07-29T06:36:55Z'
 slug: neh-funds-igorj2.sg-hosts-doing-digital-history-summer-institute
 title: NEH Funds RRCHNM's "Doing Digital History" Summer Institute
 ---

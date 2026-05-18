@@ -5,7 +5,6 @@ categories:
 - News
 date: '2014-06-13T15:38:04Z'
 draft: true
-lastmod: '2014-06-13T15:38:04Z'
 slug: come-work-with-us-igorj2.sg-host-is-hiring-a-linux-systems-administrator
 title: Come work with us! RRCHNM is hiring a Linux Systems Administrator
 ---

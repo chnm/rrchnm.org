@@ -5,7 +5,6 @@ categories:
 - News
 date: '2006-04-21T11:14:22Z'
 draft: true
-lastmod: '2016-08-10T17:49:08Z'
 slug: taking-games-seriously-spring-2006-dc-area-technology-humanities-forum-scheduled-for-may-15
 title: '"Taking Games Seriously" - Spring 2006 DC Area Technology & Humanities Forum
   scheduled for May 15'

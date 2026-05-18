@@ -5,7 +5,6 @@ categories:
 - News
 date: '2005-12-15T09:29:32Z'
 draft: true
-lastmod: '2016-08-10T17:49:08Z'
 slug: cohen-and-rosenzweig-on-truth-lies-and-the-web-2
 title: Cohen and Rosenzweig on Truth, Lies, and the Web
 ---

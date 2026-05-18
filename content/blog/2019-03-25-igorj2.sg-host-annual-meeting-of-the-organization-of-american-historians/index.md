@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2019-03-25T11:47:55Z'
 draft: true
-event_start_date: '20190406'
 featured_image: Screen-Shot-2019-03-25-at-11.46.58-AM.png
-lastmod: '2019-06-18T13:17:24Z'
 slug: igorj2.sg-host-annual-meeting-of-the-organization-of-american-historians
 tags:
-- RRCHNM@
+- rrchnm
 title: '04/06/2019: RRCHNM @ Annual Meeting of the Organization of American Historians'
 ---
 

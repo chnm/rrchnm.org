@@ -8,7 +8,6 @@ categories:
 - News
 date: '2012-07-06T11:06:30Z'
 draft: true
-lastmod: '2012-07-06T11:06:30Z'
 slug: popular-romance-project-blog-sparks-discussion
 title: Popular Romance Project Blog Sparks Discussion
 ---

@@ -5,7 +5,6 @@ categories:
 - News
 date: '2023-09-05T12:08:10Z'
 draft: false
-lastmod: '2023-09-05T12:08:11Z'
 slug: amanda-madden-receives-neh-funding-to-create-a-digital-edition-of-goro-datis-sfera
 title: Amanda Madden Receives NEH Funding to Create a Digital Edition of Goro Dati’s
   Sfera

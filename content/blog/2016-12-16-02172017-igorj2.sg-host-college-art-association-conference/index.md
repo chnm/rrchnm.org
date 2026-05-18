@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2016-12-16T14:01:51Z'
 draft: true
-event_start_date: '20170217'
 featured_image: google-doc-banner-1.jpg
-lastmod: '2016-12-16T14:01:51Z'
 slug: 02172017-igorj2.sg-host-college-art-association-conference
 tags:
-- RRCHNM@
+- rrchnm
 title: '02/17/2017: RRCHNM @ College Art Association Conference'
 ---
 

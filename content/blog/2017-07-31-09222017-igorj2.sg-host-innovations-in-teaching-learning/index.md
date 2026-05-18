@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-07-31T17:29:31Z'
 draft: true
-event_start_date: '20170922'
 featured_image: itlnewlogo.jpg
-lastmod: '2017-07-31T17:30:10Z'
 slug: 09222017-igorj2.sg-host-innovations-in-teaching-learning
 tags:
-- RRCHNM@
+- rrchnm
 title: '09/22/2017: RRCHNM @ Innovations in Teaching & Learning'
 ---
 

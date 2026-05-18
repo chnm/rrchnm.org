@@ -5,7 +5,6 @@ categories:
 - News
 date: '2004-11-10T10:45:34Z'
 draft: true
-lastmod: '2016-08-10T17:40:20Z'
 slug: roy-rosenzweig-discusses-digital-preservation-in-investors-business-daily
 title: Roy Rosenzweig discusses digital preservation in Investors Business Daily
 ---

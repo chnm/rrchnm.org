@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-04-16T16:36:10Z'
 draft: true
-event_start_date: '20180425'
 featured_image: Case-Western.jpeg
-lastmod: '2018-04-16T16:36:10Z'
 slug: 04-25-2018-igorj2.sg-host-case-western-university
 tags:
-- RRCHNM@
+- rrchnm
 title: '04/25/2018: RRCHNM @ Case Western University'
 ---
 

@@ -6,7 +6,6 @@ categories:
 - News
 date: '2016-08-23T13:59:25Z'
 draft: true
-lastmod: '2017-04-13T11:09:56Z'
 slug: mapping-early-american-elections-begins-with-neh-funding
 title: Mapping Early American Elections Begins with NEH Funding
 ---

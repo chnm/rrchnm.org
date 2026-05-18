@@ -5,7 +5,6 @@ categories:
 - News
 date: '2010-08-11T13:37:51Z'
 draft: true
-lastmod: '2010-08-11T13:37:51Z'
 slug: chnm-contract-services
 title: CHNM Contract Services
 ---

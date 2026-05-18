@@ -6,7 +6,6 @@ categories:
 - Teaching + Learning
 date: '2013-09-24T09:00:31Z'
 draft: true
-lastmod: '2013-09-24T09:00:31Z'
 slug: the-challenges-of-making-a-challenge-dh-fellows-blogpost
 title: The Challenges of Making a Challenge | DH Fellow's Blogpost
 ---

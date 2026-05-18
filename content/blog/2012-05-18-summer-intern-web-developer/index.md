@@ -5,7 +5,6 @@ categories:
 - News
 date: '2012-05-18T14:12:08Z'
 draft: true
-lastmod: '2012-05-18T14:12:08Z'
 slug: summer-intern-web-developer
 title: Summer Intern — Web Developer
 ---

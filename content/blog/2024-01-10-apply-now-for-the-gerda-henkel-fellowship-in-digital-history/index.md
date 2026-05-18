@@ -5,7 +5,6 @@ categories:
 - News
 date: '2024-01-10T11:55:22Z'
 draft: false
-lastmod: '2024-01-10T11:55:23Z'
 slug: apply-now-for-the-gerda-henkel-fellowship-in-digital-history
 title: Apply Now for the Gerda Henkel Fellowship in Digital History
 ---

@@ -5,7 +5,6 @@ categories:
 - News
 date: '2017-07-11T13:25:17Z'
 draft: true
-lastmod: '2017-07-11T13:44:31Z'
 slug: doing-digital-history-2016-white-paper-summary
 title: Doing Digital History 2016 White Paper Summary
 ---

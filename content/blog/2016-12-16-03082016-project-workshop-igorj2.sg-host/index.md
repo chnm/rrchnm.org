@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2016-12-16T14:52:36Z'
 draft: true
-event_start_date: '20170308'
 featured_image: projart_zotero.png
-lastmod: '2017-03-03T11:48:37Z'
 slug: 03082016-project-workshop-igorj2.sg-host
 tags:
-- '@RRCHNM'
+- rrchnm
 title: '03/08/2016: Project Workshop @ RRCHNM'
 ---
 

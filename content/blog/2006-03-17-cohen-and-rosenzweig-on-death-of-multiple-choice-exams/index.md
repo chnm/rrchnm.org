@@ -5,7 +5,6 @@ categories:
 - News
 date: '2006-03-17T11:12:21Z'
 draft: true
-lastmod: '2006-03-17T11:12:21Z'
 slug: cohen-and-rosenzweig-on-death-of-multiple-choice-exams
 title: Cohen and Rosenzweig on Death of Multiple-Choice Exams
 ---

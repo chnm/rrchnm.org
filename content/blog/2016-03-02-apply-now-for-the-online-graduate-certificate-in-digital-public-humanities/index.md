@@ -6,7 +6,6 @@ categories:
 - Teaching + Learning
 date: '2016-03-02T10:08:14Z'
 draft: true
-lastmod: '2016-08-22T15:27:57Z'
 slug: apply-now-for-the-online-graduate-certificate-in-digital-public-humanities
 title: Apply now for the online Graduate Certificate in Digital Public Humanities
 ---

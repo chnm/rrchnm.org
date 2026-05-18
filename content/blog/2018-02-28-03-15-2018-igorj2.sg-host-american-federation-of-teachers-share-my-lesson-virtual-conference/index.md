@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-02-28T10:55:12Z'
 draft: true
-event_start_date: '20180315'
 featured_image: Share-My-Lesson-logo.png
-lastmod: '2018-02-28T10:55:12Z'
 slug: 03-15-2018-igorj2.sg-host-american-federation-of-teachers-share-my-lesson-virtual-conference
 tags:
-- RRCHNM@
+- rrchnm
 title: '03/15/2018: RRCHNM @ American Federation of Teachers Share My Lesson Virtual
   Conference'
 ---

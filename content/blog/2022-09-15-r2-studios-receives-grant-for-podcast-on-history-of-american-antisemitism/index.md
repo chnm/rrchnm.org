@@ -5,11 +5,10 @@ categories:
 - News
 date: '2022-09-15T10:30:00Z'
 draft: false
-lastmod: '2022-09-15T14:03:52Z'
 slug: r2-studios-receives-grant-for-podcast-on-history-of-american-antisemitism
 title: R2 Studios Receives Grant for Podcast on History of American Antisemitism
 tags:
-- R2 Studios
+- r2 studios
 ---
 
 [R2 Studios](https://r2studios.org/) and The Roy Rosenzweig Center for History and New Media (RRCHNM) are excited to announce that Jeanette Patrick, John Turner, and Lincoln Mullen have been awarded $50,000 from the [Henry Luce Foundation](https://www.hluce.org/) to begin work on a podcast exploring the history of American antisemitism.

@@ -5,15 +5,14 @@ categories:
 - News
 date: '2009-01-28T14:10:58Z'
 draft: true
-lastmod: '2009-01-28T14:10:58Z'
 slug: chnm-receives-third-james-harvey-robinson-prize-from-aha
 tags:
 - '2009'
-- AHA
-- Historical Thinking Matters
-- History Education Group
-- Robinson Prize
-- Stanford
+- aha
+- historical thinking matters
+- history education group
+- robinson prize
+- stanford
 title: CHNM Receives Third James Harvey Robinson Prize from AHA
 ---
 

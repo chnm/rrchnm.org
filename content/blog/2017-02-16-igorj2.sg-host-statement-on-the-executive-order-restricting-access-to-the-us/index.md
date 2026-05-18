@@ -5,7 +5,6 @@ categories:
 - News
 date: '2017-02-16T11:09:45Z'
 draft: true
-lastmod: '2017-02-16T11:09:45Z'
 slug: igorj2.sg-host-statement-on-the-executive-order-restricting-access-to-the-us
 title: RRCHNM Statement on the Executive Order Restricting Access to the US
 ---

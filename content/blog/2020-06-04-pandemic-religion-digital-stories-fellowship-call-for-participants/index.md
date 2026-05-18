@@ -5,11 +5,10 @@ categories:
 - News
 date: '2020-06-04T12:36:40Z'
 draft: false
-lastmod: '2020-06-04T12:36:40Z'
 slug: pandemic-religion-digital-stories-fellowship-call-for-participants
 tags:
-- CFP
-- Pandemic Religion
+- cfp
+- pandemic religion
 title: 'Pandemic Religion Digital Stories Fellowship: Call for Participants'
 ---
 

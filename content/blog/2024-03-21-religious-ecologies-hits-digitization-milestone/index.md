@@ -5,7 +5,6 @@ categories:
 - News
 date: '2024-03-21T10:56:01Z'
 draft: false
-lastmod: '2024-03-21T10:56:02Z'
 slug: religious-ecologies-hits-digitization-milestone
 title: Religious Ecologies Hits Digitization Milestone
 ---

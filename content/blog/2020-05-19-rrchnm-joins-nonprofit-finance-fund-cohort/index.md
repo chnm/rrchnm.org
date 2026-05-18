@@ -7,7 +7,6 @@ categories:
 - News
 date: '2020-05-19T13:40:48Z'
 draft: false
-lastmod: '2022-08-10T10:41:58Z'
 slug: rrchnm-joins-nonprofit-finance-fund-cohort
 title: RRCHNM Joins Nonprofit Finance Fund Cohort
 ---

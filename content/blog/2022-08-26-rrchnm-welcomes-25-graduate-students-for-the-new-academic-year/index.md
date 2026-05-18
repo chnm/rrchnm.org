@@ -5,11 +5,10 @@ categories:
 - News
 date: '2022-08-26T14:00:00Z'
 draft: false
-lastmod: '2022-08-26T14:21:21Z'
 slug: rrchnm-welcomes-25-graduate-students-for-the-new-academic-year
 title: RRCHNM Welcomes 25 Graduate Students for the new Academic Year
 tags:
-- About RRCHNM
+- about rrchnm
 featured_image: First-Day-Fall-2022-1024x768.jpg
 ---
 

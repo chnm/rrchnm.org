@@ -5,7 +5,6 @@ categories:
 - News
 date: '2017-11-06T10:00:40Z'
 draft: true
-lastmod: '2017-11-08T13:31:25Z'
 slug: scripto-update-funded-by-neh
 tags:
 - wip

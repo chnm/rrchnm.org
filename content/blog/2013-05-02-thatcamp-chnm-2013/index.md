@@ -5,7 +5,6 @@ categories:
 - News
 date: '2013-05-02T14:59:15Z'
 draft: true
-lastmod: '2013-05-02T14:59:15Z'
 slug: thatcamp-chnm-2013
 title: THATCamp CHNM 2013
 ---

@@ -7,7 +7,6 @@ categories:
 - News
 date: '2020-09-28T07:52:18Z'
 draft: false
-lastmod: '2022-08-10T10:41:21Z'
 slug: consolation-prize-a-new-podcast-from-rrchnm
 tags:
 - podcast

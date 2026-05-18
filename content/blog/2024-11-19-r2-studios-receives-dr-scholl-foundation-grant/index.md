@@ -5,11 +5,10 @@ categories:
 - News
 date: '2024-11-19T10:00:00Z'
 draft: false
-lastmod: '2024-11-15T11:36:41Z'
 slug: r2-studios-receives-dr-scholl-foundation-grant
 title: R2 Studios Receives Dr. Scholl Foundation Grant
 tags:
-- R2 Studios
+- r2 studios
 ---
 
 The Roy Rosenzweig Center for History and New Media (RRCHNM) is excited to announce that R2 Studioshas received a $10,000 grant from the [Dr. Scholl Foundation](https://www.drschollfoundation.com/) to advance the studio’s mission to democratize access to history through podcasting.

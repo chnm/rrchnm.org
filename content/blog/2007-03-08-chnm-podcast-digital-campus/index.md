@@ -5,7 +5,6 @@ categories:
 - News
 date: '2007-03-08T13:28:03Z'
 draft: true
-lastmod: '2016-08-10T17:46:26Z'
 slug: chnm-podcast-digital-campus
 title: CHNM Podcast — "Digital Campus"
 ---

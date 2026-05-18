@@ -5,7 +5,6 @@ categories:
 - News
 date: '2024-04-25T13:04:14Z'
 draft: false
-lastmod: '2024-04-25T13:04:17Z'
 slug: the-mccormick-center-for-the-study-of-the-american-revolution-supports-the-production-of-worlds-turned-upside-down
 title: The McCormick Center for the Study of the American Revolution Supports the
   Production of Worlds Turned Upside Down

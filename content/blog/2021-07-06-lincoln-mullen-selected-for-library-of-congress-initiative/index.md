@@ -5,7 +5,6 @@ categories:
 - News
 date: '2021-07-06T11:27:15Z'
 draft: false
-lastmod: '2021-07-06T11:27:16Z'
 slug: lincoln-mullen-selected-for-library-of-congress-initiative
 title: Lincoln Mullen Selected for Library of Congress Initiative
 ---

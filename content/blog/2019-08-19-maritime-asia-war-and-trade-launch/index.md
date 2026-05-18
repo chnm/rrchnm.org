@@ -5,7 +5,6 @@ categories:
 - News
 date: '2019-08-19T09:00:47Z'
 draft: true
-lastmod: '2019-08-19T09:00:47Z'
 slug: maritime-asia-war-and-trade-launch
 title: 'Maritime Asia: War and Trade Launch'
 featured_image: maritime-asia-homepage-300x201.png

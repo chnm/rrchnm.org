@@ -5,11 +5,10 @@ categories:
 - News
 date: '2021-07-30T08:44:00Z'
 draft: false
-lastmod: '2021-07-30T14:54:24Z'
 slug: new-digital-military-history-postdoctoral-fellowship
 tags:
-- Military History
-- Public History
+- military history
+- public history
 title: New Digital Military History Postdoctoral Fellowship (Relisted)
 ---
 

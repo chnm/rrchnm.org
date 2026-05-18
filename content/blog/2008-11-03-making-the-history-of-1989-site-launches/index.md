@@ -5,16 +5,15 @@ categories:
 - News
 date: '2008-11-03T15:57:57Z'
 draft: true
-lastmod: '2008-11-03T15:57:57Z'
 slug: making-the-history-of-1989-site-launches
 tags:
 - '1989'
-- CHNM
-- Communism
+- chnm
+- communism
 - digital history
-- Eastern Europe
-- NEH
-- Research + Tools
+- eastern europe
+- neh
+- research + tools
 - teachers
 title: Making the History of 1989 Site Launches
 ---

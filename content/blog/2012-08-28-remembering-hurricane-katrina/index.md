@@ -6,7 +6,6 @@ categories:
 - Collecting + Exhibiting
 date: '2012-08-28T08:58:55Z'
 draft: true
-lastmod: '2012-08-28T08:58:55Z'
 slug: remembering-hurricane-katrina
 title: Remembering the Hurricanes of 2005
 ---

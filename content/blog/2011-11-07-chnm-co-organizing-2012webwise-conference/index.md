@@ -5,7 +5,6 @@ categories:
 - News
 date: '2011-11-07T14:56:52Z'
 draft: true
-lastmod: '2011-11-07T14:56:52Z'
 slug: chnm-co-organizing-2012webwise-conference
 title: CHNM Co-Organizing 2012 WebWise Conference
 ---

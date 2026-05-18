@@ -5,7 +5,6 @@ categories:
 - News
 date: '2020-12-18T14:08:10Z'
 draft: false
-lastmod: '2020-12-18T16:54:18Z'
 slug: phd-students-brannan-and-hubai-accepted-as-hastac-scholars
 title: PhD Students Brannan and Hubai Accepted as HASTAC Scholars
 ---

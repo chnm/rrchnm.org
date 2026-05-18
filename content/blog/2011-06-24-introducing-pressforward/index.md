@@ -6,7 +6,6 @@ categories:
 - Research + Tools
 date: '2011-06-24T13:33:19Z'
 draft: true
-lastmod: '2011-06-24T13:33:19Z'
 slug: introducing-pressforward
 title: Introducing PressForward
 ---

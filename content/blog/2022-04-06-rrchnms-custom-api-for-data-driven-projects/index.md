@@ -5,7 +5,6 @@ categories:
 - Post
 date: '2022-04-06T17:25:00Z'
 draft: false
-lastmod: '2022-10-04T17:27:10Z'
 slug: rrchnms-custom-api-for-data-driven-projects
 title: RRCHNM's Custom API for Data-Driven Projects
 featured_image: Data-API-1024x532.png

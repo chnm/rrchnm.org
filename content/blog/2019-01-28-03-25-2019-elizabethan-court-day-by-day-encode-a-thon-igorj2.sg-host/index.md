@@ -5,11 +5,9 @@ categories:
 - Events
 date: '2019-01-28T13:02:31Z'
 draft: true
-event_start_date: '20190325'
-lastmod: '2019-01-28T13:02:31Z'
 slug: 03-25-2019-elizabethan-court-day-by-day-encode-a-thon-igorj2.sg-host
 tags:
-- '@RRCHNM'
+- rrchnm
 title: '03/25/2019: Elizabethan Court Day By Day Encode-a-thon @ RRCHNM'
 ---
 

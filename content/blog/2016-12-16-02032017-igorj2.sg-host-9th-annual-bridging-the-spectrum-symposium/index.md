@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2016-12-16T13:39:54Z'
 draft: true
-event_start_date: '20170203'
 featured_image: symposiumlogo.jpg
-lastmod: '2016-12-16T13:39:54Z'
 slug: 02032017-igorj2.sg-host-9th-annual-bridging-the-spectrum-symposium
 tags:
-- RRCHNM@
+- rrchnm
 title: '02/03/2017: RRCHNM @ 9th Annual Bridging the Spectrum Symposium'
 ---
 

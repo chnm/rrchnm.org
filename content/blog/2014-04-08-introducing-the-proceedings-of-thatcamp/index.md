@@ -7,7 +7,6 @@ categories:
 date: '2014-04-08T14:51:23Z'
 draft: true
 featured_image: http://localhost/~kim/wordpressthatcamp_square_logo_11.png
-lastmod: '2014-04-08T14:51:23Z'
 slug: introducing-the-proceedings-of-thatcamp
 title: Introducing the Proceedings of THATCamp!
 ---

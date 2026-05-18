@@ -5,11 +5,10 @@ categories:
 - News
 date: '2023-02-14T12:00:00Z'
 draft: false
-lastmod: '2023-02-14T11:11:41Z'
 slug: schedule-for-the-rrchnm-data-working-group-spring-2023
 title: Schedule for the RRCHNM data working group, spring 2023
 tags:
-- Events
+- events
 ---
 
 The RRCHNM data working group meets every other week each semester. The working group exists to aid and abet one another as we seek to create data-driven histories. In our sessions, we share work-in-progress, discuss readings, and teach one another the techniques of the trade. Each semester we create the schedule collaboratively. Here is our schedule for spring semester, 2023.

@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-01-29T17:30:47Z'
 draft: true
-event_start_date: '20180507'
 featured_image: aamc2018conference_webbanner.jpg
-lastmod: '2018-01-29T17:30:47Z'
 slug: 05-07-2018-igorj2.sg-host-association-of-art-museum-curators-conference
 tags:
-- RRCHNM@
+- rrchnm
 title: '05/07/2018: RRCHNM @ Association of Art Museum Curators Conference'
 ---
 

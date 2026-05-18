@@ -6,7 +6,6 @@ categories:
 date: '2018-10-15T11:00:57Z'
 draft: true
 featured_image: RRCHNM_AR_2018_Page_1.jpg
-lastmod: '2018-10-15T11:28:00Z'
 slug: annual-report-2017-2018
 title: Annual Report 2017-2018
 ---

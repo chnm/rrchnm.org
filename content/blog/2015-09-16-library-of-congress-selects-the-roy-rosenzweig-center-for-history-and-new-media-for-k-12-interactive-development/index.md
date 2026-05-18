@@ -5,7 +5,6 @@ categories:
 - News
 date: '2015-09-16T16:44:09Z'
 draft: true
-lastmod: '2016-08-16T15:01:32Z'
 slug: library-of-congress-selects-the-roy-rosenzweig-center-for-history-and-new-media-for-k-12-interactive-development
 title: Library of Congress Selects the Roy Rosenzweig Center for History and New Media
   for K-12 Interactive Development

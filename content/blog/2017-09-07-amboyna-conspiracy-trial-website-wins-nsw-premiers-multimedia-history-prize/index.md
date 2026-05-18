@@ -6,7 +6,6 @@ categories:
 - Teaching + Learning
 date: '2017-09-07T12:22:24Z'
 draft: true
-lastmod: '2017-09-07T12:22:24Z'
 slug: amboyna-conspiracy-trial-website-wins-nsw-premiers-multimedia-history-prize
 title: Amboyna Conspiracy Trial Website Wins NSW Premier’s Multimedia History Prize
 featured_image: 4879_NSW-Premiers-History-Awards-2017_Sticker-Winner-300x300.jpg

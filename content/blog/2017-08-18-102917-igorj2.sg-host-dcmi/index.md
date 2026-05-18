@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-08-18T12:11:10Z'
 draft: true
-event_start_date: '20171028'
 featured_image: dcmi_logo.png
-lastmod: '2017-08-18T12:13:24Z'
 slug: 102917-igorj2.sg-host-dcmi
 tags:
-- RRCHNM@
+- rrchnm
 title: 10/28/17 RRCHNM @ DCMI
 ---
 

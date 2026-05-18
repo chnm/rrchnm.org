@@ -5,7 +5,6 @@ categories:
 - News
 date: '2023-09-06T12:08:19Z'
 draft: false
-lastmod: '2023-09-06T12:08:21Z'
 slug: nate-sleeter-and-kelly-schrum-receive-neh-funding-to-host-summer-faculty-institute
 title: Nate Sleeter and Kelly Schrum Receive NEH Funding To Host Summer Faculty Institute
 ---

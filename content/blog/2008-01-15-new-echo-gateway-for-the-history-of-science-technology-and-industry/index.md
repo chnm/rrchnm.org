@@ -5,7 +5,6 @@ categories:
 - News
 date: '2008-01-15T10:25:15Z'
 draft: true
-lastmod: '2016-08-10T17:42:45Z'
 slug: new-echo-gateway-for-the-history-of-science-technology-and-industry
 title: New ECHO Gateway for the History of Science, Technology, and Industry
 ---

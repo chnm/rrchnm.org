@@ -5,7 +5,6 @@ categories:
 - News
 date: '2005-02-15T10:54:12Z'
 draft: true
-lastmod: '2016-08-10T17:41:02Z'
 slug: kelly-receives-virginias-outstanding-faculty-award
 title: Kelly Receives Virginia's Outstanding Faculty Award
 ---

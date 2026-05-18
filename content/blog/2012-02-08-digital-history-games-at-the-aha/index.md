@@ -5,7 +5,6 @@ categories:
 - News
 date: '2012-02-08T18:53:42Z'
 draft: true
-lastmod: '2012-02-08T18:53:42Z'
 slug: digital-history-games-at-the-aha
 title: Digital History Games at the AHA
 ---

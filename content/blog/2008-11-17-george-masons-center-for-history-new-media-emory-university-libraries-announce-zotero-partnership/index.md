@@ -5,10 +5,9 @@ categories:
 - News
 date: '2008-11-17T12:05:07Z'
 draft: true
-lastmod: '2008-11-17T12:05:07Z'
 slug: george-masons-center-for-history-new-media-emory-university-libraries-announce-zotero-partnership
 tags:
-- CHNM
+- chnm
 - zotero
 title: George Mason’s Center for History & New Media, Emory University Libraries Announce
   Zotero Partnership

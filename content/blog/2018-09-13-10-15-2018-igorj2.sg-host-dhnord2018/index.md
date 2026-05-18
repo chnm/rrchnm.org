@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-09-13T13:30:53Z'
 draft: true
-event_start_date: '20181015'
 featured_image: DHNOrd.png
-lastmod: '2018-09-13T13:31:29Z'
 slug: 10-15-2018-igorj2.sg-host-dhnord2018
 tags:
-- RRCHNM@
+- rrchnm
 title: '10/15/2018: RRCHNM @ dhnord2018'
 ---
 

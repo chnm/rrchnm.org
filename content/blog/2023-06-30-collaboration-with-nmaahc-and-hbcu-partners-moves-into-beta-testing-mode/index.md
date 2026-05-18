@@ -5,11 +5,10 @@ categories:
 - News
 date: '2023-06-30T12:00:00Z'
 draft: false
-lastmod: '2023-06-30T11:44:17Z'
 slug: collaboration-with-nmaahc-and-hbcu-partners-moves-into-beta-testing-mode
 title: Collaboration With NMAAHC and HBCU Partners Moves Into Beta Testing Mode
 tags:
-- Partnerships
+- partnerships
 featured_image: IMG_9042-768x1024.jpg
 ---
 

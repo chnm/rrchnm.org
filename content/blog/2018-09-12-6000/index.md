@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-09-12T16:33:59Z'
 draft: true
-event_start_date: '20181029'
 featured_image: Richmond.png
-lastmod: '2018-09-12T16:36:55Z'
 slug: '6000'
 tags:
-- RRCHNM@
+- rrchnm
 title: '10/29/2018: RRCHNM @ University of Richmond'
 ---
 

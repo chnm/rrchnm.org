@@ -5,7 +5,6 @@ categories:
 - News
 date: '2006-01-17T10:42:03Z'
 draft: true
-lastmod: '2016-08-10T17:49:08Z'
 slug: chnm-on-cnn-2
 title: CHNM on CNN
 ---

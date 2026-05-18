@@ -6,7 +6,6 @@ categories:
 - Teaching + Learning
 date: '2018-05-21T07:00:16Z'
 draft: true
-lastmod: '2018-05-23T07:53:29Z'
 slug: resounding-the-archives-symposium
 title: ReSounding the Archives Symposium
 featured_image: resounding-1024x623.png

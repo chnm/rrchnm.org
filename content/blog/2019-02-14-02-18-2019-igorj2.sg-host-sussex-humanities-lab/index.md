@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2019-02-14T10:01:50Z'
 draft: true
-event_start_date: '20190218'
 featured_image: Screen-Shot-2019-02-14-at-10.01.15-AM.png
-lastmod: '2019-02-14T10:01:50Z'
 slug: 02-18-2019-igorj2.sg-host-sussex-humanities-lab
 tags:
-- RRCHNM@
+- rrchnm
 title: '02/18/2019: RRCHNM @ Sussex Humanities Lab'
 ---
 

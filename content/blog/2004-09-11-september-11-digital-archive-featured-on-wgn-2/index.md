@@ -5,7 +5,6 @@ categories:
 - News
 date: '2004-09-11T11:17:10Z'
 draft: true
-lastmod: '2004-09-11T11:17:10Z'
 slug: september-11-digital-archive-featured-on-wgn-2
 title: September 11 Digital Archive featured on WGN
 ---

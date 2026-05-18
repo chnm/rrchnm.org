@@ -5,7 +5,6 @@ categories:
 - News
 date: '2009-05-15T10:24:09Z'
 draft: true
-lastmod: '2009-05-15T10:24:09Z'
 slug: zotero-20-is-here
 tags:
 - groups

@@ -5,7 +5,6 @@ categories:
 - News
 date: '2021-05-05T10:35:38Z'
 draft: false
-lastmod: '2021-05-05T10:35:39Z'
 slug: congratulations-to-dr-janelle-legg
 title: Congratulations to Dr. Janelle Legg
 ---

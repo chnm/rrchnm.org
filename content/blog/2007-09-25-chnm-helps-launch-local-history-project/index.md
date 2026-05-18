@@ -5,7 +5,6 @@ categories:
 - News
 date: '2007-09-25T19:51:33Z'
 draft: true
-lastmod: '2016-08-10T17:45:27Z'
 slug: chnm-helps-launch-local-history-project
 title: CHNM Helps Launch Local History Project
 ---

@@ -5,7 +5,6 @@ categories:
 - News
 date: '2003-09-01T20:11:39Z'
 draft: true
-lastmod: '2003-09-01T20:11:39Z'
 slug: new-york-city-blackout-renews-attention-to-chnm-project-2
 title: New York City blackout renews attention to CHNM project
 ---

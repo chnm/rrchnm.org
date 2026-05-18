@@ -5,13 +5,12 @@ categories:
 - News
 date: '2009-02-09T12:02:55Z'
 draft: true
-lastmod: '2009-02-09T12:02:55Z'
 slug: thatcamp-2009-now-accepting-applications
 tags:
 - '2009'
 - application
-- GMU
-- THATCamp
+- gmu
+- thatcamp
 - unconference
 title: THATCamp 2009 Now Accepting Applications
 ---

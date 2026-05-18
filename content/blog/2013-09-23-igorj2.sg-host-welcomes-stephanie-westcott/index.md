@@ -5,7 +5,6 @@ categories:
 - News
 date: '2013-09-23T10:27:13Z'
 draft: true
-lastmod: '2013-09-23T10:27:13Z'
 slug: igorj2.sg-host-welcomes-stephanie-westcott
 title: RRCHNM Welcomes Stephanie Westcott
 ---

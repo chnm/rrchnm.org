@@ -5,7 +5,6 @@ categories:
 - News
 date: '2012-03-16T08:57:34Z'
 draft: true
-lastmod: '2012-03-16T08:57:34Z'
 slug: igorj2.sg-host-shapes-webwise-2012
 title: RRCHNM Shapes WebWise 2012
 ---

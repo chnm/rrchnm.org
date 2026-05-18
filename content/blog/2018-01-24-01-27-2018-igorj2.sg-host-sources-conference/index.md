@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-01-24T10:18:58Z'
 draft: true
-event_start_date: '20180127'
 featured_image: cover-small_orig.jpg
-lastmod: '2018-01-24T10:18:58Z'
 slug: 01-27-2018-igorj2.sg-host-sources-conference
 tags:
-- RRCHNM@
+- rrchnm
 title: '01/27/2018: RRCHNM @ Sources Conference'
 ---
 

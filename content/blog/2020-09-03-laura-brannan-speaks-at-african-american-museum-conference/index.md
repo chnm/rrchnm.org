@@ -5,7 +5,6 @@ categories:
 - News
 date: '2020-09-03T11:20:52Z'
 draft: false
-lastmod: '2020-09-03T11:20:52Z'
 slug: laura-brannan-speaks-at-african-american-museum-conference
 title: Laura Brannan Speaks at African American Museum Conference
 ---

@@ -5,11 +5,10 @@ categories:
 - News
 date: '2021-03-18T12:18:22Z'
 draft: false
-lastmod: '2021-03-18T12:18:23Z'
 slug: material-histories-of-the-indian-ocean-world-1500-present
 tags:
 - art history
-- Indian Ocean
+- indian ocean
 - material history
 title: Material Histories of the Indian Ocean World, 1500-Present
 ---

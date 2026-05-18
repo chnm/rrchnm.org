@@ -5,7 +5,6 @@ categories:
 - News
 date: '2021-06-30T13:22:29Z'
 draft: false
-lastmod: '2021-06-30T13:34:56Z'
 slug: mills-kelly-honored-by-johannes-gutenberg-university-mainz-for-teaching-excellence
 title: Mills Kelly honored by Johannes Gutenberg University Mainz for teaching excellence
 featured_image: newsimage351588-scaled-1-683x1024.jpg

@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-07-16T17:32:34Z'
 draft: true
-event_start_date: '20171026'
 featured_image: cropped-WMDHBanner2.jpg
-lastmod: '2017-10-19T11:45:28Z'
 slug: 10262017-igorj2.sg-host-race-memory-the-digital-humanities
 tags:
-- RRCHNM@
+- rrchnm
 title: 10/26/2017 RRCHNM @ Race, Memory & the Digital Humanities
 ---
 

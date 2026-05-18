@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-03-21T12:57:58Z'
 draft: true
-event_start_date: '20180424'
 featured_image: logo.png
-lastmod: '2018-04-17T14:52:23Z'
 slug: 04-24-2018-igorj2.sg-host-resounding-the-archives-symposium
 tags:
-- RRCHNM@
+- rrchnm
 title: '04/24/2018: RRCHNM @ ReSounding the Archives Symposium'
 ---
 

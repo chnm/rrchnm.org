@@ -5,13 +5,12 @@ categories:
 - News
 date: '2009-02-25T15:20:09Z'
 draft: true
-lastmod: '2009-02-25T15:20:09Z'
 slug: the-american-historical-association-announces-the-roy-rosenzweig-fellowship-for-innovation-in-digital-history
 tags:
-- AHA
-- American Historical Association
-- Prize
-- Rosenzweig
+- aha
+- american historical association
+- prize
+- rosenzweig
 title: The American Historical Association Announces the Roy Rosenzweig Fellowship
   for Innovation in Digital History
 ---

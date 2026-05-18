@@ -5,7 +5,6 @@ categories:
 - News
 date: '2023-09-07T12:00:16Z'
 draft: false
-lastmod: '2023-09-07T12:00:17Z'
 slug: jessica-otis-receives-neh-funding-to-develop-and-host-summer-institute-on-dh-methods
 title: Jessica Otis Receives NEH Funding To Develop and Host Summer Institute On DH
   Methods

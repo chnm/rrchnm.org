@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-02-23T13:12:41Z'
 draft: true
-event_start_date: '20170417'
 featured_image: DocNow.jpg
-lastmod: '2017-03-06T14:12:03Z'
 slug: ed-summers-mith-igorj2.sg-host
 tags:
-- '@RRCHNM'
+- rrchnm
 title: '04/17/2017: Ed Summers (MITH) @ RRCHNM'
 ---
 

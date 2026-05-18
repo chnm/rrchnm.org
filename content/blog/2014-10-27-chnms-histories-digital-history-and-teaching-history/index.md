@@ -5,7 +5,6 @@ categories:
 - News
 date: '2014-10-27T17:35:12Z'
 draft: true
-lastmod: '2014-10-27T17:35:12Z'
 slug: chnms-histories-digital-history-and-teaching-history
 title: 'CHNM‘s Histories: Digital History and Teaching History'
 ---

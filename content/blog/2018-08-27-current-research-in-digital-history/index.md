@@ -6,7 +6,6 @@ categories:
 date: '2018-08-27T14:14:20Z'
 draft: true
 featured_image: CRDH-2.png
-lastmod: '2018-08-27T14:14:20Z'
 slug: current-research-in-digital-history
 title: Current Research in Digital History
 ---

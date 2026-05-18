@@ -5,7 +5,6 @@ categories:
 - News
 date: '2002-01-11T14:14:38Z'
 draft: true
-lastmod: '2022-03-24T11:42:52Z'
 slug: september-11-digital-archive-launched-2
 title: September 11 Digital Archive Launched
 ---

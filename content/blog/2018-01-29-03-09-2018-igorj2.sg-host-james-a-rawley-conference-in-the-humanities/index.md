@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-01-29T17:19:49Z'
 draft: true
-event_start_date: '20180309'
 featured_image: Nebraska.jpeg
-lastmod: '2018-01-29T17:19:49Z'
 slug: 03-09-2018-igorj2.sg-host-james-a-rawley-conference-in-the-humanities
 tags:
-- RRCHNM@
+- rrchnm
 title: '03/09/2018: RRCHNM @ James A. Rawley Conference in the Humanities'
 ---
 

@@ -6,11 +6,10 @@ categories:
 date: '2020-12-14T10:19:00Z'
 draft: false
 featured_image: screenshot-omeka-site.png
-lastmod: '2021-02-19T14:47:16Z'
 slug: 40000-documents-from-religious-bodies-census-digitized-nearly-a-century-later
 tags:
-- 1926 Census of Religious Bodies
-- American Religious Ecologies
+- '1926 census of religious bodies'
+- american religious ecologies
 - primary sources
 - wip
 title: 40,000+ Documents from Religious Bodies Census Digitized Nearly a Century Later

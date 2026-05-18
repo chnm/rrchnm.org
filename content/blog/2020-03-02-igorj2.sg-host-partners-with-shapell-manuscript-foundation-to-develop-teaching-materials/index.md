@@ -5,7 +5,6 @@ categories:
 - News
 date: '2020-03-02T15:47:50Z'
 draft: false
-lastmod: '2020-03-02T15:47:50Z'
 slug: igorj2.sg-host-partners-with-shapell-manuscript-foundation-to-develop-teaching-materials
 title: RRCHNM Partners with Shapell Manuscript Foundation to Develop Teaching Materials
 ---

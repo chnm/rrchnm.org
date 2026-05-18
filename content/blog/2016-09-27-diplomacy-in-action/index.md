@@ -6,7 +6,6 @@ categories:
 - Teaching + Learning
 date: '2016-09-27T14:17:38Z'
 draft: true
-lastmod: '2017-02-23T16:58:34Z'
 slug: diplomacy-in-action
 title: Diplomacy in Action
 ---

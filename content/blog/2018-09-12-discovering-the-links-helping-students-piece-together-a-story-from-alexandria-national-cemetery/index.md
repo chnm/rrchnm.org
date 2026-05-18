@@ -5,7 +5,6 @@ categories:
 - Teaching + Learning
 date: '2018-09-12T12:00:11Z'
 draft: true
-lastmod: '2018-09-12T14:59:13Z'
 slug: discovering-the-links-helping-students-piece-together-a-story-from-alexandria-national-cemetery
 title: 'Discovering the Links: Helping Students Piece Together a Story from Alexandria
   National Cemetery'

@@ -5,7 +5,6 @@ categories:
 - News
 date: '2005-11-11T11:04:54Z'
 draft: true
-lastmod: '2005-11-11T11:04:54Z'
 slug: google-print-mass-digitization-projects-dc-tech-humanities-forum-to-be-held-on-112805
 title: 'Google Print & Mass Digitization Projects: DC Tech & Humanities Forum to be
   held on 11/28/05'

@@ -5,7 +5,6 @@ categories:
 - News
 date: '2012-12-06T16:46:46Z'
 draft: true
-lastmod: '2012-12-06T16:46:46Z'
 slug: thatcamp-website-redesign-live-q-a
 title: THATCamp Website Redesign-Live Q & A
 ---

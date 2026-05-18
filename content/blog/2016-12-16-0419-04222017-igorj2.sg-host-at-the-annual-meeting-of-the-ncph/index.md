@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2016-12-16T14:25:59Z'
 draft: true
-event_start_date: '20170420'
 featured_image: NCPH.jpg
-lastmod: '2017-04-19T10:50:53Z'
 slug: 0419-04222017-igorj2.sg-host-at-the-annual-meeting-of-the-ncph
 tags:
-- RRCHNM@
+- rrchnm
 title: '04/19-04/22/2017: RRCHNM @ the Annual Meeting of the NCPH'
 ---
 

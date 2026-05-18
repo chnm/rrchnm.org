@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-07-17T12:57:01Z'
 draft: true
-event_start_date: '20181007'
 featured_image: SCI.png
-lastmod: '2018-07-19T14:59:04Z'
 slug: 10-07-2018-igorj2.sg-host-triangle-scholarly-communications-institute
 tags:
-- RRCHNM@
+- rrchnm
 title: '10/07/2018: RRCHNM @ Triangle Scholarly Communications Institute'
 ---
 

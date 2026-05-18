@@ -5,7 +5,6 @@ categories:
 - News
 date: '2023-07-27T12:00:00Z'
 draft: false
-lastmod: '2023-07-28T11:52:01Z'
 slug: rrchnm-receives-additional-funding-to-create-more-teaching-guides
 title: RRCHNM Receives Additional Funding to Create More Teaching Guides
 ---

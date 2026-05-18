@@ -5,7 +5,6 @@ categories:
 - News
 date: '2023-02-27T16:00:00Z'
 draft: false
-lastmod: '2023-02-27T15:49:43Z'
 slug: announcing-death-by-numbers-beta
 title: Announcing Death by Numbers Beta
 ---

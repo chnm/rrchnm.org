@@ -5,7 +5,6 @@ categories:
 - News
 date: '2014-05-07T17:35:10Z'
 draft: true
-lastmod: '2014-05-07T17:35:10Z'
 slug: congratulations-celeste-sharp
 title: Congratulations Celeste Sharpe!
 ---

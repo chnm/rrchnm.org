@@ -5,7 +5,6 @@ categories:
 - News
 date: '2012-04-16T08:39:09Z'
 draft: true
-lastmod: '2012-04-16T08:39:09Z'
 slug: chnm-partners-with-ncph-on-new-historywork-site
 title: CHNM partners with NCPH on new History@Work site
 ---

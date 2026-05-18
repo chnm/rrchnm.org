@@ -5,12 +5,11 @@ categories:
 - News
 date: '2022-09-06T09:00:00Z'
 draft: false
-lastmod: '2022-09-23T12:56:45Z'
 slug: rrchnm-launches-new-teaching-guides-for-pre-service-history-teachers
 title: RRCHNM Launches New Teaching Guides for Pre-Service History Teachers
 tags:
-- Teaching + Learning
-- Partnerships
+- teaching + learning
+- partnerships
 featured_image: MormonJourneyMap-1024x337.jpg
 ---
 

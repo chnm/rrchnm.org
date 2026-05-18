@@ -5,7 +5,6 @@ categories:
 - News
 date: '2017-05-02T10:00:16Z'
 draft: true
-lastmod: '2017-11-15T16:54:34Z'
 slug: arguing-with-digital-history-workshop-to-address-a-central-problem-in-digital-history
 title: “Arguing with Digital History” Workshop to Address a Central Problem in Digital
   History

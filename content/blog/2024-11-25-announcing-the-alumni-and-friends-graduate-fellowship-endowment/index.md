@@ -5,7 +5,6 @@ categories:
 - News
 date: '2024-11-25T10:15:00Z'
 draft: false
-lastmod: '2024-11-26T09:11:57Z'
 slug: announcing-the-alumni-and-friends-graduate-fellowship-endowment
 title: Announcing the Alumni and Friends Graduate Fellowship Endowment
 ---

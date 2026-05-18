@@ -5,7 +5,6 @@ categories:
 - News
 date: '2007-03-05T13:23:49Z'
 draft: true
-lastmod: '2016-08-10T17:49:07Z'
 slug: chnm-and-the-speech-accent-archive-on-npr
 title: CHNM and The Speech Accent Archive on NPR
 ---

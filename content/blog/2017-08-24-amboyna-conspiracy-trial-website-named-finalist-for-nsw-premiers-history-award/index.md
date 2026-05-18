@@ -6,7 +6,6 @@ categories:
 - News
 date: '2017-08-24T13:53:43Z'
 draft: true
-lastmod: '2017-08-24T21:13:12Z'
 slug: amboyna-conspiracy-trial-website-named-finalist-for-nsw-premiers-history-award
 title: Amboyna Conspiracy Trial Website Named Finalist for NSW Premier’s History Award
 featured_image: amboyna-300x187.png

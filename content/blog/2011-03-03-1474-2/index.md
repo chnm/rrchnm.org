@@ -5,7 +5,6 @@ categories:
 - News
 date: '2011-03-03T22:11:53Z'
 draft: true
-lastmod: '2011-03-03T22:11:53Z'
 slug: 1474-2
 title: 'For Virginians: Government Matters'
 ---

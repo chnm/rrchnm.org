@@ -5,7 +5,6 @@ categories:
 - News
 date: '2006-03-10T11:12:58Z'
 draft: true
-lastmod: '2006-03-10T11:12:58Z'
 slug: women-in-world-history-recognizes-national-womens-history-month
 title: Women in World History Recognizes National Women's History Month
 ---

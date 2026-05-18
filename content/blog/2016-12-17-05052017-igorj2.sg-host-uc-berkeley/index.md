@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2016-12-17T12:39:50Z'
 draft: true
-event_start_date: '20170505'
 featured_image: logo-ucberkeley.png
-lastmod: '2017-01-17T11:45:08Z'
 slug: 05052017-igorj2.sg-host-uc-berkeley
 tags:
-- RRCHNM@
+- rrchnm
 title: '05/05/2017: RRCHNM @ UC Berkeley'
 ---
 

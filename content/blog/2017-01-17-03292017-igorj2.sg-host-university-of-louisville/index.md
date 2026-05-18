@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-01-17T11:43:20Z'
 draft: true
-event_start_date: '20170330'
 featured_image: Louisville.jpg
-lastmod: '2017-02-23T16:50:37Z'
 slug: 03292017-igorj2.sg-host-university-of-louisville
 tags:
-- RRCHNM@
+- rrchnm
 title: '03/30/2017: RRCHNM @ University of Louisville'
 ---
 

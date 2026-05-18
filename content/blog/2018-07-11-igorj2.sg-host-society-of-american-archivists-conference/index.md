@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-07-11T15:28:00Z'
 draft: true
-event_start_date: '20180815'
 featured_image: SAA.png
-lastmod: '2018-07-11T15:29:24Z'
 slug: igorj2.sg-host-society-of-american-archivists-conference
 tags:
-- RRCHNM@
+- rrchnm
 title: '08/15/2018: RRCHNM @ Society of American Archivists Conference'
 ---
 

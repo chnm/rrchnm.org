@@ -5,18 +5,17 @@ categories:
 - News
 date: '2009-04-28T11:17:08Z'
 draft: true
-lastmod: '2009-04-28T11:17:08Z'
 slug: 2009-roy-rosenzweig-forum-social-networking-and-the-semantic-web
 tags:
 - '2009'
-- Amplify
-- CHNM
+- amplify
+- chnm
 - forum
-- Project10X
-- Rosenzweig
-- Semantic Web
-- Social Networking
-- Washington Semantic Web Meet-up
+- project10x
+- rosenzweig
+- semantic web
+- social networking
+- washington semantic web meet-up
 - zotero
 title: 2009 Roy Rosenzweig Forum - Social Networking and the Semantic Web
 ---

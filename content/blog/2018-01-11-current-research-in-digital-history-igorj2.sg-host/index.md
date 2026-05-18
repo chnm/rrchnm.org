@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-01-11T16:01:39Z'
 draft: true
-event_start_date: '20180317'
 featured_image: Logo.jpg
-lastmod: '2018-01-11T16:02:10Z'
 slug: current-research-in-digital-history-igorj2.sg-host
 tags:
-- '@RRCHNM'
+- rrchnm
 title: '03/17/2018: Current Research in Digital History @ RRCHNM'
 ---
 

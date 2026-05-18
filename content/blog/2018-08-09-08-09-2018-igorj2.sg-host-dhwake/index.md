@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-08-09T14:10:56Z'
 draft: true
-event_start_date: '20180809'
 featured_image: Wake.png
-lastmod: '2018-08-09T14:10:56Z'
 slug: 08-09-2018-igorj2.sg-host-dhwake
 tags:
-- RRCHNM@
+- rrchnm
 title: '08/09/2018: RRCHNM @ DH@Wake'
 ---
 

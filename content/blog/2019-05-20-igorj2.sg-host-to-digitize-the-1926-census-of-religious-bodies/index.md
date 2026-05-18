@@ -5,10 +5,9 @@ categories:
 - News
 date: '2019-05-20T18:45:47Z'
 draft: true
-lastmod: '2019-05-21T10:17:17Z'
 slug: igorj2.sg-host-to-digitize-the-1926-census-of-religious-bodies
 tags:
-- 1926 Census of Religious Bodies
+- '1926 census of religious bodies'
 - religion
 - wip
 title: RRCHNM to Digitize the 1926 Census of Religious Bodies

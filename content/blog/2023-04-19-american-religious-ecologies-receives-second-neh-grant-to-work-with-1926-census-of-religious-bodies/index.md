@@ -5,11 +5,10 @@ categories:
 - News
 date: '2023-04-19T14:06:35Z'
 draft: false
-lastmod: '2023-04-19T14:10:13Z'
 slug: american-religious-ecologies-receives-second-neh-grant-to-work-with-1926-census-of-religious-bodies
 tags:
-- American Religious Ecologies
-- NEH
+- american religious ecologies
+- neh
 - religion
 title: American Religious Ecologies Receives Second NEH Grant to Work with 1926 Census
   of Religious Bodies

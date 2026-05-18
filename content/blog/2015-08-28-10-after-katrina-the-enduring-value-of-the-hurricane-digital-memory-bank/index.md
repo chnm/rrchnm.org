@@ -5,7 +5,6 @@ categories:
 - News
 date: '2015-08-28T11:02:26Z'
 draft: true
-lastmod: '2015-08-28T11:02:26Z'
 slug: 10-after-katrina-the-enduring-value-of-the-hurricane-digital-memory-bank
 title: 10 Years After Katrina, the Enduring Value of the Hurricane Digital Memory
   Bank

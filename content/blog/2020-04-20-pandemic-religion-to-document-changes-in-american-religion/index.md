@@ -5,11 +5,10 @@ categories:
 - News
 date: '2020-04-20T12:56:14Z'
 draft: false
-lastmod: '2020-04-20T12:56:49Z'
 slug: pandemic-religion-to-document-changes-in-american-religion
 tags:
-- COVID-19
-- Pandemic Religion
+- covid-19
+- pandemic religion
 title: Pandemic Religion Project to Document Changes in American Religion
 featured_image: Screen-Shot-2020-04-20-at-12.54.09-PM-1024x738.png
 ---

@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2016-12-16T14:50:59Z'
 draft: true
-event_start_date: '20170208'
 featured_image: Logo.jpg
-lastmod: '2017-02-06T12:40:26Z'
 slug: 02082017-project-workshop-igorj2.sg-host
 tags:
-- '@RRCHNM'
+- rrchnm
 title: '02/08/2017: Project Workshop @ RRCHNM'
 ---
 

@@ -5,7 +5,6 @@ categories:
 - News
 date: '2005-01-23T10:49:21Z'
 draft: true
-lastmod: '2016-08-10T17:40:53Z'
 slug: history-matters-wins-robinson-prize
 title: History Matters wins Robinson Prize
 ---

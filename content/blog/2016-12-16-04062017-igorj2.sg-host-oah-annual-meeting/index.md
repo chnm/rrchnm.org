@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2016-12-16T14:19:07Z'
 draft: true
-event_start_date: '20170406'
 featured_image: OAH.jpg
-lastmod: '2016-12-16T14:19:07Z'
 slug: 04062017-igorj2.sg-host-oah-annual-meeting
 tags:
-- RRCHNM@
+- rrchnm
 title: '04/06/2017: RRCHNM @ OAH Annual Meeting'
 ---
 

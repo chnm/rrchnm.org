@@ -6,7 +6,6 @@ categories:
 - News
 date: '2014-11-04T16:14:47Z'
 draft: true
-lastmod: '2014-11-04T16:14:47Z'
 slug: igorj2.sg-host20-site-live
 title: RRCHNM20 Site Live
 ---

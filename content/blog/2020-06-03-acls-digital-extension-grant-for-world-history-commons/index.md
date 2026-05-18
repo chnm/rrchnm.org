@@ -5,7 +5,6 @@ categories:
 - News
 date: '2020-06-03T17:00:02Z'
 draft: false
-lastmod: '2020-06-03T17:00:02Z'
 slug: acls-digital-extension-grant-for-world-history-commons
 title: ACLS Digital Extension Grant for World History Commons
 ---

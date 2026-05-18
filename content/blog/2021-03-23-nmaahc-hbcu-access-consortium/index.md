@@ -5,13 +5,12 @@ categories:
 - News
 date: '2021-03-23T14:56:06Z'
 draft: false
-lastmod: '2021-03-23T20:33:28Z'
 slug: nmaahc-hbcu-access-consortium
 tags:
-- African American
-- NMAAHC
-- Public History
-- Smithsonian
+- african american
+- nmaahc
+- public history
+- smithsonian
 title: NMAAHC/HBCU History and Culture Access Consortium
 featured_image: a5454da6-d4b1-4f44-aed3-6cbae875a2d9.png
 ---

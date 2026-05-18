@@ -4,11 +4,7 @@ authors:
 categories:
 - News
 date: '2021-09-30T11:13:09Z'
-description: RRCHNM is excited to announce a new grant award from the Library of Congress
-  Teaching with Primary Sources program. As part of the grant, RRCHNM will develop
-  teaching…
 draft: false
-lastmod: '2022-04-08T12:32:00Z'
 slug: new-grant-from-library-of-congress-to-create-teaching-resources-for-pre-service-teachers
 title: New Grant from Library of Congress to Create Teaching Resources for Teachers
 ---

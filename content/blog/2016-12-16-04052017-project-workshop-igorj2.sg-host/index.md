@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2016-12-16T14:54:27Z'
 draft: true
-event_start_date: '20170405'
 featured_image: eagleeye.png
-lastmod: '2017-03-28T12:47:59Z'
 slug: 04052017-project-workshop-igorj2.sg-host
 tags:
-- '@RRCHNM'
+- rrchnm
 title: '04/05/2017: Project Workshop @ RRCHNM'
 ---
 

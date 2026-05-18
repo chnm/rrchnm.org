@@ -7,11 +7,10 @@ categories:
 - News
 date: '2023-05-15T10:00:00Z'
 draft: false
-lastmod: '2023-05-15T10:23:56Z'
 slug: your-most-obedient-and-humble-servant-joins-the-r2-studios-network
 title: Your Most Obedient & Humble Servant Joins the R2 Studios Network
 tags:
-- R2 Studios
+- r2 studios
 featured_image: YMOHS_logo-1024x1024.png
 ---
 

@@ -5,11 +5,10 @@ categories:
 - News
 date: '2023-01-27T12:00:00Z'
 draft: false
-lastmod: '2023-01-27T11:36:04Z'
 slug: basics-of-tropy
 title: Basics of Tropy
 tags:
-- Events
+- events
 ---
 
 Each semester, RRCHNM hosts a series of "Basics Of" sessions that teach the basics of an application, process, or methodology so our graduate students, affiliates, and faculty can get together and learn about that topic. These sessions are hosted by RRCHNM members who are resident experts on the selected topic.

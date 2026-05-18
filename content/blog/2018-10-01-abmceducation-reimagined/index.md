@@ -7,7 +7,6 @@ categories:
 - Teaching + Learning
 date: '2018-10-01T09:50:17Z'
 draft: true
-lastmod: '2018-10-01T09:59:02Z'
 slug: abmceducation-reimagined
 title: ABMCEducation Reimagined
 featured_image: COPYActivity-Image-300x300.jpg

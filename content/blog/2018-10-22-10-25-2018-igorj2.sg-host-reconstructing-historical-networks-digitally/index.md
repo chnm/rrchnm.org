@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-10-22T12:57:13Z'
 draft: true
-event_start_date: '20181025'
 featured_image: GHI.png
-lastmod: '2018-10-22T12:57:13Z'
 slug: 10-25-2018-igorj2.sg-host-reconstructing-historical-networks-digitally
 tags:
-- RRCHNM@
+- rrchnm
 title: '10/25/2018: RRCHNM @ Reconstructing Historical Networks Digitally'
 ---
 

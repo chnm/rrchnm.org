@@ -5,7 +5,6 @@ categories:
 - News
 date: '2005-01-21T10:50:28Z'
 draft: true
-lastmod: '2016-08-10T17:40:37Z'
 slug: hnn-in-nyt
 title: HNN in NYT
 ---

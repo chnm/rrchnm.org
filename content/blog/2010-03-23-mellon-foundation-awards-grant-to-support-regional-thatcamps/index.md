@@ -5,7 +5,6 @@ categories:
 - News
 date: '2010-03-23T13:04:13Z'
 draft: true
-lastmod: '2010-03-23T13:04:13Z'
 slug: mellon-foundation-awards-grant-to-support-regional-thatcamps
 title: Mellon Foundation Awards Grant to Support Regional THATCamps
 ---

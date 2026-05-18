@@ -5,7 +5,6 @@ categories:
 - News
 date: '2014-03-06T10:45:13Z'
 draft: true
-lastmod: '2014-03-06T10:45:13Z'
 slug: discover-the-histories-of-the-national-mall
 title: Discover the Histories of the National Mall
 ---

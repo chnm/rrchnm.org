@@ -5,7 +5,6 @@ categories:
 - News
 date: '2011-10-04T11:34:37Z'
 draft: true
-lastmod: '2011-10-04T11:34:37Z'
 slug: new-civil-war-posters-are-here
 title: New Civil War Poster from Teachinghistory.org
 ---

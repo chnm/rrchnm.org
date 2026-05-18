@@ -4,15 +4,11 @@ authors:
 categories:
 - News
 date: '2021-10-27T09:20:23Z'
-description: Episode 2 of The Green Tunnel podcast launched today. In this episode
-  we tell the story of the settler communities that existed along the route of the
-  Appalachian Trail…
 draft: false
-lastmod: '2022-07-14T11:06:38Z'
 slug: what-came-before
 tags:
 - podcast
-- R2 Studios
+- r2 studios
 title: What Came Before
 ---
 

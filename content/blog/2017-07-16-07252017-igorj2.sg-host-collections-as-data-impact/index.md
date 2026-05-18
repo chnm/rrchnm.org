@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-07-16T16:32:13Z'
 draft: true
-event_start_date: '20170725'
 featured_image: CollectionsAsDatalogo_720-300x151.jpg
-lastmod: '2017-07-27T11:10:18Z'
 slug: 07252017-igorj2.sg-host-collections-as-data-impact
 tags:
-- RRCHNM@
+- rrchnm
 title: '07/25/2017 RRCHNM@ Collections as Data: IMPACT'
 ---
 

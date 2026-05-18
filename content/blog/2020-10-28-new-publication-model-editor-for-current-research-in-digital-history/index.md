@@ -5,7 +5,6 @@ categories:
 - Post
 date: '2020-10-28T09:57:40Z'
 draft: false
-lastmod: '2021-02-19T14:49:42Z'
 slug: new-publication-model-editor-for-current-research-in-digital-history
 tags:
 - crdh

@@ -4,12 +4,7 @@ authors:
 categories:
 - News
 date: '2008-01-15T20:01:22Z'
-description: Short for “The Humanities and Technology Camp”, THATCamp is a BarCamp-style,
-  user-generated “unconference” on digital humanities. THATCamp is organized and hosted
-  by the Center for History and New Media at George Mason University, Digital Campus,
-  and THATPodcast.
 draft: true
-lastmod: '2008-01-15T20:01:22Z'
 slug: chnm-to-host-inaugural-thatcamp-may-31-june-1-2008
 title: CHNM to host inaugural THATCamp, May 31 - June 1, 2008
 ---

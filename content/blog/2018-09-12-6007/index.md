@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-09-12T16:41:21Z'
 draft: true
-event_start_date: '20180926'
 featured_image: Luxembourg.png
-lastmod: '2018-09-12T16:42:20Z'
 slug: '6007'
 tags:
-- RRCHNM@
+- rrchnm
 title: '09/26/2018: RRCHNM @ Luxembourg Centre for Contemporary and Digital History'
 ---
 

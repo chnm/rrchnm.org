@@ -5,7 +5,6 @@ categories:
 - News
 date: '2020-07-23T14:49:27Z'
 draft: false
-lastmod: '2020-07-23T14:49:27Z'
 slug: american-jewish-life-a-pandemic-religion-project
 title: 'American Jewish Life: A Pandemic Religion Project'
 featured_image: Screen-Shot-2020-07-23-at-11.23.40-AM.png

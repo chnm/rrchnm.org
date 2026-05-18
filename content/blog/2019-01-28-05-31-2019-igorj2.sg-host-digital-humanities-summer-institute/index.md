@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2019-01-28T10:37:43Z'
 draft: true
-event_start_date: '20190603'
 featured_image: Screen-Shot-2019-01-28-at-10.36.45-AM.png
-lastmod: '2019-01-28T10:37:43Z'
 slug: 05-31-2019-igorj2.sg-host-digital-humanities-summer-institute
 tags:
-- RRCHNM@
+- rrchnm
 title: '05/31/2019: RRCHNM @ Digital Humanities Summer Institute'
 ---
 

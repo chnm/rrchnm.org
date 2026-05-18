@@ -5,7 +5,6 @@ categories:
 - News
 date: '2004-10-30T10:43:09Z'
 draft: true
-lastmod: '2016-08-10T17:40:13Z'
 slug: chnm-to-build-database-for-national-museum-of-american-jewish-history
 title: CHNM to build database for National Museum of American Jewish History
 ---

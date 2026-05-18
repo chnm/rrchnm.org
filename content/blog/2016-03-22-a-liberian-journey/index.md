@@ -5,7 +5,6 @@ categories:
 - News
 date: '2016-03-22T09:03:01Z'
 draft: true
-lastmod: '2016-08-10T17:41:47Z'
 slug: a-liberian-journey
 title: A Liberian Journey Launches
 ---

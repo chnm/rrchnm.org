@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-01-17T10:54:16Z'
 draft: true
-event_start_date: '20170228'
 featured_image: CDSC.jpg
-lastmod: '2017-02-27T10:49:36Z'
 slug: 02272017-igorj2.sg-host-washington-state-university
 tags:
-- RRCHNM@
+- rrchnm
 title: '02/28/2017: RRCHNM @ Washington State University'
 ---
 

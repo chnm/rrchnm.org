@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-10-23T12:57:51Z'
 draft: true
-event_start_date: '20181107'
 featured_image: Jens.jpg
-lastmod: '2018-10-23T14:17:58Z'
 slug: 11-07-2018-jens-pohlmann-gerda-henkel-postdoc-igorj2.sg-host
 tags:
-- '@RRCHNM'
+- rrchnm
 title: 11/07/2018 Jens Pohlmann (Gerda Henkel Postdoc) @ RRCHNM
 ---
 

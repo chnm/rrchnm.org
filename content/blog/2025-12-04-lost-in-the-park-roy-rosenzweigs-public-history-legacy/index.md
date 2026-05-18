@@ -7,7 +7,6 @@ categories:
 - Post
 date: '2025-12-04T12:14:41Z'
 draft: false
-lastmod: '2025-12-04T12:22:48Z'
 slug: lost-in-the-park-roy-rosenzweigs-public-history-legacy
 title: 'Lost in the Park: Roy Rosenzweig''s Public History Legacy'
 featured_image: viele-map-1.jpg

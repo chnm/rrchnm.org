@@ -5,12 +5,11 @@ categories:
 - News
 date: '2009-02-16T10:54:25Z'
 draft: true
-lastmod: '2009-02-16T10:54:25Z'
 slug: mikhail-gorbachev-visits-george-mason
 tags:
 - '1989'
-- CHNM
-- Gorbachev
+- chnm
+- gorbachev
 title: Mikhail Gorbachev Visits George Mason
 ---
 

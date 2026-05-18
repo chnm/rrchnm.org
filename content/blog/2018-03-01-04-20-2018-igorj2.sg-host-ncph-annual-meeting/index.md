@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-03-01T14:27:11Z'
 draft: true
-event_start_date: '20180420'
 featured_image: NCPH2018.jpeg
-lastmod: '2018-03-01T14:27:11Z'
 slug: 04-20-2018-igorj2.sg-host-ncph-annual-meeting
 tags:
-- RRCHNM@
+- rrchnm
 title: '04/20/2018: RRCHNM @ NCPH Annual Meeting'
 ---
 

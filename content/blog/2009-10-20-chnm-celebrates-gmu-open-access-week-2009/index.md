@@ -5,15 +5,14 @@ categories:
 - News
 date: '2009-10-20T14:49:00Z'
 draft: true
-lastmod: '2009-10-20T14:49:00Z'
 slug: chnm-celebrates-gmu-open-access-week-2009
 tags:
 - '1994'
-- CHNM
-- GMU
-- Open Access
-- Open Access Week
-- Open Source
+- chnm
+- gmu
+- open access
+- open access week
+- open source
 title: CHNM Celebrates GMU Open Access Week 2009
 ---
 

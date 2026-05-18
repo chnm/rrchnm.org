@@ -5,7 +5,6 @@ categories:
 - News
 date: '2010-06-07T09:51:47Z'
 draft: true
-lastmod: '2010-06-07T09:51:47Z'
 slug: national-historical-publications-and-records-commission-awards-two-grants-to-chnm
 title: National Historical Publications and Records Commission Awards Two Grants to
   CHNM

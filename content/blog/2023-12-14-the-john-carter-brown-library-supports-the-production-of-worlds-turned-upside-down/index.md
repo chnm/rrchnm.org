@@ -5,7 +5,6 @@ categories:
 - News
 date: '2023-12-14T10:45:06Z'
 draft: false
-lastmod: '2023-12-14T10:59:59Z'
 slug: the-john-carter-brown-library-supports-the-production-of-worlds-turned-upside-down
 title: The John Carter Brown Library Supports the Production of Worlds Turned Upside
   Down

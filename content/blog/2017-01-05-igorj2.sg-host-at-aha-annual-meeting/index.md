@@ -6,7 +6,6 @@ categories:
 - News
 date: '2017-01-05T07:30:00Z'
 draft: true
-lastmod: '2016-12-21T10:56:52Z'
 slug: igorj2.sg-host-at-aha-annual-meeting
 title: RRCHNM at AHA Annual Meeting
 featured_image: Bookmark-Front-300x78.png

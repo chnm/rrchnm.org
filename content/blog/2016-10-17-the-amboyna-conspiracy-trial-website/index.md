@@ -5,7 +5,6 @@ categories:
 - Uncategorized
 date: '2016-10-17T08:01:19Z'
 draft: true
-lastmod: '2016-10-17T08:01:23Z'
 slug: the-amboyna-conspiracy-trial-website
 title: The Amboyna Conspiracy Trial Website
 featured_image: Amboyna-300x266.png

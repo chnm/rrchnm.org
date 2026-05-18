@@ -5,7 +5,6 @@ categories:
 - News
 date: '2006-05-02T11:16:48Z'
 draft: true
-lastmod: '2016-08-10T17:49:08Z'
 slug: the-chnm-suspects
 title: The CHNM Suspects
 ---

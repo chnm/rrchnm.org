@@ -5,13 +5,12 @@ categories:
 - News
 date: '2010-01-13T12:31:34Z'
 draft: true
-lastmod: '2010-01-13T12:31:34Z'
 slug: chnm-aha-panel-humanities-in-the-digital-age
 tags:
-- CHNM
-- Digital Humanities
-- NHEC
-- Poster Session
+- chnm
+- digital humanities
+- nhec
+- poster session
 title: 'CHNM AHA Panel: Humanities in the Digital Age'
 ---
 

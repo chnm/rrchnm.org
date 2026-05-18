@@ -5,10 +5,9 @@ categories:
 - News
 date: '2021-03-09T17:40:26Z'
 draft: false
-lastmod: '2021-03-09T17:40:59Z'
 slug: releasing-a-web-monetization-module-for-omeka-s
 tags:
-- Web Monetization
+- web monetization
 title: Releasing a Web Monetization module for Omeka S
 featured_image: Screen-Shot-2021-03-09-at-5.19.15-PM-2-1024x129.png
 ---

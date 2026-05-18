@@ -5,7 +5,6 @@ categories:
 - News
 date: '2015-05-04T10:48:16Z'
 draft: true
-lastmod: '2015-05-04T10:48:16Z'
 slug: wwii-teacher-professional-development-website-goes-live
 title: WWII Teacher Professional Development Website Goes Live
 ---

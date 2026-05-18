@@ -5,7 +5,6 @@ categories:
 - News
 date: '2014-01-30T13:00:12Z'
 draft: true
-lastmod: '2014-01-30T13:00:12Z'
 slug: applications-open-for-rebuilding-the-portfolio-dh-for-art-historians
 title: 'Applications Open for "Rebuilding the Portfolio: DH for Art Historians"'
 ---

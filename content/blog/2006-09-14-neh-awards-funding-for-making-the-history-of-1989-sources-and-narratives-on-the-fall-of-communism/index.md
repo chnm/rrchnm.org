@@ -5,7 +5,6 @@ categories:
 - News
 date: '2006-09-14T11:22:10Z'
 draft: true
-lastmod: '2016-08-10T17:49:07Z'
 slug: neh-awards-funding-for-making-the-history-of-1989-sources-and-narratives-on-the-fall-of-communism
 title: 'NEH awards funding for "Making the History of 1989: Sources and Narratives
   on the Fall of Communism"'

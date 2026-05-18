@@ -5,14 +5,13 @@ categories:
 - News
 date: '2008-07-08T15:09:53Z'
 draft: true
-lastmod: '2008-07-08T15:09:53Z'
 slug: jon-stewart-hosts-chnms-rick-shenkman-on-the-daily-show
 tags:
-- CHNM
-- Daily Show
-- HNN
-- How Stupid Are We?
-- Rick Shenkman
+- chnm
+- daily show
+- hnn
+- how stupid are we?
+- rick shenkman
 title: Jon Stewart Hosts CHNM's Rick Shenkman on the Daily Show
 ---
 

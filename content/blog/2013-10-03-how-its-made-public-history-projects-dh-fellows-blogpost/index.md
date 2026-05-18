@@ -6,7 +6,6 @@ categories:
 - Collecting + Exhibiting
 date: '2013-10-03T17:10:58Z'
 draft: true
-lastmod: '2013-10-03T17:10:58Z'
 slug: how-its-made-public-history-projects-dh-fellows-blogpost
 title: 'How It''s Made: Public History Projects | DH Fellow''s Blogpost'
 ---

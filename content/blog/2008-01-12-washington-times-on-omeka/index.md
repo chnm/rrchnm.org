@@ -5,7 +5,6 @@ categories:
 - News
 date: '2008-01-12T10:23:26Z'
 draft: true
-lastmod: '2016-08-10T17:43:55Z'
 slug: washington-times-on-omeka
 title: Washington Times on Omeka
 ---

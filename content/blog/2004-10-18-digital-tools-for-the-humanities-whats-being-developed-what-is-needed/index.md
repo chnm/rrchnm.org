@@ -5,7 +5,6 @@ categories:
 - News
 date: '2004-10-18T10:44:31Z'
 draft: true
-lastmod: '2016-08-10T17:39:57Z'
 slug: digital-tools-for-the-humanities-whats-being-developed-what-is-needed
 title: 'Digital Tools for the Humanities: What''s Being Developed? What is Needed?'
 ---

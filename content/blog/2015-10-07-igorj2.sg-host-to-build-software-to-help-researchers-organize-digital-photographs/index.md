@@ -5,7 +5,6 @@ categories:
 - News
 date: '2015-10-07T10:00:44Z'
 draft: true
-lastmod: '2016-09-14T16:59:10Z'
 slug: igorj2.sg-host-to-build-software-to-help-researchers-organize-digital-photographs
 title: RRCHNM to build software to help researchers organize digital photographs
 ---

@@ -5,11 +5,10 @@ categories:
 - News
 date: '2023-08-14T10:00:24Z'
 draft: false
-lastmod: '2023-08-14T10:32:55Z'
 slug: passing-the-baton
 title: Passing the Baton
 tags:
-- About RRCHNM
+- about rrchnm
 ---
 
 At the 2001 annual meeting of the American Historical Association, Roy Rosenzweig dumped a cup of coffee on me. He didn’t mean to, of course, but he did.

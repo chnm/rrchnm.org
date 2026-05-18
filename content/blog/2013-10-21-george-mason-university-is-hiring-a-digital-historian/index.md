@@ -5,7 +5,6 @@ categories:
 - News
 date: '2013-10-21T09:36:34Z'
 draft: true
-lastmod: '2013-10-21T09:36:34Z'
 slug: george-mason-university-is-hiring-a-digital-historian
 title: George Mason University is Hiring a Digital Historian
 ---

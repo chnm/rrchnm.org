@@ -5,7 +5,6 @@ categories:
 - News
 date: '2012-10-10T11:34:02Z'
 draft: true
-lastmod: '2012-10-10T11:34:02Z'
 slug: second-year-of-masons-digital-history-doctoral-research-award
 title: Second Year of Mason's Digital History Doctoral Research Award
 ---

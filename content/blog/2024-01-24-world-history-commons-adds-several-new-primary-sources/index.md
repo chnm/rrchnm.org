@@ -5,11 +5,10 @@ categories:
 - News
 date: '2024-01-24T10:44:58Z'
 draft: false
-lastmod: '2024-01-24T10:45:00Z'
 slug: world-history-commons-adds-several-new-primary-sources
 title: World History Commons Adds Several New Primary Sources
 tags:
-- Teaching + Learning
+- teaching + learning
 featured_image: Picture1.jpg
 ---
 

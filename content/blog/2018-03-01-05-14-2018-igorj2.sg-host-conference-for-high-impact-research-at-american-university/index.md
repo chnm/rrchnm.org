@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-03-01T14:41:00Z'
 draft: true
-event_start_date: '20180514'
 featured_image: https_2F2Fcdn.evbuc_.com2Fimages2F347276792F1362396784102F12Foriginal.jpg
-lastmod: '2018-03-01T14:41:00Z'
 slug: 05-14-2018-igorj2.sg-host-conference-for-high-impact-research-at-american-university
 tags:
-- RRCHNM@
+- rrchnm
 title: '05/14/2018: RRCHNM @ Conference for High Impact Research at American University'
 ---
 

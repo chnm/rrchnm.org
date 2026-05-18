@@ -5,7 +5,6 @@ categories:
 - News
 date: '2021-07-29T15:33:29Z'
 draft: false
-lastmod: '2021-07-29T15:33:29Z'
 slug: jessica-mack-receives-grant-for-project-on-universities-and-power
 title: Jessica Mack Receives Grant for Project on Universities and Power
 ---

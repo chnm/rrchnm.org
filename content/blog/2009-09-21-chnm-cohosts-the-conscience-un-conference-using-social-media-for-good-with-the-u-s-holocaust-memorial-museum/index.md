@@ -5,13 +5,12 @@ categories:
 - News
 date: '2009-09-21T12:44:56Z'
 draft: true
-lastmod: '2009-09-21T12:44:56Z'
 slug: chnm-cohosts-the-conscience-un-conference-using-social-media-for-good-with-the-u-s-holocaust-memorial-museum
 tags:
 - conscience
-- Social Media
-- Twitter
-- USHMM
+- social media
+- twitter
+- ushmm
 title: 'CHNM cohosts "The Conscience Un-Conference: Using Social Media for Good" with
   the U.S. Holocaust Memorial Museum'
 ---

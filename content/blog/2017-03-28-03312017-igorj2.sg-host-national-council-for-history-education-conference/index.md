@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-03-28T15:26:04Z'
 draft: true
-event_start_date: '20170331'
 featured_image: /media/2017/03/NCHE.png
-lastmod: '2017-03-28T15:26:04Z'
 slug: 03312017-igorj2.sg-host-national-council-for-history-education-conference
 tags:
-- RRCHNM@
+- rrchnm
 title: '03/31/2017: RRCHNM @ National Council for History Education Conference'
 ---
 

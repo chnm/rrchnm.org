@@ -5,7 +5,6 @@ categories:
 - Collecting + Exhibiting
 date: '2011-09-08T11:45:47Z'
 draft: true
-lastmod: '2011-09-08T11:45:47Z'
 slug: next-steps-for-september-11-digital-archive
 title: Next Steps for September 11 Digital Archive
 ---

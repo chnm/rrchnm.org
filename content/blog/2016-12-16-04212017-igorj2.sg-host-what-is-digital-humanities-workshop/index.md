@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2016-12-16T14:36:01Z'
 draft: true
-event_start_date: '20170421'
 featured_image: GWBanner7.png
-lastmod: '2017-03-28T13:31:19Z'
 slug: 04212017-igorj2.sg-host-what-is-digital-humanities-workshop
 tags:
-- RRCHNM@
+- rrchnm
 title: '04/21/2017: RRCHNM @ What is Digital Humanities? Workshop'
 ---
 

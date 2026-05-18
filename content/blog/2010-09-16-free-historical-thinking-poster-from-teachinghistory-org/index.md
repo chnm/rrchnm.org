@@ -4,9 +4,7 @@ authors:
 categories:
 - News
 date: '2010-09-16T08:41:32Z'
-description: Request a free *Historical Thinking* poster [here](http://teachinghistory.org/historical-thinking-poster-request).
 draft: true
-lastmod: '2010-09-16T08:41:32Z'
 slug: free-historical-thinking-poster-from-teachinghistory-org
 title: Free Historical Thinking Poster from Teachinghistory.org
 ---

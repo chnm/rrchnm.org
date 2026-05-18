@@ -5,7 +5,6 @@ categories:
 - News
 date: '2017-04-11T10:00:12Z'
 draft: true
-lastmod: '2017-06-21T11:19:58Z'
 slug: mapping-early-american-elections-launches
 title: Mapping Early American Elections Launches!
 ---

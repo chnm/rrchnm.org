@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-07-16T16:48:44Z'
 draft: true
-event_start_date: '20170809'
 featured_image: cropped-logoDH2017.png
-lastmod: '2017-07-27T11:08:38Z'
 slug: 08092017-igorj2.sg-host-dh2017
 tags:
-- RRCHNM@
+- rrchnm
 title: 08/09/2017 RRCHNM @ DH2017
 ---
 

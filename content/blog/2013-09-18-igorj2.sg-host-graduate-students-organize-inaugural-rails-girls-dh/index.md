@@ -5,7 +5,6 @@ categories:
 - News
 date: '2013-09-18T10:10:22Z'
 draft: true
-lastmod: '2013-09-18T10:10:22Z'
 slug: igorj2.sg-host-graduate-students-organize-inaugural-rails-girls-dh
 title: RRCHNM Graduate Students Organize Inaugural Rails Girls DH
 ---

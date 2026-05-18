@@ -5,7 +5,6 @@ categories:
 - News
 date: '2005-04-16T10:56:28Z'
 draft: true
-lastmod: '2016-08-10T17:49:08Z'
 slug: chnm-affiliated-project-profiled-in-chronicle
 title: CHNM-affiliated project profiled in Chronicle
 ---

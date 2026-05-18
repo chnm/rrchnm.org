@@ -5,11 +5,10 @@ categories:
 - Post
 date: '2023-08-15T10:16:40Z'
 draft: false
-lastmod: '2023-08-15T10:16:40Z'
 slug: rrchnm-past-present-and-future
 title: RRCHNM Past, Present, and Future
 tags:
-- About RRCHNM
+- about rrchnm
 ---
 
 The first time that I came across the name Roy Rosenzweig was in the textbook for a class titled simply, “Historiography.” The book discussed Rosenzweig’s 1983 book, [*Eight Hours for What We Will*](https://www.cambridge.org/us/universitypress/subjects/history/american-history-general-interest/eight-hours-what-we-will-workers-and-leisure-industrial-city-18701920), as a key work in American labor history. Since *Eight Hours* is a history of workers in Worcester, Massachusetts, just thirty miles from where I grew up, I went to the library and checked out the book. As I read, I was captivated by how Rosenzweig had captured the lives and labors of working-class people.

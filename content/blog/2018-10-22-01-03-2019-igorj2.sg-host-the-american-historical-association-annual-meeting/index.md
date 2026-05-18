@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-10-22T13:17:14Z'
 draft: true
-event_start_date: '20190103'
 featured_image: AHA.png
-lastmod: '2018-10-22T13:18:14Z'
 slug: 01-03-2019-igorj2.sg-host-the-american-historical-association-annual-meeting
 tags:
-- RRCHNM@
+- rrchnm
 title: '01/03/2019: RRCHNM @ the American Historical Association Annual Meeting'
 ---
 

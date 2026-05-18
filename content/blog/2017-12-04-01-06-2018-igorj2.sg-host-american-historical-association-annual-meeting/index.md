@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-12-04T16:28:42Z'
 draft: true
-event_start_date: '20180107'
 featured_image: banner.png
-lastmod: '2018-01-06T12:15:32Z'
 slug: 01-06-2018-igorj2.sg-host-american-historical-association-annual-meeting
 tags:
-- RRCHNM@
+- rrchnm
 title: '01/06/2018: RRCHNM @ American Historical Association Annual Meeting'
 ---
 

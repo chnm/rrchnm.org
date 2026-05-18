@@ -7,11 +7,10 @@ categories:
 - News
 date: '2021-03-15T11:26:29Z'
 draft: false
-lastmod: '2022-08-10T10:38:25Z'
 slug: rrchnm-receives-neh-chairmans-grant
 tags:
 - grant
-- NEH
+- neh
 title: RRCHNM Receives NEH Chairman's Grant
 ---
 

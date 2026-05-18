@@ -5,11 +5,10 @@ categories:
 - Post
 date: '2025-04-11T10:00:00Z'
 draft: false
-lastmod: '2025-04-11T12:07:57Z'
 slug: carrying-on-when-the-grants-go-away
 title: Carrying On When the Grants Go Away
 tags:
-- Events
+- events
 ---
 
 Over the past three decades, RRCHNM has received many awards from the National Endowment for the Humanities (NEH). We’ve used a truly tiny portion of the federal budget to have a huge impact on individuals and communities. Students in public schools use our teaching resources. Visitors to public history sites learn more from our websites. Citizens wondering about the origin of our nation listen to our podcast about the American Revolution. For literally pennies per person we reach, we’ve had a huge impact on public understandings of the past.

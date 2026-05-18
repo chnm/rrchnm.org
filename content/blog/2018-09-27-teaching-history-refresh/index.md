@@ -5,7 +5,6 @@ categories:
 - Teaching + Learning
 date: '2018-09-27T09:40:05Z'
 draft: true
-lastmod: '2018-09-27T09:40:05Z'
 slug: teaching-history-refresh
 title: Teaching History Refresh
 featured_image: teaching-history-homepage-300x230.png

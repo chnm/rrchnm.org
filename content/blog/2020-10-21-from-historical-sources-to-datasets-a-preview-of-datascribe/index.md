@@ -5,10 +5,9 @@ categories:
 - Post
 date: '2020-10-21T12:10:54Z'
 draft: false
-lastmod: '2021-02-19T14:50:17Z'
 slug: from-historical-sources-to-datasets-a-preview-of-datascribe
 tags:
-- DataScribe
+- datascribe
 - wip
 title: 'From Historical Sources to Datasets: A Preview of DataScribe'
 featured_image: datascribe-focus-300x143.png

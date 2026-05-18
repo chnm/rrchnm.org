@@ -5,11 +5,10 @@ categories:
 - Post
 date: '2023-10-18T10:34:04Z'
 draft: false
-lastmod: '2023-10-18T10:34:05Z'
 slug: exploring-true-crime-in-early-modern-europe-in-the-classroom
 title: Exploring True Crime in Early Modern Europe in the Classroom
 tags:
-- Teaching + Learning
+- teaching + learning
 featured_image: content-725x1024.jpg
 ---
 

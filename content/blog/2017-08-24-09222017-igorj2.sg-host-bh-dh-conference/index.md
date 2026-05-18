@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-08-24T16:20:42Z'
 draft: true
-event_start_date: '20170921'
 featured_image: BHDH.jpg
-lastmod: '2017-08-24T16:22:14Z'
 slug: 09222017-igorj2.sg-host-bh-dh-conference
 tags:
-- RRCHNM@
+- rrchnm
 title: '09/22/2017: RRCHNM @ BH & DH Conference'
 ---
 

@@ -5,7 +5,6 @@ categories:
 - News
 date: '2013-03-11T10:31:45Z'
 draft: true
-lastmod: '2013-03-11T10:31:45Z'
 slug: director-call-for-applications-now-open
 title: Director Call for Applications Now Open
 ---

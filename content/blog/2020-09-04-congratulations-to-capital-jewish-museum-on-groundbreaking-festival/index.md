@@ -5,11 +5,10 @@ categories:
 - News
 date: '2020-09-04T16:46:32Z'
 draft: false
-lastmod: '2020-10-21T14:17:49Z'
 slug: congratulations-to-capital-jewish-museum-on-groundbreaking-festival
 tags:
-- Capital Jewish Museum
-- Pandemic Religion
+- capital jewish museum
+- pandemic religion
 - partners
 title: Congratulations to Capital Jewish Museum on Groundbreaking Festival
 featured_image: CJM-FB-EVENT-Banner.png

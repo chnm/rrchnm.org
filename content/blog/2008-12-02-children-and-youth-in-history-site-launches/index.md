@@ -5,14 +5,13 @@ categories:
 - News
 date: '2008-12-02T16:17:27Z'
 draft: true
-lastmod: '2008-12-02T16:17:27Z'
 slug: children-and-youth-in-history-site-launches
 tags:
-- Children
-- CHNM
-- Education
-- History
-- NEH
+- children
+- chnm
+- education
+- history
+- neh
 title: Children and Youth in History Site Launches
 ---
 

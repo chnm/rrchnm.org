@@ -5,7 +5,6 @@ categories:
 - News
 date: '2005-02-25T10:51:05Z'
 draft: true
-lastmod: '2016-08-10T17:41:11Z'
 slug: censer-chnm-publish-electronic-article
 title: Censer & CHNM Publish Electronic Article
 ---

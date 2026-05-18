@@ -5,7 +5,6 @@ categories:
 - News
 date: '2004-09-24T10:41:33Z'
 draft: true
-lastmod: '2016-08-10T17:39:38Z'
 slug: now-on-shelves-history-matters-a-student-guide-to-us-history
 title: 'Now on shelves: History Matters: A Student Guide to U.S. History'
 ---

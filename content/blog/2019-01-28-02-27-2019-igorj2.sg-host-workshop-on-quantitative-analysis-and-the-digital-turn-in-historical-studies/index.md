@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2019-01-28T10:18:00Z'
 draft: true
-event_start_date: '20190227'
 featured_image: Screen-Shot-2019-01-28-at-10.17.33-AM.png
-lastmod: '2019-01-28T10:27:40Z'
 slug: 02-27-2019-igorj2.sg-host-workshop-on-quantitative-analysis-and-the-digital-turn-in-historical-studies
 tags:
-- RRCHNM@
+- rrchnm
 title: '02/27/2019: RRCHNM @ Workshop on Quantitative Analysis and the Digital Turn
   in Historical Studies'
 ---

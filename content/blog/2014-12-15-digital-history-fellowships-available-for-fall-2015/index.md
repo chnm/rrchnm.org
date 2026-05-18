@@ -7,7 +7,6 @@ categories:
 - Teaching + Learning
 date: '2014-12-15T11:40:20Z'
 draft: true
-lastmod: '2014-12-15T11:40:20Z'
 slug: digital-history-fellowships-available-for-fall-2015
 title: Digital History Fellowships available for Fall 2015
 ---

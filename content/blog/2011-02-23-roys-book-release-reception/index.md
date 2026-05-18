@@ -5,7 +5,6 @@ categories:
 - News
 date: '2011-02-23T13:15:21Z'
 draft: true
-lastmod: '2011-02-23T13:15:21Z'
 slug: roys-book-release-reception
 title: Roy's Book Release Reception
 ---

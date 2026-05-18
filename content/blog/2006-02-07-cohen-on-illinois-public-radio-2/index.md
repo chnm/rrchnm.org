@@ -5,7 +5,6 @@ categories:
 - News
 date: '2006-02-07T09:16:13Z'
 draft: true
-lastmod: '2016-08-10T17:49:08Z'
 slug: cohen-on-illinois-public-radio-2
 title: Cohen on Illinois Public Radio
 ---

@@ -5,11 +5,9 @@ categories:
 - Events
 date: '2019-09-18T15:04:02Z'
 draft: true
-event_start_date: '20191017'
-lastmod: '2020-09-30T15:44:05Z'
 slug: 2019-chss-celebration-of-achievement
 tags:
-- RRCHNM@
+- rrchnm
 title: 2019 CHSS Celebration of Achievement
 ---
 

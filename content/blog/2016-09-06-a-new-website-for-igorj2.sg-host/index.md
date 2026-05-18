@@ -5,7 +5,6 @@ categories:
 - News
 date: '2016-09-06T11:15:04Z'
 draft: true
-lastmod: '2016-09-06T11:25:06Z'
 slug: a-new-website-for-igorj2.sg-host
 title: A New Website for RRCHNM
 featured_image: 4ead565fef1c56d88ffcd9c2f4f385bc-150x150.png

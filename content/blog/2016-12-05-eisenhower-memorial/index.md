@@ -5,7 +5,6 @@ categories:
 - News
 date: '2016-12-05T14:32:01Z'
 draft: true
-lastmod: '2016-12-05T14:32:01Z'
 slug: eisenhower-memorial
 title: Eisenhower Memorial
 featured_image: istilllikeike.jpg

@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-11-26T12:58:08Z'
 draft: true
-event_start_date: '20181130'
 featured_image: NCSS18.jpeg
-lastmod: '2018-11-26T12:58:08Z'
 slug: 11-30-2018-igorj2.sg-host-national-council-for-social-studies-conference
 tags:
-- RRCHNM@
+- rrchnm
 title: '11/30/2018: RRCHNM @ National Council for Social Studies Conference'
 ---
 

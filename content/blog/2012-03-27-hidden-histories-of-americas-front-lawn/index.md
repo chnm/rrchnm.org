@@ -5,7 +5,6 @@ categories:
 - News
 date: '2012-03-27T10:05:20Z'
 draft: true
-lastmod: '2012-03-27T10:05:20Z'
 slug: hidden-histories-of-americas-front-lawn
 title: Hidden Histories of America's Front Lawn
 ---

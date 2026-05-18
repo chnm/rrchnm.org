@@ -5,7 +5,6 @@ categories:
 - News
 date: '2015-04-28T20:51:10Z'
 draft: true
-lastmod: '2015-04-28T20:51:10Z'
 slug: will-this-be-on-the-test
 title: Will this be on the Test?
 ---

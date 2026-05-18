@@ -5,7 +5,6 @@ categories:
 - News
 date: '2004-01-11T10:36:23Z'
 draft: true
-lastmod: '2004-01-11T10:36:23Z'
 slug: nasa-echo-launch-web-exhibit-on-columbia-space-shuttle
 title: NASA, ECHO launch Web exhibit on Columbia space shuttle
 ---

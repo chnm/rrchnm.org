@@ -5,13 +5,12 @@ categories:
 - Post
 date: '2025-05-13T09:15:00Z'
 draft: false
-lastmod: '2025-05-13T09:27:36Z'
 slug: report-from-the-seventh-conference-on-digital-humanities-and-digital-history
 title: Report from the Seventh Conference on Digital Humanities and Digital History
 tags:
-- Research + Tools
-- Teaching + Learning
-- Events
+- research + tools
+- teaching + learning
+- events
 featured_image: DH_Con_1-1024x683.jpg
 ---
 

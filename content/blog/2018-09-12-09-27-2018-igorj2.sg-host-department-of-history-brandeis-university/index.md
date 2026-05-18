@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2018-09-12T16:28:56Z'
 draft: true
-event_start_date: '20180927'
 featured_image: Brandeis.png
-lastmod: '2018-09-12T16:28:56Z'
 slug: 09-27-2018-igorj2.sg-host-department-of-history-brandeis-university
 tags:
-- RRCHNM@
+- rrchnm
 title: '09/27/2018: RRCHNM @ Department of History, Brandeis University'
 ---
 

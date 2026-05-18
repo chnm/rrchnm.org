@@ -5,7 +5,6 @@ categories:
 - News
 date: '2020-12-18T13:32:51Z'
 draft: false
-lastmod: '2021-02-19T14:47:49Z'
 slug: muralis-visualizing-the-interwoven-world-receives-grants-from-aiis
 tags:
 - art history

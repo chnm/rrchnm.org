@@ -5,12 +5,10 @@ categories:
 - Events
 date: '2017-07-16T17:26:14Z'
 draft: true
-event_start_date: '20171108'
 featured_image: banner1.jpg
-lastmod: '2017-07-27T11:14:36Z'
 slug: 1182017-igorj2.sg-host-mcn
 tags:
-- RRCHNM@
+- rrchnm
 title: 11/8/2017 RRCHNM @ MCN
 ---
 

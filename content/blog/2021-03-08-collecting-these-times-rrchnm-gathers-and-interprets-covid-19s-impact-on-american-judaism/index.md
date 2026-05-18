@@ -7,12 +7,11 @@ categories:
 - News
 date: '2021-03-08T11:21:01Z'
 draft: false
-lastmod: '2022-08-10T10:39:51Z'
 slug: collecting-these-times-rrchnm-gathers-and-interprets-covid-19s-impact-on-american-judaism
 tags:
-- Collecting These Times
-- COVID-19
-- Pandemic Religion
+- collecting these times
+- covid-19
+- pandemic religion
 title: 'Collecting These Times: RRCHNM Gathers and Interprets COVID-19’s Impact on
   American Judaism'
 featured_image: Beth_Or_Chavurah_Hanukkah-1024x640.jpg
