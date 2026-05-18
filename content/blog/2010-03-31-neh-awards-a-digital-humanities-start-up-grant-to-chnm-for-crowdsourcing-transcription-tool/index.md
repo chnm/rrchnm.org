@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2010-03-31T11:07:53Z'
 draft: false
 slug: neh-awards-a-digital-humanities-start-up-grant-to-chnm-for-crowdsourcing-transcription-tool

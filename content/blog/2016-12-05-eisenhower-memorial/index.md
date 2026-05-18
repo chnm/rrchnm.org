@@ -2,7 +2,7 @@
 authors:
 - "Gwendolyn White"
 categories:
-- News
+- news
 date: '2016-12-05T14:32:01Z'
 draft: false
 slug: eisenhower-memorial

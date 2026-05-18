@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- About RRCHNM
+- news
 date: '2013-09-16T13:55:46Z'
 draft: false
 slug: the-impact-of-education-projects-dh-fellows-blogpost

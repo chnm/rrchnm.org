@@ -2,7 +2,7 @@
 authors:
 - Laura Brannan Fretwell
 categories:
-- Post
+- post
 date: '2024-06-20T10:15:44Z'
 draft: false
 slug: graduate-student-reflections-teaching-dh

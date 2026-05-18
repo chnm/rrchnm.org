@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-06-07T13:27:56Z'
 draft: false
 slug: hurricane-digital-memory-bank-earns-aaslh-award

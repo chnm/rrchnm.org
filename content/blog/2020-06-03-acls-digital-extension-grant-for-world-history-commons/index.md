@@ -2,7 +2,7 @@
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2020-06-03T17:00:02Z'
 draft: false
 slug: acls-digital-extension-grant-for-world-history-commons

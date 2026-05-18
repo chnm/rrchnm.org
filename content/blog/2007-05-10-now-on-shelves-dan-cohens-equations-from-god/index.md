@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2007-05-10T13:26:53Z'
 draft: false
 slug: now-on-shelves-dan-cohens-equations-from-god

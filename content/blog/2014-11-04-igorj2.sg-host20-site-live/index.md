@@ -2,8 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- About RRCHNM
-- News
+- news
 date: '2014-11-04T16:14:47Z'
 draft: false
 slug: igorj2.sg-host20-site-live

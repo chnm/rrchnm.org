@@ -2,7 +2,7 @@
 authors:
 - "Sean Takats"
 categories:
-- News
+- news
 date: '2007-11-12T21:14:38Z'
 draft: false
 slug: scholarpress-launched

@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2018-08-27T14:14:20Z'
 draft: false
 featured_image: CRDH-2.png

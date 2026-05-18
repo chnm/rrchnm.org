@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2011-02-23T13:15:21Z'
 draft: false
 slug: roys-book-release-reception

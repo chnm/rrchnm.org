@@ -2,8 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- About RRCHNM
-- Teaching + Learning
+- news
 date: '2013-09-24T09:00:31Z'
 draft: false
 slug: the-challenges-of-making-a-challenge-dh-fellows-blogpost

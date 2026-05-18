@@ -2,7 +2,7 @@
 authors:
 - "Tom Scheinfeldt"
 categories:
-- News
+- news
 date: '2008-10-20T11:41:11Z'
 draft: false
 slug: kress-foundation-funds-chnm-mobile-research-omeka-plugins

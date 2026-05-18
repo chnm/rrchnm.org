@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2011-12-19T14:37:06Z'
 draft: false
 slug: digital-history-research-awards-for-new-phd-students-at-mason

@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Events
+- news
 date: '2016-12-16T14:54:27Z'
 draft: false
 featured_image: eagleeye.png

@@ -2,8 +2,7 @@
 authors:
 - "Joan Fragaszy Troyano"
 categories:
-- News
-- Research + Tools
+- news
 date: '2014-04-08T14:51:23Z'
 draft: false
 featured_image: http://localhost/~kim/wordpressthatcamp_square_logo_11.png

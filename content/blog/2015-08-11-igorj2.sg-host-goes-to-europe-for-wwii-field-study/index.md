@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2015-08-11T10:36:40Z'
 draft: false
 slug: igorj2.sg-host-goes-to-europe-for-wwii-field-study

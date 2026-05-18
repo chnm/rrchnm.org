@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Uncategorized
+- news
 date: '2013-09-26T15:55:22Z'
 draft: false
 slug: track-our-latest-code-commits

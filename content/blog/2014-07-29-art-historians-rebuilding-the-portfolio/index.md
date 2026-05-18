@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2014-07-29T12:19:25Z'
 draft: false
 slug: art-historians-rebuilding-the-portfolio

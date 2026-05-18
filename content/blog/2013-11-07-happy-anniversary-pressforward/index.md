@@ -2,7 +2,7 @@
 authors:
 - "Joan Fragaszy Troyano"
 categories:
-- News
+- news
 date: '2013-11-07T13:30:48Z'
 draft: false
 slug: happy-anniversary-pressforward

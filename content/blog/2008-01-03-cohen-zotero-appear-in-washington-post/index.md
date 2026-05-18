@@ -2,7 +2,7 @@
 authors:
 - "Sean Takats"
 categories:
-- News
+- news
 date: '2008-01-03T15:15:41Z'
 draft: false
 slug: cohen-zotero-appear-in-washington-post

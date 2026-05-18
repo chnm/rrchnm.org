@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2015-08-17T10:51:20Z'
 draft: false
 slug: building-a-digital-portfolio-with-art-history-graduate-students

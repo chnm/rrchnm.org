@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2023-02-01T12:00:00Z'
 draft: false
 slug: rrchnm-receives-grant-in-collaboration-with-fairfax-citys-office-of-historic-resources-at-historic-blenheim-and-brandy-station-foundation-for-digitization-of-civil-war-graffiti

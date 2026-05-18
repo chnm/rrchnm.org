@@ -5,7 +5,7 @@ aliases:
 authors:
 - "Tom Scheinfeldt"
 categories:
-- News
+- news
 date: '2008-10-13T14:07:50Z'
 draft: false
 slug: inaugural-wordcamp-ed-to-be-hosted-at-chnm

@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2018-04-05T15:24:20Z'
 draft: false
 slug: veterans-legacy-program-contract-awarded-to-igorj2.sg-host

@@ -2,8 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- About RRCHNM
-- Teaching + Learning
+- news
 date: '2016-03-02T10:08:14Z'
 draft: false
 slug: apply-now-for-the-online-graduate-certificate-in-digital-public-humanities

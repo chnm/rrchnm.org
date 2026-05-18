@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
+- news
 date: '2015-11-09T07:00:02Z'
 draft: false
 slug: igorj2.sg-host-wins-mason-distance-education-award

@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2011-03-17T12:50:53Z'
 draft: false
 slug: scripto-alpha-launches-with-the-papers-of-the-war-department

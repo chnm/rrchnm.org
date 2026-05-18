@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Events
+- news
 date: '2017-03-28T15:29:31Z'
 draft: false
 featured_image: /media/2017/03/ISTE.png

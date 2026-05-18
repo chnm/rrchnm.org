@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2017-12-19T16:20:35Z'
 draft: false
 slug: and-the-winner-is

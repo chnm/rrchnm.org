@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-12-03T15:37:41Z'
 draft: false
 slug: chnm-grants-administrator-andy-privee-wins-the-2009-gmu-mary-roper-award

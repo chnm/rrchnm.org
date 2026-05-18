@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2004-09-16T14:52:25Z'
 draft: false
 slug: new-echo-website-launched-2

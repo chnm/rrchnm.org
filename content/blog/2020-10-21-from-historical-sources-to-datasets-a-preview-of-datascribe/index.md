@@ -2,7 +2,7 @@
 authors:
 - Lincoln Mullen
 categories:
-- Post
+- post
 date: '2020-10-21T12:10:54Z'
 draft: false
 slug: from-historical-sources-to-datasets-a-preview-of-datascribe

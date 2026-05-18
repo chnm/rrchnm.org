@@ -2,8 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
-- Collecting + Exhibiting
+- news
 date: '2008-06-03T16:57:19Z'
 draft: false
 slug: gulag-history-site-launches

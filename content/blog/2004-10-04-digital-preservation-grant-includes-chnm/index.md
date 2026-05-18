@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2004-10-04T10:45:04Z'
 draft: false
 slug: digital-preservation-grant-includes-chnm

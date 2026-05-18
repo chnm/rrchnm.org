@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2016-11-02T11:00:59Z'
 draft: false
 slug: omeka-s-1-0-beta-release

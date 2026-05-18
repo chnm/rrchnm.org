@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2021-06-30T13:22:29Z'
 draft: false
 slug: mills-kelly-honored-by-johannes-gutenberg-university-mainz-for-teaching-excellence

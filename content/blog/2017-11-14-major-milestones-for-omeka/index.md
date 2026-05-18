@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2017-11-14T11:26:41Z'
 draft: false
 slug: major-milestones-for-omeka

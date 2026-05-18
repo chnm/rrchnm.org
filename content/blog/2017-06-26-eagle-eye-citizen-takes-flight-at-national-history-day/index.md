@@ -2,8 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- Uncategorized
-- News
+- news
 date: '2017-06-26T11:32:38Z'
 draft: false
 slug: eagle-eye-citizen-takes-flight-at-national-history-day

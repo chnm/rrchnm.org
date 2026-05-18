@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2016-11-14T10:45:37Z'
 draft: false
 slug: annual-report-2015-2016

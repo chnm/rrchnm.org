@@ -2,7 +2,7 @@
 authors:
 - Rachel Whyte
 categories:
-- News
+- news
 date: '2025-08-29T08:30:00Z'
 draft: false
 slug: american-religious-ecologies-team-completes-digitization

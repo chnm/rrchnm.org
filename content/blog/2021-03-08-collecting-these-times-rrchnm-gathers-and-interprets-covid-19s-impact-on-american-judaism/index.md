@@ -4,7 +4,7 @@ aliases:
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2021-03-08T11:21:01Z'
 draft: false
 slug: collecting-these-times-rrchnm-gathers-and-interprets-covid-19s-impact-on-american-judaism

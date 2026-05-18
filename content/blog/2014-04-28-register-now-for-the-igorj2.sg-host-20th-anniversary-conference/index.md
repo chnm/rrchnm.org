@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2014-04-28T12:18:01Z'
 draft: false
 slug: register-now-for-the-igorj2.sg-host-20th-anniversary-conference

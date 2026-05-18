@@ -4,7 +4,7 @@ aliases:
 authors:
 - Jeanette Patrick
 categories:
-- News
+- news
 date: '2023-05-15T10:00:00Z'
 draft: false
 slug: your-most-obedient-and-humble-servant-joins-the-r2-studios-network

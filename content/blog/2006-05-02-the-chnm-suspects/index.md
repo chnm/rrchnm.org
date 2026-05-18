@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2006-05-02T11:16:48Z'
 draft: false
 slug: the-chnm-suspects

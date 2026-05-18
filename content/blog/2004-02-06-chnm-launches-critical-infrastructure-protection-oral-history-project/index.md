@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2004-02-06T10:38:10Z'
 draft: false
 slug: chnm-launches-critical-infrastructure-protection-oral-history-project

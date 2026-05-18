@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2012-10-10T11:34:02Z'
 draft: false
 slug: second-year-of-masons-digital-history-doctoral-research-award

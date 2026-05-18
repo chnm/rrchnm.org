@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2004-04-12T13:58:37Z'
 draft: false
 slug: fourth-dc-area-forum-on-technology-and-the-humanities-2

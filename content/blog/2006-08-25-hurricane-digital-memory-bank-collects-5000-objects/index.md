@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2006-08-25T11:18:10Z'
 draft: false
 slug: hurricane-digital-memory-bank-collects-5000-objects

@@ -2,7 +2,7 @@
 authors:
 - RRCHNM
 categories:
-- News
+- news
 date: '2024-11-19T10:00:00Z'
 draft: false
 slug: r2-studios-receives-dr-scholl-foundation-grant

@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2004-11-10T10:45:34Z'
 draft: false
 slug: roy-rosenzweig-discusses-digital-preservation-in-investors-business-daily

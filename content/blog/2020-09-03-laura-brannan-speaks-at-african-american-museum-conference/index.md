@@ -2,7 +2,7 @@
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2020-09-03T11:20:52Z'
 draft: false
 slug: laura-brannan-speaks-at-african-american-museum-conference

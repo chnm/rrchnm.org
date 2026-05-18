@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2005-05-17T10:58:02Z'
 draft: false
 slug: completion-of-lost-museum-announced

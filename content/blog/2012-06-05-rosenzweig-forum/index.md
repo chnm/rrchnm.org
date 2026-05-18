@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2012-06-05T10:14:27Z'
 draft: false
 slug: rosenzweig-forum

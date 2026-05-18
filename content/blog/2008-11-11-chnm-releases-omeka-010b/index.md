@@ -2,7 +2,7 @@
 authors:
 - "Tom Scheinfeldt"
 categories:
-- News
+- news
 date: '2008-11-11T13:43:44Z'
 draft: false
 slug: chnm-releases-omeka-010b

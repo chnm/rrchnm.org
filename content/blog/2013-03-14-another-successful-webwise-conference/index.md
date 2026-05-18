@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2013-03-14T13:16:45Z'
 draft: false
 slug: another-successful-webwise-conference

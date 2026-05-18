@@ -2,8 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
-- Research + Tools
+- news
 date: '2013-07-31T16:11:01Z'
 draft: false
 slug: another-week-another-tool

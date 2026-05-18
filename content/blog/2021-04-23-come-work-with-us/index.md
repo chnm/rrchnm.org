@@ -2,7 +2,7 @@
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2021-04-23T13:37:31Z'
 draft: false
 slug: come-work-with-us

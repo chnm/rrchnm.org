@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
+- news
 date: '2015-04-28T20:51:10Z'
 draft: false
 slug: will-this-be-on-the-test

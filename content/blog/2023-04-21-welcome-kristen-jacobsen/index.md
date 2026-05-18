@@ -2,7 +2,7 @@
 authors:
 - "Amanda Madden"
 categories:
-- News
+- news
 date: '2023-04-21T12:00:00Z'
 draft: false
 slug: welcome-kristen-jacobsen

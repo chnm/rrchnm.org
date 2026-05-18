@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2013-07-29T06:36:55Z'
 draft: false
 slug: neh-funds-igorj2.sg-hosts-doing-digital-history-summer-institute

@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2011-05-05T12:40:09Z'
 draft: false
 slug: roy-rosenzweig-prize

@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2020-04-20T12:56:14Z'
 draft: false
 slug: pandemic-religion-to-document-changes-in-american-religion

@@ -2,7 +2,7 @@
 authors:
 - Mills Kelly
 categories:
-- News
+- news
 date: '2021-10-27T09:20:23Z'
 draft: false
 slug: what-came-before

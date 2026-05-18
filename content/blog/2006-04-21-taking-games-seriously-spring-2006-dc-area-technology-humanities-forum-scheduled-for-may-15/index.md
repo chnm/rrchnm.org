@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2006-04-21T11:14:22Z'
 draft: false
 slug: taking-games-seriously-spring-2006-dc-area-technology-humanities-forum-scheduled-for-may-15

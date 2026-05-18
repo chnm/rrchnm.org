@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2014-09-18T10:46:55Z'
 draft: false
 slug: imls-funds-omeka-everywhere

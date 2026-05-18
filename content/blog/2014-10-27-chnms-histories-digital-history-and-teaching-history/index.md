@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2014-10-27T17:35:12Z'
 draft: false
 slug: chnms-histories-digital-history-and-teaching-history

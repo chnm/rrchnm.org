@@ -4,7 +4,7 @@ aliases:
 authors:
 - Mills Kelly
 categories:
-- News
+- news
 date: '2020-04-14T15:00:26Z'
 draft: false
 slug: rrchnm-and-covid-19

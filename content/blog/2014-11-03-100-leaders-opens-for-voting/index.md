@@ -2,8 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
-- Teaching + Learning
+- news
 date: '2014-11-03T16:35:20Z'
 draft: false
 slug: 100-leaders-opens-for-voting

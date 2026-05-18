@@ -2,7 +2,7 @@
 authors:
 - Janet Hammond
 categories:
-- Post
+- post
 date: '2021-08-06T10:10:56Z'
 draft: false
 slug: transcribing-structured-data-with-the-datascribe-module-for-omeka-s

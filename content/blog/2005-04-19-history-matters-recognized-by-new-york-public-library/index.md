@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2005-04-19T10:56:02Z'
 draft: false
 slug: history-matters-recognized-by-new-york-public-library

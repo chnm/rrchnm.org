@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2005-05-26T09:43:34Z'
 draft: false
 slug: alexandria-schools-recognize-chnm-and-gmu-2

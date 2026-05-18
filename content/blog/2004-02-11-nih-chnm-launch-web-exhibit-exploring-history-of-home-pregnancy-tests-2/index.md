@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2004-02-11T17:35:12Z'
 draft: false
 slug: nih-chnm-launch-web-exhibit-exploring-history-of-home-pregnancy-tests-2

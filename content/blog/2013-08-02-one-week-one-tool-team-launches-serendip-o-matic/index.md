@@ -2,8 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
-- Research + Tools
+- news
 date: '2013-08-02T15:15:15Z'
 draft: false
 slug: one-week-one-tool-team-launches-serendip-o-matic

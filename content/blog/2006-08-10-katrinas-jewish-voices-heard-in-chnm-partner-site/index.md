@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2006-08-10T11:18:55Z'
 draft: false
 slug: katrinas-jewish-voices-heard-in-chnm-partner-site

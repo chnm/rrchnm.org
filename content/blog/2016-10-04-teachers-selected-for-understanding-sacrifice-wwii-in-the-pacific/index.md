@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2016-10-04T16:05:24Z'
 draft: false
 slug: teachers-selected-for-understanding-sacrifice-wwii-in-the-pacific

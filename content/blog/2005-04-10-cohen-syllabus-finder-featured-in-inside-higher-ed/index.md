@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2005-04-10T10:56:59Z'
 draft: false
 slug: cohen-syllabus-finder-featured-in-inside-higher-ed

@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2011-10-04T11:34:37Z'
 draft: false
 slug: new-civil-war-posters-are-here

@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2003-10-11T10:34:37Z'
 draft: false
 slug: chnm-co-hosts-forum-on-website-design

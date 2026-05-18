@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
+- news
 date: '2015-02-19T14:45:24Z'
 draft: false
 slug: teaching-hidden-history

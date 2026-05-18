@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2005-09-19T10:13:40Z'
 draft: false
 slug: neh-awards-funding-for-gulag-many-days-many-lives-2

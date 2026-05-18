@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2015-07-13T09:00:27Z'
 draft: false
 slug: applications-open-for-understanding-sacrifice-wwii-teacher-institute

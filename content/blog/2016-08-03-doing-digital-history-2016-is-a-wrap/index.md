@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2016-08-03T10:56:30Z'
 draft: false
 slug: doing-digital-history-2016-is-a-wrap

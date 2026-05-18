@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-09-25T19:51:33Z'
 draft: false
 slug: chnm-helps-launch-local-history-project

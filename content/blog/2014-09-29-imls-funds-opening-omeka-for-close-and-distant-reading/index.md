@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2014-09-29T12:11:36Z'
 draft: false
 slug: imls-funds-opening-omeka-for-close-and-distant-reading

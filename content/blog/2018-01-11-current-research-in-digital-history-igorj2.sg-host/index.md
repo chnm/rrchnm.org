@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Events
+- news
 date: '2018-01-11T16:01:39Z'
 draft: false
 featured_image: Logo.jpg

@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
+- news
 date: '2012-01-18T10:58:25Z'
 draft: false
 slug: digital-humanities-workshop-at-the-aha

@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2005-07-22T10:58:58Z'
 draft: false
 slug: speech-accent-archive-relaunched

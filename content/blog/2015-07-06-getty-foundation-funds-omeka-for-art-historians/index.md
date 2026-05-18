@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2015-07-06T10:20:46Z'
 draft: false
 slug: getty-foundation-funds-omeka-for-art-historians

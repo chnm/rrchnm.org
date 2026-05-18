@@ -2,7 +2,7 @@
 authors:
 - Jim Ambuske
 categories:
-- News
+- news
 date: '2023-09-26T12:00:40Z'
 draft: false
 slug: revolutionary-beginnings

@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- Collecting + Exhibiting
+- news
 date: '2011-09-08T11:45:47Z'
 draft: false
 slug: next-steps-for-september-11-digital-archive

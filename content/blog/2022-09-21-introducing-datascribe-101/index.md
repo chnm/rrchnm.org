@@ -2,7 +2,7 @@
 authors:
 - RRCHNM
 categories:
-- News
+- news
 date: '2022-09-21T12:30:36Z'
 draft: false
 slug: introducing-datascribe-101

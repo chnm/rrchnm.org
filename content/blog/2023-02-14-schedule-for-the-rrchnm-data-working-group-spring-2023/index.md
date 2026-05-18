@@ -2,7 +2,7 @@
 authors:
 - Lincoln Mullen
 categories:
-- News
+- news
 date: '2023-02-14T12:00:00Z'
 draft: false
 slug: schedule-for-the-rrchnm-data-working-group-spring-2023

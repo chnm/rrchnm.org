@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2023-09-05T12:08:10Z'
 draft: false
 slug: amanda-madden-receives-neh-funding-to-create-a-digital-edition-of-goro-datis-sfera

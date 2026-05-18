@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- post
 date: '2014-12-10T12:20:21Z'
 draft: false
 slug: in-memory-of-michael-mizell-nelson

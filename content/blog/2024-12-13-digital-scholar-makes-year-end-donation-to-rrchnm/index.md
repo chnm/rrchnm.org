@@ -2,7 +2,7 @@
 authors:
 - RRCHNM
 categories:
-- News
+- news
 date: '2024-12-13T12:00:00Z'
 draft: false
 slug: digital-scholar-makes-year-end-donation-to-rrchnm

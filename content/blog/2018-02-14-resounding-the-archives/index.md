@@ -2,7 +2,7 @@
 authors:
 - "Jessica Dauterive"
 categories:
-- News
+- news
 date: '2018-02-14T16:37:40Z'
 draft: false
 slug: resounding-the-archives

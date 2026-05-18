@@ -2,7 +2,7 @@
 authors:
 - Mills Kelly
 categories:
-- News
+- news
 date: '2023-08-14T10:00:24Z'
 draft: false
 slug: passing-the-baton

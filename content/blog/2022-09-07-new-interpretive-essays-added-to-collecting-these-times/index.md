@@ -2,7 +2,7 @@
 authors:
 - John Turner
 categories:
-- Post
+- post
 date: '2022-09-07T15:00:40Z'
 draft: false
 slug: new-interpretive-essays-added-to-collecting-these-times

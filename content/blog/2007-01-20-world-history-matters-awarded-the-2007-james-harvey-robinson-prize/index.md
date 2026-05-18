@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-01-20T13:22:14Z'
 draft: false
 slug: world-history-matters-awarded-the-2007-james-harvey-robinson-prize

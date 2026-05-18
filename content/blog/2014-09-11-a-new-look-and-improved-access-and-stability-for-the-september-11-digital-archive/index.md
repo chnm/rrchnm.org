@@ -5,7 +5,7 @@ aliases:
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2014-09-11T10:15:40Z'
 draft: false
 slug: a-new-look-and-improved-access-and-stability-for-the-september-11-digital-archive

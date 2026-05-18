@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2023-12-14T10:45:06Z'
 draft: false
 slug: the-john-carter-brown-library-supports-the-production-of-worlds-turned-upside-down

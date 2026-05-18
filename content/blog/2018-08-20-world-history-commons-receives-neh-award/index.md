@@ -2,8 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
-- Teaching + Learning
+- news
 date: '2018-08-20T14:03:42Z'
 draft: false
 slug: world-history-commons-receives-neh-award

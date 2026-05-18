@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2004-09-11T11:17:10Z'
 draft: false
 slug: september-11-digital-archive-featured-on-wgn-2

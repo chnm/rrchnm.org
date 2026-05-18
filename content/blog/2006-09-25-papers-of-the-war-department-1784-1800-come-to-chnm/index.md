@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2006-09-25T11:19:25Z'
 draft: false
 slug: papers-of-the-war-department-1784-1800-come-to-chnm

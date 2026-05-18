@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2009-09-17T14:23:49Z'
 draft: false
 slug: chnm-labs-report-on-mobile-usage-in-museums

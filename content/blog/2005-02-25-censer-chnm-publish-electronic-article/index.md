@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2005-02-25T10:51:05Z'
 draft: false
 slug: censer-chnm-publish-electronic-article

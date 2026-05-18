@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2019-05-13T13:10:15Z'
 draft: false
 slug: mapping-early-american-elections-releases-essays-maps-tutorials-data

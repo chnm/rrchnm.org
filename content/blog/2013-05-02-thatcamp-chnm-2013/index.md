@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2013-05-02T14:59:15Z'
 draft: false
 slug: thatcamp-chnm-2013

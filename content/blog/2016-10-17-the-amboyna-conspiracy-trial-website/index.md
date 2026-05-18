@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- Uncategorized
+- news
 date: '2016-10-17T08:01:19Z'
 draft: false
 slug: the-amboyna-conspiracy-trial-website

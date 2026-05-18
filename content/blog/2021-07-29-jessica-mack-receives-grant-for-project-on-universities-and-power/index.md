@@ -2,7 +2,7 @@
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2021-07-29T15:33:29Z'
 draft: false
 slug: jessica-mack-receives-grant-for-project-on-universities-and-power

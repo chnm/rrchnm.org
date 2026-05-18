@@ -2,7 +2,7 @@
 authors:
 - "Joan Fragaszy Troyano"
 categories:
-- News
+- news
 date: '2014-06-05T11:42:24Z'
 draft: false
 slug: announcing-the-pressforward-plugin

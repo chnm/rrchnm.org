@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2019-08-19T09:00:47Z'
 draft: false
 slug: maritime-asia-war-and-trade-launch

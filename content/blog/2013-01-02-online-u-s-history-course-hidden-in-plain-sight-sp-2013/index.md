@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
+- news
 date: '2013-01-02T17:08:49Z'
 draft: false
 slug: online-u-s-history-course-hidden-in-plain-sight-sp-2013

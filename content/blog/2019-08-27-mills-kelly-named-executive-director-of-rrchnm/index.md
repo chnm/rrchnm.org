@@ -4,7 +4,7 @@ aliases:
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2019-08-27T12:15:48Z'
 draft: false
 featured_image: GEWMYD7c.jpg

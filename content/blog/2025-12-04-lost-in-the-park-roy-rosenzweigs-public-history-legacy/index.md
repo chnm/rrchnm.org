@@ -4,7 +4,7 @@ aliases:
 authors:
 - "Alexandra Miller"
 categories:
-- Post
+- post
 date: '2025-12-04T12:14:41Z'
 draft: false
 slug: lost-in-the-park-roy-rosenzweigs-public-history-legacy

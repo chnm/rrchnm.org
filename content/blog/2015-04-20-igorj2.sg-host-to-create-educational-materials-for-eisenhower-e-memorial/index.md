@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2015-04-20T15:51:56Z'
 draft: false
 slug: igorj2.sg-host-to-create-educational-materials-for-eisenhower-e-memorial

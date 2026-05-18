@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2017-06-05T10:56:33Z'
 draft: false
 slug: acls-digital-extension-grant-to-migrate-papers-of-the-war-department

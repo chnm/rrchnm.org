@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Events
+- news
 date: '2019-01-28T13:02:31Z'
 draft: false
 slug: 03-25-2019-elizabethan-court-day-by-day-encode-a-thon-igorj2.sg-host

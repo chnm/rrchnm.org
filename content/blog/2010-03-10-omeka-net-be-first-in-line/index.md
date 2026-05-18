@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2010-03-10T12:31:52Z'
 draft: false
 slug: omeka-net-be-first-in-line

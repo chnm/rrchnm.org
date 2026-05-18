@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2004-08-11T14:51:52Z'
 draft: false
 slug: september-11-digital-archive-posts-visitor-response-cards-from-smithsonian-exhibition-2

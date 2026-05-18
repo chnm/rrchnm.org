@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2015-09-16T16:44:09Z'
 draft: false
 slug: library-of-congress-selects-the-roy-rosenzweig-center-for-history-and-new-media-for-k-12-interactive-development

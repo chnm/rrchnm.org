@@ -2,8 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
-- Teaching + Learning
+- news
 date: '2013-09-06T14:08:14Z'
 draft: false
 slug: digital-history-fellows-at-igorj2.sg-host

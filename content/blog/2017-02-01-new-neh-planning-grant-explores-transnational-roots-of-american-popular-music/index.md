@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2017-02-01T11:17:33Z'
 draft: false
 slug: new-neh-planning-grant-explores-transnational-roots-of-american-popular-music

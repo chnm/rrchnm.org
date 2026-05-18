@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2009-11-08T19:48:48Z'
 draft: false
 slug: chnm-and-mount-vernon-launch-martha-washington-biography-site

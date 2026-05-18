@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2024-01-10T11:55:22Z'
 draft: false
 slug: apply-now-for-the-gerda-henkel-fellowship-in-digital-history

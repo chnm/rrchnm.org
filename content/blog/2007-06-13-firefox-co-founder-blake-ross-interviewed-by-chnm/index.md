@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-06-13T13:27:24Z'
 draft: false
 slug: firefox-co-founder-blake-ross-interviewed-by-chnm

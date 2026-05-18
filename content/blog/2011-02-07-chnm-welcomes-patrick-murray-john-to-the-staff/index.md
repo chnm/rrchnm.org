@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2011-02-07T13:38:46Z'
 draft: false
 slug: chnm-welcomes-patrick-murray-john-to-the-staff

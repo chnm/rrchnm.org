@@ -2,8 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
-- Research + Tools
+- news
 date: '2014-02-24T12:00:17Z'
 draft: false
 slug: join-the-digital-humanities-now-feedfest-and-help-us-keep-our-rss-feeds-up-to-date

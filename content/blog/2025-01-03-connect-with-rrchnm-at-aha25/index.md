@@ -2,7 +2,7 @@
 authors:
 - RRCHNM
 categories:
-- News
+- news
 date: '2025-01-03T18:00:00Z'
 draft: false
 slug: connect-with-rrchnm-at-aha25

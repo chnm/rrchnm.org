@@ -2,7 +2,7 @@
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2023-03-30T12:00:00Z'
 draft: false
 slug: leadership-gift-from-digital-scholar-kicks-off-30th-anniversary-campaign

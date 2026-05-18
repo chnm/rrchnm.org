@@ -2,7 +2,7 @@
 authors:
 - "Greta Swain"
 categories:
-- News
+- news
 date: '2019-08-23T02:00:31Z'
 draft: false
 featured_image: cover-color.jpg

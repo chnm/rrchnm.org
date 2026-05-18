@@ -2,8 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- About RRCHNM
-- Teaching + Learning
+- news
 date: '2013-10-07T09:00:59Z'
 draft: false
 slug: how-can-technology-help-teachers-to-teach-historical-and-critical-thinking-dh-fellows-blogpost

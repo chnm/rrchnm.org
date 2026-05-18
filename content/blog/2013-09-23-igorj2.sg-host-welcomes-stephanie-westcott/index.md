@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2013-09-23T10:27:13Z'
 draft: false
 slug: igorj2.sg-host-welcomes-stephanie-westcott

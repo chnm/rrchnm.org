@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Events
+- news
 date: '2018-07-11T15:28:00Z'
 draft: false
 featured_image: SAA.png

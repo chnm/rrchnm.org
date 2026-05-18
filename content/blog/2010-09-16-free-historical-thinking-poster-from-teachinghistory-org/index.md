@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
+- news
 date: '2010-09-16T08:41:32Z'
 draft: false
 slug: free-historical-thinking-poster-from-teachinghistory-org

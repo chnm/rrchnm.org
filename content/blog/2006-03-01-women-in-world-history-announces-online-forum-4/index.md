@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2006-03-01T09:54:46Z'
 draft: false
 slug: women-in-world-history-announces-online-forum-4

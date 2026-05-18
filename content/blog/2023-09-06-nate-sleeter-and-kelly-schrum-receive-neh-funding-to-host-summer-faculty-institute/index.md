@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2023-09-06T12:08:19Z'
 draft: false
 slug: nate-sleeter-and-kelly-schrum-receive-neh-funding-to-host-summer-faculty-institute

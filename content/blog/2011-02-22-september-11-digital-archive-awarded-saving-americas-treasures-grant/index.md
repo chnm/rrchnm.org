@@ -2,8 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
-- Collecting + Exhibiting
+- news
 date: '2011-02-22T15:38:11Z'
 draft: false
 slug: september-11-digital-archive-awarded-saving-americas-treasures-grant

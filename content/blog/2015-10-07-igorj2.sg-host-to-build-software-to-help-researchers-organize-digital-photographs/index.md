@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2015-10-07T10:00:44Z'
 draft: false
 slug: igorj2.sg-host-to-build-software-to-help-researchers-organize-digital-photographs

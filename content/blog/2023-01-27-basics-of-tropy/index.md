@@ -2,7 +2,7 @@
 authors:
 - RRCHNM
 categories:
-- News
+- news
 date: '2023-01-27T12:00:00Z'
 draft: false
 slug: basics-of-tropy

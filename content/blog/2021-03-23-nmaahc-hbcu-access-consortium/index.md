@@ -2,7 +2,7 @@
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2021-03-23T14:56:06Z'
 draft: false
 slug: nmaahc-hbcu-access-consortium

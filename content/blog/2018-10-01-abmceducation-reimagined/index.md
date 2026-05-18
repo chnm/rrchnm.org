@@ -2,9 +2,7 @@
 authors:
 - "Gwendolyn White"
 categories:
-- Uncategorized
-- News
-- Teaching + Learning
+- news
 date: '2018-10-01T09:50:17Z'
 draft: false
 slug: abmceducation-reimagined

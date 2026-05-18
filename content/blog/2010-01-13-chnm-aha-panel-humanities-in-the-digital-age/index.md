@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2010-01-13T12:31:34Z'
 draft: false
 slug: chnm-aha-panel-humanities-in-the-digital-age

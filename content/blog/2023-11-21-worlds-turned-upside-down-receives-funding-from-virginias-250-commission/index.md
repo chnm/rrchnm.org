@@ -2,7 +2,7 @@
 authors:
 - RRCHNM
 categories:
-- News
+- news
 date: '2023-11-21T10:00:00Z'
 draft: false
 slug: worlds-turned-upside-down-receives-funding-from-virginias-250-commission

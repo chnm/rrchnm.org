@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-09-20T07:53:10Z'
 draft: false
 slug: chnm-digital-memory-banks-in-the-news-2

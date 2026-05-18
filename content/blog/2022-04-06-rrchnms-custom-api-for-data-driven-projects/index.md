@@ -2,7 +2,7 @@
 authors:
 - Lincoln Mullen
 categories:
-- Post
+- post
 date: '2022-04-06T17:25:00Z'
 draft: false
 slug: rrchnms-custom-api-for-data-driven-projects

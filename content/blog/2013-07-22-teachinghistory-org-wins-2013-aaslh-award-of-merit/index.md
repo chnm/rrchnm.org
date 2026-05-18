@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
+- news
 date: '2013-07-22T11:04:02Z'
 draft: false
 slug: teachinghistory-org-wins-2013-aaslh-award-of-merit

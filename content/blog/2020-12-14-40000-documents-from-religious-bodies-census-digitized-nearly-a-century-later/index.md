@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2020-12-14T10:19:00Z'
 draft: false
 featured_image: screenshot-omeka-site.png

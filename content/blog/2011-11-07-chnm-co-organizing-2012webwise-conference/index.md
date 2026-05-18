@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2011-11-07T14:56:52Z'
 draft: false
 slug: chnm-co-organizing-2012webwise-conference

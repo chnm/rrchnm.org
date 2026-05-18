@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Events
+- news
 date: '2017-01-17T11:34:14Z'
 draft: false
 featured_image: ACRL.jpg

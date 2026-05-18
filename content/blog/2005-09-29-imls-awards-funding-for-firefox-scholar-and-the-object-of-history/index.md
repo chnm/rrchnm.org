@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2005-09-29T11:00:40Z'
 draft: false
 slug: imls-awards-funding-for-firefox-scholar-and-the-object-of-history

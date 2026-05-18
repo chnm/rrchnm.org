@@ -2,7 +2,7 @@
 authors:
 - Savannah Scott
 categories:
-- Post
+- post
 date: '2025-08-25T15:40:25Z'
 draft: false
 slug: graduate-student-reflections-sustainability-summer

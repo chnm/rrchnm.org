@@ -2,8 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
-- Teaching + Learning
+- news
 date: '2014-10-06T13:10:42Z'
 draft: false
 slug: igorj2.sg-host-partners-with-national-history-day-for-wwii-teacher-institute

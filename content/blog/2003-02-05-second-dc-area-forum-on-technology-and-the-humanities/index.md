@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2003-02-05T13:54:22Z'
 draft: false
 slug: second-dc-area-forum-on-technology-and-the-humanities

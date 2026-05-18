@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2013-05-08T11:15:08Z'
 draft: false
 slug: wikimedia-france-research-award-2013

@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2020-12-18T13:32:51Z'
 draft: false
 slug: muralis-visualizing-the-interwoven-world-receives-grants-from-aiis

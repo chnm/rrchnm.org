@@ -2,7 +2,7 @@
 authors:
 - Brandon Tachco
 categories:
-- News
+- news
 date: '2023-11-11T11:31:17Z'
 draft: false
 slug: a-veterans-day-salute-to-our-valued-partnership-with-the-defense-pow-mia-accounting-agency

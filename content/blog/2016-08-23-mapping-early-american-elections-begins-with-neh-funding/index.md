@@ -2,8 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- Uncategorized
-- News
+- news
 date: '2016-08-23T13:59:25Z'
 draft: false
 slug: mapping-early-american-elections-begins-with-neh-funding

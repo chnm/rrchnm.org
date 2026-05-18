@@ -2,7 +2,7 @@
 authors:
 - RRCHNM
 categories:
-- News
+- news
 date: '2022-09-15T10:30:00Z'
 draft: false
 slug: r2-studios-receives-grant-for-podcast-on-history-of-american-antisemitism

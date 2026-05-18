@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
+- news
 date: '2014-02-18T12:00:13Z'
 draft: false
 slug: new-online-resource-sea-of-liberty

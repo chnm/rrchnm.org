@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2017-11-13T10:31:37Z'
 draft: false
 slug: eagle-eye-citizen-takes-flight

@@ -2,7 +2,7 @@
 authors:
 - "Greta Swain"
 categories:
-- Teaching + Learning
+- news
 date: '2018-09-12T12:00:11Z'
 draft: false
 slug: discovering-the-links-helping-students-piece-together-a-story-from-alexandria-national-cemetery

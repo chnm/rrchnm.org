@@ -4,7 +4,7 @@ aliases:
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2021-03-15T11:26:29Z'
 draft: false
 slug: rrchnm-receives-neh-chairmans-grant

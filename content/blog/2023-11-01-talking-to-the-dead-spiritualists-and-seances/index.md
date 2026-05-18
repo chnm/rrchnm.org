@@ -2,7 +2,7 @@
 authors:
 - Caroline Greer
 categories:
-- Post
+- post
 date: '2023-11-01T13:29:23Z'
 draft: false
 slug: talking-to-the-dead-spiritualists-and-seances

@@ -2,7 +2,7 @@
 authors:
 - Douglas McRae
 categories:
-- News
+- news
 date: '2023-04-05T12:00:00Z'
 draft: false
 slug: tropy-1-13-release

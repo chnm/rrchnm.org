@@ -2,7 +2,7 @@
 authors:
 - "Daniel Howlett"
 categories:
-- Events
+- news
 date: '2019-09-18T15:04:02Z'
 draft: false
 slug: 2019-chss-celebration-of-achievement

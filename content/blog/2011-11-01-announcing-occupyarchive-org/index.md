@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2011-11-01T14:15:34Z'
 draft: false
 slug: announcing-occupyarchive-org

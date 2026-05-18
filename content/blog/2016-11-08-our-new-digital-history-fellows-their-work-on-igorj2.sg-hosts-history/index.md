@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2016-11-08T10:00:12Z'
 draft: false
 slug: our-new-digital-history-fellows-their-work-on-igorj2.sg-hosts-history

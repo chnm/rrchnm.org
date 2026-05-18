@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2017-01-12T10:49:01Z'
 draft: false
 slug: kress-and-getty-fund-workshops-for-art-curators-through-the-association-of-art-museum-curators-foundation

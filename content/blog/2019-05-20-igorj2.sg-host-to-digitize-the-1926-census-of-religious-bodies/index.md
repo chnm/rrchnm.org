@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2019-05-20T18:45:47Z'
 draft: false
 slug: igorj2.sg-host-to-digitize-the-1926-census-of-religious-bodies

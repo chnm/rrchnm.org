@@ -2,7 +2,7 @@
 authors:
 - Amanda Madden
 categories:
-- Post
+- post
 date: '2023-10-18T10:34:04Z'
 draft: false
 slug: exploring-true-crime-in-early-modern-europe-in-the-classroom

@@ -2,7 +2,7 @@
 authors:
 - "Nate Sleeter"
 categories:
-- News
+- news
 date: '2021-09-30T11:13:09Z'
 draft: false
 slug: new-grant-from-library-of-congress-to-create-teaching-resources-for-pre-service-teachers

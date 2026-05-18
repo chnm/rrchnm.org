@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2016-10-11T10:46:36Z'
 draft: false
 slug: meet-the-gerda-henkel-postdoctoral-fellow-for-digital-history

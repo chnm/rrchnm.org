@@ -2,8 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- Uncategorized
-- News
+- news
 date: '2017-01-05T07:30:00Z'
 draft: false
 slug: igorj2.sg-host-at-aha-annual-meeting

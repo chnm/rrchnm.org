@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-06-16T14:18:11Z'
 draft: false
 slug: one-week-one-tool-a-digital-humanities-barn-raising

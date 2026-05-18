@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2008-01-02T11:37:34Z'
 draft: false
 slug: zotero-joins-forces-with-internet-archive-wins-major-grant

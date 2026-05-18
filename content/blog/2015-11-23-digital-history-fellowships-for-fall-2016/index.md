@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- About RRCHNM
+- news
 date: '2015-11-23T11:33:28Z'
 draft: false
 slug: digital-history-fellowships-for-fall-2016

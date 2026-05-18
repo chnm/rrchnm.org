@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2021-03-09T16:11:23Z'
 draft: false
 slug: collecting-these-times-american-jewish-experiences-of-the-pandemic-invites-communities-to-contribute-to-collections-documenting-jewish-life-during-pandemic

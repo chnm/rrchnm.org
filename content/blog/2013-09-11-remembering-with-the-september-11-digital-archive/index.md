@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2013-09-11T08:50:02Z'
 draft: false
 slug: remembering-with-the-september-11-digital-archive

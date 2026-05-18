@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2004-01-15T10:35:49Z'
 draft: false
 slug: french-revolution-website-recognized-by-neh

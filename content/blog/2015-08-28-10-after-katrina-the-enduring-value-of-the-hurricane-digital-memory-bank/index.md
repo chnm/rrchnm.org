@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2015-08-28T11:02:26Z'
 draft: false
 slug: 10-after-katrina-the-enduring-value-of-the-hurricane-digital-memory-bank

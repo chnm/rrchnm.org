@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2007-04-22T13:24:51Z'
 draft: false
 slug: rosenzweig-receives-oah-distinguished-service-award

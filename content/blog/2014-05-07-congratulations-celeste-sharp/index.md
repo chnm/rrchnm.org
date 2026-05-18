@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2014-05-07T17:35:10Z'
 draft: false
 slug: congratulations-celeste-sharp

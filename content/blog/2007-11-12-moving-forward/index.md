@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-11-12T16:26:52Z'
 draft: false
 slug: moving-forward

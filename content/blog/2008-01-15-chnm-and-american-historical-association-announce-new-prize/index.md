@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2008-01-15T07:58:42Z'
 draft: false
 slug: chnm-and-american-historical-association-announce-new-prize

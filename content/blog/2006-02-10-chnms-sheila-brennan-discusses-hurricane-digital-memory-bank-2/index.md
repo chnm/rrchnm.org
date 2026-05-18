@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2006-02-10T11:06:33Z'
 draft: false
 slug: chnms-sheila-brennan-discusses-hurricane-digital-memory-bank-2

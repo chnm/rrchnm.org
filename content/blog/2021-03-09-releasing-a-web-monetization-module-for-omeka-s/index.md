@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2021-03-09T17:40:26Z'
 draft: false
 slug: releasing-a-web-monetization-module-for-omeka-s

@@ -2,7 +2,7 @@
 authors:
 - Lincoln Mullen
 categories:
-- Post
+- post
 date: '2022-11-08T13:07:19Z'
 draft: false
 featured_image: congressional-pugilists-1789-1.jpg

@@ -2,7 +2,7 @@
 authors:
 - "Jessica Otis"
 categories:
-- News
+- news
 date: '2023-02-27T16:00:00Z'
 draft: false
 slug: announcing-death-by-numbers-beta

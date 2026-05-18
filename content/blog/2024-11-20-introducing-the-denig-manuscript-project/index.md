@@ -2,7 +2,7 @@
 authors:
 - Lincoln Mullen
 categories:
-- News
+- news
 date: '2024-11-20T09:59:41Z'
 draft: false
 slug: introducing-the-denig-manuscript-project

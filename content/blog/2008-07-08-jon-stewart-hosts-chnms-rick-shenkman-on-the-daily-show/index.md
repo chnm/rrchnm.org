@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2008-07-08T15:09:53Z'
 draft: false
 slug: jon-stewart-hosts-chnms-rick-shenkman-on-the-daily-show

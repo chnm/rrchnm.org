@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2019-02-11T10:32:02Z'
 draft: false
 slug: participants-selected-for-workshops-to-develop-digital-history-articles

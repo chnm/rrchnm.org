@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2005-04-26T10:55:25Z'
 draft: false
 slug: chnm-website-rated-tops-by-iste

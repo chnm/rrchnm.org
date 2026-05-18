@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2015-04-02T09:40:47Z'
 draft: false
 slug: growing-the-fields

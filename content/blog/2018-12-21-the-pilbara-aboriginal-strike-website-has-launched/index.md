@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2018-12-21T10:40:23Z'
 draft: false
 slug: the-pilbara-aboriginal-strike-website-has-launched

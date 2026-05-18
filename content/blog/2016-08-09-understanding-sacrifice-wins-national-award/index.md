@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2016-08-09T14:47:44Z'
 draft: false
 slug: understanding-sacrifice-wins-national-award

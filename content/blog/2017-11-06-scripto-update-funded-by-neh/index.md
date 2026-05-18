@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2017-11-06T10:00:40Z'
 draft: false
 slug: scripto-update-funded-by-neh

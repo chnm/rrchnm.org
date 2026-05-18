@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-11-24T17:43:47Z'
 draft: false
 slug: chnm-announces-the-first-receipient-of-the-aha-roy-rosenzweig-fellowship

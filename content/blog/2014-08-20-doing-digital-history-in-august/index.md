@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2014-08-20T10:19:05Z'
 draft: false
 slug: doing-digital-history-in-august

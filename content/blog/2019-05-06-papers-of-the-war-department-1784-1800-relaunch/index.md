@@ -2,7 +2,7 @@
 authors:
 - "Jessica Dauterive"
 categories:
-- News
+- news
 date: '2019-05-06T15:15:59Z'
 draft: false
 slug: papers-of-the-war-department-1784-1800-relaunch

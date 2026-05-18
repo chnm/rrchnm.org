@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2017-07-11T13:25:17Z'
 draft: false
 slug: doing-digital-history-2016-white-paper-summary

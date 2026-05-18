@@ -2,7 +2,7 @@
 authors:
 - Mills Kelly
 categories:
-- News
+- news
 date: '2023-06-30T12:00:00Z'
 draft: false
 slug: collaboration-with-nmaahc-and-hbcu-partners-moves-into-beta-testing-mode

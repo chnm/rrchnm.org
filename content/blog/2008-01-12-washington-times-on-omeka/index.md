@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2008-01-12T10:23:26Z'
 draft: false
 slug: washington-times-on-omeka

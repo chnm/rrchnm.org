@@ -4,7 +4,7 @@ aliases:
 authors:
 - Brandan Buck
 categories:
-- Post
+- post
 date: '2024-05-08T14:30:13Z'
 draft: false
 slug: graduate-student-reflections-brandan-p-buck

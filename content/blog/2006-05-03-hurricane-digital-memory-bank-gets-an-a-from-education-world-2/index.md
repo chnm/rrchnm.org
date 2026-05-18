@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2006-05-03T08:59:59Z'
 draft: false
 slug: hurricane-digital-memory-bank-gets-an-a-from-education-world-2

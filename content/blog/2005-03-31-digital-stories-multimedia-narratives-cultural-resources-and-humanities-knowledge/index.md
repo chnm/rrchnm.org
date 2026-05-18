@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2005-03-31T10:54:43Z'
 draft: false
 slug: digital-stories-multimedia-narratives-cultural-resources-and-humanities-knowledge

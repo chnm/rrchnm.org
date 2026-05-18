@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-02-25T15:20:09Z'
 draft: false
 slug: the-american-historical-association-announces-the-roy-rosenzweig-fellowship-for-innovation-in-digital-history

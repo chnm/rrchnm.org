@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
+- news
 date: '2014-08-28T11:55:05Z'
 draft: false
 slug: virginia-child-custody-project

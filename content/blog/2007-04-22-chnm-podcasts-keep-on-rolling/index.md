@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2007-04-22T13:25:19Z'
 draft: false
 slug: chnm-podcasts-keep-on-rolling

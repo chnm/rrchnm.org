@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2010-09-23T14:04:52Z'
 draft: false
 slug: special-campaign-to-name-chnm-after-roy-rosenzweig

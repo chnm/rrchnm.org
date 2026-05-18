@@ -2,7 +2,7 @@
 authors:
 - "Tom Scheinfeldt"
 categories:
-- News
+- news
 date: '2011-02-15T15:00:42Z'
 draft: false
 slug: chnm-and-scholars-lab-partner-on-omeka-neatline

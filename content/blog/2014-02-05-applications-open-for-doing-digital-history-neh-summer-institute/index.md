@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2014-02-05T11:00:18Z'
 draft: false
 slug: applications-open-for-doing-digital-history-neh-summer-institute

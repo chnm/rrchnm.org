@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2008-12-02T16:17:27Z'
 draft: false
 slug: children-and-youth-in-history-site-launches

@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-01-25T13:19:48Z'
 draft: false
 slug: chnm-launches-probing-the-past

@@ -2,7 +2,7 @@
 authors:
 - "Rachel Whyte"
 categories:
-- News
+- news
 date: '2024-03-21T10:56:01Z'
 draft: false
 slug: religious-ecologies-hits-digitization-milestone

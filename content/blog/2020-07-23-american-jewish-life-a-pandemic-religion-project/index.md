@@ -2,7 +2,7 @@
 authors:
 - John Turner
 categories:
-- News
+- news
 date: '2020-07-23T14:49:27Z'
 draft: false
 slug: american-jewish-life-a-pandemic-religion-project

@@ -2,7 +2,7 @@
 authors:
 - Mills Kelly
 categories:
-- Post
+- post
 date: '2025-02-13T10:29:49Z'
 draft: false
 slug: teaching-writing-and-research-with-ai

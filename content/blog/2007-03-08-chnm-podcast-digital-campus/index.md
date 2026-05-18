@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-03-08T13:28:03Z'
 draft: false
 slug: chnm-podcast-digital-campus

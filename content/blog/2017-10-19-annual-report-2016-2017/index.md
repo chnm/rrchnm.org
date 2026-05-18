@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2017-10-19T15:14:15Z'
 draft: false
 featured_image: RRCHNM-Annual-Report_2016-17.jpg

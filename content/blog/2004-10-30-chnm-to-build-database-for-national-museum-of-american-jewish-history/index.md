@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2004-10-30T10:43:09Z'
 draft: false
 slug: chnm-to-build-database-for-national-museum-of-american-jewish-history

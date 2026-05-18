@@ -2,7 +2,7 @@
 authors:
 - Caroline Greer
 categories:
-- News
+- news
 date: '2024-01-24T10:44:58Z'
 draft: false
 slug: world-history-commons-adds-several-new-primary-sources

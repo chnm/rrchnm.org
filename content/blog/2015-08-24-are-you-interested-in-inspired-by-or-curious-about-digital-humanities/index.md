@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2015-08-24T16:51:23Z'
 draft: false
 slug: are-you-interested-in-inspired-by-or-curious-about-digital-humanities

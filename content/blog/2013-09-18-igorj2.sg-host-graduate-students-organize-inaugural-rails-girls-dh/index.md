@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2013-09-18T10:10:22Z'
 draft: false
 slug: igorj2.sg-host-graduate-students-organize-inaugural-rails-girls-dh

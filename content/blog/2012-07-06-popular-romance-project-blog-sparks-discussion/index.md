@@ -5,7 +5,7 @@ aliases:
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2012-07-06T11:06:30Z'
 draft: false
 slug: popular-romance-project-blog-sparks-discussion

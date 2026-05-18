@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2011-10-12T12:45:19Z'
 draft: false
 slug: come-develop-with-the-omeka-team

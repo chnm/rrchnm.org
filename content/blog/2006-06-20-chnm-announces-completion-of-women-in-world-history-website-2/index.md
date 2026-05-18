@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2006-06-20T10:12:30Z'
 draft: false
 slug: chnm-announces-completion-of-women-in-world-history-website-2

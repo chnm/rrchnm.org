@@ -2,7 +2,7 @@
 authors:
 - Mills Kelly
 categories:
-- News
+- news
 date: '2022-10-04T13:30:00Z'
 draft: false
 slug: r2-studios-launches-season-2-of-the-green-tunnel-podcast

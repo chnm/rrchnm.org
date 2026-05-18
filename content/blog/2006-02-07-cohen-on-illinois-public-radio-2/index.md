@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2006-02-07T09:16:13Z'
 draft: false
 slug: cohen-on-illinois-public-radio-2

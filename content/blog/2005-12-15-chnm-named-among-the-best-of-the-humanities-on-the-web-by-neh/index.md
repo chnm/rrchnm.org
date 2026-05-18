@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2005-12-15T11:06:42Z'
 draft: false
 slug: chnm-named-among-the-best-of-the-humanities-on-the-web-by-neh

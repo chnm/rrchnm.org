@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2023-09-07T12:00:16Z'
 draft: false
 slug: jessica-otis-receives-neh-funding-to-develop-and-host-summer-institute-on-dh-methods

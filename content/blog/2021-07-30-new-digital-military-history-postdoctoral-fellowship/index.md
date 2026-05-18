@@ -2,7 +2,7 @@
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2021-07-30T08:44:00Z'
 draft: false
 slug: new-digital-military-history-postdoctoral-fellowship

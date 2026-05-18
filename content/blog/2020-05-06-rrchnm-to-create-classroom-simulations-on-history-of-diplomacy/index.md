@@ -4,7 +4,7 @@ aliases:
 authors:
 - Nate Sleeter
 categories:
-- News
+- news
 date: '2020-05-06T11:00:16Z'
 draft: false
 slug: rrchnm-to-create-classroom-simulations-on-history-of-diplomacy

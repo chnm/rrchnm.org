@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2006-09-14T11:22:10Z'
 draft: false
 slug: neh-awards-funding-for-making-the-history-of-1989-sources-and-narratives-on-the-fall-of-communism

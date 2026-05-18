@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-12-18T17:48:56Z'
 draft: false
 slug: chnm-wins-international-funding-for-digging-into-data-challenge

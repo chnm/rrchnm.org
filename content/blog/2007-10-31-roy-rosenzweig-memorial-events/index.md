@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-10-31T09:42:36Z'
 draft: false
 slug: roy-rosenzweig-memorial-events

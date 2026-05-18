@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-09-09T14:40:59Z'
 draft: false
 slug: george-mason-and-chnm-to-commemorate-20th-anniversary-of-fall-of-berlin-wall-with-support-from-german-embassy

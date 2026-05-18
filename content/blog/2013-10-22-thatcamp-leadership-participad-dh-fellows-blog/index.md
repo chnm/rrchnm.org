@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2013-10-22T11:17:58Z'
 draft: false
 slug: thatcamp-leadership-participad-dh-fellows-blog

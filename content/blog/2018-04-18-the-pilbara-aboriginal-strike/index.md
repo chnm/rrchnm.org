@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2018-04-18T09:49:47Z'
 draft: false
 slug: the-pilbara-aboriginal-strike

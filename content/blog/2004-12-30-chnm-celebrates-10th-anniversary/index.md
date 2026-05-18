@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2004-12-30T10:46:38Z'
 draft: false
 slug: chnm-celebrates-10th-anniversary

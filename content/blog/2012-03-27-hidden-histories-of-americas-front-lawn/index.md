@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2012-03-27T10:05:20Z'
 draft: false
 slug: hidden-histories-of-americas-front-lawn

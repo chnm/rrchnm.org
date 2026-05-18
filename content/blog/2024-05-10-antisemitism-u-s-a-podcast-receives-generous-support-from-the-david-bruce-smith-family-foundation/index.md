@@ -2,7 +2,7 @@
 authors:
 - RRCHNM
 categories:
-- News
+- news
 date: '2024-05-10T10:20:07Z'
 draft: false
 slug: antisemitism-u-s-a-podcast-receives-generous-support-from-the-david-bruce-smith-family-foundation

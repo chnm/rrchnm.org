@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2005-11-11T11:04:54Z'
 draft: false
 slug: google-print-mass-digitization-projects-dc-tech-humanities-forum-to-be-held-on-112805

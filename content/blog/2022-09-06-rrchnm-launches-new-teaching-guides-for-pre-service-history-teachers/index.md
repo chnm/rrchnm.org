@@ -2,7 +2,7 @@
 authors:
 - Nate Sleeter
 categories:
-- News
+- news
 date: '2022-09-06T09:00:00Z'
 draft: false
 slug: rrchnm-launches-new-teaching-guides-for-pre-service-history-teachers

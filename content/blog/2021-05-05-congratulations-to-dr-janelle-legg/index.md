@@ -2,7 +2,7 @@
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2021-05-05T10:35:38Z'
 draft: false
 slug: congratulations-to-dr-janelle-legg

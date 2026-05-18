@@ -2,7 +2,7 @@
 authors:
 - "Sean Takats"
 categories:
-- News
+- news
 date: '2018-10-22T11:30:53Z'
 draft: false
 slug: next-steps-for-tropy

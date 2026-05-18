@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2004-09-24T10:41:33Z'
 draft: false
 slug: now-on-shelves-history-matters-a-student-guide-to-us-history

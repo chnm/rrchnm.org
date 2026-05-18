@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2005-09-19T10:15:00Z'
 draft: false
 slug: public-hearing-for-new-chnm-project-virginia-history-here-2

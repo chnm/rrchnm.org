@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2015-09-21T01:00:04Z'
 draft: false
 slug: scholars-as-students-outcomes-from-doing-digital-history-2014

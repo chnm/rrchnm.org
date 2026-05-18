@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2012-07-06T13:38:01Z'
 draft: false
 slug: teaching-history-org-goes-mobile

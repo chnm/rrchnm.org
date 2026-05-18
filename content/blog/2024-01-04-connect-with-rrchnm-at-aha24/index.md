@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2024-01-04T11:00:28Z'
 draft: false
 slug: connect-with-rrchnm-at-aha24

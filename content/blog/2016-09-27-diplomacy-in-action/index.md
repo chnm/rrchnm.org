@@ -2,8 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- Uncategorized
-- Teaching + Learning
+- news
 date: '2016-09-27T14:17:38Z'
 draft: false
 slug: diplomacy-in-action

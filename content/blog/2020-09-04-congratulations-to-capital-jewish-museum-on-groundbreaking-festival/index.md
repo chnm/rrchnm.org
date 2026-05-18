@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2020-09-04T16:46:32Z'
 draft: false
 slug: congratulations-to-capital-jewish-museum-on-groundbreaking-festival

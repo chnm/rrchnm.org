@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2023-04-19T14:06:35Z'
 draft: false
 slug: american-religious-ecologies-receives-second-neh-grant-to-work-with-1926-census-of-religious-bodies

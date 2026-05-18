@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2007-10-01T11:39:53Z'
 draft: false
 slug: echo-grants-nyc-digital-history-workshop

@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2008-01-15T10:25:15Z'
 draft: false
 slug: new-echo-gateway-for-the-history-of-science-technology-and-industry

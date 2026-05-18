@@ -2,7 +2,7 @@
 authors:
 - "Deepthi Murali"
 categories:
-- News
+- news
 date: '2024-10-30T10:00:00Z'
 draft: false
 slug: connecting-threads-launches-project-site

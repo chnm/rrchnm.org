@@ -4,7 +4,7 @@ aliases:
 authors:
 - Mills Kelly
 categories:
-- News
+- news
 date: '2020-09-28T07:52:18Z'
 draft: false
 slug: consolation-prize-a-new-podcast-from-rrchnm

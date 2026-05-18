@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2007-10-05T11:01:38Z'
 draft: false
 slug: history-clearinghouse-contract-omeka-grant

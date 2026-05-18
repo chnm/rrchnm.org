@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2012-03-16T08:57:34Z'
 draft: false
 slug: igorj2.sg-host-shapes-webwise-2012

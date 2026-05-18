@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2003-11-11T10:35:17Z'
 draft: false
 slug: chnm-takes-on-dohistory

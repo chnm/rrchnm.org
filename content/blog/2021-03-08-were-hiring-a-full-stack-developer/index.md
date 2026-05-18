@@ -2,7 +2,7 @@
 authors:
 - Lincoln Mullen
 categories:
-- News
+- news
 date: '2021-03-08T12:17:02Z'
 draft: false
 slug: were-hiring-a-full-stack-developer

@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2008-01-15T20:01:22Z'
 draft: false
 slug: chnm-to-host-inaugural-thatcamp-may-31-june-1-2008

@@ -2,7 +2,7 @@
 authors:
 - "Nate Sleeter"
 categories:
-- News
+- news
 date: '2019-04-29T13:29:04Z'
 draft: false
 slug: who-built-america-to-become-oer-with-revamped-history-matters-content

@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2012-12-06T16:46:46Z'
 draft: false
 slug: thatcamp-website-redesign-live-q-a

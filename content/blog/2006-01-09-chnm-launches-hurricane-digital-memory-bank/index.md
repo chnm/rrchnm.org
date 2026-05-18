@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2006-01-09T11:09:41Z'
 draft: false
 slug: chnm-launches-hurricane-digital-memory-bank

@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2006-01-17T10:42:03Z'
 draft: false
 slug: chnm-on-cnn-2

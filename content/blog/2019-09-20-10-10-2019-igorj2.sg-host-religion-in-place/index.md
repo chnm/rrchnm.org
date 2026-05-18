@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- Events
+- news
 date: '2019-09-20T11:23:52Z'
 draft: false
 slug: 10-10-2019-igorj2.sg-host-religion-in-place

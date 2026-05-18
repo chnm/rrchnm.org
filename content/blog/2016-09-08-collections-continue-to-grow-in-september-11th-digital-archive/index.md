@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2016-09-08T11:04:17Z'
 draft: false
 slug: collections-continue-to-grow-in-september-11th-digital-archive

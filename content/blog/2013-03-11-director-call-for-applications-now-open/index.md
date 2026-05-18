@@ -2,7 +2,7 @@
 authors:
 - "Sean Takats"
 categories:
-- News
+- news
 date: '2013-03-11T10:31:45Z'
 draft: false
 slug: director-call-for-applications-now-open

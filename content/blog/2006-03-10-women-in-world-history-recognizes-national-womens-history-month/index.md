@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2006-03-10T11:12:58Z'
 draft: false
 slug: women-in-world-history-recognizes-national-womens-history-month

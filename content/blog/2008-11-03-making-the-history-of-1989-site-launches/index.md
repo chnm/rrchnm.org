@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2008-11-03T15:57:57Z'
 draft: false
 slug: making-the-history-of-1989-site-launches

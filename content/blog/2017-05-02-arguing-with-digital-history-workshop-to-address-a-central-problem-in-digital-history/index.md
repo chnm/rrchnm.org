@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2017-05-02T10:00:16Z'
 draft: false
 slug: arguing-with-digital-history-workshop-to-address-a-central-problem-in-digital-history

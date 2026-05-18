@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Events
+- news
 date: '2018-11-26T12:58:08Z'
 draft: false
 featured_image: NCSS18.jpeg

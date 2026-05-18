@@ -4,7 +4,7 @@ aliases:
 authors:
 - Mills Kelly
 categories:
-- News
+- news
 date: '2021-02-21T14:40:15Z'
 draft: false
 slug: new-directions-at-rrchnm

@@ -2,7 +2,7 @@
 authors:
 - Nate Sleeter
 categories:
-- News
+- news
 date: '2025-07-25T08:00:00Z'
 draft: false
 slug: rrchnm-receives-funding-to-create-teaching-guides-on-the-american-revolution

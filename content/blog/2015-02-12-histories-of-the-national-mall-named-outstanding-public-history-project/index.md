@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2015-02-12T10:00:37Z'
 draft: false
 slug: histories-of-the-national-mall-named-outstanding-public-history-project

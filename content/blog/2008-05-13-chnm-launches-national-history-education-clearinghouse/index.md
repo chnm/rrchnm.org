@@ -2,7 +2,7 @@
 authors:
 - "Tom Scheinfeldt"
 categories:
-- News
+- news
 date: '2008-05-13T08:36:15Z'
 draft: false
 slug: chnm-launches-national-history-education-clearinghouse

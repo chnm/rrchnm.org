@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2011-01-20T18:19:55Z'
 draft: false
 slug: neh-odh-start-up-grant-lightening-talks-and-a-correction

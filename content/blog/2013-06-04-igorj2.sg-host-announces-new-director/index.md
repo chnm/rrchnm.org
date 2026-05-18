@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2013-06-04T15:28:14Z'
 draft: false
 slug: igorj2.sg-host-announces-new-director

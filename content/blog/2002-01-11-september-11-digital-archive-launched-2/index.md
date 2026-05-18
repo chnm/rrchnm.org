@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2002-01-11T14:14:38Z'
 draft: false
 slug: september-11-digital-archive-launched-2

@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2012-10-31T09:42:13Z'
 draft: false
 slug: participad-new-wordpress-plugin

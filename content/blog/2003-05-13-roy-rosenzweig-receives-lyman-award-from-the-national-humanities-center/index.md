@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2003-05-13T10:29:45Z'
 draft: false
 slug: roy-rosenzweig-receives-lyman-award-from-the-national-humanities-center

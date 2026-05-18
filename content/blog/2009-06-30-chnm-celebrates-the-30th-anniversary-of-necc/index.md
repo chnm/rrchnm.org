@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-06-30T16:12:51Z'
 draft: false
 slug: chnm-celebrates-the-30th-anniversary-of-necc

@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2004-12-09T10:47:56Z'
 draft: false
 slug: echo-expands-to-include-collecting-and-tools-centers

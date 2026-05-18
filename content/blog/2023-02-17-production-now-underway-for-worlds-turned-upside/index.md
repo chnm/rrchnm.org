@@ -2,7 +2,7 @@
 authors:
 - RRCHNM
 categories:
-- News
+- news
 date: '2023-02-17T09:00:00Z'
 draft: false
 slug: production-now-underway-for-worlds-turned-upside

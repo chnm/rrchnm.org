@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2012-05-18T14:12:08Z'
 draft: false
 slug: summer-intern-web-developer

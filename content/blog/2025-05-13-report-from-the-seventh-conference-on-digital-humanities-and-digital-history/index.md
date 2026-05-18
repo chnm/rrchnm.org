@@ -2,7 +2,7 @@
 authors:
 - Lauren Rever
 categories:
-- Post
+- post
 date: '2025-05-13T09:15:00Z'
 draft: false
 slug: report-from-the-seventh-conference-on-digital-humanities-and-digital-history

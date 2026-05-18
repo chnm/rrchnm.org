@@ -2,7 +2,7 @@
 authors:
 - "Tom Scheinfeldt"
 categories:
-- News
+- news
 date: '2008-10-29T19:14:37Z'
 draft: false
 slug: statement-on-zotero-suit

@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
+- news
 date: '2012-02-08T18:53:42Z'
 draft: false
 slug: digital-history-games-at-the-aha

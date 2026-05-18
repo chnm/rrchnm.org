@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2018-10-15T11:00:57Z'
 draft: false
 featured_image: RRCHNM_AR_2018_Page_1.jpg

@@ -2,8 +2,7 @@
 authors:
 - "Brianna Nuñez"
 categories:
-- News
-- Posts
+- post
 date: '2018-09-24T14:47:20Z'
 draft: false
 slug: dying-for-equality-african-americans-in-alexandria

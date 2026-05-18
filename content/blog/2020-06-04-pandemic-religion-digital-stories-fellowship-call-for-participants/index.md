@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2020-06-04T12:36:40Z'
 draft: false
 slug: pandemic-religion-digital-stories-fellowship-call-for-participants

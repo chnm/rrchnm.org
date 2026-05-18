@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2004-12-11T10:47:23Z'
 draft: false
 slug: chnm-director-recognized-for-excellence-in-the-humanities

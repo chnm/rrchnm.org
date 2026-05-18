@@ -2,7 +2,7 @@
 authors:
 - "Tom Scheinfeldt"
 categories:
-- News
+- news
 date: '2008-10-15T09:01:06Z'
 draft: false
 slug: thatcamp-2009

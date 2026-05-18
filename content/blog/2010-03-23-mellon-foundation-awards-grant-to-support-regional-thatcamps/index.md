@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2010-03-23T13:04:13Z'
 draft: false
 slug: mellon-foundation-awards-grant-to-support-regional-thatcamps

@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2006-05-09T11:15:22Z'
 draft: false
 slug: chnm-and-national-park-service-open-ellis-island-exhibition

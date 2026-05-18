@@ -2,7 +2,7 @@
 authors:
 - Mills Kelly
 categories:
-- Post
+- post
 date: '2021-09-10T13:49:13Z'
 draft: false
 slug: remembering-the-creation-of-the-september-11-digital-archive

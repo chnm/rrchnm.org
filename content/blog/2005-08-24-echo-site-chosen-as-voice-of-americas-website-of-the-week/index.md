@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2005-08-24T10:59:33Z'
 draft: false
 slug: echo-site-chosen-as-voice-of-americas-website-of-the-week

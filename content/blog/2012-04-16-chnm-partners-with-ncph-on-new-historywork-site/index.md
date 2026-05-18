@@ -2,7 +2,7 @@
 authors:
 - "Tom Scheinfeldt"
 categories:
-- News
+- news
 date: '2012-04-16T08:39:09Z'
 draft: false
 slug: chnm-partners-with-ncph-on-new-historywork-site

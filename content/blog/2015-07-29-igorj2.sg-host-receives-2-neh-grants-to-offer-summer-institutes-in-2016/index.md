@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2015-07-29T13:34:36Z'
 draft: false
 slug: igorj2.sg-host-receives-2-neh-grants-to-offer-summer-institutes-in-2016

@@ -2,7 +2,7 @@
 authors:
 - "Kristin Jacobsen"
 categories:
-- News
+- news
 date: '2024-05-16T08:55:14Z'
 draft: false
 slug: rrchnm-delivers-arnhem-postal-history-prototype-database

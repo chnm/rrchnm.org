@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2016-01-05T10:00:54Z'
 draft: false
 slug: apply-now-for-doing-digital-history-2016

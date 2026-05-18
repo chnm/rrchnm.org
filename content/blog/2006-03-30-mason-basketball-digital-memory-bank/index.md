@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2006-03-30T11:11:45Z'
 draft: false
 slug: mason-basketball-digital-memory-bank

@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-03-10T14:52:06Z'
 draft: false
 slug: liberty-equality-fraternity-receives-merlot-award-for-online-learning-excellence

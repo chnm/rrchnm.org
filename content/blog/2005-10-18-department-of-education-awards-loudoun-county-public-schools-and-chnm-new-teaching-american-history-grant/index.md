@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2005-10-18T11:03:10Z'
 draft: false
 slug: department-of-education-awards-loudoun-county-public-schools-and-chnm-new-teaching-american-history-grant

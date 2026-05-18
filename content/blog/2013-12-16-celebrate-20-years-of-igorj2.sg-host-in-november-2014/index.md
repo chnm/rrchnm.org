@@ -2,8 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- About RRCHNM
-- News
+- news
 date: '2013-12-16T15:21:00Z'
 draft: false
 slug: celebrate-20-years-of-igorj2.sg-host-in-november-2014

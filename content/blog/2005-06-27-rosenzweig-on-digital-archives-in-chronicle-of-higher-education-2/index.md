@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2005-06-27T09:50:24Z'
 draft: false
 slug: rosenzweig-on-digital-archives-in-chronicle-of-higher-education-2

@@ -2,7 +2,7 @@
 authors:
 - Lincoln Mullen
 categories:
-- Post
+- post
 date: '2021-02-18T15:50:58Z'
 draft: false
 slug: documenting-sharing-and-learning-from-jewish-life-during-the-pandemic

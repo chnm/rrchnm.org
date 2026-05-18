@@ -2,7 +2,7 @@
 authors:
 - "Tom Scheinfeldt"
 categories:
-- News
+- news
 date: '2008-12-11T21:11:41Z'
 draft: false
 slug: chnm-wins-50000-mellon-award-for-technology-collaboration

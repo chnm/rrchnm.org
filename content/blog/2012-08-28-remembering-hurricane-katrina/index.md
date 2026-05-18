@@ -2,8 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
-- Collecting + Exhibiting
+- news
 date: '2012-08-28T08:58:55Z'
 draft: false
 slug: remembering-hurricane-katrina

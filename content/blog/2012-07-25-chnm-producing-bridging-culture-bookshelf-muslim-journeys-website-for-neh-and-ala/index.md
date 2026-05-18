@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2012-07-25T10:57:16Z'
 draft: false
 slug: chnm-producing-bridging-culture-bookshelf-muslim-journeys-website-for-neh-and-ala

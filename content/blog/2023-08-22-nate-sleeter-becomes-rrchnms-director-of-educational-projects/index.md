@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2023-08-22T14:04:00Z'
 draft: false
 slug: nate-sleeter-becomes-rrchnms-director-of-educational-projects

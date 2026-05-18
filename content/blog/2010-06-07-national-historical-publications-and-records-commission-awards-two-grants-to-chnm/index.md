@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2010-06-07T09:51:47Z'
 draft: false
 slug: national-historical-publications-and-records-commission-awards-two-grants-to-chnm

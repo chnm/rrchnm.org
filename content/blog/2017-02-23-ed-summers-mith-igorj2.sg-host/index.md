@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Events
+- news
 date: '2017-02-23T13:12:41Z'
 draft: false
 featured_image: DocNow.jpg

@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Events
+- news
 date: '2018-10-22T13:17:14Z'
 draft: false
 featured_image: AHA.png

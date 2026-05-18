@@ -2,8 +2,7 @@
 authors:
 - "Jessica Dauterive"
 categories:
-- News
-- Teaching + Learning
+- news
 date: '2018-09-17T09:48:43Z'
 draft: false
 slug: resounding-the-archives-has-launched

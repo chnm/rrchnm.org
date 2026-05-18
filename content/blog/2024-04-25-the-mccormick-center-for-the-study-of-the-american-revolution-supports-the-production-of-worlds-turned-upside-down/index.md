@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2024-04-25T13:04:14Z'
 draft: false
 slug: the-mccormick-center-for-the-study-of-the-american-revolution-supports-the-production-of-worlds-turned-upside-down

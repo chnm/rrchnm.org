@@ -2,7 +2,7 @@
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2021-07-30T15:07:13Z'
 draft: false
 slug: jessica-otis-receives-major-nsf-grant

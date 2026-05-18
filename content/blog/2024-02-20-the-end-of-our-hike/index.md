@@ -2,7 +2,7 @@
 authors:
 - Mills Kelly
 categories:
-- Post
+- post
 date: '2024-02-20T09:00:00Z'
 draft: false
 slug: the-end-of-our-hike

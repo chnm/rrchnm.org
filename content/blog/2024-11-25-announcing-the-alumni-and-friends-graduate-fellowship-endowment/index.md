@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2024-11-25T10:15:00Z'
 draft: false
 slug: announcing-the-alumni-and-friends-graduate-fellowship-endowment

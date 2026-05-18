@@ -5,7 +5,7 @@ aliases:
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2010-02-16T13:20:45Z'
 draft: false
 slug: rosenzweig-forum-returns-negotiating-the-cultural-turns-subjectivity-sustainability-and-authority-in-the-digital-humanities

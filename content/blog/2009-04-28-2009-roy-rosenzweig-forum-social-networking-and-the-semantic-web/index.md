@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-04-28T11:17:08Z'
 draft: false
 slug: 2009-roy-rosenzweig-forum-social-networking-and-the-semantic-web

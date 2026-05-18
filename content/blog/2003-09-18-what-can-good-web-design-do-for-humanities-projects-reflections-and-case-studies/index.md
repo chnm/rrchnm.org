@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2003-09-18T10:32:07Z'
 draft: false
 slug: what-can-good-web-design-do-for-humanities-projects-reflections-and-case-studies

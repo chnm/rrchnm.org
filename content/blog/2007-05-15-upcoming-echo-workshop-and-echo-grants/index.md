@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2007-05-15T13:25:45Z'
 draft: false
 slug: upcoming-echo-workshop-and-echo-grants

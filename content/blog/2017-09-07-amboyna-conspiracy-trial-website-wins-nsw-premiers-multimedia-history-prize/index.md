@@ -2,8 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
-- Teaching + Learning
+- news
 date: '2017-09-07T12:22:24Z'
 draft: false
 slug: amboyna-conspiracy-trial-website-wins-nsw-premiers-multimedia-history-prize

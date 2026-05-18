@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2020-12-18T14:08:10Z'
 draft: false
 slug: phd-students-brannan-and-hubai-accepted-as-hastac-scholars

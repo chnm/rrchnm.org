@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Events
+- news
 date: '2018-02-28T10:55:12Z'
 draft: false
 featured_image: Share-My-Lesson-logo.png

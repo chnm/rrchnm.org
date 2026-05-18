@@ -2,8 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- Uncategorized
-- News
+- news
 date: '2017-08-24T13:53:43Z'
 draft: false
 slug: amboyna-conspiracy-trial-website-named-finalist-for-nsw-premiers-history-award

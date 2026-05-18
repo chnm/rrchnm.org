@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2013-08-26T14:12:00Z'
 draft: false
 slug: igorj2.sg-host-welcomes-lisa-rhody

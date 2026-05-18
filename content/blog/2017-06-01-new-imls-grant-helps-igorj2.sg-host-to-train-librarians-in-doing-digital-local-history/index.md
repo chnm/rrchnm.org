@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2017-06-01T09:49:51Z'
 draft: false
 slug: new-imls-grant-helps-igorj2.sg-host-to-train-librarians-in-doing-digital-local-history

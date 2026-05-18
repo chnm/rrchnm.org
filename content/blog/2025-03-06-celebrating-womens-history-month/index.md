@@ -2,7 +2,7 @@
 authors:
 - RRCHNM
 categories:
-- Post
+- post
 date: '2025-03-06T14:27:33Z'
 draft: false
 slug: celebrating-womens-history-month

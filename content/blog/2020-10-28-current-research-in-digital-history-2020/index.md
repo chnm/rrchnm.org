@@ -2,7 +2,7 @@
 authors:
 - "Greta Swain"
 categories:
-- News
+- news
 date: '2020-10-28T09:55:18Z'
 draft: false
 slug: current-research-in-digital-history-2020

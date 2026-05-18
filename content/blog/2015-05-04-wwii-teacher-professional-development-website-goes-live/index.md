@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2015-05-04T10:48:16Z'
 draft: false
 slug: wwii-teacher-professional-development-website-goes-live

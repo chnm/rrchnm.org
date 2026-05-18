@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-07-30T13:10:25Z'
 draft: false
 slug: voices-from-the-storm-podcast-debuts-2

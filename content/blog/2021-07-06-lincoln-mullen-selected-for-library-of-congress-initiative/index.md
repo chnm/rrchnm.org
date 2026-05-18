@@ -2,7 +2,7 @@
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2021-07-06T11:27:15Z'
 draft: false
 slug: lincoln-mullen-selected-for-library-of-congress-initiative

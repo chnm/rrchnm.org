@@ -2,7 +2,7 @@
 authors:
 - "Tom Scheinfeldt"
 categories:
-- News
+- news
 date: '2011-03-17T13:54:41Z'
 draft: false
 slug: what-time-is-it-thatcamp-time

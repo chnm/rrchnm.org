@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-02-09T12:02:55Z'
 draft: false
 slug: thatcamp-2009-now-accepting-applications

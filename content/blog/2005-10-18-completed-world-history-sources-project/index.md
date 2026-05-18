@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2005-10-18T11:02:29Z'
 draft: false
 slug: completed-world-history-sources-project

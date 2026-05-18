@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2012-03-23T10:44:18Z'
 draft: false
 slug: matthew-battles-set-to-visit-the-center

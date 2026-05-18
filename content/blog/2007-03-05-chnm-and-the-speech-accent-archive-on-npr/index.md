@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-03-05T13:23:49Z'
 draft: false
 slug: chnm-and-the-speech-accent-archive-on-npr

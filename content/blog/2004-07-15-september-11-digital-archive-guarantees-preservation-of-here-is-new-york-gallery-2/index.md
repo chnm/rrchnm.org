@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2004-07-15T15:22:38Z'
 draft: false
 slug: september-11-digital-archive-guarantees-preservation-of-here-is-new-york-gallery-2

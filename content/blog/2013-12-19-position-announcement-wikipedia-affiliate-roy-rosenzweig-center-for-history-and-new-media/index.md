@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2013-12-19T13:00:27Z'
 draft: false
 slug: position-announcement-wikipedia-affiliate-roy-rosenzweig-center-for-history-and-new-media

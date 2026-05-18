@@ -2,7 +2,7 @@
 authors:
 - "Lincoln Mullen"
 categories:
-- News
+- news
 date: '2021-03-18T12:18:22Z'
 draft: false
 slug: material-histories-of-the-indian-ocean-world-1500-present

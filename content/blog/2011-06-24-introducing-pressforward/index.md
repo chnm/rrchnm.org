@@ -2,8 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
-- Research + Tools
+- news
 date: '2011-06-24T13:33:19Z'
 draft: false
 slug: introducing-pressforward

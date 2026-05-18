@@ -4,7 +4,7 @@ aliases:
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2020-05-19T13:40:48Z'
 draft: false
 slug: rrchnm-joins-nonprofit-finance-fund-cohort

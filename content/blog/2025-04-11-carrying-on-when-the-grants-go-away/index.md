@@ -2,7 +2,7 @@
 authors:
 - Lincoln Mullen
 categories:
-- Post
+- post
 date: '2025-04-11T10:00:00Z'
 draft: false
 slug: carrying-on-when-the-grants-go-away

@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2013-03-05T12:18:24Z'
 draft: false
 slug: dan-selected-as-executive-director-of-the-digital-public-library-of-america

@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2004-01-11T10:36:23Z'
 draft: false
 slug: nasa-echo-launch-web-exhibit-on-columbia-space-shuttle

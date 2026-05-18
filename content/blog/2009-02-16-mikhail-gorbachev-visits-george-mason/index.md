@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-02-16T10:54:25Z'
 draft: false
 slug: mikhail-gorbachev-visits-george-mason

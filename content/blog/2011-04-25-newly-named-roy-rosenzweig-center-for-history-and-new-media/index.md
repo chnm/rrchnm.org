@@ -2,7 +2,7 @@
 authors:
 - "Jeny Martinez"
 categories:
-- News
+- news
 date: '2011-04-25T14:12:21Z'
 draft: false
 slug: newly-named-roy-rosenzweig-center-for-history-and-new-media

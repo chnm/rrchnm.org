@@ -2,7 +2,7 @@
 authors:
 - Lincoln Mullen
 categories:
-- News
+- news
 date: '2021-01-08T10:13:08Z'
 draft: false
 slug: jessica-mack-clah-2021

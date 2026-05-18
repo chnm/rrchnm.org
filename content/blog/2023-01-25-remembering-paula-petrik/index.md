@@ -2,7 +2,7 @@
 authors:
 - Mills Kelly
 categories:
-- Post
+- post
 date: '2023-01-25T13:00:00Z'
 draft: false
 slug: remembering-paula-petrik

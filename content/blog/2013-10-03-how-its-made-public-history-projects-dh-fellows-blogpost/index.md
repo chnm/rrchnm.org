@@ -2,8 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- About RRCHNM
-- Collecting + Exhibiting
+- news
 date: '2013-10-03T17:10:58Z'
 draft: false
 slug: how-its-made-public-history-projects-dh-fellows-blogpost

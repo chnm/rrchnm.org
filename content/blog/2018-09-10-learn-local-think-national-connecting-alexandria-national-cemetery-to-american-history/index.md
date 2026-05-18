@@ -2,8 +2,7 @@
 authors:
 - "Brianna Nuñez"
 categories:
-- News
-- Teaching + Learning
+- news
 date: '2018-09-10T09:56:14Z'
 draft: false
 slug: learn-local-think-national-connecting-alexandria-national-cemetery-to-american-history

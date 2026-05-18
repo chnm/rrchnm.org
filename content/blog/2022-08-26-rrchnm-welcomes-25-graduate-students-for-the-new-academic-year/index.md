@@ -2,7 +2,7 @@
 authors:
 - Lincoln Mullen
 categories:
-- News
+- news
 date: '2022-08-26T14:00:00Z'
 draft: false
 slug: rrchnm-welcomes-25-graduate-students-for-the-new-academic-year

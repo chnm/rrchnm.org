@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Events
+- news
 date: '2019-01-28T10:30:46Z'
 draft: false
 featured_image: Screen-Shot-2019-01-28-at-10.26.41-AM.png

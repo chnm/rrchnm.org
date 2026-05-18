@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- Teaching + Learning
+- news
 date: '2018-09-27T09:40:05Z'
 draft: false
 slug: teaching-history-refresh

@@ -2,7 +2,7 @@
 authors:
 - "Nate Sleeter"
 categories:
-- News
+- news
 date: '2023-07-27T12:00:00Z'
 draft: false
 slug: rrchnm-receives-additional-funding-to-create-more-teaching-guides

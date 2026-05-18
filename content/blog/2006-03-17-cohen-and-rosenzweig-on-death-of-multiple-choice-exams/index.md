@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2006-03-17T11:12:21Z'
 draft: false
 slug: cohen-and-rosenzweig-on-death-of-multiple-choice-exams

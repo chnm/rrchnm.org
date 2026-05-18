@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2016-09-06T11:15:04Z'
 draft: false
 slug: a-new-website-for-igorj2.sg-host

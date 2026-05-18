@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2015-05-11T16:57:18Z'
 draft: false
 slug: earn-a-graduate-certificate-in-digital-public-humanities-online

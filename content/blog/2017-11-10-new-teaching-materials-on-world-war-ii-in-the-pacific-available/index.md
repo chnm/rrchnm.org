@@ -2,7 +2,7 @@
 authors:
 - "Jennifer Rosenfeld"
 categories:
-- News
+- news
 date: '2017-11-10T13:33:05Z'
 draft: false
 slug: new-teaching-materials-on-world-war-ii-in-the-pacific-available

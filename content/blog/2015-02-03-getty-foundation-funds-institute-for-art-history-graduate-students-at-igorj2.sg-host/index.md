@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2015-02-03T10:29:27Z'
 draft: false
 slug: getty-foundation-funds-institute-for-art-history-graduate-students-at-igorj2.sg-host

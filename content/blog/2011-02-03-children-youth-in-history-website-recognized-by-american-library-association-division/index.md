@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2011-02-03T10:06:54Z'
 draft: false
 slug: children-youth-in-history-website-recognized-by-american-library-association-division

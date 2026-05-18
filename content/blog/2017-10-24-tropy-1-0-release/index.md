@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2017-10-24T13:04:17Z'
 draft: false
 featured_image: tropy-sticker.jpg

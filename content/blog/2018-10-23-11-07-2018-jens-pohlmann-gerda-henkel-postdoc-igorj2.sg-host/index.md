@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- Events
+- news
 date: '2018-10-23T12:57:51Z'
 draft: false
 featured_image: Jens.jpg

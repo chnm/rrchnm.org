@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2013-07-01T12:07:58Z'
 draft: false
 slug: post-doc-opportunity-with-pressforward

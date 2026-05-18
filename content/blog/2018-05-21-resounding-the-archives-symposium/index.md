@@ -2,8 +2,7 @@
 authors:
 - "Jessica Dauterive"
 categories:
-- News
-- Teaching + Learning
+- news
 date: '2018-05-21T07:00:16Z'
 draft: false
 slug: resounding-the-archives-symposium

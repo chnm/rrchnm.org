@@ -2,7 +2,7 @@
 authors:
 - Lincoln Mullen
 categories:
-- News
+- news
 date: '2022-07-15T11:00:00Z'
 draft: false
 slug: rrchnm-partners-with-winterthur-museum-to-present-pennsylvania-illuminated-manuscript

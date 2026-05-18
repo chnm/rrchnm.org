@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- Teaching + Learning
+- news
 date: '2016-09-21T06:10:16Z'
 draft: false
 slug: through-the-doors-of-stratford

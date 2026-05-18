@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2005-12-15T09:20:56Z'
 draft: false
 slug: chnm-blogosphere-2

@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-04-30T13:24:17Z'
 draft: false
 slug: virginia-tech-launches-april-16-archive-in-collaboration-with-chnm

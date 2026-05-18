@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-05-15T10:24:09Z'
 draft: false
 slug: zotero-20-is-here

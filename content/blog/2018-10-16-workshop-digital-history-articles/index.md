@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2018-10-16T09:55:57Z'
 draft: false
 featured_image: m_jsh_52_1cover.png

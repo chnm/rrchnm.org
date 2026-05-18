@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2009-10-20T14:49:00Z'
 draft: false
 slug: chnm-celebrates-gmu-open-access-week-2009

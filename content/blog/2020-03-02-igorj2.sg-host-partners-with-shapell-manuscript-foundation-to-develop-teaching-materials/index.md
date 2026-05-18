@@ -2,7 +2,7 @@
 authors:
 - "Nate Sleeter"
 categories:
-- News
+- news
 date: '2020-03-02T15:47:50Z'
 draft: false
 slug: igorj2.sg-host-partners-with-shapell-manuscript-foundation-to-develop-teaching-materials

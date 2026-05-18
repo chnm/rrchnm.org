@@ -2,8 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- About RRCHNM
-- Teaching + Learning
+- news
 date: '2013-09-20T10:00:01Z'
 draft: false
 slug: readings-course-in-digital-history-dh-fellows-blogpost

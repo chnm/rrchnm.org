@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2017-04-11T10:00:12Z'
 draft: false
 slug: mapping-early-american-elections-launches

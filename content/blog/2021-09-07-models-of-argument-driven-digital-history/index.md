@@ -2,7 +2,7 @@
 authors:
 - Stephen Robertson
 categories:
-- Post
+- post
 date: '2021-09-07T06:00:00Z'
 draft: false
 slug: models-of-argument-driven-digital-history

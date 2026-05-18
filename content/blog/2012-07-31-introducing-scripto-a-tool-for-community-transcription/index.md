@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- news
 date: '2012-07-31T12:47:19Z'
 draft: false
 slug: introducing-scripto-a-tool-for-community-transcription

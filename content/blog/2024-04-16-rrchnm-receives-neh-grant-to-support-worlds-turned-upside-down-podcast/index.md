@@ -2,7 +2,7 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2024-04-16T09:45:23Z'
 draft: false
 slug: rrchnm-receives-neh-grant-to-support-worlds-turned-upside-down-podcast

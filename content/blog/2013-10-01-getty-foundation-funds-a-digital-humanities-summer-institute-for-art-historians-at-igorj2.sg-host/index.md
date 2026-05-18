@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2013-10-01T10:00:50Z'
 draft: false
 slug: getty-foundation-funds-a-digital-humanities-summer-institute-for-art-historians-at-igorj2.sg-host

@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2007-02-01T12:55:47Z'
 draft: false
 slug: chnm-launches-first-podcast-mozilla-digital-memory-bank

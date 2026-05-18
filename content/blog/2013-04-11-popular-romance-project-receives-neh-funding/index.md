@@ -2,8 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
-- Teaching + Learning
+- news
 date: '2013-04-11T15:37:15Z'
 draft: false
 slug: popular-romance-project-receives-neh-funding

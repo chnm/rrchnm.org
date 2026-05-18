@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2017-12-13T11:19:28Z'
 draft: false
 slug: mapping-the-first-decade-of-congressional-elections

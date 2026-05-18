@@ -2,7 +2,7 @@
 authors:
 - RRCHNM
 categories:
-- Post
+- post
 date: '2025-02-10T10:50:48Z'
 draft: false
 slug: celebrating-black-history-month

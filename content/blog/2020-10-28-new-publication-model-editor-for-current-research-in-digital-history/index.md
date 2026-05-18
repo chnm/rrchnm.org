@@ -2,7 +2,7 @@
 authors:
 - Lincoln Mullen
 categories:
-- Post
+- post
 date: '2020-10-28T09:57:40Z'
 draft: false
 slug: new-publication-model-editor-for-current-research-in-digital-history

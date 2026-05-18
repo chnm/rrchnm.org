@@ -2,7 +2,7 @@
 authors:
 - RRCHNM
 categories:
-- News
+- news
 date: '2024-07-11T10:00:00Z'
 draft: false
 slug: introducing-antisemitism-u-s-a-a-history-podcast

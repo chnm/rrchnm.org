@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2004-10-18T10:44:31Z'
 draft: false
 slug: digital-tools-for-the-humanities-whats-being-developed-what-is-needed

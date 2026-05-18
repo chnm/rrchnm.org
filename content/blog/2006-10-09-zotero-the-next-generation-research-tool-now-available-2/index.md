@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2006-10-09T09:54:23Z'
 draft: false
 slug: zotero-the-next-generation-research-tool-now-available-2

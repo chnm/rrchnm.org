@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2015-10-13T10:05:09Z'
 draft: false
 slug: building-histories-of-the-national-mall

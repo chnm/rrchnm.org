@@ -2,7 +2,7 @@
 authors:
 - "Sharon Leon"
 categories:
-- News
+- post
 date: '2016-07-29T14:27:46Z'
 draft: false
 slug: in-memory-of-lt-col-ronald-j-martin-usmc-retired

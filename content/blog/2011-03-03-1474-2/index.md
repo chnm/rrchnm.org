@@ -2,7 +2,7 @@
 authors:
 - "Kelly Schrum"
 categories:
-- News
+- news
 date: '2011-03-03T22:11:53Z'
 draft: false
 slug: 1474-2

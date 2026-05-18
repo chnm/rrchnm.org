@@ -2,7 +2,7 @@
 authors:
 - "Stephen Robertson"
 categories:
-- News
+- news
 date: '2013-10-21T09:36:34Z'
 draft: false
 slug: george-mason-university-is-hiring-a-digital-historian

@@ -2,7 +2,7 @@
 authors:
 - "Sheila Brennan"
 categories:
-- News
+- news
 date: '2016-03-22T09:03:01Z'
 draft: false
 slug: a-liberian-journey

@@ -2,7 +2,7 @@
 authors:
 - "Dan Cohen"
 categories:
-- News
+- news
 date: '2003-10-29T10:33:31Z'
 draft: false
 slug: department-of-education-awards-chnm-two-teaching-american-history-grants
