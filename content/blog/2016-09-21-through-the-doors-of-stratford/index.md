@@ -4,7 +4,7 @@ authors:
 categories:
 - Teaching + Learning
 date: '2016-09-21T06:10:16Z'
-draft: true
+draft: false
 slug: through-the-doors-of-stratford
 title: Through the Doors of Stratford
 featured_image: Stratford1-300x252.jpg

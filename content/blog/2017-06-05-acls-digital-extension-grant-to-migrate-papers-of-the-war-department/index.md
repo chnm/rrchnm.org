@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2017-06-05T10:56:33Z'
-draft: true
+draft: false
 slug: acls-digital-extension-grant-to-migrate-papers-of-the-war-department
 tags:
 - wip

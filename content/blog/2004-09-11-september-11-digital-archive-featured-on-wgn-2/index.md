@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2004-09-11T11:17:10Z'
-draft: true
+draft: false
 slug: september-11-digital-archive-featured-on-wgn-2
 title: September 11 Digital Archive featured on WGN
 ---

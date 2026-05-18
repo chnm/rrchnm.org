@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2010-09-16T08:41:32Z'
-draft: true
+draft: false
 slug: free-historical-thinking-poster-from-teachinghistory-org
 title: Free Historical Thinking Poster from Teachinghistory.org
 ---

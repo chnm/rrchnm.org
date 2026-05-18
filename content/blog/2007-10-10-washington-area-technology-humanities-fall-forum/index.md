@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2007-10-10T17:13:46Z'
-draft: true
+draft: false
 slug: washington-area-technology-humanities-fall-forum
 title: Washington Area Technology & Humanities Fall Forum
 ---

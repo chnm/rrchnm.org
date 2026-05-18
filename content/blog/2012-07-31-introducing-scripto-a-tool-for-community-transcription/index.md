@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2012-07-31T12:47:19Z'
-draft: true
+draft: false
 slug: introducing-scripto-a-tool-for-community-transcription
 title: 'Introducing Scripto: a Tool for Community Transcription'
 ---

@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2007-11-12T21:14:38Z'
-draft: true
+draft: false
 slug: scholarpress-launched
 title: ScholarPress Launched
 ---

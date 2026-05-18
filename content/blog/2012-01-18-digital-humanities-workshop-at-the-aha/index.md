@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2012-01-18T10:58:25Z'
-draft: true
+draft: false
 slug: digital-humanities-workshop-at-the-aha
 title: Digital Humanities Workshop at the AHA
 ---

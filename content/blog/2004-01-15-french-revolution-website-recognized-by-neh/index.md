@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2004-01-15T10:35:49Z'
-draft: true
+draft: false
 slug: french-revolution-website-recognized-by-neh
 title: French Revolution Website Recognized by NEH
 ---

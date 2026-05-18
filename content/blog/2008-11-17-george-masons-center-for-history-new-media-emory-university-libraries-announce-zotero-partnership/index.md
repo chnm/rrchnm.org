@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2008-11-17T12:05:07Z'
-draft: true
+draft: false
 slug: george-masons-center-for-history-new-media-emory-university-libraries-announce-zotero-partnership
 tags:
 - chnm

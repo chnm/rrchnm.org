@@ -5,7 +5,7 @@ categories:
 - About RRCHNM
 - Teaching + Learning
 date: '2013-10-07T09:00:59Z'
-draft: true
+draft: false
 slug: how-can-technology-help-teachers-to-teach-historical-and-critical-thinking-dh-fellows-blogpost
 title: How can technology help teachers to teach historical and critical thinking?  |
   DH Fellow's Blogpost

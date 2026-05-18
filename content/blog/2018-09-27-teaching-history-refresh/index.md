@@ -4,7 +4,7 @@ authors:
 categories:
 - Teaching + Learning
 date: '2018-09-27T09:40:05Z'
-draft: true
+draft: false
 slug: teaching-history-refresh
 title: Teaching History Refresh
 featured_image: teaching-history-homepage-300x230.png

@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2014-07-29T12:19:25Z'
-draft: true
+draft: false
 slug: art-historians-rebuilding-the-portfolio
 title: Art Historians, Rebuilding their Portfolios
 ---

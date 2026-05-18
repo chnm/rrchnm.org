@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2017-03-28T15:26:04Z'
-draft: true
+draft: false
 featured_image: /media/2017/03/NCHE.png
 slug: 03312017-igorj2.sg-host-national-council-for-history-education-conference
 tags:

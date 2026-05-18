@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2005-07-22T10:58:58Z'
-draft: true
+draft: false
 slug: speech-accent-archive-relaunched
 title: Speech Accent Archive relaunched
 ---

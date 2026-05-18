@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2018-01-24T10:18:58Z'
-draft: true
+draft: false
 featured_image: cover-small_orig.jpg
 slug: 01-27-2018-igorj2.sg-host-sources-conference
 tags:

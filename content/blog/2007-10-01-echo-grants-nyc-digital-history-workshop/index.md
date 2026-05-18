@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2007-10-01T11:39:53Z'
-draft: true
+draft: false
 slug: echo-grants-nyc-digital-history-workshop
 title: Echo Grants, NYC Digital History Workshop
 ---

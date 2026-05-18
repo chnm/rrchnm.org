@@ -5,7 +5,7 @@ categories:
 - News
 - Teaching + Learning
 date: '2018-08-20T14:03:42Z'
-draft: true
+draft: false
 slug: world-history-commons-receives-neh-award
 tags:
 - wip

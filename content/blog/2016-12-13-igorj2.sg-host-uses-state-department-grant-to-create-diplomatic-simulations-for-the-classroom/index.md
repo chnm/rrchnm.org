@@ -5,7 +5,7 @@ categories:
 - Uncategorized
 - News
 date: '2016-12-13T11:50:46Z'
-draft: true
+draft: false
 slug: igorj2.sg-host-uses-state-department-grant-to-create-diplomatic-simulations-for-the-classroom
 title: RRCHNM uses State Department grant to create diplomatic simulations for the
   classroom

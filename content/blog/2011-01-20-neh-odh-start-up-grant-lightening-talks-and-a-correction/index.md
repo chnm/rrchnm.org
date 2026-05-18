@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2011-01-20T18:19:55Z'
-draft: true
+draft: false
 slug: neh-odh-start-up-grant-lightening-talks-and-a-correction
 title: NEH ODH Start-Up Grant Lightening Talks, and a Correction
 ---

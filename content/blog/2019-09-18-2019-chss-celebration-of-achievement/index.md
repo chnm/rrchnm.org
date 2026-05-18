@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2019-09-18T15:04:02Z'
-draft: true
+draft: false
 slug: 2019-chss-celebration-of-achievement
 tags:
 - rrchnm

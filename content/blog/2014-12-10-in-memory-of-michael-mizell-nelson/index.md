@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2014-12-10T12:20:21Z'
-draft: true
+draft: false
 slug: in-memory-of-michael-mizell-nelson
 title: In Memory of Michael Mizell-Nelson
 ---

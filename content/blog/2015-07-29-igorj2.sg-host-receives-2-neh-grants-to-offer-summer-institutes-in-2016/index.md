@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2015-07-29T13:34:36Z'
-draft: true
+draft: false
 slug: igorj2.sg-host-receives-2-neh-grants-to-offer-summer-institutes-in-2016
 title: RRCHNM Receives 2 NEH Grants to Offer Summer Institutes in 2016
 ---

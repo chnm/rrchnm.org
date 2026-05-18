@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2019-01-28T11:00:33Z'
-draft: true
+draft: false
 featured_image: Screen-Shot-2019-01-28-at-10.55.15-AM.png
 slug: 03-09-2019-current-research-in-digital-history-2019
 tags:

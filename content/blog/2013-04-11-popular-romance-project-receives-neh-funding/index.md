@@ -5,7 +5,7 @@ categories:
 - News
 - Teaching + Learning
 date: '2013-04-11T15:37:15Z'
-draft: true
+draft: false
 slug: popular-romance-project-receives-neh-funding
 title: Popular Romance Project Receives NEH Funding
 ---

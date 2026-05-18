@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2012-06-05T10:14:27Z'
-draft: true
+draft: false
 slug: rosenzweig-forum
 title: Rosenzweig Forum
 ---

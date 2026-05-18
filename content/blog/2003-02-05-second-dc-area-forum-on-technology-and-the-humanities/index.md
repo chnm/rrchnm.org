@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2003-02-05T13:54:22Z'
-draft: true
+draft: false
 slug: second-dc-area-forum-on-technology-and-the-humanities
 title: Second DC Area Forum on Technology and the Humanities
 ---

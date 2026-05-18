@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2018-01-05T16:28:44Z'
-draft: true
+draft: false
 slug: igorj2.sg-host-ed-games-expo-2018-a-showcase-for-education-learning-games-and-technologies
 tags:
 - rrchnm

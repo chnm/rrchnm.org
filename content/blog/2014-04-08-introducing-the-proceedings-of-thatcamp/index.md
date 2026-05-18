@@ -5,7 +5,7 @@ categories:
 - News
 - Research + Tools
 date: '2014-04-08T14:51:23Z'
-draft: true
+draft: false
 featured_image: http://localhost/~kim/wordpressthatcamp_square_logo_11.png
 slug: introducing-the-proceedings-of-thatcamp
 title: Introducing the Proceedings of THATCamp!

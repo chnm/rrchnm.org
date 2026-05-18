@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2016-11-02T11:00:59Z'
-draft: true
+draft: false
 slug: omeka-s-1-0-beta-release
 title: Omeka S 1.0 Beta Release
 featured_image: omeka-s-stickermule-3x3-300x300.png

@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2009-09-17T14:23:49Z'
-draft: true
+draft: false
 slug: chnm-labs-report-on-mobile-usage-in-museums
 title: CHNM Labs Report on Mobile Usage in Museums
 ---

@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2013-03-05T12:18:24Z'
-draft: true
+draft: false
 slug: dan-selected-as-executive-director-of-the-digital-public-library-of-america
 title: Dan Cohen Selected as Executive Director of the Digital Public Library of America
 ---

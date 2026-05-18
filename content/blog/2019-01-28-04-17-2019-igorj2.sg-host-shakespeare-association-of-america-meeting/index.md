@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2019-01-28T10:30:46Z'
-draft: true
+draft: false
 featured_image: Screen-Shot-2019-01-28-at-10.26.41-AM.png
 slug: 04-17-2019-igorj2.sg-host-shakespeare-association-of-america-meeting
 tags:

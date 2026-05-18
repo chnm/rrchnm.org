@@ -5,7 +5,7 @@ categories:
 - News
 - Collecting + Exhibiting
 date: '2011-02-22T15:38:11Z'
-draft: true
+draft: false
 slug: september-11-digital-archive-awarded-saving-americas-treasures-grant
 title: September 11 Digital Archive Awarded Saving America's Treasures Grant
 ---

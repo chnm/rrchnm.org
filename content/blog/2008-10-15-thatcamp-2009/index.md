@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2008-10-15T09:01:06Z'
-draft: true
+draft: false
 slug: thatcamp-2009
 title: THATCamp 2009
 ---

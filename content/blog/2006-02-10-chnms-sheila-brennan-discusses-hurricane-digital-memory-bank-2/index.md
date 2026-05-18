@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2006-02-10T11:06:33Z'
-draft: true
+draft: false
 slug: chnms-sheila-brennan-discusses-hurricane-digital-memory-bank-2
 title: CHNM's Sheila Brennan discusses Hurricane Digital Memory Bank
 ---

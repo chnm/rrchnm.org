@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2010-01-13T12:31:34Z'
-draft: true
+draft: false
 slug: chnm-aha-panel-humanities-in-the-digital-age
 tags:
 - chnm

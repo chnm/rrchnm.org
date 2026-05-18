@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2017-02-01T11:17:33Z'
-draft: true
+draft: false
 slug: new-neh-planning-grant-explores-transnational-roots-of-american-popular-music
 title: New NEH Planning Grant Explores Transnational Roots of American Popular Music
 featured_image: neh_logo_horizontal_rgb.jpg

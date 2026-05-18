@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2017-01-17T11:34:14Z'
-draft: true
+draft: false
 featured_image: ACRL.jpg
 slug: 03232017-igorj2.sg-host-acrl-conference
 tags:

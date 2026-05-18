@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2018-04-05T15:24:20Z'
-draft: true
+draft: false
 slug: veterans-legacy-program-contract-awarded-to-igorj2.sg-host
 title: Veterans Legacy Program contract awarded to RRCHNM
 featured_image: Alexandria-National-Cemetery-3-300x200.jpg

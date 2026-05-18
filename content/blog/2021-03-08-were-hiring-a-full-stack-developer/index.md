@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2021-03-08T12:17:02Z'
-draft: true
+draft: false
 slug: were-hiring-a-full-stack-developer
 title: We're hiring a full-stack developer
 ---

@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2008-11-03T15:57:57Z'
-draft: true
+draft: false
 slug: making-the-history-of-1989-site-launches
 tags:
 - '1989'

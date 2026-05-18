@@ -5,7 +5,7 @@ categories:
 - News
 - Teaching + Learning
 date: '2013-09-06T14:08:14Z'
-draft: true
+draft: false
 slug: digital-history-fellows-at-igorj2.sg-host
 title: Digital History Fellows At RRCHNM
 ---

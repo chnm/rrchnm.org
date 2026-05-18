@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2004-10-22T10:43:46Z'
-draft: true
+draft: false
 slug: chnm-to-build-custom-software-tools-for-nehs-edsitement-portal
 title: CHNM to build custom software tools for NEH's Edsitement portal
 ---

@@ -5,7 +5,7 @@ categories:
 - About RRCHNM
 - Teaching + Learning
 date: '2016-03-02T10:08:14Z'
-draft: true
+draft: false
 slug: apply-now-for-the-online-graduate-certificate-in-digital-public-humanities
 title: Apply now for the online Graduate Certificate in Digital Public Humanities
 ---

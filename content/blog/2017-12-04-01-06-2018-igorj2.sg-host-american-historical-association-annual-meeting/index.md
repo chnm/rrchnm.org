@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2017-12-04T16:28:42Z'
-draft: true
+draft: false
 featured_image: banner.png
 slug: 01-06-2018-igorj2.sg-host-american-historical-association-annual-meeting
 tags:

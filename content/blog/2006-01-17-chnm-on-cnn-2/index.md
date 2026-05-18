@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2006-01-17T10:42:03Z'
-draft: true
+draft: false
 slug: chnm-on-cnn-2
 title: CHNM on CNN
 ---

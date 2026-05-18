@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2017-03-28T15:29:31Z'
-draft: true
+draft: false
 featured_image: /media/2017/03/ISTE.png
 slug: 06282017-igorj2.sg-host-international-society-for-technology-in-education-conference
 tags:

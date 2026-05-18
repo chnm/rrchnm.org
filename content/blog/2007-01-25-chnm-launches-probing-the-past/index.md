@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2007-01-25T13:19:48Z'
-draft: true
+draft: false
 slug: chnm-launches-probing-the-past
 title: CHNM launches Probing the Past
 ---

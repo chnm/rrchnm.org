@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2013-06-04T15:28:14Z'
-draft: true
+draft: false
 slug: igorj2.sg-host-announces-new-director
 title: RRCHNM Announces Stephen Robertson As Its New Director
 ---

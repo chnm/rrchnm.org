@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2010-09-23T14:04:52Z'
-draft: true
+draft: false
 slug: special-campaign-to-name-chnm-after-roy-rosenzweig
 title: Special Campaign to name CHNM after Roy Rosenzweig
 ---

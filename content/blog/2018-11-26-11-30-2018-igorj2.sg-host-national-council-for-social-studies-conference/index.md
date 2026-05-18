@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2018-11-26T12:58:08Z'
-draft: true
+draft: false
 featured_image: NCSS18.jpeg
 slug: 11-30-2018-igorj2.sg-host-national-council-for-social-studies-conference
 tags:

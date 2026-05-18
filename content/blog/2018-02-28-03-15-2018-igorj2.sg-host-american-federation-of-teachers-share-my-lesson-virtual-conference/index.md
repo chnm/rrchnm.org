@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2018-02-28T10:55:12Z'
-draft: true
+draft: false
 featured_image: Share-My-Lesson-logo.png
 slug: 03-15-2018-igorj2.sg-host-american-federation-of-teachers-share-my-lesson-virtual-conference
 tags:

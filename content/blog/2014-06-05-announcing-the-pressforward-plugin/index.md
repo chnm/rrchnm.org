@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2014-06-05T11:42:24Z'
-draft: true
+draft: false
 slug: announcing-the-pressforward-plugin
 title: Announcing the PressForward Plugin
 ---

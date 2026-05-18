@@ -7,7 +7,7 @@ authors:
 categories:
 - News
 date: '2008-10-13T14:07:50Z'
-draft: true
+draft: false
 slug: inaugural-wordcamp-ed-to-be-hosted-at-chnm
 title: Inaugural WordCamp Ed to be hosted at CHNM
 ---

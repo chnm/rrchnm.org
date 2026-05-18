@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2006-01-09T11:09:41Z'
-draft: true
+draft: false
 slug: chnm-launches-hurricane-digital-memory-bank
 title: CHNM Launches Hurricane Digital Memory Bank
 ---

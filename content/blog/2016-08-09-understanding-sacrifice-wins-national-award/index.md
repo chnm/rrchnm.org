@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2016-08-09T14:47:44Z'
-draft: true
+draft: false
 slug: understanding-sacrifice-wins-national-award
 title: Understanding Sacrifice Wins National Award
 ---

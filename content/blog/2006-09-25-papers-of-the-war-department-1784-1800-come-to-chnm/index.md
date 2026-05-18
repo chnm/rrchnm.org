@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2006-09-25T11:19:25Z'
-draft: true
+draft: false
 slug: papers-of-the-war-department-1784-1800-come-to-chnm
 title: Papers of the War Department 1784-1800 come to CHNM
 ---

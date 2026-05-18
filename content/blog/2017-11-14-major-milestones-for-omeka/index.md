@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2017-11-14T11:26:41Z'
-draft: true
+draft: false
 slug: major-milestones-for-omeka
 title: Major Milestones for Omeka
 ---

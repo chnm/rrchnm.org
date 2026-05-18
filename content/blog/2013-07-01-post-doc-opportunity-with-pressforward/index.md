@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2013-07-01T12:07:58Z'
-draft: true
+draft: false
 slug: post-doc-opportunity-with-pressforward
 title: Post-Doc Opportunity with PressForward
 ---

@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2015-05-04T10:48:16Z'
-draft: true
+draft: false
 slug: wwii-teacher-professional-development-website-goes-live
 title: WWII Teacher Professional Development Website Goes Live
 ---

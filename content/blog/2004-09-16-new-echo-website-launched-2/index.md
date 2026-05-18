@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2004-09-16T14:52:25Z'
-draft: true
+draft: false
 slug: new-echo-website-launched-2
 title: New Echo website launched
 ---

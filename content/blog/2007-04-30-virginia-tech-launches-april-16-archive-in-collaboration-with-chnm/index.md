@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2007-04-30T13:24:17Z'
-draft: true
+draft: false
 slug: virginia-tech-launches-april-16-archive-in-collaboration-with-chnm
 title: Virginia Tech launches April 16 Archive in collaboration with CHNM
 ---

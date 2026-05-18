@@ -5,7 +5,7 @@ categories:
 - News
 - Teaching + Learning
 date: '2014-10-06T13:10:42Z'
-draft: true
+draft: false
 slug: igorj2.sg-host-partners-with-national-history-day-for-wwii-teacher-institute
 title: RRCHNM Partners with National History Day for WWII Teacher Institute
 ---

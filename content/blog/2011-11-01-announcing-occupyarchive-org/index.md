@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2011-11-01T14:15:34Z'
-draft: true
+draft: false
 slug: announcing-occupyarchive-org
 title: Announcing OccupyArchive.org
 ---

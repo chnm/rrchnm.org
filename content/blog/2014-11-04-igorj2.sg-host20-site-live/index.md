@@ -5,7 +5,7 @@ categories:
 - About RRCHNM
 - News
 date: '2014-11-04T16:14:47Z'
-draft: true
+draft: false
 slug: igorj2.sg-host20-site-live
 title: RRCHNM20 Site Live
 ---

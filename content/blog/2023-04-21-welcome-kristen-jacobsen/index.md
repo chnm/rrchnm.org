@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2023-04-21T12:00:00Z'
-draft: true
+draft: false
 slug: welcome-kristen-jacobsen
 title: Welcome, Kristen Jacobsen!
 ---

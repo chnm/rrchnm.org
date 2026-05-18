@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2004-12-30T10:46:38Z'
-draft: true
+draft: false
 slug: chnm-celebrates-10th-anniversary
 title: CHNM celebrates 10th anniversary
 ---

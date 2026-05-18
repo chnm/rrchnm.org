@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2006-01-24T11:08:29Z'
-draft: true
+draft: false
 slug: women-in-world-history-announces-online-forum
 title: Women in World History Announces Online Forum
 ---

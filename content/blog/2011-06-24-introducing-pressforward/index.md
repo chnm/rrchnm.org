@@ -5,7 +5,7 @@ categories:
 - News
 - Research + Tools
 date: '2011-06-24T13:33:19Z'
-draft: true
+draft: false
 slug: introducing-pressforward
 title: Introducing PressForward
 ---

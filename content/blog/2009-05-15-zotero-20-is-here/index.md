@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2009-05-15T10:24:09Z'
-draft: true
+draft: false
 slug: zotero-20-is-here
 tags:
 - groups

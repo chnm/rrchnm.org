@@ -4,7 +4,7 @@ authors:
 categories:
 - Uncategorized
 date: '2013-09-26T15:55:22Z'
-draft: true
+draft: false
 slug: track-our-latest-code-commits
 tags:
 - wip

@@ -5,7 +5,7 @@ categories:
 - News
 - Teaching + Learning
 date: '2018-09-10T09:56:14Z'
-draft: true
+draft: false
 slug: learn-local-think-national-connecting-alexandria-national-cemetery-to-american-history
 title: 'Learn Local, Think National: Connecting Alexandria National Cemetery to American
   History'

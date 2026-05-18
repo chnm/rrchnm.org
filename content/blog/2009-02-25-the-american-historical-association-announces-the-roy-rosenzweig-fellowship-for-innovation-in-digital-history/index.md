@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2009-02-25T15:20:09Z'
-draft: true
+draft: false
 slug: the-american-historical-association-announces-the-roy-rosenzweig-fellowship-for-innovation-in-digital-history
 tags:
 - aha

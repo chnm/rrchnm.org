@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2010-03-16T06:57:49Z'
-draft: true
+draft: false
 slug: bracero-history-archive-wins-nchp-outstanding-public-history-project-award
 title: Bracero History Archive Wins NCHP Outstanding Public History Project Award
 ---

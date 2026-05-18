@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2016-08-03T10:56:30Z'
-draft: true
+draft: false
 slug: doing-digital-history-2016-is-a-wrap
 title: Doing Digital History 2016 is a Wrap
 ---

@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2015-08-24T16:51:23Z'
-draft: true
+draft: false
 slug: are-you-interested-in-inspired-by-or-curious-about-digital-humanities
 title: Are You Interested in, Inspired by, or Curious about Digital Humanities?
 ---

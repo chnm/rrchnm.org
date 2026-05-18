@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2008-01-12T10:23:26Z'
-draft: true
+draft: false
 slug: washington-times-on-omeka
 title: Washington Times on Omeka
 ---

@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2019-09-20T11:23:52Z'
-draft: true
+draft: false
 slug: 10-10-2019-igorj2.sg-host-religion-in-place
 tags:
 - rrchnm

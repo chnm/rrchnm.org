@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2009-03-10T14:52:06Z'
-draft: true
+draft: false
 slug: liberty-equality-fraternity-receives-merlot-award-for-online-learning-excellence
 title: Liberty, Equality, Fraternity Receives MERLOT Award for Online Learning Excellence
 ---

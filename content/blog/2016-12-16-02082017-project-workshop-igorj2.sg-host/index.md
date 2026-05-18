@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2016-12-16T14:50:59Z'
-draft: true
+draft: false
 featured_image: Logo.jpg
 slug: 02082017-project-workshop-igorj2.sg-host
 tags:

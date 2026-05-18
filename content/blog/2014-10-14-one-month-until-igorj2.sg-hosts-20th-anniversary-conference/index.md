@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2014-10-14T14:25:17Z'
-draft: true
+draft: false
 slug: one-month-until-igorj2.sg-hosts-20th-anniversary-conference
 title: One month until RRCHNM's 20th Anniversary Conference
 ---

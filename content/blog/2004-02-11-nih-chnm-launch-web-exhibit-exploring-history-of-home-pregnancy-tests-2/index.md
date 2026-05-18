@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2004-02-11T17:35:12Z'
-draft: true
+draft: false
 slug: nih-chnm-launch-web-exhibit-exploring-history-of-home-pregnancy-tests-2
 title: NIH, CHNM launch Web exhibit exploring history of home pregnancy tests
 ---

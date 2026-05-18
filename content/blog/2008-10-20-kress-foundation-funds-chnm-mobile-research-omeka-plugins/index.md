@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2008-10-20T11:41:11Z'
-draft: true
+draft: false
 slug: kress-foundation-funds-chnm-mobile-research-omeka-plugins
 title: Kress Foundation Funds CHNM Mobile Research, Omeka Plugins
 ---

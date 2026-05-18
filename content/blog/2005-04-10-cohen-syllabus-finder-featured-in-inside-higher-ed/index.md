@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2005-04-10T10:56:59Z'
-draft: true
+draft: false
 slug: cohen-syllabus-finder-featured-in-inside-higher-ed
 title: Cohen, Syllabus Finder featured in Inside Higher Ed
 ---

@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2007-01-20T13:22:14Z'
-draft: true
+draft: false
 slug: world-history-matters-awarded-the-2007-james-harvey-robinson-prize
 title: World History Matters awarded the 2007 James Harvey Robinson Prize
 ---

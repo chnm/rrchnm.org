@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2007-02-01T12:55:47Z'
-draft: true
+draft: false
 slug: chnm-launches-first-podcast-mozilla-digital-memory-bank
 title: CHNM launches First Podcast – Mozilla Digital Memory Bank
 ---

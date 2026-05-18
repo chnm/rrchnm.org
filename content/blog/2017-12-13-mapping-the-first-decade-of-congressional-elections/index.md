@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2017-12-13T11:19:28Z'
-draft: true
+draft: false
 slug: mapping-the-first-decade-of-congressional-elections
 title: Mapping the First Decade of Congressional Elections
 featured_image: MD1-2-3Congresses-300x60.jpg

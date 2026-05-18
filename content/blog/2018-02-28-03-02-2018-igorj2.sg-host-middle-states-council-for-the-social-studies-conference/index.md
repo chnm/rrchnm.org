@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2018-02-28T10:52:32Z'
-draft: true
+draft: false
 featured_image: mscss-logo.png
 slug: 03-02-2018-igorj2.sg-host-middle-states-council-for-the-social-studies-conference
 tags:

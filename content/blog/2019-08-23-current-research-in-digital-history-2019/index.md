@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2019-08-23T02:00:31Z'
-draft: true
+draft: false
 featured_image: cover-color.jpg
 slug: current-research-in-digital-history-2019
 tags:

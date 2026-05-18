@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2005-03-31T10:54:43Z'
-draft: true
+draft: false
 slug: digital-stories-multimedia-narratives-cultural-resources-and-humanities-knowledge
 title: 'Digital Stories: Multimedia Narratives, Cultural Resources, and Humanities
   Knowledge'

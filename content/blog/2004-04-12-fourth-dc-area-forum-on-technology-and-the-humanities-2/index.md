@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2004-04-12T13:58:37Z'
-draft: true
+draft: false
 slug: fourth-dc-area-forum-on-technology-and-the-humanities-2
 title: Fourth DC Area Forum on Technology and the Humanities
 ---

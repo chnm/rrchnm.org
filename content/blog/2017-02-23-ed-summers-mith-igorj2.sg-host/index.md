@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2017-02-23T13:12:41Z'
-draft: true
+draft: false
 featured_image: DocNow.jpg
 slug: ed-summers-mith-igorj2.sg-host
 tags:

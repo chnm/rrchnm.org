@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2008-01-15T07:58:42Z'
-draft: true
+draft: false
 slug: chnm-and-american-historical-association-announce-new-prize
 title: CHNM and American Historical Association Announce New Prize
 ---

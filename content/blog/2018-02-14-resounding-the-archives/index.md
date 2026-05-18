@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2018-02-14T16:37:40Z'
-draft: true
+draft: false
 slug: resounding-the-archives
 title: ReSounding the Archives
 featured_image: color_190.gif

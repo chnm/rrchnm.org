@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2012-03-23T10:44:18Z'
-draft: true
+draft: false
 slug: matthew-battles-set-to-visit-the-center
 title: Matthew Battles set to Visit the Center
 ---

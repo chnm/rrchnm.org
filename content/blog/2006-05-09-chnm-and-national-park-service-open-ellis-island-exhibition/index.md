@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2006-05-09T11:15:22Z'
-draft: true
+draft: false
 slug: chnm-and-national-park-service-open-ellis-island-exhibition
 title: CHNM and National Park Service Open Ellis Island Exhibition
 ---

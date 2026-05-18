@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2018-01-11T16:01:39Z'
-draft: true
+draft: false
 featured_image: Logo.jpg
 slug: current-research-in-digital-history-igorj2.sg-host
 tags:

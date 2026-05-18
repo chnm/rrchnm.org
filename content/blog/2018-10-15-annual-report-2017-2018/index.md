@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2018-10-15T11:00:57Z'
-draft: true
+draft: false
 featured_image: RRCHNM_AR_2018_Page_1.jpg
 slug: annual-report-2017-2018
 title: Annual Report 2017-2018

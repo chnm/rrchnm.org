@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2015-07-06T10:20:46Z'
-draft: true
+draft: false
 slug: getty-foundation-funds-omeka-for-art-historians
 title: Getty Foundation Funds Omeka for Art Historians
 ---

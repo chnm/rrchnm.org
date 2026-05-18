@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2018-04-18T09:49:47Z'
-draft: true
+draft: false
 slug: the-pilbara-aboriginal-strike
 title: The Pilbara Aboriginal Strike
 featured_image: Mustering-300x91.jpg

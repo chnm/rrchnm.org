@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2008-10-29T19:14:37Z'
-draft: true
+draft: false
 slug: statement-on-zotero-suit
 title: Statement on Zotero Suit
 ---

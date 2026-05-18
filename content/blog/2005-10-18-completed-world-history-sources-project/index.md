@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2005-10-18T11:02:29Z'
-draft: true
+draft: false
 slug: completed-world-history-sources-project
 title: Completed World History Sources Project
 ---

@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2017-10-31T12:26:02Z'
-draft: true
+draft: false
 featured_image: Logo.jpg
 slug: digital-history-phd-fellowships-available-for-fall-2018
 title: Digital History PhD Fellowships available for Fall 2018

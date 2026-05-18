@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2017-01-12T10:49:01Z'
-draft: true
+draft: false
 slug: kress-and-getty-fund-workshops-for-art-curators-through-the-association-of-art-museum-curators-foundation
 title: Kress and Getty Fund Workshops for Art Curators through the Association of
   Art Museum Curators Foundation

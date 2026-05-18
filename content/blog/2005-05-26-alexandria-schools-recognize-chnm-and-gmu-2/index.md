@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2005-05-26T09:43:34Z'
-draft: true
+draft: false
 slug: alexandria-schools-recognize-chnm-and-gmu-2
 title: Alexandria schools recognize CHNM and GMU
 ---

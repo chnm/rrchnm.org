@@ -5,7 +5,7 @@ categories:
 - News
 - Teaching + Learning
 date: '2018-09-17T09:48:43Z'
-draft: true
+draft: false
 slug: resounding-the-archives-has-launched
 title: ReSounding the Archives has launched!
 featured_image: ReSounding_Poster-150x150.jpg

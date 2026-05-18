@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2007-05-10T13:26:53Z'
-draft: true
+draft: false
 slug: now-on-shelves-dan-cohens-equations-from-god
 title: 'Now on shelves: Dan Cohen''s Equations from God'
 ---

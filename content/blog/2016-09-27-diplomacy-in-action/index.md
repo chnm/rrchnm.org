@@ -5,7 +5,7 @@ categories:
 - Uncategorized
 - Teaching + Learning
 date: '2016-09-27T14:17:38Z'
-draft: true
+draft: false
 slug: diplomacy-in-action
 title: Diplomacy in Action
 ---

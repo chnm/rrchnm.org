@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2006-03-30T11:11:45Z'
-draft: true
+draft: false
 slug: mason-basketball-digital-memory-bank
 title: Mason Basketball Digital Memory Bank
 ---

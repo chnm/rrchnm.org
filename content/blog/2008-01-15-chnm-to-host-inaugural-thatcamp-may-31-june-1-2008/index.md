@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2008-01-15T20:01:22Z'
-draft: true
+draft: false
 slug: chnm-to-host-inaugural-thatcamp-may-31-june-1-2008
 title: CHNM to host inaugural THATCamp, May 31 - June 1, 2008
 ---

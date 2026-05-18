@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2003-11-11T10:35:17Z'
-draft: true
+draft: false
 slug: chnm-takes-on-dohistory
 title: CHNM takes on DoHistory
 ---

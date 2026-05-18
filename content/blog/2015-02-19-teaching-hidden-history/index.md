@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2015-02-19T14:45:24Z'
-draft: true
+draft: false
 slug: teaching-hidden-history
 title: Teaching Hidden History
 ---

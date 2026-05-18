@@ -4,7 +4,7 @@ authors:
 categories:
 - About RRCHNM
 date: '2014-11-17T15:10:08Z'
-draft: true
+draft: false
 slug: the-future-of-igorj2.sg-host
 tags:
 - chnm

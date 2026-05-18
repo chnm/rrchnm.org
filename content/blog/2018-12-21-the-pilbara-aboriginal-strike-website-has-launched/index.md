@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2018-12-21T10:40:23Z'
-draft: true
+draft: false
 slug: the-pilbara-aboriginal-strike-website-has-launched
 title: The Pilbara Aboriginal Strike Website Has Launched
 featured_image: pilbara-homepage-1024x846.png

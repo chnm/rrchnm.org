@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2009-06-16T14:18:11Z'
-draft: true
+draft: false
 slug: one-week-one-tool-a-digital-humanities-barn-raising
 tags:
 - iatdh

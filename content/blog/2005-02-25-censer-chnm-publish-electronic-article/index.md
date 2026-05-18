@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2005-02-25T10:51:05Z'
-draft: true
+draft: false
 slug: censer-chnm-publish-electronic-article
 title: Censer & CHNM Publish Electronic Article
 ---

@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2016-12-16T14:54:27Z'
-draft: true
+draft: false
 featured_image: eagleeye.png
 slug: 04052017-project-workshop-igorj2.sg-host
 tags:

@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2005-04-19T10:56:02Z'
-draft: true
+draft: false
 slug: history-matters-recognized-by-new-york-public-library
 title: History Matters Recognized by New York Public Library
 ---

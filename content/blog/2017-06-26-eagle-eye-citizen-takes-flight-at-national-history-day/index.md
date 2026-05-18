@@ -5,7 +5,7 @@ categories:
 - Uncategorized
 - News
 date: '2017-06-26T11:32:38Z'
-draft: true
+draft: false
 slug: eagle-eye-citizen-takes-flight-at-national-history-day
 title: Eagle Eye Citizen takes flight at National History Day
 featured_image: NHD-EEC-winner-255x300.jpg

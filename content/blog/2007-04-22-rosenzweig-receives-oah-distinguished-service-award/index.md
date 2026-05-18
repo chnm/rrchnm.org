@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2007-04-22T13:24:51Z'
-draft: true
+draft: false
 slug: rosenzweig-receives-oah-distinguished-service-award
 title: Rosenzweig Receives OAH Distinguished Service Award
 ---

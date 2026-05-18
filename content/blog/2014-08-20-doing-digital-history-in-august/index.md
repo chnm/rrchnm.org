@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2014-08-20T10:19:05Z'
-draft: true
+draft: false
 slug: doing-digital-history-in-august
 title: Doing Digital History in August
 ---

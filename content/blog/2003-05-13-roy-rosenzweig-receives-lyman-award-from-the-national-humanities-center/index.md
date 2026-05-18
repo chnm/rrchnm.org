@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2003-05-13T10:29:45Z'
-draft: true
+draft: false
 slug: roy-rosenzweig-receives-lyman-award-from-the-national-humanities-center
 title: Roy Rosenzweig receives Lyman Award from the National Humanities Center
 ---

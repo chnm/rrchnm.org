@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2011-03-17T13:54:41Z'
-draft: true
+draft: false
 slug: what-time-is-it-thatcamp-time
 title: What time is it? THATCamp time!
 ---

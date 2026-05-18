@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2008-07-08T15:09:53Z'
-draft: true
+draft: false
 slug: jon-stewart-hosts-chnms-rick-shenkman-on-the-daily-show
 tags:
 - chnm

@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2007-06-07T13:27:56Z'
-draft: true
+draft: false
 slug: hurricane-digital-memory-bank-earns-aaslh-award
 title: Hurricane Digital Memory Bank Earns AASLH Award
 ---

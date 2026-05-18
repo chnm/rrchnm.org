@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2019-05-13T13:10:15Z'
-draft: true
+draft: false
 slug: mapping-early-american-elections-releases-essays-maps-tutorials-data
 tags:
 - mapping early american elections

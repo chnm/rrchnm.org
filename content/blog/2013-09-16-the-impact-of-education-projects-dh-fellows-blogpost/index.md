@@ -4,7 +4,7 @@ authors:
 categories:
 - About RRCHNM
 date: '2013-09-16T13:55:46Z'
-draft: true
+draft: false
 slug: the-impact-of-education-projects-dh-fellows-blogpost
 title: The Impact of Education Projects | DH Fellow's blogpost
 ---

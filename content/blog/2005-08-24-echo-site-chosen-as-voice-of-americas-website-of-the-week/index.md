@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2005-08-24T10:59:33Z'
-draft: true
+draft: false
 slug: echo-site-chosen-as-voice-of-americas-website-of-the-week
 title: Echo site chosen as Voice of America's "Website of the Week"
 ---

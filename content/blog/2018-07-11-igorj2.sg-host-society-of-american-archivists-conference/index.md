@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2018-07-11T15:28:00Z'
-draft: true
+draft: false
 featured_image: SAA.png
 slug: igorj2.sg-host-society-of-american-archivists-conference
 tags:

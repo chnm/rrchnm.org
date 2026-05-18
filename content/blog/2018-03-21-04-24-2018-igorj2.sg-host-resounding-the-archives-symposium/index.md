@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2018-03-21T12:57:58Z'
-draft: true
+draft: false
 featured_image: logo.png
 slug: 04-24-2018-igorj2.sg-host-resounding-the-archives-symposium
 tags:

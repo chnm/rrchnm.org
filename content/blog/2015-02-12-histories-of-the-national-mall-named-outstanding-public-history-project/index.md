@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2015-02-12T10:00:37Z'
-draft: true
+draft: false
 slug: histories-of-the-national-mall-named-outstanding-public-history-project
 title: Histories of the National Mall Wins Outstanding Public History Award
 ---

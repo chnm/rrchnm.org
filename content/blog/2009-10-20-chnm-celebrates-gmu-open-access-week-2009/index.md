@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2009-10-20T14:49:00Z'
-draft: true
+draft: false
 slug: chnm-celebrates-gmu-open-access-week-2009
 tags:
 - '1994'

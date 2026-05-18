@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2006-06-20T10:12:30Z'
-draft: true
+draft: false
 slug: chnm-announces-completion-of-women-in-world-history-website-2
 title: CHNM announces completion of Women in World History website
 ---

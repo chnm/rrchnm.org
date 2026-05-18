@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2012-07-06T13:38:01Z'
-draft: true
+draft: false
 slug: teaching-history-org-goes-mobile
 title: Teachinghistory.org Goes Mobile
 ---

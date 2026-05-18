@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2014-02-05T11:00:18Z'
-draft: true
+draft: false
 slug: applications-open-for-doing-digital-history-neh-summer-institute
 title: Applications Open for Doing Digital History, NEH Summer Institute
 ---

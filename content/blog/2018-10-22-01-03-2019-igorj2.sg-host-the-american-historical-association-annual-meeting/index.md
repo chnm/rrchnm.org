@@ -4,7 +4,7 @@ authors:
 categories:
 - Events
 date: '2018-10-22T13:17:14Z'
-draft: true
+draft: false
 featured_image: AHA.png
 slug: 01-03-2019-igorj2.sg-host-the-american-historical-association-annual-meeting
 tags:

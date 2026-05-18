@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2013-05-08T11:15:08Z'
-draft: true
+draft: false
 slug: wikimedia-france-research-award-2013
 title: Wikimédia France Research Award 2013
 ---

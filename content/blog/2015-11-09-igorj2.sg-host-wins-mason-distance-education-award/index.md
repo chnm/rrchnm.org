@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2015-11-09T07:00:02Z'
-draft: true
+draft: false
 slug: igorj2.sg-host-wins-mason-distance-education-award
 title: RRCHNM Wins Mason Distance Education Award
 ---

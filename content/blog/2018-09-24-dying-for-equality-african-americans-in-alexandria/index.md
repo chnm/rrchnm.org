@@ -5,7 +5,7 @@ categories:
 - News
 - Posts
 date: '2018-09-24T14:47:20Z'
-draft: true
+draft: false
 slug: dying-for-equality-african-americans-in-alexandria
 title: 'Dying for Equality: African Americans in Alexandria'
 featured_image: Copy-of-USCT-Restored-600JPEG102-300x300.jpg

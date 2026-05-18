@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2014-04-28T12:18:01Z'
-draft: true
+draft: false
 slug: register-now-for-the-igorj2.sg-host-20th-anniversary-conference
 title: Register now for the RRCHNM 20th Anniversary Conference
 ---

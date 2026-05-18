@@ -4,7 +4,7 @@ authors:
 categories:
 - News
 date: '2009-12-18T17:48:56Z'
-draft: true
+draft: false
 slug: chnm-wins-international-funding-for-digging-into-data-challenge
 title: CHNM Wins International Funding for Digging into Data Challenge
 ---
