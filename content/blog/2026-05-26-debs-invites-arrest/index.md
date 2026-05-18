@@ -2,12 +2,11 @@
 authors:
 - Sam Lebovic
 categories:
-- Post
-date: '2026-05-26T09:00:00Z'
-draft: true
-lastmod: '2026-05-14T00:00:00Z'
+- post
+date: 2026-05-18
+draft: false
 slug: debs-invites-arrest
-title: Debs Invites Arrest, Holmes Dissents
+title: Debs Invites Arrest
 featured_image: debs-mugshot.jpg
 tags:
 - Teaching + Learning
@@ -32,4 +31,4 @@ Engaging with these competing understandings of free speech thus provides studen
 
 Nor are the lessons to be learned confined to World War I. The issues raised by the Debs case recurred throughout the twentieth century, and they are still with us today. What is the line between national security and civil liberty? Can national security secrets, like the Pentagon Papers, [be published in the newspaper](https://teachinghistory.org/teaching-materials/teaching-guides/25901)? Can individuals, like a Klansman advocating racial violence, [be prosecuted for advocating crime](https://teachinghistory.org/teaching-materials/teaching-guides/25889)? Can the government [deny a visa](https://teachinghistory.org/teaching-materials/teaching-guides/25887) to a foreign radical because of their political beliefs? The four modules in the free speech guides take up these and other important questions in the history of free speech, providing students with an introduction to the historical evolution of First Amendment law, as well as insight into some fascinating moments in American political history.
 
-**[See our teaching guides for high school students about the history of free speech →](https://teachinghistory.org/teaching-materials/teaching-guides/25888)**
+{{< button href="https://teachinghistory.org/teaching-materials/teaching-guides/25888" text="See our teaching guides about the history of free speech" >}}
