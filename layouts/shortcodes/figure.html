@@ -1,4 +1,24 @@
-{{- /* Figure shortcode: src, alt, caption, align (left/right/center), attr, attrlink, class */ -}}
+{{- /*
+  Figure shortcode: responsive image with optional caption, attribution, and lightbox.
+
+  Usage:
+    {{< figure src="photo.jpg" alt="Description" caption="A caption here." >}}
+
+  Params:
+    src      - image path (page bundle filename or absolute path)
+    alt      - alt text for accessibility (default: "")
+    caption  - caption text below image, supports Markdown
+    align    - "left", "right", "center", or omit for default (full-width centered)
+    attr     - attribution text (e.g., photographer credit)
+    attrlink - URL for the attribution link
+    class    - additional CSS classes on the <figure>
+
+  Clicking the image opens a lightbox overlay (Alpine.js).
+
+  Examples:
+    {{< figure src="/img/banner.jpg" alt="Banner" align="center" caption="Site banner." >}}
+    {{< figure src="local-image.png" alt="Chart" align="right" attr="Source: RRCHNM" attrlink="https://rrchnm.org" >}}
+*/ -}}
 {{ $align := .Get "align" | default "" }}
 {{ $alignClasses := "" }}
 {{ if eq $align "left" }}
