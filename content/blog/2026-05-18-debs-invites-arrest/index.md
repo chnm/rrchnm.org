@@ -9,7 +9,7 @@ slug: debs-invites-arrest
 title: Debs Invites Arrest
 featured_image: debs-mugshot.jpg
 tags:
-- teaching + learning
+- Teaching + Learning
 lede: The 1918 prosecution of Eugene Debs under the Espionage Act—and Justice Oliver Wendell Holmes's later change of mind—is the first moment explored in a new, four-module teaching guide on the contested history of free speech in America.
 ---
 
