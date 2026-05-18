@@ -1,0 +1,16 @@
+---
+authors:
+- "Stephen Robertson"
+categories:
+- news
+date: '2017-03-28T15:29:31Z'
+draft: false
+featured_image: /media/2017/03/ISTE.png
+slug: rrchnm-international-society-for-technology-in-education-conference
+tags:
+- rrchnm
+title: '06/28/2017: RRCHNM @ International Society for Technology in Education conference'
+---
+
+RRCHNM Graduate Research Assistant, Sara Collini, will present a poster session entitled "Eagle Eye Citizen: Interactive Engagement with Civics and History” at the [ISTE 2017](https://conference.iste.org/2017/glance/index.php) annual conference in San Antonio, TX.
+Come learn how solving and creating online challenges using Library of Congress primary sources can help students develop historical thinking skills and civic understanding.
