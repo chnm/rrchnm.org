@@ -1,6 +1,6 @@
 ---
 aliases:
-- /uncategorized/consolation-prize-a-new-podcast-from-igorj2.sg-host/
+- /uncategorized/consolation-prize-a-new-podcast-from-rrchnm/
 authors:
 - Mills Kelly
 categories:

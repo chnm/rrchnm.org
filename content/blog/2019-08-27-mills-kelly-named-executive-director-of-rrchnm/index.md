@@ -1,6 +1,6 @@
 ---
 aliases:
-- /news/mills-kelly-named-executive-director-of-igorj2.sg-host/
+- /news/mills-kelly-named-executive-director-of-rrchnm/
 authors:
 - "Lincoln Mullen"
 categories:

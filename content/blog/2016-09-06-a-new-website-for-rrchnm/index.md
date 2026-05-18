@@ -10,7 +10,7 @@ title: A New Website for RRCHNM
 featured_image: 4ead565fef1c56d88ffcd9c2f4f385bc-150x150.png
 ---
 
-Today we're officially launching a redesigned website for RRCHNM. We're also taking the opportunity to move it to an updated url: igorj2.sg-host.com.
+Today we're officially launching a redesigned website for RRCHNM. We're also taking the opportunity to move it to an updated url: rrchnm.org.
 The site's last major redesign was in 2008. As Dan Cohen noted at that time, a website redesign is "[is a painful and long process, full of compromises](http://www.dancohen.org/2008/10/19/chnm-then-and-now/)." This time around we did not attempt a full reimagining of the site, but rather the key focus was on presenting a clearer picture of the Center's organization, staff, and how to work with us.
 Visitors can now employ faceted search to explore our projects and get to know our staff, and use a form to contact us about collaborations and contract work. There is also a social media Hub that captures activity from across the Center's projects.
 The new site was designed by [Kim Nguyen](https://rrchnm.org/author/kim-nguyen/), building on initial work by [Chris Raymond](https://rrchnm.org/author/chris-raymond/).

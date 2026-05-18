@@ -1,6 +1,6 @@
 ---
 aliases:
-- /news/collecting-these-times-igorj2.sg-host-gathers-and-interprets-covid-19s-impact-on-american-judaism/
+- /news/collecting-these-times-rrchnm-gathers-and-interprets-covid-19s-impact-on-american-judaism/
 authors:
 - "Lincoln Mullen"
 categories:

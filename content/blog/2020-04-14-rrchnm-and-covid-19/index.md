@@ -1,6 +1,6 @@
 ---
 aliases:
-- /collecting-and-exhibiting/igorj2.sg-host-and-covid-19/
+- /collecting-and-exhibiting/rrchnm-and-covid-19/
 authors:
 - Mills Kelly
 categories:

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /about-rrchnm/new-directions-at-igorj2.sg-host/
+- /about-rrchnm/new-directions-at-rrchnm/
 authors:
 - Mills Kelly
 categories:

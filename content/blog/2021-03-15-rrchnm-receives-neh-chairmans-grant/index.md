@@ -1,6 +1,6 @@
 ---
 aliases:
-- /news/igorj2.sg-host-receives-neh-chairmans-grant/
+- /news/rrchnm-receives-neh-chairmans-grant/
 authors:
 - "Mills Kelly"
 categories:
