@@ -99,3 +99,4 @@ outputs:
   home:
     - HTML
     - JSON
+    - RSS
