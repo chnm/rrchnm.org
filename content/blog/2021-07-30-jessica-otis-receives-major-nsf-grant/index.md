@@ -2,13 +2,9 @@
 authors:
 - "Mills Kelly"
 categories:
-- News
+- news
 date: '2021-07-30T15:07:13Z'
-description: RRCHNM Professor and Director of Public Projects Jessica Otis has been
-  awarded $443,425 from the NSF to support her digital work on the history of the
-  plague in early…
 draft: false
-lastmod: '2022-03-25T21:59:59Z'
 slug: jessica-otis-receives-major-nsf-grant
 title: Jessica Otis Receives Major NSF Grant
 ---

@@ -2,10 +2,9 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2023-12-11T12:05:37Z'
 draft: false
-lastmod: '2023-12-11T12:13:31Z'
 slug: remembering-angel-david-nieves
 title: 'Remembering: Angel David Nieves'
 ---

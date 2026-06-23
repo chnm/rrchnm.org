@@ -2,10 +2,9 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2024-08-27T11:31:22Z'
 draft: false
-lastmod: '2024-08-27T11:32:10Z'
 slug: deepthi-murali-and-jason-heppler-receive-neh-funding-for-connecting-threads-project
 title: Deepthi Murali and Jason Heppler Receive NEH Funding for Connecting Threads
   Project

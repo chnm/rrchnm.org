@@ -2,14 +2,13 @@
 authors:
 - Brandon Tachco
 categories:
-- News
+- news
 date: '2023-11-11T11:31:17Z'
 draft: false
-lastmod: '2023-11-11T11:32:22Z'
 slug: a-veterans-day-salute-to-our-valued-partnership-with-the-defense-pow-mia-accounting-agency
 title: A Veteran’s Day Salute to our Valued Partnership with the Defense POW/MIA Accounting
 tags:
-- Partnerships
+- partnerships
 featured_image: DPAA-1-1024x681.png
 ---
 

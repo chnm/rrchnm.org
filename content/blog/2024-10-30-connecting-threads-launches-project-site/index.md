@@ -2,10 +2,9 @@
 authors:
 - "Deepthi Murali"
 categories:
-- News
+- news
 date: '2024-10-30T10:00:00Z'
 draft: false
-lastmod: '2024-10-30T10:19:08Z'
 slug: connecting-threads-launches-project-site
 title: Connecting Threads Launches Project Site
 featured_image: CT-Symposium-Group-Photo.jpg

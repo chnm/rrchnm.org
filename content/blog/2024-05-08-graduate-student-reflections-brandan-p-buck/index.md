@@ -4,14 +4,13 @@ aliases:
 authors:
 - Brandan Buck
 categories:
-- Post
+- post
 date: '2024-05-08T14:30:13Z'
 draft: false
-lastmod: '2024-05-09T13:14:27Z'
 slug: graduate-student-reflections-brandan-p-buck
 title: 'Graduate Student Reflections: Brandan P. Buck'
 tags:
-- Teaching + Learning
+- teaching + learning
 ---
 
 My name is Brandan P. Buck, and I am currently in my fifth year as a Ph.D. candidate in history at George Mason University and graduate research assistant at Roy Rosenzweig Center for History and New Media (RRCHNM), where I have spent four of the last five years of my Ph.D. program with Mason. In this, my final semester with the RRCHM, I thought I would share how my work here and the skills learned in the history department's "Cilo wired" series of digital history courses have afforded me invaluable skills for public-facing scholarship. Through this combination of experiences, I have learned how to work with and clean "messy" data, analyze it using computational and spatial methods, and present it to audiences through crisp and efficient visualizations. The skills gleaned here at RRCHMN, whether banal or advanced, have aided my dissertation project and helped me turn some of its findings into a portfolio of public-facing work for popular and scholarly audiences through my blog, opinion pieces, and several podcast appearances.

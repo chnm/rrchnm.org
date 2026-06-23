@@ -2,14 +2,13 @@
 authors:
 - Laura Brannan Fretwell
 categories:
-- Post
+- post
 date: '2024-06-20T10:15:44Z'
 draft: false
-lastmod: '2024-06-20T10:15:47Z'
 slug: graduate-student-reflections-teaching-dh
 title: 'Graduate Student Reflections: Teaching DH'
 tags:
-- Teaching + Learning
+- teaching + learning
 ---
 
 This 2024 spring semester at George Mason University, I was an instructor of record of HIST 390 “The Digital Past” course. This course satisfies the university’s Information Technology and Computing (IT) requirement and aims for undergraduate students to learn how to use digital tools to study the past. As a PhD history candidate at GMU and former digital history fellow at GMU’s Roy Rosenzweig Center for History and New Media (RRCHNM), I have strong experience in the field of digital history, and was excited for the opportunity to expand my research and technical skills through practical application and instruction in the classroom. Following university parameters around learning outcomes for this course, I designed my own syllabus and taught specific digital history topics regarding primary source research, the ethics of Artificial Intelligence, project management research workflows, and how to write historical analysis. Overall, teaching HIST 390 provided me an opportunity to reflect on what I have learned as a PhD student of digital history and develop a curriculum to instruct these skills to undergraduate students new to the field.

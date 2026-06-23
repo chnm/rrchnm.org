@@ -2,18 +2,17 @@
 authors:
 - Savannah Scott
 categories:
-- Post
+- post
 date: '2025-08-25T15:40:25Z'
 draft: false
-lastmod: '2025-08-25T15:40:26Z'
 slug: graduate-student-reflections-sustainability-summer
 title: 'Graduate Student Reflections: Sustainability Summer'
 featured_image:
 lede: PhD student Savannah Scott reflects on the challenges of flattening the 98,000-item 9/11 Digital Archive into a static site and building search for it.
 tags:
-- Research + Tools
-- Teaching + Learning
-- Sustainability
+- research + tools
+- teaching + learning
+- sustainability
 ---
 
 <aside>Savannah is a PhD student at George Mason University and a Graduate Research Assistant at RRCHNM.</aside>

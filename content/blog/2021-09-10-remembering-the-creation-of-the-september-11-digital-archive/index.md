@@ -2,13 +2,9 @@
 authors:
 - Mills Kelly
 categories:
-- Post
+- post
 date: '2021-09-10T13:49:13Z'
-description: Shortly after the September 11 attacks, the team here at the Center for
-  History and New Media, in collaboration with our partners at the American Social
-  History Project at CUNY…
 draft: false
-lastmod: '2022-03-25T21:59:19Z'
 slug: remembering-the-creation-of-the-september-11-digital-archive
 title: Remembering the Creation of the September 11 Digital Archive
 ---

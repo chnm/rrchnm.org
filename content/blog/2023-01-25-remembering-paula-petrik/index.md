@@ -2,21 +2,22 @@
 authors:
 - Mills Kelly
 categories:
-- Post
+- post
 date: '2023-01-25T13:00:00Z'
 draft: false
-lastmod: '2023-01-25T13:22:49Z'
 slug: remembering-paula-petrik
 title: Remembering Paula Petrik
 featured_image: Petrik_Paula-1-150x150.jpg
 ---
 
 {{< figure src="Petrik_Paula-1-150x150.jpg" alt="Black and white headshot of Paula Petrik." >}}
+
 Today we share the sad news that Professor Paula Petrik, our former colleague here at RRCHNM, has passed away at the age of 74 at her home in Montana.
 
 Paula was an early pioneer in digital history and was the author or co-author of several books and/or CD-ROMs in Western history, women’s history, and digital history. As a faculty member in the Department of History and Art History here at GMU, Paula taught a number of very popular courses and was the original instructor for the second course in our digital history sequence for PhD students.
 
 {{< figure src="Screen-Shot-2023-01-25-at-8.46.01-AM-1-225x300.png" alt="Screen grab of History 300 Historical Methods syllabus designed by Paula Petrik, designed with a western font and image of a cowboy and stars to emphasize the western focus of the course materials." >}}
+
 That course, which we affectionately called CLIO II, focused on web design and how historians can use the techniques of web design to communicate their research to a wide public audience. Paula was a demanding instructor, but anyone who took CLIO II came away from the experience with an acute appreciation for good (and bad) design and they were all better historians for the experience. Paula’s own syllabi were masterpieces of design. In fact, it’s probably fair to say that they were the most artful of any history syllabus our faculty has produced.
 
 She was also a powerful advocate for undergraduate research here at Mason and in the early days of our now award-winning OSCAR program, Paula was one of the faculty members who went out of her way to mentor undergraduates as they found their feet as researchers.

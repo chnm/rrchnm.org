@@ -2,17 +2,13 @@
 authors:
 - Stephen Robertson
 categories:
-- Post
+- post
 date: '2021-09-07T06:00:00Z'
-description: 'The Models of Argument-Driven Digital History website launched today:
-  find it here. It contains a set of published journal articles annotated by their
-  authors…'
 draft: false
-lastmod: '2022-03-25T21:59:33Z'
 slug: models-of-argument-driven-digital-history
 tags:
 - argument
-- Model Articles
+- model articles
 title: Models of Argument-Driven Digital History
 ---
 

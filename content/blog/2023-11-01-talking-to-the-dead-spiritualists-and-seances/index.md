@@ -2,10 +2,9 @@
 authors:
 - Caroline Greer
 categories:
-- Post
+- post
 date: '2023-11-01T13:29:23Z'
 draft: false
-lastmod: '2023-11-01T13:29:24Z'
 slug: talking-to-the-dead-spiritualists-and-seances
 title: 'Talking to the Dead: Spiritualists and Seances'
 featured_image: JPG_digitool_126485_Fox-sisters.jpg

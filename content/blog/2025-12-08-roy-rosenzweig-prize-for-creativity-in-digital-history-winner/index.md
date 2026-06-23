@@ -2,10 +2,9 @@
 authors:
 - "Paige Magoto"
 categories:
-- News
+- news
 date: '2025-12-08T14:19:17Z'
 draft: false
-lastmod: '2025-12-08T14:19:18Z'
 slug: roy-rosenzweig-prize-for-creativity-in-digital-history-winner
 title: Roy Rosenzweig Prize for Creativity in Digital History Winner
 featured_image: image.png

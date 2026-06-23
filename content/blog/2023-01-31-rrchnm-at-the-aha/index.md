@@ -2,10 +2,9 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2023-01-31T12:00:00Z'
 draft: false
-lastmod: '2023-01-31T11:47:57Z'
 slug: rrchnm-at-the-aha
 title: RRCHNM at the AHA
 featured_image: HTA-Poster-3-1024x768.jpg

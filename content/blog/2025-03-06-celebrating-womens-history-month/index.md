@@ -2,15 +2,14 @@
 authors:
 - RRCHNM
 categories:
-- Post
+- post
 date: '2025-03-06T14:27:33Z'
 draft: false
-lastmod: '2025-03-06T14:27:34Z'
 slug: celebrating-womens-history-month
 title: Celebrating Women's History Month
 tags:
-- Research + Tools
-- Teaching + Learning
+- research + tools
+- teaching + learning
 featured_image: AUSA-Show-Art.jpg
 ---
 

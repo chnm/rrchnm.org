@@ -2,10 +2,9 @@
 authors:
 - "Rachel Whyte"
 categories:
-- News
+- news
 date: '2024-11-12T10:00:00Z'
 draft: false
-lastmod: '2024-11-21T11:47:37Z'
 slug: religious-ecologies-project-releases-introductory-video
 title: Religious Ecologies Project Releases Introductory Video
 ---

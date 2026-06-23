@@ -2,15 +2,14 @@
 authors:
 - Lincoln Mullen
 categories:
-- Post
+- post
 date: '2021-02-18T15:50:58Z'
 draft: false
-lastmod: '2021-02-19T14:48:47Z'
 slug: documenting-sharing-and-learning-from-jewish-life-during-the-pandemic
 tags:
-- Collecting These Times
+- collecting these times
 - grant
-- Pandemic Religion
+- pandemic religion
 - wip
 title: Documenting, Sharing, and Learning from Jewish Life During the Pandemic
 ---

@@ -2,10 +2,9 @@
 authors:
 - "Luz A. Giraldo Mueller"
 categories:
-- News
+- news
 date: '2024-08-28T13:00:24Z'
 draft: false
-lastmod: '2024-08-28T13:12:24Z'
 slug: rrchnm-hosts-dh-2024-reinvention-and-responsibility
 title: 'RRCHNM Hosts DH 2024: Reinvention and Responsibility'
 featured_image: prez-3-1024x768.jpg

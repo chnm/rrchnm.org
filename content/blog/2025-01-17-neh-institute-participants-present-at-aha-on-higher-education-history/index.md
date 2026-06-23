@@ -2,15 +2,14 @@
 authors:
 - Nate Sleeter
 categories:
-- News
+- news
 date: '2025-01-17T11:00:00Z'
 draft: false
-lastmod: '2025-01-23T10:25:15Z'
 slug: neh-institute-participants-present-at-aha-on-higher-education-history
 title: NEH Institute Participants Present at AHA on Higher Education History
 tags:
-- Teaching + Learning
-- Events
+- teaching + learning
+- events
 featured_image: Screenshot_15-1-2025_103431_.jpeg
 ---
 
