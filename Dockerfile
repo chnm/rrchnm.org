@@ -8,9 +8,12 @@ ARG hugobuildargs
 ENV HUGO_BUILD_ARGS=$hugobuildargs
 
 WORKDIR /app
+
+COPY package.json package-lock.json ./
+RUN npm ci
+
 COPY . .
 
-RUN npm ci
 RUN hugo ${HUGO_BUILD_ARGS}
 
 FROM stagex/user-caddy
