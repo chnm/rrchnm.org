@@ -33,6 +33,7 @@
         {{ $isNews := false }}
         {{ with .Params.categories }}{{ range . }}{{ if eq . "News" }}{{ $isNews = true }}{{ end }}{{ end }}{{ end }}
         <div class="flex items-center gap-3 mb-2 text-xs uppercase tracking-wide">
+          {{ partial "preview-status.html" (dict "page" . "variant" "pill") }}
           <span class="text-stone-500">{{ .Date.Format "January 2, 2006" }}</span>
           {{ with .Params.categories }}
           {{ range . }}<span class="text-red-brand">{{ . }}</span>{{ end }}
