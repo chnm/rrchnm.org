@@ -24,7 +24,8 @@
         {{- if $isDraft -}}
           <strong>Draft</strong> — not yet published. Visible only on this preview site.
         {{- else -}}
-          <strong>Scheduled</strong> — publishes {{ (time.AsTime $page.PublishDate "America/New_York").Format "January 2, 2006 at 3:04 PM MST" }}. Visible only on this preview site; hidden on rrchnm.org until the next weekday build after that.
+          {{- $eastern := (time.AsTime "2000-01-01T00:00:00" "America/New_York").Location -}}
+          <strong>Scheduled</strong> — publishes {{ ($page.PublishDate.In $eastern).Format "January 2, 2006 at 3:04 PM MST" }}. Visible only on this preview site; hidden on rrchnm.org until the next weekday build after that.
         {{- end -}}
       </div>
     {{- end -}}
