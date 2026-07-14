@@ -3,7 +3,9 @@ name: "[rrchnm.org] Build, Release, Deploy"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 12 * * 1-5'
+    # Off the top of the hour: GitHub delays on-the-hour crons the most
+    # (11:08 UTC ≈ 7:08 a.m. EDT nominal; scheduled runs are best-effort).
+    - cron: '8 11 * * 1-5'
   push:
     branches:
       - "main"
