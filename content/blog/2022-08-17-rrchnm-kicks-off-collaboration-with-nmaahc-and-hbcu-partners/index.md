@@ -2,14 +2,13 @@
 authors:
 - Mills Kelly
 categories:
-- News
+- news
 date: '2022-08-17T11:00:00Z'
 draft: false
-lastmod: '2022-08-17T10:06:37Z'
 slug: rrchnm-kicks-off-collaboration-with-nmaahc-and-hbcu-partners
 title: RRCHNM Kicks Off Collaboration With NMAAHC and HBCU Partners
 tags:
-- Partnerships
+- partnerships
 featured_image: IMG_4574-1-1024x772.jpeg
 ---
 

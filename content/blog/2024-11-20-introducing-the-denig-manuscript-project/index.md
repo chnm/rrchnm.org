@@ -2,14 +2,13 @@
 authors:
 - Lincoln Mullen
 categories:
-- News
+- news
 date: '2024-11-20T09:59:41Z'
 draft: false
-lastmod: '2024-11-20T10:01:52Z'
 slug: introducing-the-denig-manuscript-project
 title: Introducing the Denig Manuscript Project
 tags:
-- Partnerships
+- partnerships
 featured_image: Winterthur-project-photo-e1732113123948.jpg
 ---
 

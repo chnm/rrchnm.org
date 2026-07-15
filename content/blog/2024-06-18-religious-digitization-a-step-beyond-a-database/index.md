@@ -2,10 +2,9 @@
 authors:
 - "Rachel Whyte"
 categories:
-- News
+- news
 date: '2024-06-18T09:00:22Z'
 draft: false
-lastmod: '2024-06-18T09:03:47Z'
 slug: religious-digitization-a-step-beyond-a-database
 title: 'Religious Digitization: A Step Beyond a Database'
 ---

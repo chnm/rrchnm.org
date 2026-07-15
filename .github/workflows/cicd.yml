@@ -3,14 +3,78 @@ name: "[rrchnm.org] Build, Release, Deploy"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 12 * * 1-5'
+    # Off the top of the hour: GitHub delays on-the-hour crons the most
+    # (11:08 UTC ≈ 7:08 a.m. EDT nominal; scheduled runs are best-effort).
+    - cron: '8 11 * * 1-5'
   push:
     branches:
       - "main"
       - "preview"
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      has_new: ${{ steps.scan.outputs.has_new }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: scan
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          python3 - << 'PY'
+          import os, re, sys
+          from datetime import datetime, timedelta, timezone
+          from pathlib import Path
+
+          # Non-schedule triggers (push, manual) always build.
+          if os.environ.get("EVENT_NAME") != "schedule":
+              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+                  f.write("has_new=true\n")
+              sys.exit(0)
+
+          now = datetime.now(timezone.utc)
+          # 4-day lookback covers the Fri→Mon cron gap.
+          since = now - timedelta(days=4)
+
+          # Hugo's canonical scheduling field. Case-insensitive because Hugo
+          # lowercases frontmatter keys internally. No fallback to `date`.
+          publish_date_re = re.compile(
+              r'^publishDate:\s*["\']?(.+?)["\']?\s*$',
+              re.MULTILINE | re.IGNORECASE,
+          )
+
+          def parse(value):
+              value = value.strip().strip("\"'")
+              try:
+                  return datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(timezone.utc)
+              except ValueError:
+                  pass
+              try:
+                  return datetime.strptime(value, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+              except ValueError:
+                  return None
+
+          newly_publishable = []
+          for root in ("content/blog", "content/publications"):
+              for path in Path(root).rglob("*.md"):
+                  m = publish_date_re.search(path.read_text(errors="replace"))
+                  if not m:
+                      continue
+                  dt = parse(m.group(1))
+                  if dt and since < dt <= now:
+                      newly_publishable.append((path, dt))
+
+          for path, dt in newly_publishable:
+              print(f"newly publishable: {path} ({dt.isoformat()})")
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"has_new={'true' if newly_publishable else 'false'}\n")
+          PY
+
   build-release:
+    needs: check
+    if: needs.check.outputs.has_new == 'true'
     uses: chnm/.github/.github/workflows/hugo--build-release.yml@main
     secrets: inherit
     with:

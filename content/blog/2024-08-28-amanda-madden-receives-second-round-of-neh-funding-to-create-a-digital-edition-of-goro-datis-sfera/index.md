@@ -2,10 +2,9 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2024-08-28T11:05:41Z'
 draft: false
-lastmod: '2024-08-28T11:05:42Z'
 slug: amanda-madden-receives-second-round-of-neh-funding-to-create-a-digital-edition-of-goro-datis-sfera
 title: Amanda Madden Receives Second Round of NEH Funding to Create a Digital Edition
   of Goro Dati’s Sfera

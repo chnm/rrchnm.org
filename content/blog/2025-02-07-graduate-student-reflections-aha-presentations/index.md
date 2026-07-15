@@ -2,10 +2,9 @@
 authors:
 - Rachel Whyte
 categories:
-- Post
+- post
 date: '2025-02-07T12:00:00Z'
 draft: false
-lastmod: '2025-02-03T15:06:46Z'
 slug: graduate-student-reflections-aha-presentations
 title: 'Graduate Student Reflections: AHA Presentations'
 featured_image: IMG_3673-1024x768.jpg

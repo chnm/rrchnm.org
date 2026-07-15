@@ -2,10 +2,9 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2023-07-14T10:00:00Z'
 draft: false
-lastmod: '2023-07-14T10:18:48Z'
 slug: rrchnm-to-host-dh2024-conference
 title: RRCHNM To Host DH2024 Conference
 ---

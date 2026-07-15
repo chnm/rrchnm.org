@@ -45,7 +45,7 @@
             <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" class="w-16 h-16 object-cover rounded shrink-0">
             <div>
               <h2 class="font-serif text-sm font-normal text-stone-900 leading-snug group-hover:text-red-brand transition-colors">{{ partial "smartify.html" .Title }}</h2>
-              <span class="text-xs text-stone-700 mt-1 flex items-center gap-2">{{ .Date.Format "Jan 2, 2006" }}{{ with .Params.categories }}{{ range . }}<span class="bg-red-brand/10 text-red-brand px-1.5 py-0.5 rounded text-[10px] font-semibold uppercase">{{ . }}</span>{{ end }}{{ end }}</span>
+              <span class="text-xs text-stone-700 mt-1 flex items-center gap-2">{{ .Date.Format "Jan 2, 2006" }}{{ with .Params.categories }}{{ range . }}<span class="bg-red-brand/10 text-red-brand px-1.5 py-0.5 rounded text-[10px] font-semibold uppercase">{{ . }}</span>{{ end }}{{ end }}{{ partial "preview-status.html" (dict "page" . "variant" "pill") }}</span>
             </div>
           </a>
           {{ end }}

@@ -1,0 +1,33 @@
+{{/*
+  preview-status.html — editor-only indicator for draft and future-scheduled posts.
+
+  Renders ONLY on the development/staging build (hugo.chnm.gmu.edu), which runs
+  with --buildDrafts --buildFuture. On production (rrchnm.org) these pages are
+  not built at all, and the hugo.Environment gate guarantees this indicator can
+  never appear there. `hugo server` (local preview) is also "development", so it
+  shows there too — which is what you want while writing.
+
+  Usage:
+    {{ partial "preview-status.html" (dict "page" . "variant" "banner") }}  full-width notice (post page)
+    {{ partial "preview-status.html" (dict "page" . "variant" "pill") }}    inline badge (list cards)
+*/}}
+{{- $page := .page -}}
+{{- $variant := .variant | default "banner" -}}
+{{- if eq hugo.Environment "development" -}}
+  {{- $isDraft := $page.Draft -}}
+  {{- $isFuture := $page.PublishDate.After (now) -}}
+  {{- if or $isDraft $isFuture -}}
+    {{- if eq $variant "pill" -}}
+      <span class="inline-block bg-amber-100 text-amber-900 border border-amber-300 px-1.5 py-0.5 rounded text-[10px] font-semibold uppercase tracking-wide">{{ if $isDraft }}Draft{{ else }}Scheduled{{ end }}</span>
+    {{- else -}}
+      <div class="not-prose bg-amber-100 border border-amber-300 text-amber-900 rounded-md px-4 py-3 mb-6 text-sm">
+        {{- if $isDraft -}}
+          <strong>Draft</strong> — not yet published. Visible only on this preview site.
+        {{- else -}}
+          {{- $eastern := (time.AsTime "2000-01-01T00:00:00" "America/New_York").Location -}}
+          <strong>Scheduled</strong> — publishes {{ ($page.PublishDate.In $eastern).Format "January 2, 2006 at 3:04 PM MST" }}. Visible only on this preview site; hidden on rrchnm.org until the next weekday build after that.
+        {{- end -}}
+      </div>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

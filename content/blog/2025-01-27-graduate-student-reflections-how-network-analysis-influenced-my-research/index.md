@@ -2,14 +2,13 @@
 authors:
 - Caroline Greer
 categories:
-- Post
+- post
 date: '2025-01-27T12:00:00Z'
 draft: false
-lastmod: '2025-01-27T11:12:51Z'
 slug: graduate-student-reflections-how-network-analysis-influenced-my-research
 title: 'Graduate Student Reflections: How Network Analysis Influenced My Research'
 tags:
-- Research + Tools
+- research + tools
 featured_image: image-1-771x1024.png
 ---
 

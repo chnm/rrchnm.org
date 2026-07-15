@@ -2,16 +2,15 @@
 authors:
 - Mills Kelly
 categories:
-- Post
+- post
 date: '2025-02-13T10:29:49Z'
 draft: false
-lastmod: '2025-02-13T10:31:05Z'
 slug: teaching-writing-and-research-with-ai
 title: Teaching, Writing, and Research with AI
 tags:
-- Research + Tools
-- Teaching + Learning
-- Generative AI
+- research + tools
+- teaching + learning
+- generative ai
 featured_image: Danish-postcard.jpg
 ---
 

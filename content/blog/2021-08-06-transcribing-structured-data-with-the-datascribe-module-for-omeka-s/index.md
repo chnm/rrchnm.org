@@ -2,13 +2,9 @@
 authors:
 - Janet Hammond
 categories:
-- Post
+- post
 date: '2021-08-06T10:10:56Z'
-description: DataScribe is an Omeka S module that helps ease laboriously detailed
-  transcription work. Created at RRCHNM and funded by the NEH, this module allows
-  users to complete…
 draft: false
-lastmod: '2022-03-25T21:59:46Z'
 slug: transcribing-structured-data-with-the-datascribe-module-for-omeka-s
 title: Transcribing Structured Data with the DataScribe Module for Omeka S
 featured_image: image-1.jpeg

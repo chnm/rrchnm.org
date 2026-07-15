@@ -2,10 +2,9 @@
 authors:
 - "RRCHNM"
 categories:
-- News
+- news
 date: '2024-04-16T09:45:50Z'
 draft: false
-lastmod: '2024-04-16T09:45:52Z'
 slug: rrchnm-receives-neh-grant-in-collaboration-with-seven-local-partners-for-digitization-of-civil-war-graffiti
 title: RRCHNM Receives NEH Grant in Collaboration with Seven Local Partners for Digitization
   of Civil War Graffiti

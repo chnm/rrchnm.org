@@ -2,10 +2,9 @@
 authors:
 - "Nate Sleeter"
 categories:
-- News
+- news
 date: '2024-05-14T10:35:06Z'
 draft: false
-lastmod: '2024-05-14T10:35:08Z'
 slug: aha-survey-finds-rrchnms-teachinghistory-org-and-history-matters-to-be-top-resources-for-k-12-teachers
 title: AHA Survey Finds RRCHNM’s Teachinghistory.org and History Matters to be Top
   Resources for K-12 Teachers
