@@ -12,7 +12,7 @@ tags:
 - test
 lede: "A throwaway test post demonstrating scheduled publishing and image attachment. Safe to delete."
 featured_image: placeholder.png
-_build:
+build:
   render: always
   list: never
 ---
@@ -38,7 +38,7 @@ The 9:00 UTC publish time is deliberately before the weekday build at 11:08
 UTC, so the very next scheduled run picks it up. See the publishing guide,
 section 9, for the full explanation.
 
-This post is also **unlisted**: a `_build` block in the front matter
+This post is also **unlisted**: a `build` block in the front matter
 (`render: always`, `list: never`) keeps it out of the blog index, homepage,
 RSS feed, sitemap, and search. It is only reachable at its direct URL
 (`/blog/scheduled-post-test/`), so the scheduling mechanism can be verified
