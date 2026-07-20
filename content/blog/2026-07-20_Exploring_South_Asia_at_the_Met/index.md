@@ -19,7 +19,7 @@ lede: "A preliminary computational analysis of 5,000+ MET objects reveals how So
 featured_image: met-south-asia-timeline.png
 ---
 
-*This article is republished with permission from Deepthi Murali. Originally published at https://www.deepthimurali.com/art-history-and-data/south-asia-at-the-met*
+Originally published at https://www.deepthimurali.com/art-history-and-data/south-asia-at-the-met
 
 ---
 
