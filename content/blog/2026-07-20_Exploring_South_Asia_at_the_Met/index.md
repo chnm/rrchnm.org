@@ -15,7 +15,6 @@ tags:
   - south asia
   - art history
 lede: "A preliminary computational analysis of 5,000+ MET objects reveals how South Asian art entered the collection — who donated it, when, and what happens to it now."
-featured_image: featured-image.jpg
 ---
 
 *This article is republished with permission from Deepthi Murali. Originally published at https://www.deepthimurali.com/art-history-and-data/south-asia-at-the-met*
