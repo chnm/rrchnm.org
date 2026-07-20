@@ -2,7 +2,8 @@
 title: "South Asia Collections at The Met: A Preliminary Computational Look"
 authors:
   - "Deepthi Murali"
-date: 2026-07-20
+date: 2026-06-14
+publishDate: 2026-07-20
 draft: false
 slug: exploring-south-asia-at-the-met-through-data
 categories:
