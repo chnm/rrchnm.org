@@ -15,6 +15,7 @@ tags:
   - south asia
   - art history
 lede: "A preliminary computational analysis of 5,000+ MET objects reveals how South Asian art entered the collection — who donated it, when, and what happens to it now."
+featured_image: met-south-asia-timeline.png
 ---
 
 *This article is republished with permission from Deepthi Murali. Originally published at https://www.deepthimurali.com/art-history-and-data/south-asia-at-the-met*
@@ -33,7 +34,7 @@ Some of the digital artifacts below are "clickable" and you can interact with th
 
 ## 1. The Timeline: Who Was Collecting, and When?
 
-[Interactive visualization placeholder: Stacked bar chart showing accessions from 1881-2023 with major collectors highlighted]
+{{< observable notebook="5a641adc46e15e8c" version="19" cell="container" height="676" apikey="85122c689efca86d4bf014327ce1064f0d52c02e" title="Met South Asia accessions timeline, 1881–2023, by collector" >}}
 
 The visualization above is an interactive stacked bar chart showing every accession year from 1881 to 2023, with eight named collectors highlighted against the broad category of "all other objects." Clicking any collector's button isolates their contribution against the timeline and opens a detail panel with further information about that collection.
 
@@ -41,7 +42,7 @@ What this view makes immediately visible is something that's easy to lose when r
 
 ## 2. The Detail View: How Objects Enter, and What They Bring
 
-[Interactive visualization placeholder: Detail panel showing acquisition mechanism and object classification by collector]
+{{< observable notebook="5a641adc46e15e8c" version="77" cell="collectorViz" height="474" apikey="85122c689efca86d4bf014327ce1064f0d52c02e" title="Acquisition mechanism and object classification by collector" >}}
 
 The detail panel that appears when you click a collector on the visualization above does two things side by side: it shows the *mechanism* by which that collection's objects entered (gift, bequest, museum-fund purchase, direct purchase), and it shows the *classification profile* of what they brought (sculpture, paintings, codices, jewelry, textiles, and so on).
 
@@ -51,7 +52,7 @@ The Eilenberg collection, for instance, is overwhelmingly Gift (231 objects) and
 
 ## 3. The Visibility Gap: What Happens After an Object Arrives
 
-[Interactive visualization placeholder: Flow diagram showing 4,521 objects distributed across departments and display vs. storage]
+{{< observable notebook="5a641adc46e15e8c" version="85" cell="southAsiaSankey" height="587" apikey="85122c689efca86d4bf014327ce1064f0d52c02e" title="Flow of 4,521 objects across departments and display vs. storage" >}}
 
 The third visualization above steps back from *how objects entered* to ask a different question: *where are they now?* It's a flow diagram tracing all 4,521 objects from their departmental homes — Asian Art, Islamic Art, Musical Instruments, European Sculpture and Decorative Arts, Arms and Armor, Costume Institute, and a residual "other departments" category — into one of two destinations: on display in a gallery, or in storage.
 
@@ -66,7 +67,3 @@ This is a preliminary post, and these are preliminary visualizations. The next s
 *This post is part of an ongoing project using open-access museum metadata to study the history of South Asian object collecting in North American museums. Data: Metropolitan Museum of Art Open Access initiative, filtered for objects associated with South Asia.*
 
 > ***Please do not use any material, text or image, from this blog post without explicit written permission.***
-
----
-
-### Tags: The Met, The Metropolitan Museum of Art, Digital Humanities, Computational History, Museums, Metadata, South Asia, India, South Asian Art History, Art History
