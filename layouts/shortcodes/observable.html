@@ -1,0 +1,37 @@
+{{- /*
+  Observable embed shortcode: renders a live Observable notebook cell in an
+  iframe (the notebook's compiled JS runs client-side, so the dataviz is
+  interactive — not a static image).
+
+  Usage — by parts (preferred, readable):
+    {{< observable notebook="5a641adc46e15e8c" version="19" cell="container"
+        height="676" apikey="..." title="Accessions timeline, 1881–2023" >}}
+
+  Usage — full embed URL (copy from Observable's "Embed" menu):
+    {{< observable src="https://observablehq.com/embed/5a641adc46e15e8c@19?cells=container" height="676" >}}
+
+  Params:
+    src      - full Observable embed URL (takes precedence over the parts below)
+    notebook - notebook id or @user/slug
+    version  - optional version pin (e.g. "19")
+    cell     - cell name to embed (maps to Observable's `cells=` param)
+    apikey   - embed API key, required for private/unlisted notebooks
+    height   - iframe height in px (default "600")
+    title    - accessible iframe title (default "Observable visualization")
+*/ -}}
+{{- $src := .Get "src" -}}
+{{- if not $src -}}
+  {{- $nb := .Get "notebook" -}}
+  {{- with .Get "version" -}}{{- $nb = printf "%s@%s" $nb . -}}{{- end -}}
+  {{- $q := slice -}}
+  {{- with .Get "cell" -}}{{- $q = $q | append (printf "cells=%s" .) -}}{{- end -}}
+  {{- with .Get "apikey" -}}{{- $q = $q | append (printf "api_key=%s" .) -}}{{- end -}}
+  {{- $src = printf "https://observablehq.com/embed/%s?%s" $nb (delimit $q "&") -}}
+{{- end -}}
+{{- $height := .Get "height" | default "600" -}}
+{{- $title := .Get "title" | default "Observable visualization" -}}
+<div class="not-prose my-8">
+  <iframe src="{{ $src | safeURL }}" title="{{ $title }}" width="100%" height="{{ $height }}"
+    frameborder="0" loading="lazy" allowfullscreen
+    class="w-full rounded-lg border border-stone-200 bg-white"></iframe>
+</div>
