@@ -573,7 +573,15 @@
   picture: "/media/headshots/rachel-whyte.png"
   url: ~
   published: true
-
+  
+- first_name: Amelia
+  last_name: Williams
+  job_title: Outreach Assistant
+  level: Part Time Staff
+  picture: "/media/headshots/Ameliapicture.png"
+  url: ~
+  published: true
+  
 - first_name: Ashleigh
   last_name: Williams
   job_title: Graduate Affiliate
