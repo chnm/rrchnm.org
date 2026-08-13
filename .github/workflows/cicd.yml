@@ -12,119 +12,45 @@ on:
       - "preview"
 
 jobs:
+  # Skips the rest of the run on cron days when nothing crossed its
+  # publishDate/expiryDate. Push and workflow_dispatch always pass.
   check:
-    runs-on: ubuntu-latest
+    uses: chnm/.github/.github/workflows/hugo--pre-flight-check.yml@main
     permissions:
       actions: read
       contents: read
-    outputs:
-      has_new: ${{ steps.scan.outputs.has_new }}
-    steps:
-      - uses: actions/checkout@v4
-      - id: scan
-        env:
-          EVENT_NAME: ${{ github.event_name }}
-          GITHUB_TOKEN: ${{ github.token }}
-        run: |
-          python3 - << 'PY'
-          import json, os, re, sys, urllib.request
-          from datetime import datetime, timedelta, timezone
-          from pathlib import Path
+    with:
+      content-roots: |
+        content/blog
+        content/publications
 
-          # Non-schedule triggers (push, manual) always build.
-          if os.environ.get("EVENT_NAME") != "schedule":
-              with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-                  f.write("has_new=true\n")
-              sys.exit(0)
-
-          now = datetime.now(timezone.utc)
-
-          # A post is "newly publishable" only if its publishDate passed since
-          # the previous successful scheduled run — that run already considered
-          # everything up to its own start time. Fall back to a 4-day lookback
-          # (covers the Fri→Mon gap and dropped best-effort crons) when the
-          # API is unreachable or there is no prior run.
-          since = now - timedelta(days=4)
-          try:
-              url = (
-                  f"{os.environ['GITHUB_API_URL']}/repos/{os.environ['GITHUB_REPOSITORY']}"
-                  "/actions/workflows/cicd.yml/runs?event=schedule&status=success&per_page=1"
-              )
-              req = urllib.request.Request(url, headers={
-                  "Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}",
-                  "Accept": "application/vnd.github+json",
-                  "X-GitHub-Api-Version": "2022-11-28",
-              })
-              with urllib.request.urlopen(req, timeout=10) as resp:
-                  runs = json.load(resp).get("workflow_runs", [])
-              if runs:
-                  since = datetime.fromisoformat(
-                      runs[0]["run_started_at"].replace("Z", "+00:00")
-                  ).astimezone(timezone.utc)
-                  print(f"since = last successful scheduled run: {since.isoformat()}")
-              else:
-                  print(f"no prior successful scheduled run; 4-day fallback: {since.isoformat()}")
-          except Exception as exc:
-              print(f"run-history lookup failed ({exc}); 4-day fallback: {since.isoformat()}")
-
-          # Hugo's canonical scheduling field. Case-insensitive because Hugo
-          # lowercases frontmatter keys internally. No fallback to `date`.
-          publish_date_re = re.compile(
-              r'^publishDate:\s*["\']?(.+?)["\']?\s*$',
-              re.MULTILINE | re.IGNORECASE,
-          )
-
-          def parse(value):
-              value = value.strip().strip("\"'")
-              try:
-                  return datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(timezone.utc)
-              except ValueError:
-                  pass
-              try:
-                  return datetime.strptime(value, "%Y-%m-%d").replace(tzinfo=timezone.utc)
-              except ValueError:
-                  return None
-
-          newly_publishable = []
-          for root in ("content/blog", "content/publications"):
-              for path in Path(root).rglob("*.md"):
-                  m = publish_date_re.search(path.read_text(errors="replace"))
-                  if not m:
-                      continue
-                  dt = parse(m.group(1))
-                  if dt and since < dt <= now:
-                      newly_publishable.append((path, dt))
-
-          for path, dt in newly_publishable:
-              print(f"newly publishable: {path} ({dt.isoformat()})")
-
-          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-              f.write(f"has_new={'true' if newly_publishable else 'false'}\n")
-          PY
-
-  build-release:
+  # Build, release, and deploy in one workflow. The release tarball is the
+  # deploy payload — the ansible playbook fetches it — so this no longer ships
+  # a container to the host the way the previous docker--deploy.yml step did.
+  hugo-build-release-deploy:
     needs: check
-    if: needs.check.outputs.has_new == 'true'
-    uses: chnm/.github/.github/workflows/hugo--build-release.yml@main
+    if: needs.check.outputs.should_build == 'true'
+    uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
     secrets: inherit
     with:
       container-registry: "ghcr.io"
       container-image-name: "rrchnm-website"
+
+      # Single Hugo site at the repository root, served from Caddy's /srv
+      # (not nginx's /usr/share/nginx/html/), so extract from /srv.
       hugo-context-root: "."
       hugo-content-path: "/srv"
       hugo-devl-url: "https://hugo.chnm.gmu.edu"
       hugo-prod-url: "https://rrchnm.org"
 
-      build-artifact-name: "rrchnm-website"
       release-tag-name-type: "iso"
 
-      website-devl-fqdn: "hugo.chnm.gmu.edu"
-      website-prod-fqdn: "rrchnm.org"
+      # The release is now load-bearing: the playbook fetches the artifact from
+      # it. build-artifact-name and tag-prefix are both intentionally unset, so
+      # this repo takes the shared defaults: the asset is hugo-build.tar.gz,
+      # tagged "hugo-build-main-<ts>" on main and "hugo-build-devl-<ts>" on
+      # every other ref. Releases are repo-scoped and the playbook resolves the
+      # repo from the target FQDN, so nothing in the release names this site.
 
-  deploy:
-    uses: chnm/.github/.github/workflows/docker--deploy.yml@main
-    needs: [build-release]
-    secrets: inherit
-    with:
       website-devl-fqdn: "hugo.chnm.gmu.edu"
       website-prod-fqdn: "rrchnm.org"
