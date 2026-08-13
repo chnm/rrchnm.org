@@ -33,13 +33,10 @@ jobs:
     uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
     secrets: inherit
     with:
-      container-registry: "ghcr.io"
-      container-image-name: "rrchnm-website"
 
       # Single Hugo site at the repository root, served from Caddy's /srv
       # (not nginx's /usr/share/nginx/html/), so extract from /srv.
       hugo-context-root: "."
-      hugo-content-path: "/srv"
       hugo-devl-url: "https://hugo.chnm.gmu.edu"
       hugo-prod-url: "https://rrchnm.org"
 
