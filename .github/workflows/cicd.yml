@@ -14,7 +14,7 @@ on:
 jobs:
   # Skips the rest of the run on cron days when nothing crossed its
   # publishDate/expiryDate. Push and workflow_dispatch always pass.
-  check:
+  pre-flight:
     uses: chnm/.github/.github/workflows/hugo--pre-flight-check.yml@main
     permissions:
       actions: read
@@ -28,8 +28,8 @@ jobs:
   # deploy payload — the ansible playbook fetches it — so this no longer ships
   # a container to the host the way the previous docker--deploy.yml step did.
   hugo-build-release-deploy:
-    needs: check
-    if: needs.check.outputs.should_build == 'true'
+    needs: pre-flight
+    if: needs.pre-flight.outputs.should_build == 'true'
     uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
     secrets: inherit
     with:
