@@ -138,7 +138,7 @@
   last_name: Cravey
   job_title: Graduate Affiliate
   level: ~
-  picture: ~
+  picture: "/media/headshots/savannah-cravey.jpg"
   url: ~
   published: false
 
@@ -218,9 +218,9 @@
   last_name: Harrington
   job_title: Graduate Affiliate
   level: ~
-  picture: ~
+  picture: "/media/headshots/maddy-harrington.jpeg"
   url: ~
-  published: false
+  published: true
 
 - first_name: Caitlin
   last_name: Hartweave
