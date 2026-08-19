@@ -140,7 +140,7 @@
   level: ~
   picture: "/media/headshots/savannah-cravey.jpg"
   url: ~
-  published: false
+  published: true
 
 - first_name: Jessica
   last_name: Dauterive
@@ -218,7 +218,7 @@
   last_name: Harrington
   job_title: Graduate Affiliate
   level: ~
-  picture: "/media/headshots/maddy-harrington.jpeg"
+  picture: "/media/headshots/maddy-harrington.jpg"
   url: ~
   published: true
 
