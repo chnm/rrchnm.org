@@ -134,6 +134,14 @@
   url: ~
   published: true
 
+- first_name: Savannah
+  last_name: Cravey
+  job_title: Graduate Affiliate
+  level: ~
+  picture: ~
+  url: ~
+  published: false
+
 - first_name: Jessica
   last_name: Dauterive
   job_title: Graduate Research Assistant
@@ -205,6 +213,14 @@
   picture: "/media/headshots/janet-hammond.jpeg"
   url: ~
   published: true
+
+- first_name: Maddy
+  last_name: Harrington
+  job_title: Graduate Affiliate
+  level: ~
+  picture: ~
+  url: ~
+  published: false
 
 - first_name: Caitlin
   last_name: Hartweave
@@ -360,8 +376,8 @@
 
 - first_name: Alexandra
   last_name: Miller
-  job_title: Graduate Research Assistant
-  level: Graduate Research Assistants
+  job_title: Graduate Affiliate
+  level: ~
   picture: "/media/headshots/alexandra-miller.jpg"
   url: ~
   published: true
@@ -496,8 +512,8 @@
 
 - first_name: Savannah
   last_name: Scott
-  job_title: Graduate Research Assistant
-  level: Graduate Research Assistants
+  job_title: Graduate Affiliate
+  level: ~
   picture: "/media/headshots/savannah-scott.jpg"
   url: ~
   published: true
