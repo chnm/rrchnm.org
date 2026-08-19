@@ -278,6 +278,14 @@
   url: ~
   published: false
 
+- first_name: Katie
+  last_name: Kania
+  job_title: Graduate Research Assistant
+  level: Graduate Research Assistants
+  picture: "/media/headshots/katie-kania.jpg"
+  url: ~
+  published: true
+
 - first_name: Matt
   last_name: Karush
   job_title: Department Chair
