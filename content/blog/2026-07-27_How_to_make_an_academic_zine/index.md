@@ -4,7 +4,7 @@ authors:
 - "Shae Corey"
 date: 2026-07-27
 publishDate: 2026-07-27
-draft: true
+draft: false
 slug: how-to-make-an-academic-zine-for-a-public-audience
 categories:
 - post
