@@ -20,7 +20,7 @@
   level: ~
   picture: "/media/headshots/david-armstrong.jpg"
   url: ~
-  published: true
+  published: false
 
 - first_name: Donna
   last_name: Baker
@@ -32,8 +32,8 @@
 
 - first_name: Rachel
   last_name: Birch
-  job_title: Graduate Affiliate
-  level: ~
+  job_title: Graduate Research Assistant
+  level: Graduate Research Assistants
   picture: "/media/headshots/rachel-birch.jpg"
   url: ~
   published: true
@@ -53,14 +53,6 @@
   picture: ~
   url: ~
   published: false
-
-- first_name: Cassandra
-  last_name: Britt Farrell
-  job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/cassandra-britt-farrell.jpeg"
-  url: ~
-  published: true
 
 - first_name: Brandan
   last_name: Buck
@@ -84,7 +76,7 @@
   level: ~
   picture: "/media/headshots/clarke-bursley.jpg"
   url: ~
-  published: true
+  published: false
 
 - first_name: Nicolette
   last_name: Cantillo
@@ -150,6 +142,14 @@
   url: ~
   published: false
 
+- first_name: Cassandra
+  last_name: Farrell
+  job_title: Graduate Affiliate
+  level: ~
+  picture: "/media/headshots/cassandra-farrell.jpeg"
+  url: ~
+  published: true
+
 - first_name: Georgia
   last_name: Ferrell
   job_title: Graduate Affiliate
@@ -200,8 +200,8 @@
 
 - first_name: Chapman
   last_name: Hall
-  job_title: Graduate Affiliate
-  level: ~
+  job_title: Graduate Research Assistant
+  level: Graduate Research Assistants
   picture: "/media/headshots/chapman-hall.jpg"
   url: ~
   published: true
@@ -212,13 +212,13 @@
   level: ~
   picture: "/media/headshots/janet-hammond.jpeg"
   url: ~
-  published: true
+  published: false
 
-- first_name: Maddy
+- first_name: Madelyn
   last_name: Harrington
   job_title: Graduate Affiliate
   level: ~
-  picture: "/media/headshots/maddy-harrington.jpg"
+  picture: "/media/headshots/madelyn-harrington.jpg"
   url: ~
   published: true
 
@@ -228,7 +228,7 @@
   level: ~
   picture: "/media/headshots/caitlin-hartweave.jpg"
   url: ~
-  published: true
+  published: false
 
 - first_name: Jason
   last_name: Heppler
@@ -268,7 +268,7 @@
   level: ~
   picture: "/media/headshots/makayla-johnson.jpg"
   url: ~
-  published: true
+  published: false
 
 - first_name: Igor
   last_name: Jovicic
@@ -316,7 +316,7 @@
   level: Graduate Research Assistants
   picture: "/media/headshots/timmia-king.jpg"
   url: ~
-  published: true
+  published: false
 
 - first_name: Alison
   last_name: Langford
@@ -332,7 +332,7 @@
   level: ~
   picture: "/media/headshots/hannah-lecomte.jpg"
   url: ~
-  published: true
+  published: false
 
 - first_name: Sharon
   last_name: Leon
