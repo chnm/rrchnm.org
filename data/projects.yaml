@@ -823,7 +823,7 @@
   active: true
   gallery: true
   featured_project: true
-  image: "/media/projects/teachinghistory-org/thumbnail-teaching-history.jpg"
+  image: "/media/projects/teachinghistory-org/thumbnail-teaching-history.png"
   categories:
     - "education"
 
