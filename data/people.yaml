@@ -2,622 +2,552 @@
   last_name: Albers
   job_title: Former Software Developer and Project Manager
   level: Full Time Staff
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Jim
   last_name: Ambuske
-  job_title: "Co-Head of R2 Studios"
+  job_title: Co-Head of R2 Studios
   level: Full Time Staff
-  picture: "/media/headshots/jim-ambuske.jpg"
-  url: ~
+  picture: /media/headshots/jim-ambuske.jpg
+  url: null
   published: false
-
 - first_name: David
   last_name: Armstrong
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/david-armstrong.jpg"
-  url: ~
+  level: null
+  picture: /media/headshots/david-armstrong.jpg
+  url: null
   published: false
-
 - first_name: Donna
   last_name: Baker
   job_title: Grants Administrator
   level: Professional Staff
-  picture: "/media/headshots/donna-baker.jpg"
-  url: ~
+  picture: /media/headshots/donna-baker.jpg
+  url: null
   published: true
-
 - first_name: Rachel
   last_name: Birch
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: "/media/headshots/rachel-birch.jpg"
-  url: ~
+  picture: /media/headshots/rachel-birch.jpg
+  url: null
   published: true
-
 - first_name: Laura
   last_name: Brannan Fretwell
-  job_title: ~
+  job_title: null
   level: Graduate Research Assistants
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Sheila
   last_name: Brennan
   job_title: Former Director of Strategic Initiatives
   level: Directors
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Brandan
   last_name: Buck
-  job_title: ~
+  job_title: null
   level: Graduate Research Assistants
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Bridget
   last_name: Bukovich
   job_title: Engagement Coordinator
   level: Full Time Staff
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Clarke
   last_name: Bursley
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/clarke-bursley.jpg"
-  url: ~
+  level: null
+  picture: /media/headshots/clarke-bursley.jpg
+  url: null
   published: false
-
 - first_name: Nicolette
   last_name: Cantillo
-  job_title: ~
+  job_title: null
   level: Directors
-  picture: "/media/headshots/nicolette-cantillo.jpg"
-  url: ~
+  picture: /media/headshots/nicolette-cantillo.jpg
+  url: null
   published: false
-
 - first_name: Anne
   last_name: Champlin
   job_title: Graduate Affiliate
-  level: ~
-  picture: ~
-  url: ~
+  level: null
+  picture: null
+  url: null
   published: false
-
 - first_name: Faolan
-  last_name: "Cheslack-Postava"
+  last_name: Cheslack-Postava
   job_title: Former Lead Zotero Developer
   level: Full Time Staff
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Dan
   last_name: Cohen
   job_title: Former Director
   level: Directors
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Gail
   last_name: Coleman
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/gail-coleman.jpg"
-  url: ~
+  level: null
+  picture: /media/headshots/gail-coleman.jpg
+  url: null
   published: true
-
 - first_name: Shae
   last_name: Corey
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: "/media/headshots/shae-corey.jpg"
-  url: ~
+  picture: /media/headshots/shae-corey.jpg
+  url: null
   published: false
-
 - first_name: Savannah
   last_name: Cravey
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/savannah-cravey.jpg"
-  url: ~
+  level: null
+  picture: /media/headshots/savannah-cravey.jpg
+  url: null
   published: true
-
 - first_name: Jessica
   last_name: Dauterive
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Cassandra
   last_name: Farrell
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/cassandra-farrell.jpeg"
-  url: ~
+  level: null
+  picture: /media/headshots/cassandra-farrell.jpeg
+  url: null
   published: true
-
 - first_name: Georgia
   last_name: Ferrell
   job_title: Graduate Affiliate
-  level: ~
-  picture: ~
-  url: ~
+  level: null
+  picture: null
+  url: null
   published: false
-
 - first_name: John
   last_name: Flatness
   job_title: Former Senior Software Developer
   level: Full Time Staff
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Joan
   last_name: Fragaszy Troyano
   job_title: Former Research Assistant Professor
   level: Directors
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Luz A.
   last_name: Giraldo Mueller
-  job_title: ~
+  job_title: null
   level: Full Time Staff
-  picture: "/media/headshots/luz-giraldo-mueller.jpg"
-  url: ~
+  picture: /media/headshots/luz-giraldo-mueller.jpg
+  url: null
   published: false
-
 - first_name: Caroline
   last_name: Greer
-  job_title: ~
+  job_title: null
   level: Full Time Staff
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Ronny
   last_name: Grundig
   job_title: Gerda Henkel Postdoctoral Fellow
   level: Postdoctoral Fellows
-  picture: "/media/headshots/ronny-grundig.jpg"
-  url: ~
+  picture: /media/headshots/ronny-grundig.jpg
+  url: null
   published: true
-
 - first_name: Chapman
   last_name: Hall
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: "/media/headshots/chapman-hall.jpg"
-  url: ~
+  picture: /media/headshots/chapman-hall.jpg
+  url: null
   published: true
-
 - first_name: Janet
   last_name: Hammond
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/janet-hammond.jpeg"
-  url: ~
+  level: null
+  picture: /media/headshots/janet-hammond.jpeg
+  url: null
   published: false
-
 - first_name: Madelyn
   last_name: Harrington
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/madelyn-harrington.jpg"
-  url: ~
+  level: null
+  picture: /media/headshots/madelyn-harrington.jpg
+  url: null
   published: true
-
 - first_name: Caitlin
   last_name: Hartweave
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/caitlin-hartweave.jpg"
-  url: ~
+  level: null
+  picture: /media/headshots/caitlin-hartweave.jpg
+  url: null
   published: false
-
 - first_name: Jason
   last_name: Heppler
   job_title: Senior Developer/Scholar
   level: Professional Staff
-  picture: "/media/headshots/jason-heppler.webp"
-  url: "https://jasonheppler.org"
+  picture: /media/headshots/jason-heppler.webp
+  url: https://jasonheppler.org
   published: true
-
 - first_name: Daniel
   last_name: Howlett
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Janine
   last_name: Hubai
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/janine-hubai.jpg"
-  url: ~
+  level: null
+  picture: /media/headshots/janine-hubai.jpg
+  url: null
   published: true
-
 - first_name: Kristin
   last_name: Jacobsen
-  job_title: ~
+  job_title: null
   level: Full Time Staff
-  picture: "/media/headshots/kristin-jacobsen.jpg"
-  url: ~
+  picture: /media/headshots/kristin-jacobsen.jpg
+  url: null
   published: false
-
 - first_name: Makayla
   last_name: Johnson
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/makayla-johnson.jpg"
-  url: ~
+  level: null
+  picture: /media/headshots/makayla-johnson.jpg
+  url: null
   published: false
-
 - first_name: Igor
   last_name: Jovicic
-  job_title: ~
+  job_title: null
   level: Full Time Staff
-  picture: "/media/headshots/igor-jovicic.jpg"
-  url: ~
+  picture: /media/headshots/igor-jovicic.jpg
+  url: null
   published: false
-
 - first_name: Katie
   last_name: Kania
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: "/media/headshots/katie-kania.jpg"
-  url: ~
+  picture: /media/headshots/katie-kania.jpg
+  url: null
   published: true
-
 - first_name: Matt
   last_name: Karush
   job_title: Department Chair
   level: Leadership
-  picture: "/media/headshots/matt-karush.jpg"
-  url: ~
+  picture: /media/headshots/matt-karush.jpg
+  url: null
   published: true
-
-- first_name: "God's Will"
+- first_name: God's Will
   last_name: Katchoua
   job_title: Systems Administrator
   level: Full Time Staff
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Mills
   last_name: Kelly
   job_title: Emeritus Faculty and Former Director
-  level: "Faculty & Emeritus"
-  picture: "/media/headshots/mills-kelly.jpg"
-  url: ~
+  level: Faculty & Emeritus
+  picture: /media/headshots/mills-kelly.jpg
+  url: null
   published: false
-
 - first_name: Timmia
   last_name: King
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: "/media/headshots/timmia-king.jpg"
-  url: ~
+  picture: /media/headshots/timmia-king.jpg
+  url: null
   published: false
-
 - first_name: Alison
   last_name: Langford
   job_title: Office Administrator
   level: Professional Staff
-  picture: "/media/headshots/alison-langford.jpg"
-  url: ~
+  picture: /media/headshots/alison-langford.jpg
+  url: null
   published: true
-
 - first_name: Hannah
   last_name: LeComte
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/hannah-lecomte.jpg"
-  url: ~
+  level: null
+  picture: /media/headshots/hannah-lecomte.jpg
+  url: null
   published: false
-
 - first_name: Sharon
   last_name: Leon
   job_title: Former Director of Public Projects
   level: Affiliates
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Amanda
   last_name: Madden
   job_title: Affiliate Faculty
-  level: "Faculty & Emeritus"
-  picture: "/media/headshots/amanda-madden.jpg"
-  url: ~
+  level: Faculty & Emeritus
+  picture: /media/headshots/amanda-madden.jpg
+  url: null
   published: true
-
 - first_name: Paige
   last_name: Magoto
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: "/media/headshots/paige-magoto.jpeg"
-  url: ~
+  picture: /media/headshots/paige-magoto.jpeg
+  url: null
   published: true
-
 - first_name: Jeny
   last_name: Martinez
   job_title: Former Office Manager
   level: Directors
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Kendall
   last_name: McCann
-  job_title: ~
+  job_title: null
   level: Graduate Research Assistants
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Douglas
   last_name: McRae
-  job_title: ~
+  job_title: null
   level: Full Time Staff
-  picture: "/media/headshots/douglas-mcrae.jpg"
-  url: ~
+  picture: /media/headshots/douglas-mcrae.jpg
+  url: null
   published: false
-
 - first_name: Alexandra
   last_name: Miller
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/alexandra-miller.jpg"
-  url: ~
+  level: null
+  picture: /media/headshots/alexandra-miller.jpg
+  url: null
   published: true
-
 - first_name: Jennifer
   last_name: Mills
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/jennifer-mills.jpeg"
-  url: ~
+  level: null
+  picture: /media/headshots/jennifer-mills.jpeg
+  url: null
   published: true
-
 - first_name: Lincoln
   last_name: Mullen
   job_title: Director
   level: Leadership
-  picture: "/media/headshots/lincoln-mullen.jpg"
+  picture: /media/headshots/lincoln-mullen.jpg
   url: https://lincolnmullen.com
   published: true
-
 - first_name: Deepthi
   last_name: Murali
   job_title: Affiliate Faculty
-  level: "Faculty & Emeritus"
-  picture: "/media/headshots/deepthi-murali.jpg"
-  url: ~
+  level: Faculty & Emeritus
+  picture: /media/headshots/deepthi-murali.jpg
+  url: null
   published: true
-
 - first_name: Kim
   last_name: Nguyen
   job_title: Former Lead Web Designer
   level: Full Time Staff
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Brianna
   last_name: Nuñez
   job_title: Former Research Assistant
   level: Graduate Research Assistants
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Mike
-  last_name: "O'Malley"
+  last_name: O'Malley
   job_title: Affiliate Faculty
-  level: "Faculty & Emeritus"
-  picture: "/media/headshots/mike-omalley.jpg"
-  url: ~
+  level: Faculty & Emeritus
+  picture: /media/headshots/mike-omalley.jpg
+  url: null
   published: true
-
 - first_name: Jessica
   last_name: Otis
   job_title: Associate Director
   level: Leadership
-  picture: "/media/headshots/jessica-otis.jpg"
-  url: ~
+  picture: /media/headshots/jessica-otis.jpg
+  url: null
   published: true
-
 - first_name: Jeanette
   last_name: Patrick
   job_title: R2 Studios Producer
   level: Full Time Staff
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: John
   last_name: Peyton
   job_title: Graduate Affiliate
-  level: ~
-  picture: ~
-  url: ~
+  level: null
+  picture: null
+  url: null
   published: false
-
 - first_name: Lauren
   last_name: Rever
-  job_title: ~
+  job_title: null
   level: Full Time Staff
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Stephen
   last_name: Robertson
   job_title: Associate Director
   level: Leadership
-  picture: "/media/headshots/stephen-robertson.png"
-  url: ~
+  picture: /media/headshots/stephen-robertson.png
+  url: null
   published: true
-
 - first_name: Jennifer
   last_name: Rosenfeld
   job_title: Former Associate Director of Educational Projects
   level: Full Time Staff
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Roy
   last_name: Rosenzweig
-  job_title: "Founder and Director (1950–2007)"
+  job_title: Founder and Director (1950–2007)
   level: Historical Figure
-  picture: "/media/headshots/roy-rosenzweig.jpg"
-  url: ~
+  picture: /media/headshots/roy-rosenzweig.jpg
+  url: null
   published: false
-
 - first_name: Jim
   last_name: Safley
   job_title: Former Senior Software Developer and Metadata Specialist
   level: Full Time Staff
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Tom
   last_name: Scheinfeldt
-  job_title: "Former Director-at-Large"
+  job_title: Former Director-at-Large
   level: Directors
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
+- first_name: Zachary
+  last_name: Schrag
+  job_title: Affiliate Faculty
+  level: Faculty & Emeritus
+  picture: /media/headshots/zachary-schrag.jpg
+  url: null
+  published: true
 - first_name: Kelly
   last_name: Schrum
   job_title: Affiliate Faculty
-  level: "Faculty & Emeritus"
-  picture: "/media/headshots/kelly-schrum.jpg"
-  url: ~
+  level: Faculty & Emeritus
+  picture: /media/headshots/kelly-schrum.jpg
+  url: null
   published: true
-
 - first_name: Savannah
   last_name: Scott
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/savannah-scott.jpg"
-  url: ~
+  level: null
+  picture: /media/headshots/savannah-scott.jpg
+  url: null
   published: true
-
 - first_name: Nate
   last_name: Sleeter
   job_title: Associate Director
   level: Leadership
-  picture: "/media/headshots/nate-sleeter.jpg"
-  url: ~
+  picture: /media/headshots/nate-sleeter.jpg
+  url: null
   published: true
-
 - first_name: Annabelle
   last_name: Spencer
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: "/media/headshots/annabelle-spencer.png"
-  url: ~
+  picture: /media/headshots/annabelle-spencer.png
+  url: null
   published: true
-
 - first_name: Greta
   last_name: Swain
   job_title: Graduate Research Assistant
   level: Graduate Research Assistants
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Brandon
   last_name: Tachco
-  job_title: ~
+  job_title: null
   level: Graduate Research Assistants
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Sean
   last_name: Takats
   job_title: Former Director of Research Projects
   level: Affiliates
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Tony
   last_name: Trinh
   job_title: Systems Administrator
   level: Professional Staff
-  picture: "/media/headshots/tony-trinh.png"
-  url: ~
+  picture: /media/headshots/tony-trinh.png
+  url: null
   published: true
-
 - first_name: John
   last_name: Turner
   job_title: Affiliate Faculty
-  level: "Faculty & Emeritus"
-  picture: "/media/headshots/john-turner.jpg"
-  url: ~
+  level: Faculty & Emeritus
+  picture: /media/headshots/john-turner.jpg
+  url: null
   published: true
-
 - first_name: Gwendolyn
   last_name: White
   job_title: Former Project Manager
   level: Full Time Staff
-  picture: ~
-  url: ~
+  picture: null
+  url: null
   published: false
-
 - first_name: Rachel
   last_name: Whyte
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/rachel-whyte.png"
-  url: ~
+  level: null
+  picture: /media/headshots/rachel-whyte.png
+  url: null
   published: true
-  
 - first_name: Amelia
   last_name: Williams
   job_title: Outreach Assistant
   level: Part Time Staff
-  picture: "/media/headshots/Ameliapicture.png"
-  url: ~
+  picture: /media/headshots/Ameliapicture.png
+  url: null
   published: true
-  
 - first_name: Ashleigh
   last_name: Williams
   job_title: Graduate Affiliate
-  level: ~
-  picture: "/media/headshots/ashleigh-williams.jpeg"
-  url: ~
+  level: null
+  picture: /media/headshots/ashleigh-williams.jpeg
+  url: null
   published: true
-
 - first_name: John
   last_name: Winters
   job_title: DPAA Postdoctoral Fellow
   level: Postdoctoral Fellows
-  picture: "/media/headshots/john-winters.jpg"
-  url: ~
+  picture: /media/headshots/john-winters.jpg
+  url: null
   published: true
