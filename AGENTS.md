@@ -106,7 +106,7 @@ rrchnm.org/
 ├── hugo.yaml                 # Hugo site configuration
 ├── tailwind.config.js        # Tailwind theme (colors, fonts, typography)
 ├── postcss.config.js         # PostCSS plugins (tailwindcss, autoprefixer)
-├── Dockerfile                # Multi-stage: Hugo build → Nginx serving
+├── Dockerfile                # Multi-stage: Hugo build → Caddy serving
 └── package.json              # Node.js dependencies and scripts
 ```
 
@@ -122,7 +122,7 @@ graph TD
     B --> C[Hugo Build]
     D[Tailwind CSS + PostCSS] --> C
     C -->|hugo --minify| E[Static HTML/CSS/JS in public/]
-    E --> F[Docker: Nginx Alpine]
+    E --> F[Docker: Caddy]
     F --> G[rrchnm.org]
 ```
 
@@ -133,7 +133,7 @@ graph TD
 3. Hugo templates in `layouts/` render content into HTML
 4. Tailwind CSS is processed via PostCSS during Hugo's asset pipeline
 5. `hugo --minify` produces optimized static files in `public/`
-6. Docker packages the output into an Nginx container
+6. Docker packages the output into a Caddy container (serves `public/` from `/srv`)
 7. GitHub Actions CI/CD builds and deploys on push to `main` or `preview`
 
 ### Template Hierarchy
@@ -192,7 +192,7 @@ just build           # hugo --minify → outputs to public/
 ```bash
 docker build -t rrchnm-website .
 ```
-The Dockerfile runs a multi-stage build: Hugo Extended on Alpine builds the site, then copies `public/` to Nginx Alpine. A symlink `/img → /assets/img` maintains backward compatibility for old image paths.
+The Dockerfile runs a multi-stage build: a Node.js build stage runs Hugo Extended, then the output `public/` is copied into a Caddy image (`stagex/user-caddy`) and served from `/srv` on port 80. The embedded Caddyfile imports `redirects.caddy` and rewrites `/img/*` → `/assets/img/*` for backward compatibility with old image paths.
 
 ### CI/CD
 
