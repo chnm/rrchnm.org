@@ -101,7 +101,7 @@ rrchnm.org/
 │   │   ├── reports/          # Annual report PDFs
 │   │   └── grad/             # Graduate education images
 │   ├── img/                  # Site assets (logos, favicon, default images)
-│   └── _redirects            # URL redirect rules
+│   └── redirects.caddy       # Legacy URL redirect rules (imported by Caddy)
 ├── scripts/                  # Python utilities (project crawling, frontmatter cleanup)
 ├── hugo.yaml                 # Hugo site configuration
 ├── tailwind.config.js        # Tailwind theme (colors, fonts, typography)
@@ -244,7 +244,7 @@ GitHub Actions workflow (`.github/workflows/cicd.yml`):
 ### Important Context
 - Goldmark renderer has `unsafe: true` enabled, so raw HTML in Markdown is intentional and expected
 - Homepage has Lorem ipsum placeholder text that will be replaced with final editorial copy
-- The `static/_redirects` file handles URL redirects including `/our-work/` → `/projects/`
+- The `static/redirects.caddy` file handles legacy URL redirects (WordPress → Hugo). Hugo copies it into `public/`, and the Dockerfile's Caddyfile pulls it in with `import /srv/redirects.caddy`. It covers section moves (`/news/*` → `/blog/*`, `/essays/*` → `/publications/*`, `/portfolio-item/*` → `/projects/`), page moves (`/our-work/` → `/projects/`, `/our-people/` → `/people/`), and the ~100 old project landing pages → `/projects/`
 - Docker build creates a symlink `/img → /assets/img` for backward compatibility with old WordPress image paths
 - The content section directory is `content/our-work/` but it is served at `/projects/` via `url:` override in `_index.md`
 - Social icons in `layouts/partials/social-icons.html` only render when a URL is configured

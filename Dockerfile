@@ -38,6 +38,12 @@ COPY <<'EOF' /etc/caddy/Caddyfile
 	root * /srv
 	encode gzip zstd
 
+	# Legacy URL redirects (301) from the pre-Hugo WordPress site. Caddy orders
+	# `map` + `redir` ahead of `rewrite`/`file_server`, so matched paths redirect
+	# before a 404. redirects.caddy lives in Hugo's static/, so it ships inside
+	# public/ (the release artifact) and lands here at /srv/redirects.caddy.
+	import /srv/redirects.caddy
+
 	# Backward compatibility: /img/* serves from /assets/img/*
 	rewrite /img/* /assets{uri}
 

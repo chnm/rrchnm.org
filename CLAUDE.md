@@ -95,7 +95,13 @@ Key settings in `hugo.yaml`:
 
 ### URL Redirects
 
-Static redirects configured in `static/_redirects`, including `/our-work/` → `/projects/`.
+Legacy redirects (301) live in `static/redirects.caddy`. Hugo copies the file from `static/` into `public/` on build, and the Dockerfile's Caddyfile imports it with `import /srv/redirects.caddy`, so redirects are evaluated before `file_server` returns a 404.
+
+The file has two parts:
+- A `map {path} {redirect_target}` block for exact-path one-offs: page moves (`/our-work/` → `/projects/`, `/our-people/` → `/people/`, `/about/` → `/our-story/`), essay slug fixes, and the ~100 legacy WordPress project landing pages (all → `/projects/`). Its `redir` is emitted first, so these entries win over the section patterns.
+- `path_regexp` section patterns that preserve the slug across a whole WordPress section: `/news/<slug>` → `/blog/<slug>`, `/essays?/<slug>` → `/publications/<slug>`, `/research-and-tools/<slug>` → `/blog/<slug>`, `/tag/<x>` → `/tags/<x>`, `/category/<x>` → `/categories/<x>`, `/portfolio-item/*` → `/projects/`, feeds → `/blog/index.xml`, etc.
+
+The legacy inventory was reconstructed from the Wayback Machine capture of the pre-Hugo WordPress site (host `rrchnm.org`). Validate changes with `caddy adapt` (or `caddy fmt`) before committing. Note: only ~90 of the ~410 old `/news/` posts exist in the current Hugo blog, so unmigrated `/news/<slug>` URLs 301 to a Hugo 404 — expected, and matches the prior production rules.
 
 ### Project Status
 
