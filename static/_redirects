@@ -1,6 +1,0 @@
-# Redirects generated from WordPress Redirection plugin
-# Format: source target status
-
-/affiliates-alumni /affiliates 301
-/our-work/ /projects/ 301
-/our-work/* /projects/ 301

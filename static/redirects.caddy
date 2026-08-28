@@ -1,0 +1,388 @@
+# redirects.caddy — legacy URL redirects for rrchnm.org (301).
+#
+# Imported by the Caddyfile in the repo Dockerfile via `import /srv/redirects.caddy`.
+# Hugo copies this file from static/ into public/, which ships as the deploy
+# artifact and lands at /srv/redirects.caddy in the runtime image.
+#
+# Two mechanisms, evaluated in this order by Caddy (map runs before redir; the
+# redir directives fire in source order, first match wins):
+#   1. An exact-path `map` for one-off page moves, slug fixes, and the ~100
+#      legacy WordPress project landing pages (all -> /projects/). Because this
+#      block's redir is emitted first, its entries override the section
+#      patterns below (e.g. the essay slug fixes beat the generic /essays/ rule).
+#   2. `path_regexp` section patterns that preserve the slug across a whole
+#      WordPress section (news -> blog, essays -> publications, etc.).
+#
+# Source of truth for the legacy inventory: the Wayback Machine capture of the
+# pre-Hugo WordPress site (web.archive.org, host rrchnm.org). Note: only ~90 of
+# the ~410 old /news/ posts exist in the current Hugo blog, so unmigrated
+# /news/<slug> URLs 301 to a Hugo 404 — this matches the prior production rules.
+
+map {path} {redirect_target} {
+	default ""
+
+	# --- About / organization pages -> /our-story/ ---
+	/about /our-story/
+	/about/ /our-story/
+	/about-rrchnm /our-story/
+	/about-rrchnm/ /our-story/
+	/our-history /our-story/
+	/our-history/ /our-story/
+	/who-we-are /our-story/
+	/who-we-are/ /our-story/
+	/what-we-do /our-story/
+	/what-we-do/ /our-story/
+	/who-we-work-with /our-story/
+	/who-we-work-with/ /our-story/
+	/contact-us /our-story/
+	/contact-us/ /our-story/
+	/our-story/contact-us /our-story/
+	/our-story/contact-us/ /our-story/
+	/our-story/history /our-story/
+	/our-story/history/ /our-story/
+	/supporters /our-story/
+	/supporters/ /our-story/
+	/our-story/supporters /our-story/
+	/our-story/supporters/ /our-story/
+	/annual-report /our-story/
+	/annual-report/ /our-story/
+	/annual-reports /our-story/
+	/annual-reports/ /our-story/
+	/our-story/annual-reports /our-story/
+	/our-story/annual-reports/ /our-story/
+	/awards /our-story/
+	/awards/ /our-story/
+	/roy-rosenzweig-prize-recipients /our-story/
+	/roy-rosenzweig-prize-recipients/ /our-story/
+	/rrchnm20 /our-story/
+	/rrchnm20/ /our-story/
+	/jobs /our-story/
+	/jobs/ /our-story/
+	/collaborate /our-story/
+	/collaborate/ /our-story/
+	/circle /our-story/
+	/circle/ /our-story/
+	/requests /our-story/
+	/requests/ /our-story/
+	/donate /our-story/
+	/donate/ /our-story/
+	/donate-test /our-story/
+	/donate-test/ /our-story/
+
+	# --- People ---
+	/our-people /people/
+	/our-people/ /people/
+	/chnmstaff /people/
+	/chnmstaff/ /people/
+	/affiliates /people/
+	/affiliates/ /people/
+	/affiliates-alumni /people/
+	/affiliates-alumni/ /people/
+
+	# --- Graduate education ---
+	/digital-public-humanities-graduate-certificate /graduate-student-education/
+	/digital-public-humanities-graduate-certificate/ /graduate-student-education/
+	/apply-now-for-the-online-graduate-certificate-in-digital-public-humanities /graduate-student-education/
+	/apply-now-for-the-online-graduate-certificate-in-digital-public-humanities/ /graduate-student-education/
+
+	# --- Publications: "Digital History and Argument" white paper ---
+	/argument-white-paper /publications/digital-history-and-argument-white-paper/
+	/argument-white-paper/ /publications/digital-history-and-argument-white-paper/
+	/argument-white--paper /publications/digital-history-and-argument-white-paper/
+	/argument-white--paper/ /publications/digital-history-and-argument-white-paper/
+
+	# --- Essay slug fixes (override the generic /essay(s)/<slug> pattern) ---
+	/essays/american-digital-history-2 /publications/american-digital-history/
+	/essays/american-digital-history-2/ /publications/american-digital-history/
+	/essay/american-digital-history-2 /publications/american-digital-history/
+	/essay/american-digital-history-2/ /publications/american-digital-history/
+	/essays/arguing-with-digital-history-working-group-digital-history-and-argument-white-paper /publications/digital-history-and-argument-white-paper/
+	/essays/arguing-with-digital-history-working-group-digital-history-and-argument-white-paper/ /publications/digital-history-and-argument-white-paper/
+	/essay/arguing-with-digital-history-working-group-digital-history-and-argument-white-paper /publications/digital-history-and-argument-white-paper/
+	/essay/arguing-with-digital-history-working-group-digital-history-and-argument-white-paper/ /publications/digital-history-and-argument-white-paper/
+	/essays/using-technology-making-history-a-collaborative-experiment-in-interdisciplinary-teaching-and-scholarship /publications/using-technology-making-history-a-collaborative-experiment-in-interdisciplinary-eaching-and-scholarship/
+	/essays/using-technology-making-history-a-collaborative-experiment-in-interdisciplinary-teaching-and-scholarship/ /publications/using-technology-making-history-a-collaborative-experiment-in-interdisciplinary-eaching-and-scholarship/
+	/essay/using-technology-making-history-a-collaborative-experiment-in-interdisciplinary-teaching-and-scholarship /publications/using-technology-making-history-a-collaborative-experiment-in-interdisciplinary-eaching-and-scholarship/
+	/essay/using-technology-making-history-a-collaborative-experiment-in-interdisciplinary-teaching-and-scholarship/ /publications/using-technology-making-history-a-collaborative-experiment-in-interdisciplinary-eaching-and-scholarship/
+
+	# --- Legacy WordPress project landing pages -> /projects/ gallery ---
+	/100-leaders /projects/
+	/100-leaders/ /projects/
+	/abmc-burials-and-memorials /projects/
+	/abmc-burials-and-memorials/ /projects/
+	/a-liberian-journey /projects/
+	/a-liberian-journey/ /projects/
+	/amboyna-conspiracy-trial /projects/
+	/amboyna-conspiracy-trial/ /projects/
+	/american-history-now /projects/
+	/american-history-now/ /projects/
+	/american-religious-ecologies /projects/
+	/american-religious-ecologies/ /projects/
+	/anthologize /projects/
+	/anthologize/ /projects/
+	/art-at-mason /projects/
+	/art-at-mason/ /projects/
+	/bracero-history-archive /projects/
+	/bracero-history-archive/ /projects/
+	/building-a-digital-portfolio /projects/
+	/building-a-digital-portfolio/ /projects/
+	/building-histories-of-the-national-mall /projects/
+	/building-histories-of-the-national-mall/ /projects/
+	/building-the-washington-metro /projects/
+	/building-the-washington-metro/ /projects/
+	/child-custody-project /projects/
+	/child-custody-project/ /projects/
+	/children-and-youth-in-history /projects/
+	/children-and-youth-in-history/ /projects/
+	/collecting-these-times /projects/
+	/collecting-these-times/ /projects/
+	/collections-continue-to-grow-in-september-11th-digital-archive /projects/
+	/collections-continue-to-grow-in-september-11th-digital-archive/ /projects/
+	/creating-local-linkages /projects/
+	/creating-local-linkages/ /projects/
+	/critical-infrastructure-protection-oral-history-project /projects/
+	/critical-infrastructure-protection-oral-history-project/ /projects/
+	/current-research-in-digital-history /projects/
+	/current-research-in-digital-history/ /projects/
+	/datascribe /projects/
+	/datascribe/ /projects/
+	/death-by-numbers /projects/
+	/death-by-numbers/ /projects/
+	/declaration-of-independence-by-translation /projects/
+	/declaration-of-independence-by-translation/ /projects/
+	/digital-history-a-guide-to-gathering-preserving-and-presenting-the-past-on-the-web /projects/
+	/digital-history-a-guide-to-gathering-preserving-and-presenting-the-past-on-the-web/ /projects/
+	/digital-humanities-for-art-historians-getty-foundation-2014-summer-institute /projects/
+	/digital-humanities-for-art-historians-getty-foundation-2014-summer-institute/ /projects/
+	/digital-humanities-now /projects/
+	/digital-humanities-now/ /projects/
+	/discover-diplomacy /projects/
+	/discover-diplomacy/ /projects/
+	/doing-digital-history-neh-odh-summer-institute /projects/
+	/doing-digital-history-neh-odh-summer-institute/ /projects/
+	/dwight-d-eisenhower-memorial-educational-materials /projects/
+	/dwight-d-eisenhower-memorial-educational-materials/ /projects/
+	/eagle-eye-citizen /projects/
+	/eagle-eye-citizen/ /projects/
+	/echo /projects/
+	/echo/ /projects/
+	/everyday-americans /projects/
+	/everyday-americans/ /projects/
+	/exploring-us-history /projects/
+	/exploring-us-history/ /projects/
+	/folger-digital-anthology /projects/
+	/folger-digital-anthology/ /projects/
+	/fords-theatre-videos /projects/
+	/fords-theatre-videos/ /projects/
+	/for-us-the-living /projects/
+	/for-us-the-living/ /projects/
+	/for-virginians-government-matters /projects/
+	/for-virginians-government-matters/ /projects/
+	/george-mason-basketball-digital-memory-bank /projects/
+	/george-mason-basketball-digital-memory-bank/ /projects/
+	/graffiti-houses /projects/
+	/graffiti-houses/ /projects/
+	/gulag-many-days-many-lives /projects/
+	/gulag-many-days-many-lives/ /projects/
+	/hidden-in-plain-sight /projects/
+	/hidden-in-plain-sight/ /projects/
+	/historical-diplomacy-simulations /projects/
+	/historical-diplomacy-simulations/ /projects/
+	/historical-thinking-matters /projects/
+	/historical-thinking-matters/ /projects/
+	/histories-of-the-national-mall /projects/
+	/histories-of-the-national-mall/ /projects/
+	/history-matters /projects/
+	/history-matters/ /projects/
+	/hurricane-digital-memory-bank /projects/
+	/hurricane-digital-memory-bank/ /projects/
+	/hypertext-scholarship-in-american-studies /projects/
+	/hypertext-scholarship-in-american-studies/ /projects/
+	/imaging-the-french-revolution /projects/
+	/imaging-the-french-revolution/ /projects/
+	/imls-funds-opening-omeka-for-close-and-distant-reading /projects/
+	/imls-funds-opening-omeka-for-close-and-distant-reading/ /projects/
+	/liberty-equality-fraternity-exploring-the-french-revolution /projects/
+	/liberty-equality-fraternity-exploring-the-french-revolution/ /projects/
+	/making-the-history-of-1989 /projects/
+	/making-the-history-of-1989/ /projects/
+	/mapping-early-american-elections /projects/
+	/mapping-early-american-elections/ /projects/
+	/mapping-early-american-elections-begins-with-neh-funding /projects/
+	/mapping-early-american-elections-begins-with-neh-funding/ /projects/
+	/mapping-the-university /projects/
+	/mapping-the-university/ /projects/
+	/martha-washington-a-life /projects/
+	/martha-washington-a-life/ /projects/
+	/miners-son-life-of-george-harvan /projects/
+	/miners-son-life-of-george-harvan/ /projects/
+	/mobile-musems /projects/
+	/mobile-musems/ /projects/
+	/mozilla-digital-memory-bank /projects/
+	/mozilla-digital-memory-bank/ /projects/
+	/mt-vernon-professional-development-toolkit /projects/
+	/mt-vernon-professional-development-toolkit/ /projects/
+	/national-history-day /projects/
+	/national-history-day/ /projects/
+	/object-of-history /projects/
+	/object-of-history/ /projects/
+	/omeka /projects/
+	/omeka/ /projects/
+	/omeka- /projects/
+	/omeka-/ /projects/
+	/omeka-net /projects/
+	/omeka-net/ /projects/
+	/omekaplatform /projects/
+	/omekaplatform/ /projects/
+	/one-week-one-tool /projects/
+	/one-week-one-tool/ /projects/
+	/one-week-one-tool-2 /projects/
+	/one-week-one-tool-2/ /projects/
+	/pandemic-religion /projects/
+	/pandemic-religion/ /projects/
+	/papers-of-the-war-department /projects/
+	/papers-of-the-war-department/ /projects/
+	/playing-history /projects/
+	/playing-history/ /projects/
+	/popular-romance /projects/
+	/popular-romance/ /projects/
+	/pressforward /projects/
+	/pressforward/ /projects/
+	/probing-the-past-virginia-and-maryland-probate-inventories /projects/
+	/probing-the-past-virginia-and-maryland-probate-inventories/ /projects/
+	/resounding-the-archives /projects/
+	/resounding-the-archives/ /projects/
+	/rrchnm-to-create-educational-materials-for-eisenhower-e-memorial /projects/
+	/rrchnm-to-create-educational-materials-for-eisenhower-e-memorial/ /projects/
+	/russian-history-blog /projects/
+	/russian-history-blog/ /projects/
+	/scholarly-organization-websites /projects/
+	/scholarly-organization-websites/ /projects/
+	/scripto /projects/
+	/scripto/ /projects/
+	/sea-of-liberty /projects/
+	/sea-of-liberty/ /projects/
+	/serendip-o-matic-2 /projects/
+	/serendip-o-matic-2/ /projects/
+	/shapell-manuscript-foundation-teaching-resources /projects/
+	/shapell-manuscript-foundation-teaching-resources/ /projects/
+	/south-africa-archive /projects/
+	/south-africa-archive/ /projects/
+	/teachers-selected-for-understanding-sacrifice-wwii-in-the-pacific /projects/
+	/teachers-selected-for-understanding-sacrifice-wwii-in-the-pacific/ /projects/
+	/teaching-american-history /projects/
+	/teaching-american-history/ /projects/
+	/teaching-hidden-history /projects/
+	/teaching-hidden-history/ /projects/
+	/teachinghistory-org /projects/
+	/teachinghistory-org/ /projects/
+	/thatcamp /projects/
+	/thatcamp/ /projects/
+	/the-amboyna-conspiracy-trial-website /projects/
+	/the-amboyna-conspiracy-trial-website/ /projects/
+	/the-hub /projects/
+	/the-hub/ /projects/
+	/the-lost-museum /projects/
+	/the-lost-museum/ /projects/
+	/the-networked-curator /projects/
+	/the-networked-curator/ /projects/
+	/the-pilbara-aboriginal-strike /projects/
+	/the-pilbara-aboriginal-strike/ /projects/
+	/the-september-11-digital-archive /projects/
+	/the-september-11-digital-archive/ /projects/
+	/through-the-doors-of-stratford /projects/
+	/through-the-doors-of-stratford/ /projects/
+	/transatlantic-encounters /projects/
+	/transatlantic-encounters/ /projects/
+	/tropy /projects/
+	/tropy/ /projects/
+	/understanding-sacrifice /projects/
+	/understanding-sacrifice/ /projects/
+	/unveiling-history /projects/
+	/unveiling-history/ /projects/
+	/virginia-400 /projects/
+	/virginia-400/ /projects/
+	/virginia-studies /projects/
+	/virginia-studies/ /projects/
+	/webwise /projects/
+	/webwise/ /projects/
+	/women-in-world-history /projects/
+	/women-in-world-history/ /projects/
+	/world-history-commons /projects/
+	/world-history-commons/ /projects/
+	/world-history-matters /projects/
+	/world-history-matters/ /projects/
+	/world-history-sources /projects/
+	/world-history-sources/ /projects/
+	/zotero /projects/
+	/zotero/ /projects/
+}
+
+# Fire the exact-path redirect when the map produced a target. Emitted first so
+# these one-off mappings win over the section patterns that follow.
+@hasRedirect expression `{redirect_target} != ""`
+redir @hasRedirect {redirect_target} 301
+
+# --- Feeds: any WordPress feed -> the blog feed ---
+@feeds path_regexp ^/(.*/)?feed/?$
+redir @feeds /blog/index.xml 301
+
+# --- WordPress sitemaps -> Hugo sitemap ---
+@wpsitemap path_regexp ^/wp-sitemap[^/]*\.xml$
+redir @wpsitemap /sitemap.xml 301
+
+# --- News + events archive and pagination -> blog listing ---
+# (Must precede the /news/<slug> rule so /news/page/N/ is not treated as a slug.)
+@newslist path_regexp ^/(news|news-events)(/page/[0-9]+)?/?$
+redir @newslist /blog/ 301
+
+# --- News posts -> blog (slug preserved) ---
+@news path_regexp news ^/news/([^/]+)/?$
+redir @news /blog/{re.news.1}/ 301
+
+# --- Research & Tools posts -> blog (slug preserved) ---
+@researchtools path_regexp researchtools ^/research-and-tools/([^/]+)/?$
+redir @researchtools /blog/{re.researchtools.1}/ 301
+
+# --- Essays (singular or plural) -> publications (slug preserved) ---
+@essays path_regexp essays ^/essays?/([^/]+)/?$
+redir @essays /publications/{re.essays.1}/ 301
+
+# --- About-RRCHNM posts (blog announcements) -> blog listing ---
+# (Bare /about-rrchnm/ is handled by the map above -> /our-story/.)
+@aboutrrchnm path_regexp ^/about-rrchnm/.+
+redir @aboutrrchnm /blog/ 301
+
+# --- Other legacy news-ish sections -> blog listing ---
+@blogish path_regexp ^/(funders-awards|sidelights|events|episodes)(/.*)?$
+redir @blogish /blog/ 301
+
+# --- Old date-based archives -> blog listing ---
+@datearchive path_regexp ^/(19|20)[0-9]{2}(/.*)?$
+redir @datearchive /blog/ 301
+
+# --- Author archives -> blog listing (Hugo has no author taxonomy) ---
+@author path_regexp ^/author/.+
+redir @author /blog/ 301
+
+# --- Tag archives -> Hugo tags (slug preserved) ---
+@tag path_regexp tag ^/tag/([^/]+)/?$
+redir @tag /tags/{re.tag.1}/ 301
+
+# --- Category archives -> Hugo categories (slug preserved) ---
+@category path_regexp cat ^/category/([^/]+)/?$
+redir @category /categories/{re.cat.1}/ 301
+
+# --- WordPress portfolio (projects) -> projects gallery ---
+@portfolio path_regexp ^/(portfolio-item|portfolio-category)(/.*)?$
+redir @portfolio /projects/ 301
+
+# --- Old projects taxonomy, /our-work/, and defunct microsites -> projects gallery ---
+# /projects/.+ requires a sub-path so the live /projects/ listing is untouched.
+@oldprojects path_regexp ^/(projects/.+|our-work|our-work/.*|labs|labs/.*|mobile-for-museums|mobile-for-museums/.*|robertson|robertson/.*|courses|courses/.*)$
+redir @oldprojects /projects/ 301
+
+# --- 20th-anniversary microsite sub-pages -> our story ---
+# (Bare /20th/ and /rrchnm20/ are handled by the map above.)
+@anniversary path_regexp ^/(20th|rrchnm20)/.+
+redir @anniversary /our-story/ 301

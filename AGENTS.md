@@ -101,12 +101,12 @@ rrchnm.org/
 │   │   ├── reports/          # Annual report PDFs
 │   │   └── grad/             # Graduate education images
 │   ├── img/                  # Site assets (logos, favicon, default images)
-│   └── _redirects            # URL redirect rules
+│   └── redirects.caddy       # Legacy URL redirect rules (imported by Caddy)
 ├── scripts/                  # Python utilities (project crawling, frontmatter cleanup)
 ├── hugo.yaml                 # Hugo site configuration
 ├── tailwind.config.js        # Tailwind theme (colors, fonts, typography)
 ├── postcss.config.js         # PostCSS plugins (tailwindcss, autoprefixer)
-├── Dockerfile                # Multi-stage: Hugo build → Nginx serving
+├── Dockerfile                # Multi-stage: Hugo build → Caddy serving
 └── package.json              # Node.js dependencies and scripts
 ```
 
@@ -122,7 +122,7 @@ graph TD
     B --> C[Hugo Build]
     D[Tailwind CSS + PostCSS] --> C
     C -->|hugo --minify| E[Static HTML/CSS/JS in public/]
-    E --> F[Docker: Nginx Alpine]
+    E --> F[Docker: Caddy]
     F --> G[rrchnm.org]
 ```
 
@@ -133,7 +133,7 @@ graph TD
 3. Hugo templates in `layouts/` render content into HTML
 4. Tailwind CSS is processed via PostCSS during Hugo's asset pipeline
 5. `hugo --minify` produces optimized static files in `public/`
-6. Docker packages the output into an Nginx container
+6. Docker packages the output into a Caddy container (serves `public/` from `/srv`)
 7. GitHub Actions CI/CD builds and deploys on push to `main` or `preview`
 
 ### Template Hierarchy
@@ -192,7 +192,7 @@ just build           # hugo --minify → outputs to public/
 ```bash
 docker build -t rrchnm-website .
 ```
-The Dockerfile runs a multi-stage build: Hugo Extended on Alpine builds the site, then copies `public/` to Nginx Alpine. A symlink `/img → /assets/img` maintains backward compatibility for old image paths.
+The Dockerfile runs a multi-stage build: a Node.js build stage runs Hugo Extended, then the output `public/` is copied into a Caddy image (`stagex/user-caddy`) and served from `/srv` on port 80. The embedded Caddyfile imports `redirects.caddy` and rewrites `/img/*` → `/assets/img/*` for backward compatibility with old image paths.
 
 ### CI/CD
 
@@ -244,7 +244,7 @@ GitHub Actions workflow (`.github/workflows/cicd.yml`):
 ### Important Context
 - Goldmark renderer has `unsafe: true` enabled, so raw HTML in Markdown is intentional and expected
 - Homepage has Lorem ipsum placeholder text that will be replaced with final editorial copy
-- The `static/_redirects` file handles URL redirects including `/our-work/` → `/projects/`
+- The `static/redirects.caddy` file handles legacy URL redirects (301, WordPress → Hugo). Hugo copies it into `public/`, and the Dockerfile's Caddyfile pulls it in with `import /srv/redirects.caddy`, so redirects run before `file_server` returns a 404. It has two parts, ordered so the exact-path entries win: a `map {path} {redirect_target}` block for one-off page moves (`/our-work/` → `/projects/`, `/our-people/` → `/people/`, `/about/` → `/our-story/`), essay slug fixes, and the ~100 old WordPress project landing pages (all → `/projects/`); then `path_regexp` section patterns that preserve the slug across a section (`/news/<slug>` → `/blog/<slug>`, `/essays?/<slug>` → `/publications/<slug>`, `/research-and-tools/<slug>` → `/blog/<slug>`, `/tag/<x>` → `/tags/<x>`, `/category/<x>` → `/categories/<x>`, `/portfolio-item/*` → `/projects/`, feeds → `/blog/index.xml`). The legacy inventory was reconstructed from the Wayback Machine capture of the pre-Hugo site (host `rrchnm.org`). Validate edits with `caddy adapt`/`caddy fmt` before committing. Caveat: only ~90 of the ~410 old `/news/` posts exist in the current Hugo blog, so unmigrated `/news/<slug>` URLs 301 to a Hugo 404 (expected, matches the prior production rules)
 - Docker build creates a symlink `/img → /assets/img` for backward compatibility with old WordPress image paths
 - The content section directory is `content/our-work/` but it is served at `/projects/` via `url:` override in `_index.md`
 - Social icons in `layouts/partials/social-icons.html` only render when a URL is configured
