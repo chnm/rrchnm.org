@@ -77,7 +77,7 @@ params:
     - /img/founder.jpg
   default_image: "/img/default-blog.jpeg"
   donate_url: "https://securemason.gmu.edu/s/1564/GID2/16/19-giving.aspx?sid=1564&gid=2&pgid=7958&cid=1709&bledit=1&sort=1&dids=318.822.534&appealcode=26SS10"
-  newsletter_url: "https://airtable.com/appCTQZLKPTyIa83B/shr4EDv3YKjl3NdZD"
+  newsletter_url: "https://airtable.com/appCTQZLKPTyIa83B/pagjzyVO8V9mlzsfV/form"
   social:
     - name: Bluesky
       url: "https://bsky.app/profile/rrchnm.bsky.social"
