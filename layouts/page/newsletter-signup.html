@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="max-w-2xl mx-auto text-center py-12 lg:py-20">
+  <div class="flex items-center justify-center w-16 h-16 mx-auto mb-6 rounded-full bg-red-brand/10 text-red-brand" aria-hidden="true">
+    <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+    </svg>
+  </div>
+
+  <h1 class="font-serif text-3xl lg:text-4xl text-stone-900 mb-4">Thanks for signing up!</h1>
+  <p class="text-lg text-stone-600 mb-10">You’re on the list. We’ll keep you up to date on the latest news, projects, and publications from RRCHNM.</p>
+
+  <div class="flex flex-wrap justify-center gap-4">
+    <a href="/" class="inline-block bg-red-brand hover:bg-red-dark text-white text-sm font-semibold px-6 py-3 rounded-md transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-brand">Return home</a>
+    <a href="/blog/" class="inline-block border border-stone-300 hover:border-stone-400 text-stone-700 text-sm font-semibold px-6 py-3 rounded-md transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-brand">Read the blog</a>
+    <a href="/projects/" class="inline-block border border-stone-300 hover:border-stone-400 text-stone-700 text-sm font-semibold px-6 py-3 rounded-md transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-brand">Explore our projects</a>
+  </div>
+</div>
+{{ end }}
