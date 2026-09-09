@@ -1,6 +1,6 @@
 ---
 title: "An Ocean of HTML"
-date: 2025-09-09T15:00:00Z
+date: 2026-09-09T15:00:00Z
 draft: false
 slug: an-ocean-of-html
 author_name: "Alexandra Miller"
@@ -8,7 +8,7 @@ authors:
   - "Alexandra Miller"
 categories:
   - post
-featured_image: image1.png
+featured_image: image4.webp
 lede: "Graduate Research Assistant Alexandra Miller reflects on building a Twine game to teach students about the cosmopolitan world of ports and ships in the age of sail."
 tags:
   - games
@@ -28,15 +28,15 @@ The game is set around the year 1812. In the game, players build a character, en
 
 What this means on the practical level is that to write an introduction to a character and get them on a ship going somewhere, I had to do a lot of reading. I needed to identify the major ports in this period for British merchant traders, plot the sailing distance between each of them, identify what the most popular merchant vessels were, find the names of every British merchant vessel sailing in the period of this game (fortunately there is a [website featuring every merchant ship ever embarked](https://threedecks.org/index.php?display_type=ships_search)), calculate the standard merchant marine wages for sailors with varying ethnicities and levels of experience and trade knowledge, and, most time consuming of all, research what names would be most common for male and male-presenting people of every ethnicity/national origin combination possible in the game.
 
-![](/media/blog/an-ocean-of-html/image1.png)
+![](/media/blog/an-ocean-of-html/image1.webp)
 
-![](/media/blog/an-ocean-of-html/image2.png)
+![](/media/blog/an-ocean-of-html/image2.webp)
 
 *In these screenshots, the player has created a character who is a young adult Black man from Canton, China who knows no trade and has no experience as a sailor. Players start by building a character, choosing their national origin, age, gender, city of origin, dependents, knowledge of a trade, experience on a ship, ethnicity, motivation for joining a sailing crew, and objective in first speaking to a captain (passage, work, lodging).*
 
 When players first open the game, they are greeted by a landing page welcoming them to the game world and guiding them through creating a character.
 
-![](/media/blog/an-ocean-of-html/image3.png)
+![](/media/blog/an-ocean-of-html/image3.webp)
 
 *This is the landing page of Learning the Ropes. Players begin by creating a character before commissioning with a ship and sailing.*
 
@@ -48,7 +48,7 @@ I also compiled a list of random events which might befall a sailor at sea or in
 
 For each variation in every random event, I conducted research into how the event would have felt and been treated by sailors. I also did some research for color. For example, if a privateer ship or navy ship pursues your vessel, you learn the name of that ship. I found a [list of every British naval vessel at work in this period](https://sites.rootsweb.com/~pbtyc/18-1900/Index.html) and used that for the navy ship's name, and I found a [list of every American vessel licensed for privateering](https://www.1812privateers.org/United_States/index.html) and used that to generate the navy and privateer ship names. As an easter egg, because there was a naval vessel sailing a few decades after the game period named the Alexandra (that's me!), I included a painting of that ship which would appear if its name were randomly generated.
 
-![](/media/blog/an-ocean-of-html/image4.png)
+![](/media/blog/an-ocean-of-html/image4.webp)
 
 *H.M.S. Alexandra, Flag ship of Vice Admiral G.T.P. Hornby, Mediterranean. 1874. National Maritime Museum, Greenwich, London.*
 
