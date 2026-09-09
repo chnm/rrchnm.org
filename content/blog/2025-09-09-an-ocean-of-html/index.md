@@ -1,6 +1,6 @@
 ---
 title: "An Ocean of HTML"
-date: 2025-09-09T15:00:00Z
+date: 2026-09-09T15:00:00Z
 draft: false
 slug: an-ocean-of-html
 author_name: "Alexandra Miller"
