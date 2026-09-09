@@ -8,7 +8,7 @@ authors:
   - "Alexandra Miller"
 categories:
   - post
-featured_image: image4.webp
+featured_image: featured-image.webp
 lede: "Graduate Research Assistant Alexandra Miller reflects on building a Twine game to teach students about the cosmopolitan world of ports and ships in the age of sail."
 tags:
   - games
