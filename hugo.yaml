@@ -1,6 +1,6 @@
 baseURL: "https://rrchnm.org/"
 title: "Roy Rosenzweig Center for History and New Media"
-languageCode: "en-us"
+locale: "en-us"
 
 markup:
   goldmark:

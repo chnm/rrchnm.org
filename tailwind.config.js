@@ -31,6 +31,8 @@ module.exports = {
             '--tw-prose-links': theme('colors.red.brand'),
             '--tw-prose-bold': theme('colors.stone.900'),
             maxWidth: 'none',
+            'code::before': { content: 'none' },
+            'code::after': { content: 'none' },
           },
         },
       }),
