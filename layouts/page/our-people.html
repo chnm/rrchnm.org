@@ -5,7 +5,7 @@
 </div>
 {{ end }}
 
-{{ $published := where .Site.Data.people "published" true }}
+{{ $published := where hugo.Data.people "published" true }}
 {{ $sorted := sort $published "last_name" "asc" }}
 
 <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6">

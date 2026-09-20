@@ -7,7 +7,7 @@
   </div>
   {{ end }}
 
-  {{ $data := where .Site.Data.projects "gallery" false }}
+  {{ $data := where hugo.Data.projects "gallery" false }}
   {{ $data = sort $data "title" }}
   {{/* Collect all unique categories */}}
   {{ $allTags := slice }}

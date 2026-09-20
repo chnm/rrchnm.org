@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{/* Hero — two columns: lede (2/3) + The Latest (1/3) */}}
-{{ $featuredProjects := where .Site.Data.projects "featured_project" true }}
+{{ $featuredProjects := where hugo.Data.projects "featured_project" true }}
 {{ $featuredProjects = sort $featuredProjects "title" }}
 {{ $posts := where .Site.RegularPages "Section" "blog" }}
 
