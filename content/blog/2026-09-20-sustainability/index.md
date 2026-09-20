@@ -4,7 +4,7 @@ authors:
   - "Jason Heppler"
 date: 2026-09-21
 publishDate: 2026-09-21
-draft: true
+draft: false
 slug: agents-and-apis
 categories:
   - post
