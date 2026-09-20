@@ -2,8 +2,8 @@
 title: "Agents and APIs: Sustaining Projects by Rebuilding Them"
 authors:
   - "Jason Heppler"
-date: 2026-09-20
-publishDate: 2026-09-20
+date: 2026-09-21
+publishDate: 2026-09-21
 draft: true
 slug: agents-and-apis
 categories:
