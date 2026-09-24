@@ -11,6 +11,7 @@ categories:
 tags:
   - digital history
   - agentic programming
+  - research + tools
 lede: "The best way to preserve an old database-driven website turns out to be not to scrape it at all."
 featured_image: "html_snippet.png"
 ---
