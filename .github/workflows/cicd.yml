@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     # Off the top of the hour: GitHub delays on-the-hour crons the most
-    # (11:38 UTC ≈ 7:38 a.m. EDT nominal; scheduled runs are best-effort).
-    - cron: '38 11 * * 1-5'
+    # (9:38 UTC ≈ 5:38 a.m. EDT nominal; scheduled runs are best-effort).
+    - cron: '38 9 * * 1-5'
   push:
     branches:
       - "main"
