@@ -7,7 +7,7 @@ date: 2026-10-28
 draft: true
 slug: national-history-day-at-rrchnm
 categories:
-- education
+- post
 tags:
 - education
 - teaching
