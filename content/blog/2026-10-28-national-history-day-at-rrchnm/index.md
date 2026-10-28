@@ -4,7 +4,7 @@ authors:
 - "Katie Kania"
 - "Paige Magoto"
 date: 2026-10-28
-draft: true
+draft: false
 slug: national-history-day-at-rrchnm
 categories:
 - post
