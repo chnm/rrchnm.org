@@ -64,10 +64,10 @@ map {path} {redirect_target} {
 	/circle/ /our-story/
 	/requests /our-story/
 	/requests/ /our-story/
-	/donate /our-story/
-	/donate/ /our-story/
-	/donate-test /our-story/
-	/donate-test/ /our-story/
+	/donate /spotlight/alumni-friends-fellowship/
+	/donate/ /spotlight/alumni-friends-fellowship/
+	/donate-test /spotlight/alumni-friends-fellowship/
+	/donate-test/ /spotlight/alumni-friends-fellowship/
 
 	# --- People ---
 	/our-people /people/
