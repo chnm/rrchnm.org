@@ -18,6 +18,11 @@
 # the ~410 old /news/ posts exist in the current Hugo blog, so unmigrated
 # /news/<slug> URLs 301 to a Hugo 404 — this matches the prior production rules.
 
+# Durable newsletter signup URL. Use a temporary redirect so the external
+# form can change without browsers caching the previous destination.
+@newsletter path /subscribe /subscribe/
+redir @newsletter https://airtable.com/appCTQZLKPTyIa83B/pagjzyVO8V9mlzsfV/form 302
+
 map {path} {redirect_target} {
 	default ""
 

@@ -77,7 +77,7 @@ params:
     - /img/founder.jpg
   default_image: "/img/default-blog.jpeg"
   donate_url: "https://give.gmu.edu/campaigns/86212/donations/new"
-  newsletter_url: "https://airtable.com/appCTQZLKPTyIa83B/pagjzyVO8V9mlzsfV/form"
+  newsletter_url: "/subscribe"
   social:
     - name: Bluesky
       url: "https://bsky.app/profile/rrchnm.bsky.social"

@@ -18,7 +18,7 @@ This grant will allow for the [continuation of work](https://rrchnm.org/news/rrc
 
 Once the project is complete, we plan to open the database to participation by additional sites interested in depositing their digitized materials into the collection. We recognize that these sites may not have the expertise to digitize and mark up their graffiti or ancillary materials and so RRCHNM and our partners will create training materials (text, video) for other sites that may want to take part.
 
-For continued updates on the project, [sign up for our newsletter, RRCHNM News](https://airtable.com/appCTQZLKPTyIa83B/shr4EDv3YKjl3NdZD).
+For continued updates on the project, [sign up for our newsletter, RRCHNM News](/subscribe).
 
 ---
 
