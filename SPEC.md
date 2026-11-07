@@ -166,7 +166,8 @@ This is a public, read-only website with no user accounts or authentication. All
 **Description:** Calls to action for newsletter subscription and donations.
 
 **Functionality:**
-- Newsletter links to external Airtable form (configured in `hugo.yaml` `params.newsletter_url`)
+- Newsletter links use the durable `/subscribe` path (configured in `hugo.yaml` `params.newsletter_url`)
+- Caddy redirects `/subscribe` and `/subscribe/` to the Airtable signup form with a temporary 302 redirect; update the destination in `static/redirects.caddy` when the form changes
 - Donate links to GMU's secure giving page (configured in `hugo.yaml` `params.donate_url`)
 - Newsletter subscribe card in homepage hero sidebar
 - Donate link in footer
