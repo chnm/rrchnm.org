@@ -12,7 +12,11 @@ lede: "The RRCHNM Alumni & Friends Fellowship supports PhD students at George Ma
 featured_image: /img/founder-narrow.png
 ---
 
+<div class="lg:hidden">
+
 {{< support-btn text="Donate Now" >}}
+
+</div>
 
 Over one hundred PhD students in history from GMU have graduated and gone on to careers as professors and teachers, librarians and archivists, museum professionals and civil servants, software developers and business leaders, among many other careers. They have brought RRCHNM‘s unique combination of digital methods and historical research with them.
 
