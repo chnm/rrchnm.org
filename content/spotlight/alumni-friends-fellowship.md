@@ -12,6 +12,8 @@ lede: "The RRCHNM Alumni & Friends Fellowship supports PhD students at George Ma
 featured_image: /img/founder-narrow.png
 ---
 
+{{< support-btn text="Donate Now" >}}
+
 Over one hundred PhD students in history from GMU have graduated and gone on to careers as professors and teachers, librarians and archivists, museum professionals and civil servants, software developers and business leaders, among many other careers. They have brought RRCHNM‘s unique combination of digital methods and historical research with them.
 
 That’s because GMU’s PhD program in history, now in its 25th year, was created to be a “doctorate with a difference.” The PhD program was founded after RRCHNM, with the idea that digital history would be a distinctive aspect of the education we offer. All GMU PhD students take classes in digital history with RRCNM faculty, and many work alongside our faculty and staff on our projects.
