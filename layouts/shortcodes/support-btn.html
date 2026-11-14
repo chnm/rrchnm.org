@@ -1,6 +1,8 @@
 {{- /*
   Support button shortcode: renders a centered donate/support button.
   Links to the donate_url defined in hugo.yaml site params.
+  On spotlight pages with sidebar_donate, hide at lg to avoid duplicating
+  the desktop sidebar button while retaining the button on smaller screens.
 
   Usage:
     {{< support-btn >}}
@@ -10,6 +12,6 @@
     text - button label (default: "Support Our Work →")
 */ -}}
 {{- $text := .Get "text" | default "Support Our Work →" -}}
-<div class="not-prose my-10 text-center">
+<div class="not-prose my-10 text-center{{ if and (eq .Page.Section "spotlight") .Page.Params.sidebar_donate }} lg:hidden{{ end }}">
   <a href="{{ .Site.Params.donate_url }}" target="_blank" rel="noopener" class="inline-block bg-red-brand hover:bg-red-dark !text-white !no-underline text-sm font-semibold px-8 py-3 rounded-md transition-colors" aria-label="{{ $text }} (opens in new window)">{{ $text }}</a>
 </div>
