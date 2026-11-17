@@ -23,6 +23,9 @@
 @newsletter path /subscribe /subscribe/
 redir @newsletter https://airtable.com/appCTQZLKPTyIa83B/pagjzyVO8V9mlzsfV/form 302
 
+@masonnow path /MasonNow /MasonNow/
+redir @masonnow https://give.gmu.edu/campaigns/86212/donations/new 302
+
 map {path} {redirect_target} {
 	default ""
 
